@@ -1,0 +1,767 @@
+﻿{INFO:Translated By}Andi Curgu
+{Ability to disable update notifications}Mundesi per te ndaluar permiresimet
+{About}Rreth
+{About Us}Rreth nesh
+{About...}Rreth...
+{Access is denied.}Refuzohet hyrja.
+{Acknowledgements...}Pa likuiduar...
+{Activation}Aktivizo
+{Activation Code:}Kodi Aktivizimit:
+{Activation failed.}Aktivizimi deshtoi.
+{ADD}SHTO
+{Add}Shto
+{Add Drive}Shto Drive
+{Add File}Shto Fajell
+{Add File(s)}Shto Fajella
+{Add File(s)...}Shto Fajellat...
+{Add Folder}Shto Dosje
+{Add Folder...}Shto Dosje...
+{Add Product Manually}Shto Artikull Manualisht
+{Add Subfolders...}Shto Nendosje...
+{Add URL(s)...}Shto URL...
+{Admin Password}kodi i adminit
+{All Customers}Te gjithe klientet
+{All Products}Te gjitha artikujt
+{Always on top}Perhere ne pamje
+{Always show when toggled on}Perhere ndezur
+{An error occurred while creating directory:}Nje gabim ka ndodhur gjate krijimit te direktorise:
+{An error occurred while unlocking:}Nje gabim ndodhi gjate zbllokimit:
+{And please backup your important files and folders before locking in case of hardware or software failure.}Lutemi beni arshivim te fajellave dhe dosjeve perpara se te bllokohen ne rast defekti te sofit ose hardit.
+{Any File}Cdo fajellave
+{Are you sure?}Jeni i sigurte?
+{Ask Print}Kerko per printim
+{Auto-Start at Startup}Hapje ne ndezje
+{Backup...}Arshivo ...
+{Barcode}Kodi artikullit
+{BARCODE:}KODI ARTIKULLIT:
+{Begin:}Nga:
+{Big Icons}Ikona te medha
+{Blog}Blog	
+{Browse...}Shfleto...
+{Buy Now}Bli tani
+{Cancel}Anullo
+{Cancel product selection}Anullo artikujt e selektuar
+{CANCELED by User Request}ANULLUAR Me Kerkese Perdoruesit
+{Canceled!}Anulluar!
+{Cannot create file}Nuk mund te krijoj fajell
+{Caps Lock}Numrat
+{Caps Lock: OFF}Numrat OFF
+{Caps Lock: ON}Numrat ON
+{Category:}Kategorite:
+{Change Interface}Ndrysho pamjen
+{Change Login Password...}Ndrysho kodin...
+{Change Recovery E-mail}Ndrysho emailin e sigurise
+{Change:}Kusuri:
+{Classical Interface}Pamje klasike
+{Click to download}Kliko per ta shkarkuar
+{Close}Mbyll
+{Code:}Kodi:
+{Commercial use allowed}Lejohet perdorimi tregtar
+{Company}Shoqeria
+{Completed!}Mbaroi!
+{Completed.}Mbaroi.
+{Computer Code:}Kodi Kompjuterit
+{Confirm?}Konfirmo?
+{Confirmation}Konfirmoni
+{Connection Error!}Gabim ne lidhje!
+{Contact}Kontakti
+{Continue}Vazhdo
+{Copied}Kopjuar
+{Copy}Kopjo
+{Copy All}Kopjo te gjitha
+{Copy files to many directories}Kopjo fajellat nga shume direktori
+{COPY INTO TARGET FOLDERS}KOPJOI NE NJE VEND SPECIFIK
+{CREDIT:}Pa Likuiduar:
+{Credits}Pa likuiduar
+{CSV File}Fajell CSV
+{Customer}Klient
+{Customer with credit cannot be deleted!}Klienti me credi nuk mund te fshihet!
+{CUSTOMER:}KLIENTI:
+{Customer:}Klient:
+{CUSTOMERS}KLIENTET
+{Customers}Klientet
+{Date}Date
+{Del key:}Tasta DEL :
+{DELETE}ANULLO
+{DELETE CUSTOMER}FSHI KLIENT
+{Delete Customer}Fshij klient
+{Delete last entered product}Fshij artikullin e fundit te vendosur
+{DELETE PRODUCT}FSHI ARTIKULL
+{Delete Record}Fshij porosite
+{Delete Selected}Fshij Te Caktuarin
+{Deselect All}Hiq Selektimin
+{DETAILS}INFORMACION
+{Discount}Zbritje
+{Discounted Price}Zbritje Cmimi
+{Discounted Total}Zbritje Totali
+{Disk Write Interval (sec):}Intervali i shkruajtjes (sek):
+{Display Prices}Shfaq Cmimet
+{Download}Shkarko
+{DRIVE MISMATCH}DRAJVI PASAKTE
+{Drive:}Drajvi:
+{E-mail}E-mail
+{E-mail is changed.}E-maili ndryshoi.
+{E-mail not accepted!}E-maili nuk pranohet!
+{Edit}Modifiko
+{Edit License}Ndrysho licensen
+{Edit License...}Ndrysho licensen...
+{Edit Password}Ndrysho kodin
+{Elapsed Time:}Kohe e mbetur:
+{Email Address}Adresa e-mail
+{End-User License Agreement}Kushtet e licenses
+{End:}Deri:
+{Enter License Key}Vendos licensen tuaj
+{Error}Gabim
+{ERROR}GABIM
+{Error No:}Gabimi Nr:
+{ESC key:}Tasta ESC :
+{EULA}Kushtet
+{Exit}Dil
+{Exit...}Dil...
+{EXITING...}Dalur...
+{Export}Eksporto
+{Export to File...}Eksporto ne Fajell
+{Failed}Deshtoi
+{Failure}Deshtim
+{Feedback}Vleresimi
+{feedback}vleresimi
+{File}Fajell
+{File already exists!}Fajelli ekziston!
+{File does NOT exist:}Fajelli nuk duhet te ekzistoje:
+{File inaccessible!}Fajelli nuk gjendet!
+{File List}Lista e fajellave
+{File not found!}Fajelli nuk gjendet!
+{Filename:}Emri fajellit:
+{Files & Folders}Fajellat dhe dosjet
+{Folder}Dosja
+{Folder does NOT exist:}Dosja nuk gjendet:
+{Folder Size:}Madhesia dosjes:
+{Folder:}Dosja:
+{For 1}Per 1
+{For 10}Per 10
+{For 100}Per 100
+{For 20}Per 20
+{For 200}Per 200
+{For 5}Per 5
+{For 50}Per 50
+{Forgot Password?}Keni harruar fjalekalimin?
+{FREE}Falas
+{Free Edit}Modifikim i lire
+{Free to try}Falas per testim
+{FREEWARE}FREEWARE
+{Freeware}Me Kufizim
+{Full Screen}Ekran i Plote
+{GRAND TOTAL:}TOTALI:
+{Height:}Pesha:
+{Help}Ndihme
+{Hide Details}Fshih Detajet
+{Home}Ballina
+{How to uninstall...}Si ta heq programin...
+{I dislike it!}Nuk me pelqen!
+{I like it!}Me pelqen!
+{If you like the software, please buy a license to make this software fully functional and remove this window.}Nese ju pelqen programi, lutemi blini licensen qe mos te dale ky njoftim.
+{Ignore Drive Mismatch While Unlocking}Injoro problemet e drajverit gjate zbllokimit
+{Ignore Failed Files While Unlocking}Injoro fajellat qe nuk zhbllokohen
+{Import}Importo
+{IMPORTANT}E RENDESISHME
+{Include my e-mail:}Shkruani e-mail-in tuaj:
+{Indicates status of keys}Shfaq statusin e celesave
+{Info}Info
+{Information}Informacion
+{Insufficient stock!}Nuk ka gjendje!
+{Invalid E-mail!}Email i pasakte!
+{Invalid Entry!}Veprim gabim!
+{Keyboard Shortcuts}Shkurtimet e tastieres
+{Language}Gjuha
+{Language:}Gjuha:
+{Language...}Gjuha...
+{License key is invalid!}Licensa juaj nuk eshte e vlefshme!
+{License:}Licensa:
+{License...}Licensa...
+{Licensed}Licensuar
+{Licensed to:}Licensuar:
+{Lifetime free updates}Perditesime te perjetshme
+{List}Shfaq
+{Load Operation File...}Ngarko fajellin operacional
+{Load source list from file...}Ngarko listen burimore nga fajelli
+{Load target list from file...}Ngarko listen e selektuar nga fajelli
+{Lock}Kyc
+{Lock and Unlock processes may take some time.}Procesi i kycjes dhe ckyecjes mund te duan pak kohe 
+{Lock Selected}Kyc te selektuarit
+{LOCKED}Kycur
+{Login (Full Access)}Hyr (Hyrje e plote)
+{Logout}Dil
+{MAIN MENU}MENU KRYESORE
+{Minimal Mode}Menyra minimale
+{Mode}Menyra
+{Move (Delete Source Files and Folders)}Zhvendos (Fshij dosjet dhe fajellat nga burimi)
+{Move Info: Source files and folders were not deleted from disk because of copy error}Informacioni levizjes: Fajellat e burimit dhe dosjet nuk jane fshire nga hard disku per shkak te nje gabimi
+{No}Jo
+{No Item Selected!}Asnje produkt i selektuar
+{No nag screen, no ads}Pa ekranin me reklama
+{Not applicable!}Nuk aplikohet!
+{Not Paid:}Pa likuiduar:
+{Num Lock}Numrat
+{Num Lock: OFF}Numerat OFF
+{Num Lock: ON}Numerat ON
+{Number of Files:}Numri i fajellave
+{Offline Activation}Aktivizim pa internet
+{OK}OK
+{Open File}Hap fajellin
+{Open folder location...}Hap dosjen ne...
+{Operating Systems:}Sistemi Operativ
+{Operation File}Fajelli operacional
+{Operation STOPPED!}Veprimi ndaloi
+{Operations}Veprimet
+{Output:}Dalje
+{Overwrite Existing Files}Mbishkruaj fajellat
+{PAID}PAGOI
+{Paid}Pagoi
+{Paid:}Pagoi:
+{Password}Kodi
+{Password is changed.} Kodi ndryshoi.
+{Password is incorrect!}Kod jo i sakte!
+{Password not accepted!}Kodi nuk pranohet!
+{Password Recovery E-mail:}E-mail per te rekuperuar fjalekalimin:
+{Password:}Kodi:
+{Paste}Ngjit
+{Payments}Paguar
+{Play Sound Effect}Luaj nje efekt zanor
+{Please add source files!}Lutemi shto fajellin burimor!
+{Please add target folders!}Lutemi shto dosjen kryesore
+{Please check your e-mail box.}Lutemi shikoni posten elektronike.
+{Please check your internet connection!}Lutemi shikoni lidhjen e internetit!
+{Please enter barcode or product name!}Lutemi vendosni barkodin ose emrin e produktit!
+{Please enter discount ratio:}Vendos sa do jete zbritja:
+{Please enter master password!}Lutemi vendosni fjalekalimin kryesor!
+{Please enter password:}Lutemi vendosni kodin:
+{Please enter unit price:}Lutemi vendosni cmimin per njesi:
+{Please enter your license key:}Lutemi vendosni licensen tuaj:
+{Please enter your license key!}Lutemi vendosni licensen tuaj!
+{Please keep it in a safe place. You need it to unlock your files and folders.}Lutemi ruajeni ne nje vend te sigurte. Ju sherben per te ckycur fajellat dhe dosjet.
+{Please try again later.}Provojeni perseri me vone.
+{Please try:}Lutemi provojeni:
+{Please type NEW password:}Lutemi shkruani kodin e ri:
+{Please type your CURRENT password:}Lutemi shkruani kodin ekzistues:
+{Please type your NEW e-mail:}Lutemi shkruaj email-in e ri:
+{Please type your NEW password:}Lutemi shkruaj kodin e ri:
+{Please Wait For Backup Process!}Pritni sa te mbaroje procesi i ruajtjes!
+{Price}Cmimi
+{PRICE:}CMIMI:
+{Print Template}Modeli i fatures
+{Print?}Printo?
+{Printer not found!}Printeri nuk gjendet!
+{Privacy Policy}Kushtet e privatesise
+{Process}Procesi
+{Processing...}Procesuar...
+{Product}ARTIKULLI
+{PRODUCT NAME:}EMERTIMI ARTIKULLIT:
+{Product successfully activated.}Aktivizuar me sukses.
+{Product:}Artikulli:
+{PRODUCTS}ARTIKUJT
+{Products}Artikujt
+{Purchase}Blej
+{Quantity}Sasia
+{Read Reviews}Lexo vleresimet
+{RECORD}Regjistro
+{RECORD DATE:}DATA REGJISTRUAR:
+{Recover Lost Files}Rikthe fajellat e humbur
+{Recover Password}Rekupero Fjalekalimin
+{Refund Policy}Kushtet e rikthimit
+{Region}Rajoni
+{Related Software}Rreth programit
+{Release Date:}Lancuar me:
+{Remember Settings}Ruaj konfigurimin
+{Remove}Hiq
+{Remove All}Hiqi te gjitha
+{Remove Selected}Hiq te selektuarat
+{Reset}Reseto
+{Reset to Defaults}Co ne gjendjen fillestare
+{Restart Application?}Rihap programin?
+{Restore from Backup...}Kthej nga arshiva...
+{SALES}SHITJET
+{Save Operation File...}Ruaj fajellin operacional...
+{Save source list to file...}Ruaj listen burimore ne fajell...
+{Save target list to file...}Ruaj listen e percaktuar ne fajell...
+{Scroll Lock}Blloko levizjen
+{Scroll Lock: OFF}Levija: OFF
+{Scroll Lock: ON}Levizja: ON
+{Search:}Kerko:
+{Search...}Kerko...
+{seconds}sekonda
+{Secure your files and folders}Ruaj fajellat dhe dosjet tuaja
+{Select All}Selekto te gjitha
+{Select folder:}Selekto dosjen:
+{Select Product}Zgjidh artikullin
+{Select Region and Close}Zgjidh rajonin dhe mbylle
+{SELL BY CASH}SHITJE ME CASH
+{Sell by Cash}Shitje me Cash
+{SELL BY CREDIT}DHENE PA PARA
+{Sell by Credit}Dhene pa Para
+{Send}Dergo
+{Send e-mail?}EDergo nje e-mail?
+{Send Feedback}Dergo vleresimin tend
+{Send Feedback...}ergo vleresimin tend...
+{Settings}Konfigurimi
+{Show}Shfaq
+{Show Details}Shfaq detajet
+{Show when status changes}Shfaq se kur statusi ka ndryshuar
+{Sign up}Regjistrohu
+{Software}Programi
+{Something went wrong. Your feedback could not be delivered.}Dicka shkoi keq. Vleresimi juaj nuk mundi te shkoje.
+{Sound Effect}Efektet zanore
+{Source (Files, Folders, URLs)}Burimi (Fajell, Dosje, URLs)
+{Space key:}Tasta HAPESIRE :
+{Start}Nis
+{Status}Statusi
+{Stock}Gjendja
+{STOCK BALANCE:}GJENDJA:
+{Stock Inventory Count Sheet}Fleta e inventarit
+{Stock Inventory Count Sheet...}Fleta e inventarit...
+{STOP}Ndalo
+{Success}Me sukses
+{SUCCESS}Me sukses
+{Support}Ndihme
+{System Error.}Gabim sistmi.
+{Target Folders}Dosja baze
+{Testimonials}Deshmitaret
+{Thank you}Faleminderit
+{Thank you!}Faleminderit!
+{Total}Vlefta
+{TOTAL:}TOTALI:
+{Total:}Totali:
+{Translated by:}Perkthyer nga:
+{Trial}I limituar
+{TRIAL VERSION}VERSION I LIMITUAR
+{Try to run as Administrator.}Mundohu ta hapesh si Administrator
+{Type}Lloji
+{UNLICENSED}PA LICENSE
+{Unlock}Ckyc
+{UNLOCK ERROR}Gabim gjate ckycjes
+{Unlock Selected}Zgjidh ckycjen
+{Unlocked}Ckycur
+{UPDATE}AZHORNO
+{UPDATE AVAILABLE}KA NJE AZHORNIM
+{Update Notifications}Perditeso njoftimet
+{User Interface Language:}Perzgjidh gjuhen:
+{Version History}Versionet e programit
+{Vovsoft Newsletter}Lajmet e Vovsoft
+{Vovsoft Online Services}Sherbimet online te Vovsoft
+{Warning}Kujdes
+{WARNING}KUJDES
+{We would really appreciate your feedback.}Ne me te vertete pranojme vleresimin tuaj.
+{Welcome to}Mire se erdhe
+{Welcome to Our Shop}Mire se erdhe ne dyqanin tone
+{What did you like or dislike?}kush ju pelqen dhe jo?
+{Which Customer?}Kush klient?
+{Width:}Gjeresia:
+{Wrong Admin Password!}Kodi Adminit gabim!
+{Wrong password!}Fjalekalim i gabuar!
+{X:}X:
+{Y:}Y:
+{Yes}Po
+{You are not logged as admin!}Nuk keni hyre si admin!
+{You cannot use this feature in unlicensed edition.}Nuk mund te perdorni keto sepse eshte version i pa licensuar
+{Your feedback is received.}Vleresimi juaj u mor.
+{Your master password is successfully set.}Kodi kryesor u vendos me sukses.
+{12 hour}
+{24 hour}
+{A required file is missing:}
+{Active}
+{Add context menu item}
+{Add Dictionary...}
+{Add Files...}
+{Add Folders...}
+{Add Recursive Subfolders...}
+{Add URLs...}
+{Add using Environment Variables}
+{Add Word To Dictionary}
+{Alert Text:}
+{All files must be unlocked before changing private key!}
+{All files must be unlocked before enabling or disabling content encryption!}
+{Alphabet}
+{Alphabetical}
+{Always on Top}
+{Analyze...}
+{Annually}
+{Annually:}
+{Any File (*.*)}
+{Arrange Stickers}
+{ASCII Art...}
+{Audio File}
+{Audio file error!}
+{Auto Copy Highlighted Text to Clipboard}
+{Auto Refresh File}
+{Auto Run at Startup}
+{Auto-Close Main Window}
+{Auto-Close Popup Window After Finishing}
+{Auto-Closing...}
+{Auto-Refresh Drive List}
+{Automatic}
+{Automatically Synchronize}
+{Background Color:}
+{Backup Registry...}
+{Backup Stickers}
+{Beginning of Each Line...}
+{BREAK TIME!}
+{Capitalize (First Letters Only)}
+{Cascade}
+{Change Auto-Close Time}
+{Change Auto-Close Time...}
+{Change Background Color}
+{Change Background Color...}
+{Change File Location...}
+{Change Font...}
+{Change Menu Font...}
+{Change Private Key...}
+{Change Text Font}
+{Change Theme}
+{Change Theme...}
+{Classic}
+{Clear}
+{Click "New Sticker"}
+{Clip Lines...}
+{Combine Lines...}
+{Comma-Separated Values File (CSV)...}
+{Compare Two Texts...}
+{Computer Time:}
+{Computer Timezone:}
+{Computer will press keys}
+{Confirm Before Deletion}
+{Confirm Password:}
+{Content Encryption (SLOW)}
+{Content encryption is enabled.}
+{Contribute to Translation}
+{Convert Non-English Chars to English Chars}
+{CSV File (*.csv)}
+{Currency Symbol}
+{Cut}
+{Daily}
+{Daily:}
+{Dark}
+{Date and Time}
+{Day}
+{Daylight Saving:}
+{Decode...}
+{Decrease Font Size}
+{Default}
+{Default Alphabet}
+{Default CSV Format}
+{Delete}
+{Delete After}
+{DELETE ALL}
+{Delete All}
+{Delete All Spaces}
+{Delete Alphabetic [a-z] [A-Z]}
+{Delete Alphanumeric [a-z] [A-Z] [0-9]}
+{Delete Before}
+{Delete Beginning or Ending Strings...}
+{Delete Chars}
+{Delete Extra Spaces}
+{Delete Non-Alphabetic}
+{Delete Non-Alphanumeric}
+{Delete Numbers [0-9]}
+{Delete Reminder}
+{Delete Unnecessary Lines}
+{Delete?}
+{Deleted}
+{Diagonal}
+{Directory:}
+{Disabled}
+{Dismiss}
+{Display Duration:}
+{Display Load Time}
+{Display Special Chars}
+{Do you really want to delete ALL stickers?}
+{Do you really want to delete the reminder?}
+{Do you really want to delete the sticker?}
+{Do you want to save the current file before exit?}
+{Do you want to save the current file?}
+{Do you want to save this file before exit?}
+{Do you want to save this file?}
+{Don't show this again}
+{Drag Drop Filenames}
+{Draw mouse pointer}
+{Drive}
+{Duplicate Lines}
+{E-mail Processor}
+{Empty}
+{Empty Lines (can include spaces and tabs)}
+{Enable}
+{Enabled}
+{Encode...}
+{Encoding}
+{Encryption}
+{End of Each Line...}
+{English}
+{Entire Document}
+{Excel File (*.xls)}
+{Excel File (XLS)...}
+{Exit Application?}
+{Explore Dictionaries...}
+{Export Lines to Files}
+{Export Lines to Files...}
+{Export to HTML...}
+{Export to PDF...}
+{Extract Image...}
+{Extract Text...}
+{Extras}
+{Fade-out Animation}
+{File Location}
+{File Location:}
+{File lock error!}
+{File Mask}
+{Filter Lines}
+{Find}
+{Find Erroneous E-mails}
+{Find Lines}
+{Find Lines...}
+{Find Next}
+{Find Next Misspelling}
+{Fix Broken UTF-8 Encoding}
+{Fixed-Pitch Fonts Only}
+{Freeware Utilities}
+{Generate Barcode Image...}
+{Generate E-mail List}
+{Generate Word List}
+{Get Server Time}
+{Go to...}
+{Google CSV Format}
+{Hardware encoding}
+{Header}
+{Headers}
+{Hidden}
+{Hide All Stickers}
+{Highlight Active Line}
+{Highlight Even Lines}
+{Highlight Odd Lines}
+{Hotkey:}
+{Hourly}
+{Hourly:}
+{How to create new sticky note:}
+{HTML File (*.html)}
+{ID}
+{ID Transformer...}
+{Idle Time:}
+{If no keyboard or mouse events occur for "Idle Time", "Work Time" resets.}
+{Ignore}
+{Import from File...}
+{Increase Font Size}
+{Initializing...}
+{Insert}
+{Insert Empty Lines}
+{Insert Same Text Multiple Times}
+{Insert Same Text Multiple Times...}
+{Invert Selection}
+{KeyPress Simulator}
+{LED Color (OFF):}
+{LED Color (ON):}
+{Left}
+{Left click to show Stickers on top.}
+{Light}
+{Line Length}
+{Line Numbers}
+{Line Order}
+{Load}
+{Load And Run Operation Files...}
+{Load vCards from VCF file...}
+{Load...}
+{Loading}
+{Loading...}
+{Locking}
+{lowercase}
+{Lowercase}
+{Mark as Complete}
+{milliseconds}
+{Minimize when recording starts}
+{Minute}
+{minutes}
+{Monitor}
+{Monitor External File Modification}
+{Month}
+{Monthly}
+{Monthly:}
+{Move Down}
+{Move Up}
+{Multiple Files...}
+{Net Encoding}
+{New}
+{New Reminder}
+{New Reminder...}
+{New Sticker}
+{New Window}
+{Next Receipt Number:}
+{Next Rest:}
+{No Audio}
+{No item selected!}
+{No Sound}
+{No sticky notes left on the desktop!}
+{Non-English}
+{None}
+{Note}
+{Note Window Margin:}
+{Notes Manager}
+{Notes Manager...}
+{Number of Times:}
+{Numbers}
+{Online Help}
+{Only Once}
+{Only Once:}
+{Open Folder Location...}
+{Open...}
+{Options}
+{Options...}
+{Ordinal Values of Characters}
+{Original Size}
+{Outlook CSV Format}
+{Overwrite Read-Only Files}
+{Passwords do not match!}
+{PDF File (*.pdf)}
+{Permanently Delete}
+{Permanently Delete All}
+{Play}
+{Please enter new currency symbol:}
+{Please reinstall the software.}
+{Please reopen the software without administrator privileges.}
+{Please try again later!}
+{Please type your NEW private key:}
+{Preview Sticker}
+{Print}
+{Print Setup}
+{Print...}
+{Private Key}
+{Private key changed.}
+{Process completed!}
+{Product List}
+{Product List...}
+{Properties}
+{Random Number Generator}
+{Random Number Generator...}
+{Random Text Generator}
+{Random Text Generator...}
+{Randomize Line Contents}
+{Randomize Line Order}
+{Ready}
+{Receipts}
+{Recognize Environment Variables}
+{Recognize Network Drives}
+{Recording...}
+{Redo}
+{Refresh Device List}
+{Refresh Hardware Encodings}
+{Regular Expression}
+{Regular Expression...}
+{Reminder}
+{Reminders}
+{Reopen}
+{Replace}
+{Reports}
+{Required files are missing}
+{Reset Work Time}
+{Restore}
+{Restore when recording is complete}
+{Reverse}
+{Reverse Line Contents}
+{Reverse Line Sequence}
+{Right click to add new Stickers or Reminders.}
+{Right-click tray icon}
+{Run With}
+{Sample Text}
+{Save}
+{Save As...}
+{Save Operation File As...}
+{ScreenSnap}
+{ScreenSnap:}
+{Select}
+{Select Language}
+{Select your favourite theme}
+{Selected}
+{Send to Recycle Bin}
+{Separate by Char}
+{Separate by String}
+{Separate Long Lines (Break Words)}
+{Separate Long Lines (Keep Words)}
+{Server Time:}
+{Server:}
+{Set as Default Encoding}
+{Settings...}
+{Show All Stickers}
+{Show Date Time}
+{Show Idle Time:}
+{Show Letters and Numbers without Special Keys}
+{Show Notifications}
+{Show Window}
+{Small Buttons}
+{Software encoding}
+{Sort}
+{Sort Lines}
+{Sound:}
+{Spell Check}
+{Spell Checker}
+{Spell Checker:}
+{Split Lines}
+{Start Working}
+{Status Bar}
+{Stay on Top}
+{Stickers}
+{Suggested Corrections}
+{Sync Computer Time}
+{Syntax}
+{System Tray Menu}
+{Tab Options...}
+{Target Folder}
+{Target Folder:}
+{Test Alert}
+{Text}
+{Text Color:}
+{Text Engine}
+{Text File}
+{Text File (*.txt)}
+{Text File (TXT)...}
+{Text:}
+{The file could not be created!}
+{The server returned an invalid response.}
+{The specified region is not valid!}
+{Theme}
+{This is an example note.}
+{This is required for importing in Gmail and Outlook.}
+{This is your first sticker!}
+{This software works best without administrator privileges.}
+{Time}
+{Timestamp}
+{To Existing Lines}
+{To New Lines...}
+{Tool Bar}
+{Tools}
+{Top}
+{Top Selling Products}
+{Top Selling Products...}
+{Transparency:}
+{Tray Notifications:}
+{Trim All}
+{Trim Both}
+{Trim Left}
+{Trim Lines}
+{Trim Right}
+{Truly Empty Lines}
+{Undo}
+{Unicode Detector}
+{Unit}
+{Unlocking}
+{Unnamed}
+{UPPERCASE}
+{Uppercase and Lowercase}
+{URL Highlighter (No Spell Check)}
+{USE AT YOUR OWN RISK!}
+{User will press keys}
+{using Characters}
+{using File}
+{using Text}
+{using Text Length}
+{VCF Files (*.vcf)}
+{Video file error!}
+{View}
+{Weekdays}
+{Word Wrap}
+{Work Time:}
+{You can preview the font and color settings here.}

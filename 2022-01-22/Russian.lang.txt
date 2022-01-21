@@ -1,0 +1,767 @@
+﻿{INFO:Translated By}БлагоЯр Тишина
+{12 hour}12 часов
+{24 hour}24 часа
+{A required file is missing:}Отсутствует необходимый файл:
+{Ability to disable update notifications}Возможность отключения уведомлений об обновлении
+{About}О программе
+{About Us}О нас
+{About...}Около...
+{Access is denied.}Отказано в доступе.
+{Acknowledgements...}Разработка...
+{Activation}активация
+{Activation Code:}Код активации:
+{Activation failed.}Активация не удалось.
+{Active}Активно
+{ADD}ДОБАВИТЬ
+{Add}Добавить
+{Add context menu item}Добавить пункт контекстного меню
+{Add Dictionary...}Добавить словарь ...
+{Add Drive}Добавить диск
+{Add File}Добавить файл
+{Add File(s)}Добавить файлы
+{Add File(s)...}Добавить файлы ...
+{Add Files...}Добавить файлы ...
+{Add Folder}Добавить папку
+{Add Folder...}Добавить папку ...
+{Add Folders...}Добавить папки ...
+{Add Product Manually}Добавить продукт вручную
+{Add Recursive Subfolders...}Добавить вложенные подпапки ...
+{Add Subfolders...}Добавить подпапки ...
+{Add URL(s)...}Добавить URL ...
+{Add URLs...}Добавить URL ...
+{Add using Environment Variables}Добавить с помощью переменных среды
+{Add Word To Dictionary}Добавить слово в словарь
+{Admin Password}Пароль администратора
+{Alert Text:}Текст предупреждения:
+{All Customers}Все заказчики
+{All files must be unlocked before changing private key!}Все файлы должны быть разблокированы перед изменением личного ключа!
+{All files must be unlocked before enabling or disabling content encryption!}Перед включением или выключением шифрования содержимого все файлы должны быть разблокированы!
+{All Products}Все товары
+{Alphabet}Алфавит
+{Alphabetical}Алфавитный
+{Always on Top}Всегда на вершине
+{Always on top}Всегда на вершине
+{Always show when toggled on}Всегда показывать, когда переключается
+{An error occurred while creating directory:}При создании каталога произошла ошибка:
+{An error occurred while unlocking:}При разблокировке произошла ошибка:
+{Analyze...}Анализ ...
+{And please backup your important files and folders before locking in case of hardware or software failure.}И, пожалуйста, резервное копирование важных файлов и папок перед блокировкой в ​​случае сбоя оборудования или программного обеспечения.
+{Annually}Ежегодно
+{Annually:}Ежегодно:
+{Any File}Любой файл
+{Any File (*.*)}Любой Файл (*.*)
+{Are you sure?}Вы уверены?
+{Arrange Stickers}Расположить наклейки
+{ASCII Art...}Искусство ASCII ...
+{Ask Print}Запросить печать
+{Audio File}Звуковой файл
+{Audio file error!}Ошибка звукового файла!
+{Auto Copy Highlighted Text to Clipboard}Автоматически копировать выделенный текст в буфер обмена
+{Auto Refresh File}Автоматически обновлять файл
+{Auto Run at Startup}Автозапуск при запуске
+{Auto-Close Popup Window After Finishing}Автозакрытие всплывающего окна после завершения
+{Auto-Closing...}Автоматическое закрытие ...
+{Auto-Refresh Drive List}Автообновление списка дисков
+{Auto-Start at Startup}Автозагрузка
+{Automatic}Автоматически
+{Automatically Synchronize}Автоматически синхронизировать
+{Background Color:}Цвет фона:
+{Backup Registry...}Резервный реестр ...
+{Backup Stickers}Наклейки резервных копий
+{Backup...}Резервное копирование ...
+{Barcode}штрих-код
+{BARCODE:}ШТРИХ-код:
+{Begin:}Начало:
+{Beginning of Each Line...}Начало каждой строки ...
+{Big Icons}Большие значки
+{Blog}Блог
+{BREAK TIME!}ВРЕМЯ ПЕРЕРЫВА!
+{Browse...}Просматривать...
+{Buy Now}купить сейчас
+{Cancel}Отмена
+{Cancel product selection}Отменить выбор продукта
+{CANCELED by User Request}ОТМЕНЕН по требованию пользователя
+{Canceled!}Отменено!
+{Cannot create file}Не могу создать файл
+{Capitalize (First Letters Only)}Капитализация (только первые буквы)
+{Caps Lock}Caps Lock
+{Caps Lock: OFF}Caps Lock: OFF
+{Caps Lock: ON}Caps Lock: ON
+{Cascade}Каскад
+{Category:}Категория:
+{Change Background Color}Изменить цвет фона
+{Change Background Color...}Изменить цвет фона ...
+{Change File Location...}Изменить расположение файла ...
+{Change Font...}Изменить шрифт ...
+{Change Interface}Изменить интерфейс
+{Change Login Password...}Изменить пароль...
+{Change Menu Font...}Шрифт меню изменений ...
+{Change Private Key...}Изменить личный ключ ...
+{Change Recovery E-mail}Изменить восстановление E-mail
+{Change Text Font}Изменить шрифт текста
+{Change Theme}Изменить тему
+{Change Theme...}Изменить тему ...
+{Change:}Изменение:
+{Classical Interface}Классический интерфейс
+{Clear}Очистить
+{Click to download}Щёлкните здесь, чтобы загрузить
+{Clip Lines...}Строки отсечения ...
+{Close}Закрыть
+{Code:}Код:
+{Combine Lines...}Объединить строки ...
+{Comma-Separated Values File (CSV)...}Файл значений, разделенных запятыми (CSV) ...
+{Commercial use allowed}Разрешенное коммерческое использование
+{Company}Компания
+{Compare Two Texts...}Сравнить Два Текста ...
+{Completed!}Выполнено!
+{Completed.}Завершено.
+{Computer Code:}Компьютерный код:
+{Computer Time:}Компьютерное время:
+{Computer Timezone:}Часовой пояс компьютера:
+{Computer will press keys}Компьютер будет наживать клавиши
+{Confirm Before Deletion}Подтвердить перед удалением
+{Confirm Password:}Подтверждение пароля:
+{Confirm?}Подтверждаю?
+{Confirmation}подтверждение
+{Connection Error!}Ошибка подключения!
+{Contact}Контакт
+{Content Encryption (SLOW)}Шифрование содержимого (МЕДЛЕННОЕ)
+{Content encryption is enabled.}Шифрование содержимого включено.
+{Continue}Продолжать
+{Contribute to Translation}Перевод вклада
+{Convert Non-English Chars to English Chars}Преобразовать неанглийские чары в английские чары
+{Copied}Скопировано
+{Copy}копия
+{Copy All}Копировать все
+{Copy files to many directories}Копировать файлы во многие каталоги
+{COPY INTO TARGET FOLDERS}КОПИРОВАТЬ В ПАПКИ НАЗНАЧЕНИЯ
+{CREDIT:}КРЕДИТ:
+{Credits}Кредиты
+{CSV File}Файл CSV
+{CSV File (*.csv)}Файл CSV (*.csv)
+{Currency Symbol}Символ денежной единицы
+{Customer}Заказчик
+{Customer with credit cannot be deleted!}Клиент с кредитом не может быть удален!
+{CUSTOMER:}КЛИЕНТ:
+{Customer:}Заказчик:
+{CUSTOMERS}ЗАКАЗЧИКИ
+{Customers}Заказчики
+{Cut}Вырезать
+{Daily}Ежедневно
+{Daily:}Ежедневно:
+{Dark}Темный
+{Date}Дата
+{Date and Time}Дата и время
+{Day}День
+{Daylight Saving:}Сезонное сохранение:
+{Decode...}Декодировать ...
+{Decrease Font Size}Уменьшить размер шрифта
+{Default}По умолчанию
+{Default Alphabet}Алфавит по умолчанию
+{Del key:}Ключ дела:
+{Delete}Удалить
+{DELETE}УДАЛИТЬ
+{Delete After}Удалить после
+{DELETE ALL}УДАЛИТЬ ВСЕ
+{Delete All}Удалить все
+{Delete All Spaces}Удалить все пространства
+{Delete Alphabetic [a-z] [A-Z]}Удалить алфавитный [a-z] [A-Z]
+{Delete Alphanumeric [a-z] [A-Z] [0-9]}Удалить алфавитно-цифровые [a-z] [A-Z] [0-9]
+{Delete Before}Удалить перед
+{Delete Beginning or Ending Strings...}Удалить начало или конец строки ...
+{Delete Chars}Удалить Chars
+{DELETE CUSTOMER}УДАЛИТЬ ЗАКАЗЧИКА
+{Delete Customer}Удалить заказчика
+{Delete Extra Spaces}Удалить лишние пространства
+{Delete last entered product}Удалить последний введенный продукт
+{Delete Non-Alphabetic}Удалить неалфавитный
+{Delete Non-Alphanumeric}Удалить не алфавитно-цифровое
+{Delete Numbers [0-9]}Удалить числа [0-9]
+{DELETE PRODUCT}УДАЛИТЬ ПРОДУКТ
+{Delete Record}Удалить запись
+{Delete Reminder}Удалить напоминание
+{Delete Selected}Удалить выбранное
+{Delete Unnecessary Lines}Удалить ненужные строки
+{Delete?}Удалить?
+{Deleted}Удалено
+{Deselect All}Cнять отметки
+{DETAILS}СВЕДЕНИЯ
+{Diagonal}Диаго
+{Directory:}Каталог:
+{Disabled}Выключено
+{Discount}Скидка
+{Discounted Price}Цена с дисконтом
+{Discounted Total}Общее число дисконтированных
+{Disk Write Interval (sec):}Интервал записи (сек):
+{Dismiss}Отклонить
+{Display Duration:}Продолжительность показа:
+{Display Load Time}Показать время загрузки
+{Display Prices}Показать цены
+{Display Special Chars}Показать специальные чары
+{Do you really want to delete ALL stickers?}Вы действительно хотите удалить все наклейки?
+{Do you really want to delete the reminder?}Вы действительно хотите удалить напоминание?
+{Do you really want to delete the sticker?}Вы действительно хотите удалить наклейку?
+{Do you want to save the current file before exit?}Хотите сохранить текущий файл перед обработкой?
+{Do you want to save the current file?}Сохранить текущий файл?
+{Do you want to save this file before exit?}Хотите сохранить этот файл перед обработкой?
+{Do you want to save this file?}Сохранить этот файл?
+{Download}Скачать
+{Drag Drop Filenames}Перетащить имена файлов
+{Drive}Накопитель
+{DRIVE MISMATCH}НЕСООТВЕТСТВИЕ НАКОПИТЕЛЯ
+{Drive:}Диск:
+{Duplicate Lines}Дублировать строки
+{E-mail}Электронная почта
+{E-mail is changed.}Электронная почта изменена.
+{E-mail not accepted!}Электронная почта не принята!
+{E-mail Processor}Процессор электронной почты
+{Edit}редактировать
+{Edit License}Изменить лицензию
+{Edit License...}Изменить лицензию ...
+{Edit Password}Изменить пароль
+{Elapsed Time:}Истекшее время:
+{Email Address}Адрес электронной почты
+{Empty}Пусто
+{Empty Lines (can include spaces and tabs)}Пустые строки (могут содержать пробелы и символы табуляции)
+{Enable}Включить
+{Enabled}Включено
+{Encode...}Кодировать ...
+{Encoding}Кодировка
+{Encryption}Шифрование
+{End of Each Line...}Конец каждой строки ...
+{End-User License Agreement}Соглашение о лицензии конечного пользователя
+{End:}Конец:
+{English}Английский
+{Enter License Key}Введите лицензионный ключ
+{Entire Document}Весь документ
+{Error}ошибка
+{ERROR}ОШИБКА
+{Error No:}Ошибка:
+{ESC key:}Клавиша ESC:
+{EULA}EULA
+{Excel File (*.xls)}Файл Excel (*.xls)
+{Excel File (XLS)...}Файл Excel (XLS) ...
+{Exit}Выход
+{Exit Application?}Выйти из программы?
+{Exit...}Выход ...
+{EXITING...}ВЫХОД ...
+{Explore Dictionaries...}Изучить словари ...
+{Export}Экспорт
+{Export Lines to Files}Экспортировать строки в файлы
+{Export Lines to Files...}Экспортировать строки в файлы ...
+{Export to File...}Экспортировать в файл ...
+{Export to HTML...}Экспортировать в HTML ...
+{Export to PDF...}Экспорт в PDF ...
+{Extract Image...}Извлечь изображение ...
+{Extract Text...}Извлечь текст ...
+{Extras}Экстрим
+{Failed}Сбой
+{Failure}Отказ
+{Feedback}Обратная связь
+{feedback}Обратная связь
+{File}Файл
+{File already exists!}Файл уже существует!
+{File does NOT exist:}Файл не существует:
+{File inaccessible!}Файл недоступен!
+{File List}Список файлов
+{File Location}Расположение файла
+{File Location:}Расположение файла:
+{File lock error!}Ошибка блокировки файлов!
+{File Mask}Маска файла
+{File not found!}Файл не найден!
+{Filename:}Файл:
+{Files & Folders}Файлы и папки
+{Filter Lines}Строки фильтра
+{Find}Найти
+{Find Erroneous E-mails}Найти ошибочные сообщения электронной почты
+{Find Lines}Найти строки
+{Find Lines...}Найти строки ...
+{Find Next}Найти следующий
+{Find Next Misspelling}Найти следующее неправописание
+{Fixed-Pitch Fonts Only}Только шрифты с фиксированной шириной шрифта
+{Folder}скоросшиватель
+{Folder does NOT exist:}Папка НЕ существует:
+{Folder Size:}Размер папки:
+{Folder:}Папка:
+{For 1}Для 1
+{For 10}Для 10
+{For 100}Для 100
+{For 20}Для 20
+{For 200}Для 200
+{For 5}Для 5
+{For 50}Для 50
+{Forgot Password?}Забыли пароль?
+{FREE}БЕСПЛАТНО
+{Free Edit}Свободное редактирование
+{Free to try}Свободно для попытки
+{FREEWARE}FREEWARE
+{Freeware}Автострада
+{Freeware Utilities}Утилиты Freeware
+{Full Screen}Полный экран
+{Generate Barcode Image...}Создать изображение штрих-кода ...
+{Generate E-mail List}Создать список электронной почты
+{Generate Word List}Создать список слов
+{Get Server Time}Время получения сервера
+{Go to...}Иди к ...
+{GRAND TOTAL:}ВСЕГО:
+{Header}Заголовок
+{Headers}Заголовки
+{Height:}Высота:
+{Help}Справка
+{Hidden}Скрытый
+{Hide All Stickers}Скрыть все наклейки
+{Hide Details}Скрыть сведения
+{Highlight Active Line}Выделить активную линию
+{Highlight Even Lines}Выделить даже строки
+{Highlight Odd Lines}Выделить нечетные строки
+{Home}Домой
+{Hotkey:}Горячая клавиша:
+{Hourly}Каждый час
+{Hourly:}Час.:
+{How to uninstall...}Об удалении...
+{HTML File (*.html)}Файл HTML (*.html)
+{I dislike it!}Мне не нравится!
+{I like it!}Мне нравится!
+{ID}ИД
+{ID Transformer...}Преобразователь ИД ...
+{Idle Time:}Время простоя:
+{If no keyboard or mouse events occur for "Idle Time", "Work Time" resets.}Если для "Время простоя", "Время простоя", "Время работы" не происходит никаких событий клавиатуры или мыши.
+{If you like the software, please buy a license to make this software fully functional and remove this window.}Если вам нравится программное обеспечение, приобретите лицензию, чтобы сделать это программное обеспечение полностью работоспособным и удалить это окно.
+{Ignore}Игнорировать
+{Ignore Drive Mismatch While Unlocking}Игнорировать несоответствие диска при разблокировке
+{Ignore Failed Files While Unlocking}Игнорировать неудачные файлы при разблокировке
+{Import}Импорт
+{Import from File...}Импорт из файла ...
+{IMPORTANT}ВАЖНО
+{Include my e-mail:}Мой е-мэйл:
+{Increase Font Size}Увеличить размер шрифта
+{Indicates status of keys}Указывает состояние клавиш
+{Info}Инфо
+{Information}Информация
+{Insert}Вставить
+{Insert Empty Lines}Вставить пустые строки
+{Insert Same Text Multiple Times}Вставить один и тот же текст несколько раз
+{Insert Same Text Multiple Times...}Вставить один и тот же текст несколько раз ...
+{Insufficient stock!}Недостаточный запас!
+{Invalid E-mail!}Неверный адрес электронной почты!
+{Invalid Entry!}Недопустимая запись!
+{Keyboard Shortcuts}Клавиши быстрого доступа
+{KeyPress Simulator}Симулятор KeyPress
+{Language}Язык
+{Language:}Язык:
+{Language...}язык...
+{LED Color (OFF):}Цвет индикатора (OFF):
+{LED Color (ON):}Цвет индикатора (ON):
+{Left}Слева
+{Left click to show Stickers on top.}Щелкните левой кнопкой мыши, чтобы показать наклейки сверху.
+{License key is invalid!}Лицензионный ключ недействителен!
+{License:}Лицензия:
+{License...}Лицензия...
+{Licensed}Лицензировано
+{Licensed to:}Лицензия:
+{Lifetime free updates}Свободные обновления времени жизни
+{Light}Свет
+{Line Length}Длина строки
+{Line Numbers}Номера строк
+{Line Order}Порядок строк
+{List}Список
+{Load}Загрузить
+{Load And Run Operation Files...}Загрузка И Выполнение Файлов Операции ...
+{Load Operation File...}Загрузить файл операции ...
+{Load source list from file...}Загрузить исходный список из файла ...
+{Load target list from file...}Загрузить целевой список из файла ...
+{Load vCards from VCF file...}Загрузить vCard из файла VCF ...
+{Load...}Загрузить ...
+{Loading}Загрузка
+{Loading...}Загрузка ...
+{Lock}Замок
+{Lock and Unlock processes may take some time.}Процесс блокировки и разблокировки может занять некоторое время.
+{Lock Selected}Lock Selected
+{LOCKED}LOCKED
+{Locking}Блокировка
+{Login (Full Access)}Вход в систему (полный доступ)
+{Logout}Выход из системы
+{lowercase}Нижний регистр
+{Lowercase}Нижний регистр
+{MAIN MENU}ГЛАВНОЕ МЕНЮ
+{Mark as Complete}Пометить как завершенное
+{milliseconds}миллисекунд
+{Minimal Mode}Минимальный режим
+{Minute}Минута
+{minutes}мин.
+{Mode}Режим
+{Monitor External File Modification}Отслеживать изменение внешнего файла
+{Month}Месяц
+{Monthly}Ежемесячно
+{Monthly:}Ежемесячно:
+{Move (Delete Source Files and Folders)}Переместить (Удалить исходные файлы и папки)
+{Move Down}Переместить вниз
+{Move Info: Source files and folders were not deleted from disk because of copy error}Информация о перемещении: исходные файлы и папки не были удалены с диска из-за ошибки копирования
+{Move Up}Переместить вверх
+{Multiple Files...}Несколько файлов ...
+{Net Encoding}Чистая кодировка
+{New}Новый
+{New Reminder}Новое напоминание
+{New Reminder...}Новое напоминание ...
+{New Sticker}Новая наклейка
+{New Window}Новое окно
+{Next Receipt Number:}Следующий номер получения:
+{Next Rest:}Следующий отдых:
+{No}нет
+{No Audio}Нет звука
+{No Item Selected!}Не выбрано ни одного элемента!
+{No item selected!}Элемент не выбран!
+{No nag screen, no ads}Нет экрана, нет рекламы
+{No Sound}Нет звука
+{Non-English}Неанглийский
+{None}Нет
+{Not applicable!}Не применимо!
+{Not Paid:}Не оплачено:
+{Note}Примечание
+{Note Window Margin:}Поле окна примечания:
+{Notes Manager}Менеджер примечаний
+{Notes Manager...}Менеджер примечаний ...
+{Num Lock}Num Lock
+{Num Lock: OFF}Num Lock: OFF
+{Num Lock: ON}Num Lock: ON
+{Number of Files:}Число файлов:
+{Number of Times:}Число раз:
+{Numbers}Число
+{Offline Activation}Автономная активация
+{OK}OK
+{Online Help}Электронная справка
+{Only Once}Только один раз
+{Only Once:}Только один раз:
+{Open File}Открыть файл
+{Open folder location...}Открыть папку ...
+{Open Folder Location...}Открыть расположение папки ...
+{Open...}Открыть ...
+{Operating Systems:}Операционные системы:
+{Operation File}Файл операции
+{Operation STOPPED!}Операция STOPPED!
+{Operations}Операции
+{Options}Параметры
+{Options...}Опции ...
+{Ordinal Values of Characters}Порядковые значения символов
+{Original Size}Исходный размер
+{Output:}Вывод:
+{Overwrite Existing Files}Заменить существующие файлы
+{Overwrite Read-Only Files}Заменить файлы только для чтения
+{Paid}Оплачено
+{Paid:}Оплачено:
+{Password}Пароль
+{Password is changed.}Пароль изменен.
+{Password is incorrect!}Неправильный пароль!
+{Password not accepted!}Пароль не принят!
+{Password Recovery E-mail:}Восстановление пароля E-mail:
+{Password:}Пароль:
+{Passwords do not match!}Пароли не совпадают!
+{Paste}Вставить
+{Payments}Платежи
+{PDF File (*.pdf)}Файл PDF (*.pdf)
+{Permanently Delete}Окончательно удалить
+{Permanently Delete All}Навсегда удалить все
+{Play}Воспроизведение
+{Play Sound Effect}Воспроизводить звуковой эффект
+{Please add source files!}Добавьте исходные файлы!
+{Please add target folders!}Добавьте папки назначения!
+{Please check your e-mail box.}Проверьте свой почтовый ящик.
+{Please check your internet connection!}Пожалуйста, проверьте подключение к интернету!
+{Please enter barcode or product name!}Введите штрих-код или имя продукта!
+{Please enter discount ratio:}Введите коэффициент скидки:
+{Please enter master password!}Введите мастер-пароль!
+{Please enter new currency symbol:}Введите символ новой валюты:
+{Please enter password:}Введите пароль:
+{Please enter unit price:}Введите цену за единицу:
+{Please enter your license key:}Введите лицензионный ключ:
+{Please enter your license key!}Введите свой лицензионный ключ!
+{Please keep it in a safe place. You need it to unlock your files and folders.}Пожалуйста, держите его в надежном месте. Вам нужно это, чтобы разблокировать ваши файлы и папки.
+{Please reinstall the software.}Переустановите программу.
+{Please reopen the software without administrator privileges.}Повторно откройте программу без прав администратора.
+{Please try again later!}Повторите попытку позже!
+{Please try again later.}Пожалуйста, попробуйте ещё раз позднее.
+{Please try:}Попробуйте:
+{Please type NEW password:}Введите новый пароль:
+{Please type your CURRENT password:}Введите текущий пароль:
+{Please type your NEW e-mail:}Введите новое сообщение электронной почты:
+{Please type your NEW password:}Введите новый пароль:
+{Please type your NEW private key:}Введите новый личный ключ:
+{Please Wait For Backup Process!}Подождите, Пожалуйста, Процесс Резервного Копирования!
+{Preview Sticker}Предварительный просмотр наклейки
+{Price}Цена
+{PRICE:}ЦЕНА:
+{Print}Печать
+{Print Setup}Настройка печати
+{Print Template}Печать шаблона
+{Print?}Печатать?
+{Print...}Печать ...
+{Printer not found!}Принтер не найден!
+{Privacy Policy}Политика конфиденциальности
+{Private Key}Личный ключ
+{Private key changed.}Личный ключ изменен.
+{Process}Обработать
+{Process completed!}Процесс завершен!
+{Processing...}Обработка ...
+{Product}Продукт
+{Product List}Список продуктов
+{Product List...}Список продуктов ...
+{PRODUCT NAME:}ИМЯ ПРОДУКТА:
+{Product successfully activated.}Активация выполнена успешно.
+{Product:}Продукт:
+{PRODUCTS}ПРОДУКТЫ
+{Products}Продукты
+{Purchase}купить
+{Quantity}Количество
+{Random Number Generator}Генератор случайных чисел
+{Random Number Generator...}Генератор случайных чисел ...
+{Random Text Generator}Генератор случайных чисел
+{Random Text Generator...}Генератор случайных чисел ...
+{Randomize Line Contents}Рандомизировать содержимое строки
+{Randomize Line Order}Рандомизировать порядок строк
+{Read Reviews}Прочитать обзоры
+{Receipts}Приходы
+{Recognize Environment Variables}Распознавать переменные среды
+{Recognize Network Drives}Распознавать сетевые диски
+{RECORD}ЗАПИСЬ
+{RECORD DATE:}ДАТА ЗАПИСИ:
+{Recover Lost Files}Восстановить утерянные файлы
+{Recover Password}Восстановить пароль
+{Redo}Повторить
+{Refresh Device List}Обновить список устройств
+{Refund Policy}Политика возврата денег
+{Region}Регион
+{Regular Expression}Регулярное выражение
+{Regular Expression...}Регулярное выражение ...
+{Related Software}Связанное программное обеспечение
+{Release Date:}Дата выпуска:
+{Remember Settings}Запомнить параметры
+{Reminder}Напоминание
+{Reminders}Напоминания
+{Remove}Удалить
+{Remove All}Удалить все
+{Remove Selected}Удалить выбранное
+{Reopen}Повторно открыть
+{Replace}Заменить
+{Reports}Отчеты
+{Required files are missing}Отсутствуют необходимые файлы
+{Reset}Сброс
+{Reset to Defaults}Восстановить значения по умолчанию
+{Reset Work Time}Сброс рабочего времени
+{Restart Application?}Рестарт?
+{Restore}Восстановить
+{Restore from Backup...}Восстановить из резервной копии ...
+{Reverse}Обратный
+{Reverse Line Contents}Реверсировать содержимое строки
+{Reverse Line Sequence}Обратная последовательность строк
+{Right click to add new Stickers or Reminders.}Щелкните правой кнопкой мыши, чтобы добавить новые Наклейки или Напоминания.
+{Run With}Запустить с
+{SALES}СЕЛЛЗ
+{Sample Text}Текст примера
+{Save}Сохранить
+{Save As...}Сохранить как ...
+{Save Operation File As...}Сохранить файл операции как ...
+{Save Operation File...}Сохранить файл операции ...
+{Save source list to file...}Сохранить исходный список в файле ...
+{Save target list to file...}Сохранить целевой список в файле ...
+{ScreenSnap}Скриншот
+{ScreenSnap:}Скриншот:
+{Scroll Lock}Scroll Lock
+{Scroll Lock: OFF}Scroll Lock: OFF
+{Scroll Lock: ON}Scroll Lock: ON
+{Search:}Поиск:
+{Search...}Поиск ...
+{seconds}сек.
+{Secure your files and folders}Защита файлов и папок
+{Select}Выбрать
+{Select All}Выбрать всё
+{Select folder:}Выберите папку:
+{Select Language}Выбрать язык
+{Select Product}Выбрать продукт
+{Select Region and Close}Выбрать регион и закрыть
+{Select your favourite theme}Выберите свою избранную тему
+{Selected}Выбрано
+{SELL BY CASH}ПРОДАЖА НАЛИЧНЫМИ ДЕНЬГАМИ
+{Sell by Cash}Продажа наличными
+{SELL BY CREDIT}ПРОДАЖА ПО КРЕДИТУ
+{Sell by Credit}Продать по кредиту
+{Send}Отправить
+{Send e-mail?}Отправить e-mail?
+{Send Feedback}Отправить отзыв
+{Send Feedback...}Отправить отзыв...
+{Send to Recycle Bin}Отправить в корзину
+{Separate by Char}Раздельно по чаре
+{Separate by String}Раздельное по строке
+{Separate Long Lines (Break Words)}Отдельные длинные строки (словочные слова)
+{Separate Long Lines (Keep Words)}Отдельные длинные строки (оставить слова)
+{Server Time:}Время сервера:
+{Server:}Сервер:
+{Set as Default Encoding}Задать как кодировку по умолчанию
+{Settings}Параметры
+{Settings...}Параметры ...
+{Show}Показать
+{Show All Stickers}Показать все наклейки
+{Show Date Time}Показать дату и время
+{Show Details}Показать сведения
+{Show Idle Time:}Показать время простоя:
+{Show Letters and Numbers without Special Keys}Показывать буквы и цифры без особых ключей
+{Show Notifications}Показать уведомления
+{Show when status changes}Показывать, когда изменения статуса
+{Show Window}Показать окно
+{Sign up}Вход в систему
+{Small Buttons}Маленькие кнопки
+{Software}Программное обеспечение
+{Something went wrong. Your feedback could not be delivered.}Что-то пошло не так. Ваше сообщение не может быть доставлено.
+{Sort}Сортировать
+{Sort Lines}Сортировать строки
+{Sound Effect}Звуковой эффект
+{Sound:}Звук:
+{Source (Files, Folders, URLs)}Источник (файлы, папки, URL)
+{Space key:}Ключ пространства:
+{Spell Check}Проверка правописания
+{Spell Checker}Средство проверки орфографии
+{Spell Checker:}Средство проверки орфографии:
+{Split Lines}Разделить строки
+{Start}Старт
+{Start Working}Начать работать
+{Status}Положение дел
+{Status Bar}Строка состояния
+{Stay on Top}Оставайтесь на вершине
+{Stickers}Стикеры
+{Stock}Запасы
+{STOCK BALANCE:}БАЛАНС ЗАПАСОВ:
+{Stock Inventory Count Sheet}Таблица инвентаризации запасов
+{Stock Inventory Count Sheet...}Лист инвентаризации запасов ...
+{STOP}СТОП
+{Success}Успешно
+{SUCCESS}УСПЕХ
+{Suggested Corrections}Предлагаемые исправления
+{Support}Поддержка
+{Sync Computer Time}Синхронизировать время компьютера
+{Syntax}Синтаксис
+{System Error.}Системная ошибка.
+{System Tray Menu}Меню системного лотка
+{Tab Options...}Опции вкладки ...
+{Target Folder}Целевая папка
+{Target Folder:}Целевая папка:
+{Target Folders}Целевые папки
+{Test Alert}Тестовое оповещение
+{Testimonials}Свидетельские показания
+{Text}Текст
+{Text Color:}Цвет текста:
+{Text File}Текстовый файл
+{Text File (*.txt)}Текстовый файл (*.txt)
+{Text File (TXT)...}Текстовый файл (TXT) ...
+{Text:}Текст:
+{Thank you}Спасибо.
+{Thank you!}Спасибо!
+{The file could not be created!}Не удалось создать файл!
+{The server returned an invalid response.}Сервер возвратил недопустимый ответ.
+{Theme}Тема
+{This is an example note.}Это пример примечания.
+{This is your first sticker!}Это твоя первая наклейка!
+{This software works best without administrator privileges.}Это программное обеспечение лучше всего работает без привилегий администратора.
+{Time}Время
+{Timestamp}Системное время
+{To Existing Lines}К существующим линиям
+{To New Lines...}К новым строкам ...
+{Tool Bar}Панель инструментов
+{Tools}Инструменты
+{Top}Сверху
+{Top Selling Products}Первые товары для продажи
+{Top Selling Products...}Первые товары для продажи ...
+{Total}Всего
+{TOTAL:}ИТОГО:
+{Total:}Итого:
+{Translated by:}Перевод:
+{Transparency:}Транспарентность:
+{Tray Notifications:}Уведомления о лотках:
+{Trial}Пробная
+{TRIAL VERSION}ПРОБНАЯ ВЕРСИЯ
+{Trim All}Обрезать все
+{Trim Both}Выделить оба
+{Trim Left}Обрезать влево
+{Trim Lines}Отделка строк
+{Trim Right}Усечь вправо
+{Truly Empty Lines}Действительно пустые строки
+{Try to run as Administrator.}Попробуйте запустить с правами администратора.
+{Type}Тип
+{Undo}Отменить
+{Unicode Detector}Детектор Unicode
+{Unit}Единица
+{UNLICENSED}БЕЗ ЛИЦЕНЗИИ
+{Unlock}отпереть
+{UNLOCK ERROR}ОШИБКА РАЗБЛОКИРОВКИ
+{Unlock Selected}Разблокировать выбранные
+{Unlocked}разблокирована
+{Unlocking}Разблокировка
+{Unnamed}Безымянный
+{UPDATE}UPDATE
+{UPDATE AVAILABLE}ДОСТУПНО ОБНОВЛЕНИЕ
+{Update Notifications}Уведомления об обновлении
+{UPPERCASE}ВЕРХНИЙ регистр
+{Uppercase and Lowercase}Заглавные и строчные буквы
+{URL Highlighter (No Spell Check)}URL-адрес (без проверки правописания)
+{USE AT YOUR OWN RISK!}ИСПОЛЬЗУЙ НА СВОЙ СТРАХ И РИСК!
+{User Interface Language:}Интерфейс:
+{User will press keys}Пользователь будет наживать клавиши
+{using Characters}использование символов
+{using File}с помощью файла
+{using Text}использование текста
+{using Text Length}использование длины текста
+{VCF Files (*.vcf)}Файлы VCF (*.vcf)
+{Version History}Хронология версий
+{Video file error!}Ошибка видеофайла!
+{View}Вид
+{Vovsoft Newsletter}Информационный бюллетень Vovsoft
+{Warning}Предупреждение
+{WARNING}ПРЕДУПРЕЖДЕНИЕ
+{We would really appreciate your feedback.}Мы действительно ценим ваши замечания.
+{Weekdays}Рабочие дни
+{Welcome to}Добро пожаловать в
+{Welcome to Our Shop}Добро пожаловать в наш магазин
+{What did you like or dislike?}Что вам понравилось или не понравилось?
+{Which Customer?}Какой клиент?
+{Width:}Ширина:
+{Word Wrap}Перенос слов
+{Work Time:}Время работы:
+{Wrong Admin Password!}Неверный пароль администратора!
+{Wrong password!}Неправильный пароль!
+{X:}X:
+{Y:}Y:
+{Yes}да
+{You are not logged as admin!}Вы не вошли как админ!
+{You can preview the font and color settings here.}Здесь можно просмотреть параметры шрифта и цвета.
+{You cannot use this feature in unlicensed edition.}Вы не можете использовать эту функцию в нелицензионной версии.
+{Your feedback is received.}Ваше сообщение получено.
+{Your master password is successfully set.}Ваш мастер-пароль успешно установлен.
+{Auto-Close Main Window}
+{Change Auto-Close Time}
+{Change Auto-Close Time...}
+{Classic}
+{Click "New Sticker"}
+{Default CSV Format}
+{Don't show this again}
+{Draw mouse pointer}
+{Fade-out Animation}
+{Fix Broken UTF-8 Encoding}
+{Google CSV Format}
+{Hardware encoding}
+{How to create new sticky note:}
+{Initializing...}
+{Invert Selection}
+{Minimize when recording starts}
+{Monitor}
+{No sticky notes left on the desktop!}
+{Outlook CSV Format}
+{PAID}
+{Properties}
+{Ready}
+{Recording...}
+{Refresh Hardware Encodings}
+{Restore when recording is complete}
+{Right-click tray icon}
+{Software encoding}
+{Text Engine}
+{The specified region is not valid!}
+{This is required for importing in Gmail and Outlook.}
+{Vovsoft Online Services}

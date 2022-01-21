@@ -1,0 +1,767 @@
+﻿{INFO:Translated By}Danfong Hsieh
+{A required file is missing:}缺少必要的檔案：
+{Ability to disable update notifications}能夠停用更新通知
+{About}關於
+{About Us}關於我們
+{About...} 關於...
+{Access is denied.}存取遭拒。
+{Acknowledgements...}信用卡...
+{Activation}啟用
+{Activation Code:}啟用代碼：
+{Activation failed.}啟用失敗。
+{ADD}新增
+{Add}新增
+{Add context menu item}加入右鍵選單
+{Add Drive}新增雲端硬碟
+{Add File}新增檔案
+{Add File(s)}新增檔案
+{Add File(s)...}新增檔案...
+{Add Files...}新增檔案...
+{Add Folder}新增資料夾
+{Add Folder...}新增資料夾...
+{Add Folders...}新增資料夾...
+{Add Product Manually}手動加入產品
+{Add Recursive Subfolders...}新增遞迴子資料夾...
+{Add Subfolders...}新增子資料夾...
+{Add URL(s)...}新增網址...
+{Add URLs...}新增網址...
+{Add using Environment Variables}使用環境變數新增
+{Admin Password}系統管理員密碼
+{Alert Text:}警訊文字:
+{All Customers}所有客戶
+{All Products}所有產品
+{Alphabet}字母
+{Always on Top}最上層顯示
+{Always on top}最上層顯示
+{Always show when toggled on}切換時一律顯示
+{An error occurred while creating directory:}建立目錄時發生錯誤：
+{An error occurred while unlocking:}解除鎖定時發生錯誤：
+{Analyze...}分析...
+{And please backup your important files and folders before locking in case of hardware or software failure.}請在鎖定之前備份您的重要檔案和資料夾，以防出現硬體或軟體故障。
+{Any File}任何檔案
+{Are you sure?}是否確定?
+{ASCII Art...}ASCII 圖案...
+{Ask Print}請求列印
+{Audio file error!}音效檔錯誤!
+{Auto Copy Highlighted Text to Clipboard}自動將反白文字複製到剪貼簿
+{Auto Refresh File}自動重新整理檔案
+{Auto-Close Popup Window After Finishing}完成時自動關閉彈出視窗
+{Auto-Closing...}自動關閉...
+{Auto-Start at Startup}開機時自動啟動
+{Background Color:}背景顏色：
+{Backup Registry...}備份系統登錄...
+{Backup...}備份...
+{Barcode}條碼
+{BARCODE:}條碼
+{Begin:}開始：
+{Beginning of Each Line...}每行的開頭...
+{Big Icons}大圖示
+{Blog}部落格
+{BREAK TIME!}休息時間!
+{Browse...}瀏覽...
+{Buy Now}立即購買
+{Cancel}取消
+{Cancel product selection}取消產品選擇
+{CANCELED by User Request}已由使用者請求取消
+{Canceled!}取消!
+{Cannot create file}無法建立檔案
+{Caps Lock}大寫鎖定
+{Caps Lock: OFF}大寫鎖定: 關
+{Caps Lock: ON}大寫鎖定: 開
+{Category:}類別：
+{Change Background Color...}變更背景顏色...
+{Change File Location...}變更檔案位置...
+{Change Font...}變更字型...
+{Change Interface}變更介面
+{Change Login Password...}變更密碼...
+{Change Menu Font...}變更功能表字型...
+{Change Recovery E-mail}更改復原電子郵件
+{Change:}變更：
+{Classical Interface}經典介面
+{Click to download}按一下下載
+{Clip Lines...}剪裁行...
+{Close}關閉
+{Code:}代碼：
+{Combine Lines...}合併行...
+{Commercial use allowed}允許商業用途
+{Company}公司
+{Compare Two Texts...}比較兩個文字...
+{Completed!}完成!
+{Completed.}完成
+{Computer Code:}電腦碼：
+{Computer Time:}電腦時間：
+{Computer Timezone:}電腦時區：
+{Computer will press keys}電腦將按按鍵
+{Confirm Password:}確認密碼：
+{Confirm?}確認
+{Confirmation}確認
+{Connection Error!}連線錯誤!
+{Contact}聯繫
+{Continue}繼續
+{Contribute to Translation}協助翻譯
+{Convert Non-English Chars to English Chars}將非英文字元轉換為英文字元
+{Copied}已複製
+{Copy}複製
+{Copy All}全部複製
+{Copy files to many directories}將檔案複製到多個目錄
+{COPY INTO TARGET FOLDERS}複製到目標資料夾
+{CREDIT:}信用卡：
+{Credits}信用卡
+{CSV File}CSV 檔
+{Currency Symbol}貨幣符號
+{Customer}客戶
+{Customer with credit cannot be deleted!}無法刪除有信用卡的客戶!
+{CUSTOMER:}我是您的客戶
+{Customer:}客戶：
+{CUSTOMERS}客戶
+{Customers}客戶
+{Cut}剪下
+{Dark}深色
+{Date}日期
+{Date and Time}日期和時間
+{Daylight Saving:}日光節約時間：
+{Decode...}解碼...
+{Del key:} Del 鍵：
+{Delete}刪除
+{DELETE}刪除
+{DELETE ALL}全部刪除
+{Delete Beginning or Ending Strings...}刪除開頭或結尾字串...
+{Delete Chars}刪除字元
+{DELETE CUSTOMER}刪除客戶
+{Delete Customer}刪除客戶
+{Delete Extra Spaces}刪除多餘的空格
+{Delete last entered product}刪除最後輸入的產品
+{DELETE PRODUCT}刪除產品
+{Delete Record}刪除記錄
+{Delete Selected}刪除所選
+{Delete Unnecessary Lines}刪除不必要的行
+{Deselect All}取消全選
+{DETAILS}詳細資料
+{Disabled}已停用
+{Discount}折扣
+{Discounted Price}優惠價格
+{Discounted Total}總折扣
+{Disk Write Interval (sec):}磁碟寫入間隔時間 (秒)：
+{Display Load Time}顯示載入時間
+{Display Prices}顯示價格
+{Display Special Chars}顯示特殊字元
+{Download}下載
+{Drag Drop Filenames}拖放檔案名稱
+{Drive}磁碟
+{DRIVE MISMATCH}磁碟機不相符
+{Drive:}磁碟：
+{E-mail}電子郵件
+{E-mail is changed.}電子郵件已變更。
+{E-mail not accepted!}不認可的電子郵件!
+{E-mail Processor}電子郵件處理器
+{Edit}編輯
+{Edit License}編輯授權
+{Edit License...}編輯授權...
+{Edit Password}編輯密碼
+{Elapsed Time:}經過時間：
+{Email Address}電子郵件位址
+{Enable}啟用
+{Enabled}已啟用
+{Encode...}編碼...
+{Encoding}編碼中
+{Encryption}加密
+{End of Each Line...}每行的結尾...
+{End-User License Agreement}使用者授權合約
+{End:}結束：
+{Enter License Key}輸入授權金鑰
+{Error}錯誤
+{ERROR}錯誤
+{Error No:}錯誤碼：
+{ESC key:}ESC 鍵：
+{EULA}EULA
+{Exit}結束
+{Exit Application?}結束應用程式?
+{Exit...}結束...
+{EXITING...}結束中...
+{Export}匯出
+{Export to File...}匯出到檔案...
+{Export to HTML...}匯出到 HTML...
+{Export to PDF...}匯出到 PDF...
+{Extract Text...}擷取文字...
+{Failed}失敗
+{Failure}失敗
+{Feedback}意見反應
+{feedback}意見反應
+{File}檔案
+{File already exists!}檔案早已存在!
+{File does NOT exist:}檔案不存在：
+{File inaccessible!}檔案無法存取!
+{File List}檔案清單
+{File Location}檔案位置
+{File Location:}檔案位置：
+{File lock error!}檔案鎖定錯誤!
+{File Mask}檔案遮罩
+{File not found!} 找不到檔案!
+{Filename:}檔案名稱：
+{Files & Folders}檔案和資料夾
+{Filter Lines}篩選行
+{Find}尋找
+{Find Erroneous E-mails}尋找錯誤的電子郵件
+{Find Next}尋找下一個
+{Fixed-Pitch Fonts Only}僅限固定間距字型
+{Folder}資料夾
+{Folder does NOT exist:}資料夾不存在：
+{Folder Size:}資料夾大小：
+{Folder:}資料夾：
+{For 1}1
+{For 10}10
+{For 100}100
+{For 20}20
+{For 200}200
+{For 5}5
+{For 50}50
+{Forgot Password?}忘記密碼?
+{FREE}免費
+{Free Edit}免費編輯
+{Free to try}免費試用
+{FREEWARE}免費軟體
+{Freeware}免費軟體
+{Freeware Utilities}免費軟體工具
+{Full Screen}全螢幕
+{Generate Barcode Image...}產生條碼圖像...
+{Generate E-mail List}產生電子郵件清單
+{Generate Word List}產生單字清單
+{Get Server Time}取得伺服器時間
+{GRAND TOTAL:}總計：
+{Header}標頭
+{Headers}標頭
+{Height:}高度：
+{Help}説明
+{Hidden}隱藏
+{Hide Details}隱藏詳細資料
+{Highlight Even Lines}反白偶數行
+{Highlight Odd Lines}反白奇數行
+{Home}首頁
+{Hotkey:}熱鍵：
+{How to uninstall...}如何卸載...
+{I dislike it!}我不喜歡它!
+{I like it!}我喜歡!
+{ID Transformer...}ID 轉換程式...
+{Idle Time:}閒置時間:
+{If you like the software, please buy a license to make this software fully functional and remove this window.}如果您喜歡該軟體，請購買授權，使這個軟體完全起作用，並移除此惱人視窗。
+{Ignore}忽略
+{Ignore Drive Mismatch While Unlocking}解除鎖定時忽略磁碟機不相符
+{Ignore Failed Files While Unlocking}解除鎖定時忽略失敗檔案
+{Import}匯入
+{IMPORTANT}重要
+{Include my e-mail:}包括我的電子郵件：
+{Indicates status of keys}指示鍵的狀態
+{Info}資訊
+{Information}資訊
+{Insert}插入
+{Insufficient stock!}庫存不足。
+{Invalid E-mail!}無效的電子郵件!
+{Invalid Entry!}無效的項目。
+{Keyboard Shortcuts}鍵盤快速鍵
+{KeyPress Simulator}KeyPress 模擬器
+{Language}語言
+{Language:}語言：
+{Language...}語言...
+{License key is invalid!}授權金鑰無效!
+{License:}授權：
+{License...}授權...
+{Licensed}已授權
+{Licensed to:}授權給：
+{Lifetime free updates}終身免費更新
+{Light}淺色
+{Line Numbers}行號
+{Line Order}行順序
+{List}清單
+{Load}載入
+{Load And Run Operation Files...}載入與執行操作檔案...
+{Load Operation File...}載入作業檔案...
+{Load source list from file...}從檔案載入來源清單 ...
+{Load target list from file...}從檔案載入目標清單 ...
+{Load vCards from VCF file...}從 VCF 檔案載入 vCard ...
+{Load...}載入...
+{Loading}正在載入
+{Loading...}載入中...
+{Lock}鎖定
+{Lock and Unlock processes may take some time.}鎖定和解除鎖定過程可能需要一些時間。
+{Lock Selected}鎖定已選
+{LOCKED}已鎖定
+{Login (Full Access)}登入 (完整存取)
+{Logout}登出
+{MAIN MENU}主功能表
+{Minimal Mode}最小模式
+{minutes}分鐘
+{Mode}模式
+{Monitor External File Modification}監控外部檔案修改
+{Move (Delete Source Files and Folders)}移動 (刪除來源檔案和資料夾)
+{Move Down}下移
+{Move Info: Source files and folders were not deleted from disk because of copy error}移動資訊: 由於複製錯誤，未從磁碟刪除來源檔案和資料夾
+{Move Up}上移
+{Multiple Files...}多個檔案...
+{New}新增
+{New Window}新視窗
+{Next Rest:}下次休息:
+{No}否
+{No Audio}無音訊
+{No Item Selected!}未選擇任何項目!
+{No nag screen, no ads}無嘮叨螢幕，無廣告
+{No Sound}無音效
+{Not applicable!}不適用!
+{Not Paid:}尚未付款：
+{Num Lock}Num Lock
+{Num Lock: OFF}Num Lock: 關
+{Num Lock: ON}Num Lock: 開
+{Number of Files:}檔案數量：
+{Numbers}數字
+{Offline Activation}離線啟用
+{OK}確定
+{Online Help}線上説明
+{Open File}開啟檔案
+{Open folder location...}開啟資料夾位置...
+{Open Folder Location...}開啟資料夾位置...
+{Open...}開啟...
+{Operating Systems:}作業系統：
+{Operation File}操作檔案
+{Operation STOPPED!}操作已停止!
+{Operations}操作
+{Options}選項
+{Options...}選項...
+{Output:}輸出：
+{Overwrite Existing Files}覆寫現有檔案
+{PAID}已支付
+{Paid}已支付
+{Paid:}付費：
+{Password}密碼
+{Password is changed.}密碼已變更。
+{Password is incorrect!}密碼不正確!
+{Password not accepted!}不認可的密碼!
+{Password Recovery E-mail:}密碼復原電子郵件：
+{Password:}密碼：
+{Passwords do not match!}密碼不符!
+{Paste}貼上
+{Payments}付款
+{Play}播放
+{Play Sound Effect}播放音效
+{Please add source files!}請加入來源檔案。
+{Please add target folders!}請加入目標資料夾!
+{Please check your e-mail box.}請檢查您的電子郵箱。
+{Please check your internet connection!}請檢查您的網路連線!
+{Please enter barcode or product name!}請輸入條碼或產品名稱!
+{Please enter discount ratio:}請輸入折扣率
+{Please enter master password!} 請輸入主密碼！
+{Please enter new currency symbol:}請輸入新的貨幣符號:
+{Please enter password:}請輸入密碼：
+{Please enter unit price:}請輸入單位價格：
+{Please enter your license key:}請輸入您的授權金鑰：
+{Please enter your license key!}請輸入您的授權金鑰!
+{Please keep it in a safe place. You need it to unlock your files and folders.}請放在安全的地方。您需要它將您的檔案和資料夾解除鎖定。
+{Please reinstall the software.}請重新安裝軟體。
+{Please reopen the software without administrator privileges.}請在沒有系統管理員權限的情況下重新開啟該軟體。
+{Please try again later.} 請稍後再試。
+{Please try:}請嘗試：
+{Please type NEW password:}請輸入新密碼：
+{Please type your CURRENT password:}請輸入您的目前密碼：
+{Please type your NEW e-mail:}請輸入您的新電子郵件：
+{Please type your NEW password:}請輸入您的新密碼：
+{Please Wait For Backup Process!}請等待備份過程!
+{Price}價格
+{PRICE:}價格
+{Print Setup}列印設定
+{Print Template}列印範本
+{Print?}列印?
+{Print...}列印...
+{Printer not found!}找不到印表機!
+{Privacy Policy}隱私權原則
+{Process}處理
+{Processing...}處理中...
+{Product}產品
+{Product List}產品清單
+{Product List...}產品清單...
+{PRODUCT NAME:}產品名稱：
+{Product successfully activated.}啟用成功。
+{Product:}產品：
+{PRODUCTS}產品
+{Products}產品
+{Purchase}購買
+{Quantity}數量
+{Random Number Generator...}亂數產生器...
+{Randomize Line Contents}隨機行內容
+{Randomize Line Order}隨機行順序
+{Read Reviews}閱讀評論
+{Receipts}回條
+{Recognize Environment Variables}識別環境變數
+{Recognize Network Drives}識別網路磁碟
+{RECORD}記錄
+{RECORD DATE:}記錄日期：
+{Recover Lost Files}復原遺失的檔案
+{Recover Password}復原密碼
+{Redo}取消復原
+{Refresh Device List}重新整理裝置清單
+{Refund Policy}退款政策
+{Region}區域
+{Related Software}相關軟體
+{Release Date:}發行日期：
+{Remember Settings}記住設定
+{Remove}移除
+{Remove All}全部移除
+{Remove Selected}移除所選
+{Reopen}重新開啟
+{Replace}取代
+{Reports}報告
+{Required files are missing}缺少必需的檔案
+{Reset}重置
+{Reset to Defaults}重置為預設值
+{Reset Work Time}重置工作時間
+{Restart Application?}重啟應用程式?
+{Restore from Backup...}從備份還原...
+{Reverse}反向
+{Run With}執行使用
+{SALES}設定
+{Sample Text}範例文字
+{Save}儲存
+{Save As...}另存為...
+{Save Operation File As...}將操作檔案另存為...
+{Save Operation File...}儲存操作檔案...
+{Save source list to file...}將來源清單儲存到檔案...
+{Save target list to file...}將目標清單儲存到檔案...
+{ScreenSnap:}螢幕截圖:
+{Scroll Lock}Scroll Lock
+{Scroll Lock: OFF}Scroll Lock: 關
+{Scroll Lock: ON}Scroll Lock: 開
+{Search:}搜尋：
+{Search...}搜尋...
+{seconds}秒
+{Secure your files and folders}保護檔案和資料夾
+{Select}選擇
+{Select All}全選
+{Select folder:}選擇資料夾：
+{Select Product}選擇產品
+{Select Region and Close}選擇區域後關閉
+{Select your favourite theme}選擇您最喜愛的主題
+{SELL BY CASH}以現金出售
+{Sell by Cash}以現金出售
+{SELL BY CREDIT}按信用出售
+{Sell by Credit}按信用出售
+{Send}發送
+{Send e-mail?}發送電子郵件?
+{Send Feedback}發送意見反應
+{Send Feedback...}發送意見反應...
+{Server Time:}伺服器時間：
+{Server:}伺服器：
+{Set as Default Encoding}設成預設編碼
+{Settings}設定
+{Settings...}設定...
+{Show}顯示
+{Show Details}顯示詳細資料
+{Show Idle Time:}顯示閒置時間:
+{Show Letters and Numbers without Special Keys}顯示字母和數字而無需特殊鍵
+{Show when status changes}狀態變更時顯示
+{Show Window}顯示視窗
+{Sign up}註冊
+{Small Buttons}小按鈕
+{Software}軟體
+{Something went wrong. Your feedback could not be delivered.}出問題了。您的意見反應無法送達。
+{Sort}排序
+{Sort Lines}排序行
+{Sound Effect}音效
+{Sound:}聲音:
+{Source (Files, Folders, URLs)}來源 (檔案、資料夾、網址)
+{Space key:}空間鍵：
+{Spell Check}拼字檢查
+{Spell Checker}拼字檢查工具
+{Split Lines}分割行
+{Start}啟動
+{Status}狀態
+{Status Bar}狀態列
+{Stay on Top}保持在頂端
+{Stock}庫存
+{STOCK BALANCE:}庫存量：
+{Stock Inventory Count Sheet}庫存盤點表
+{Stock Inventory Count Sheet...}庫存盤點表...
+{STOP}停止
+{Success}成功
+{SUCCESS}成功
+{Support}支援
+{Sync Computer Time}同步電腦時間
+{System Error.}系統錯誤。
+{Tab Options...}索引標籤選項...
+{Target Folders}目標資料夾
+{Test Alert}測試警示
+{Testimonials}見證
+{Text}文字
+{Text Color:}文字顏色:
+{Thank you}感謝您
+{Thank you!}感謝您!
+{Theme}主題
+{This software works best without administrator privileges.}此軟體在沒有系統管理員權限的情況下效果最佳。
+{To Existing Lines}到現有行
+{To New Lines...}到新行...
+{Tool Bar}工具列
+{Tools}工具
+{Top Selling Products...}最暢銷的產品...
+{Total}總計
+{TOTAL:}總計：
+{Total:}總計：
+{Translated by:}譯者：
+{Tray Notifications:}系統匣通知:
+{Trial}試用版
+{TRIAL VERSION}試用版
+{Trim Lines}修剪行
+{Try to run as Administrator.}試著以系統管理員身分執行。
+{Type}類型
+{Undo}復原
+{UNLICENSED}未授權
+{Unlock}解除鎖定
+{UNLOCK ERROR}解除鎖定錯誤
+{Unlock Selected}解除鎖定已選
+{Unlocked}解除鎖定
+{UPDATE}更新
+{UPDATE AVAILABLE}有更新可用
+{Update Notifications}更新通知
+{Uppercase and Lowercase}大寫與小寫
+{User Interface Language:}使用者界面語言：
+{User will press keys}使用者將按按鍵
+{Version History}版本歷程記錄
+{Video file error!}影像檔案錯誤!
+{View}檢視
+{Vovsoft Newsletter}Vovsoft 電子報
+{Vovsoft Online Services}Vovsoft 線上服務
+{Warning}警告
+{WARNING}警告
+{We would really appreciate your feedback.}我們非常感謝您的意見反應。
+{Welcome to}歡迎使用
+{Welcome to Our Shop}歡迎來到我們的商店
+{What did you like or dislike?}您喜歡什麼或不喜歡什麼?
+{Which Customer?}哪個客戶?
+{Width:}寬度：
+{Word Wrap}自動換行
+{Work Time:}工作時間:
+{Wrong Admin Password!}錯誤的系統管理員密碼!
+{Wrong password!}密碼錯誤!
+{X:}X:
+{Y:}Y:
+{Yes}是
+{You are not logged as admin!}您未以系統管理員身分登入。
+{You cannot use this feature in unlicensed edition.}您不能在未授權版本中使用此功能。
+{Your feedback is received.}已收到您的意見反應。
+{Your master password is successfully set.}您的主密碼已成功設定。
+{12 hour}
+{24 hour}
+{Active}
+{Add Dictionary...}
+{Add Word To Dictionary}
+{All files must be unlocked before changing private key!}
+{All files must be unlocked before enabling or disabling content encryption!}
+{Alphabetical}
+{Annually}
+{Annually:}
+{Any File (*.*)}
+{Arrange Stickers}
+{Audio File}
+{Auto Run at Startup}
+{Auto-Close Main Window}
+{Auto-Refresh Drive List}
+{Automatic}
+{Automatically Synchronize}
+{Backup Stickers}
+{Capitalize (First Letters Only)}
+{Cascade}
+{Change Auto-Close Time}
+{Change Auto-Close Time...}
+{Change Background Color}
+{Change Private Key...}
+{Change Text Font}
+{Change Theme}
+{Change Theme...}
+{Classic}
+{Clear}
+{Click "New Sticker"}
+{Comma-Separated Values File (CSV)...}
+{Confirm Before Deletion}
+{Content Encryption (SLOW)}
+{Content encryption is enabled.}
+{CSV File (*.csv)}
+{Daily}
+{Daily:}
+{Day}
+{Decrease Font Size}
+{Default}
+{Default Alphabet}
+{Default CSV Format}
+{Delete After}
+{Delete All}
+{Delete All Spaces}
+{Delete Alphabetic [a-z] [A-Z]}
+{Delete Alphanumeric [a-z] [A-Z] [0-9]}
+{Delete Before}
+{Delete Non-Alphabetic}
+{Delete Non-Alphanumeric}
+{Delete Numbers [0-9]}
+{Delete Reminder}
+{Delete?}
+{Deleted}
+{Diagonal}
+{Directory:}
+{Dismiss}
+{Display Duration:}
+{Do you really want to delete ALL stickers?}
+{Do you really want to delete the reminder?}
+{Do you really want to delete the sticker?}
+{Do you want to save the current file before exit?}
+{Do you want to save the current file?}
+{Do you want to save this file before exit?}
+{Do you want to save this file?}
+{Don't show this again}
+{Draw mouse pointer}
+{Duplicate Lines}
+{Empty}
+{Empty Lines (can include spaces and tabs)}
+{English}
+{Entire Document}
+{Excel File (*.xls)}
+{Excel File (XLS)...}
+{Explore Dictionaries...}
+{Export Lines to Files}
+{Export Lines to Files...}
+{Extract Image...}
+{Extras}
+{Fade-out Animation}
+{Find Lines}
+{Find Lines...}
+{Find Next Misspelling}
+{Fix Broken UTF-8 Encoding}
+{Go to...}
+{Google CSV Format}
+{Hardware encoding}
+{Hide All Stickers}
+{Highlight Active Line}
+{Hourly}
+{Hourly:}
+{How to create new sticky note:}
+{HTML File (*.html)}
+{ID}
+{If no keyboard or mouse events occur for "Idle Time", "Work Time" resets.}
+{Import from File...}
+{Increase Font Size}
+{Initializing...}
+{Insert Empty Lines}
+{Insert Same Text Multiple Times}
+{Insert Same Text Multiple Times...}
+{Invert Selection}
+{LED Color (OFF):}
+{LED Color (ON):}
+{Left}
+{Left click to show Stickers on top.}
+{Line Length}
+{Locking}
+{lowercase}
+{Lowercase}
+{Mark as Complete}
+{milliseconds}
+{Minimize when recording starts}
+{Minute}
+{Monitor}
+{Month}
+{Monthly}
+{Monthly:}
+{Net Encoding}
+{New Reminder}
+{New Reminder...}
+{New Sticker}
+{Next Receipt Number:}
+{No item selected!}
+{No sticky notes left on the desktop!}
+{Non-English}
+{None}
+{Note}
+{Note Window Margin:}
+{Notes Manager}
+{Notes Manager...}
+{Number of Times:}
+{Only Once}
+{Only Once:}
+{Ordinal Values of Characters}
+{Original Size}
+{Outlook CSV Format}
+{Overwrite Read-Only Files}
+{PDF File (*.pdf)}
+{Permanently Delete}
+{Permanently Delete All}
+{Please try again later!}
+{Please type your NEW private key:}
+{Preview Sticker}
+{Print}
+{Private Key}
+{Private key changed.}
+{Process completed!}
+{Properties}
+{Random Number Generator}
+{Random Text Generator}
+{Random Text Generator...}
+{Ready}
+{Recording...}
+{Refresh Hardware Encodings}
+{Regular Expression}
+{Regular Expression...}
+{Reminder}
+{Reminders}
+{Restore}
+{Restore when recording is complete}
+{Reverse Line Contents}
+{Reverse Line Sequence}
+{Right click to add new Stickers or Reminders.}
+{Right-click tray icon}
+{ScreenSnap}
+{Select Language}
+{Selected}
+{Send to Recycle Bin}
+{Separate by Char}
+{Separate by String}
+{Separate Long Lines (Break Words)}
+{Separate Long Lines (Keep Words)}
+{Show All Stickers}
+{Show Date Time}
+{Show Notifications}
+{Software encoding}
+{Spell Checker:}
+{Start Working}
+{Stickers}
+{Suggested Corrections}
+{Syntax}
+{System Tray Menu}
+{Target Folder}
+{Target Folder:}
+{Text Engine}
+{Text File}
+{Text File (*.txt)}
+{Text File (TXT)...}
+{Text:}
+{The file could not be created!}
+{The server returned an invalid response.}
+{The specified region is not valid!}
+{This is an example note.}
+{This is required for importing in Gmail and Outlook.}
+{This is your first sticker!}
+{Time}
+{Timestamp}
+{Top}
+{Top Selling Products}
+{Transparency:}
+{Trim All}
+{Trim Both}
+{Trim Left}
+{Trim Right}
+{Truly Empty Lines}
+{Unicode Detector}
+{Unit}
+{Unlocking}
+{Unnamed}
+{UPPERCASE}
+{URL Highlighter (No Spell Check)}
+{USE AT YOUR OWN RISK!}
+{using Characters}
+{using File}
+{using Text}
+{using Text Length}
+{VCF Files (*.vcf)}
+{Weekdays}
+{You can preview the font and color settings here.}
