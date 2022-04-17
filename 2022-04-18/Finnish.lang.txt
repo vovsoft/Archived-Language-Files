@@ -1,0 +1,830 @@
+﻿{INFO:Translated By}Anonymous
+{12 hour}12 tuntia
+{24 hour}24 tuntia
+{A required file is missing:}Tarvittava tiedosto puuttuu:
+{Ability to disable update notifications}Kyky poistaa päivitysilmoitukset käytöstä
+{About}Tietoja
+{About Us}Tietoja meistä
+{About...}Siitä ...
+{Access is denied.}Pääsy kielletty.
+{Acknowledgements...}Tunnustaminen ...
+{Activation}Aktivointi
+{Activation Code:}Aktivointikoodi:
+{Activation failed.}Aktivointi epäonnistui.
+{Active}Käytössä
+{ADD}LISÄÄ
+{Add}Lisää
+{Add context menu item}Lisää pikavalikko
+{Add Dictionary...}Lisää sanakirja ...
+{Add Drive}Lisää asema
+{Add File}Lisää tiedosto
+{Add File(s)}Lisää tiedosto
+{Add File(s)...}Lisää tiedosto ...
+{Add Files...}Lisää tiedostoja ...
+{Add Folder}Lisää kansio
+{Add Folder...}Lisää kansio ...
+{Add Folders...}Lisää kansio ...
+{Add Product Manually}Lisää tuote manuaalisesti
+{Add Recursive Subfolders...}Lisää valitut alikansiot ...
+{Add Subfolders...}Lisää alikansiot ...
+{Add URL(s)...}Lisää URL-osoite ...
+{Add URLs...}Lisää URL-osoite ...
+{Add using Environment Variables}Lisää käyttämällä ympäristömuuttujia
+{Add Word To Dictionary}Lisää Word-sanakirja
+{Admin Password}Admin-salasana
+{Alert Text:}Hälytyteksti:
+{All Customers}Kaikki asiakkaat
+{All files must be unlocked before changing private key!}Kaikki tiedostot on avattava ennen yksityisen avaimen muuttamista.
+{All files must be unlocked before enabling or disabling content encryption!}Kaikki tiedostot on avattava ennen sisällön salauksen sallimista tai poistoa.
+{All Products}Kaikki tuotteet
+{Alphabet}Aakkonen
+{Alphabetical}Aakkosellinen
+{Always on Top}Aina huipulla
+{Always on top}Aina päällä
+{Always show when toggled on}Aina näyttää, kun kamppailla
+{An error occurred while creating directory:}On ilmennyt virhe luotaessa hakemistoa:
+{An error occurred while unlocking:}On ilmennyt virhe avattaessa:
+{Analyze...}Analysoi ...
+{And please backup your important files and folders before locking in case of hardware or software failure.}Varmistakaa tärkeät tiedostot ja kansiot ennen lukitsemista, jos kyseessä on laitteisto tai ohjelmistovika.
+{Annually}Annittain
+{Annually:}Annvaralta:
+{Any File}Mikä tahansa tiedosto
+{Any File (*.*)}Kaikki tiedostot (*. *)
+{Are you sure?}Oletko varma?
+{Arrange Stickers}Arrangen Stickers
+{Ask Print}Kysy Print
+{Audio File}Äänitiedosto
+{Audio file error!}Äänitiedoston virhe!
+{Auto Copy Highlighted Text to Clipboard}Automaattinen kopiointi-teksti leikepöydälle
+{Auto Refresh File}Automaattinen Retuoreen tiedosto
+{Auto Run at Startup}Automaattinen ajo aloituksessa
+{Auto-Close Popup Window After Finishing}Auto-Suljettu-ikkuna on valmis
+{Auto-Closing...}Automaattinen sulkeminen ...
+{Auto-Refresh Drive List}Automaattinen uudelleenajoaika -luettelo
+{Auto-Start at Startup}Automaattinen aloitus aloituksen yhteydessä
+{Automatic}Automaattinen
+{Automatically Synchronize}Automaattinen synkronointi
+{Background Color:}Taustaväri:
+{Backup Registry...}Vararekisteri ...
+{Backup Stickers}Merkintälaitteet
+{Backup...}Apuvoimia ...
+{Barcode}Barcode
+{BARCODE:}KOODI:
+{Begin:}Aloittakaa:
+{Beginning of Each Line...}Kunkin rivin alku ...
+{Big Icons}Isot Ihaitat
+{Blog}Blogi
+{BREAK TIME!}TAUKOAIKA!
+{Browse...}Selaa ...
+{Buy Now}Osta nyt
+{Cancel}Peruuta
+{Cancel product selection}Peruuta tuotteen valinta
+{CANCELED by User Request}CANCELED-käyttäjän pyyntö
+{Canceled!}Peruutettu!
+{Cannot create file}Tiedoston luonti ei onnistu
+{Capitalize (First Letters Only)}Capitalize (vain ensimmäiset kirjaimet)
+{Caps Lock}Kapseli
+{Caps Lock: OFF}Kapselin lukitus: OFF
+{Caps Lock: ON}Caps-lukitus:
+{Cascade}Cascade
+{Category:}Luokka:
+{Change Background Color}Vaihda taustaväri
+{Change Background Color...}Vaihda taustaväri ...
+{Change File Location...}Vaihda tiedoston sijainti ...
+{Change Font...}Vaihda fonttia ...
+{Change Interface}Muutoksen liittymä
+{Change Login Password...}Vaihda sisäänkirjaussalasana ...
+{Change Menu Font...}Vaihda Menu Font ...
+{Change Private Key...}Vaihda yksityisavain ...
+{Change Recovery E-mail}Muuta elvytys E-mail
+{Change Text Font}Tekstin fontti
+{Change Theme}Vaihda teema
+{Change Theme...}Vaihda Theme ...
+{Change:}Muutos:
+{Classical Interface}Classical Interface
+{Clear}Kirkas
+{Click to download}Valitse ladattavat
+{Clip Lines...}Clip Lines.
+{Close}Sulje
+{Code:}Koodi:
+{Combine Lines...}Yhdistelmä ...
+{Comma-Separated Values File (CSV)...}CSV-tiedosto (CSV) ...
+{Commercial use allowed}Kaupallinen käyttö sallittu
+{Company}Yritys
+{Compare Two Texts...}Vertaa kahta ...
+{Completed!}Valmistui!
+{Completed.}Valmistunut.
+{Computer Code:}Tietokonekoodi:
+{Computer Time:}Tietokoneaika:
+{Computer Timezone:}Tietokone Timevyöhyke:
+{Computer will press keys}Tietokone painaa avaimia
+{Confirm Before Deletion}Vahvistus ennen poistoaikaa
+{Confirm Password:}Vahvasta salasana:
+{Confirm?}-Vahvistan?
+{Confirmation}Vahvistus
+{Connection Error!}Yhteysvirhe!
+{Contact}Yhteystiedot
+{Content Encryption (SLOW)}Sisällön salaus (SLOW)
+{Content encryption is enabled.}Sisällön salaus on käytössä.
+{Continue}Jatka
+{Contribute to Translation}Luo käännös
+{Convert Non-English Chars to English Chars}Muunna ei-Englanti Chars, Englanti Chars
+{Copied}Kopioitu
+{Copy}Kopioi
+{Copy All}Kopioi kaikki
+{Copy files to many directories}Kopioi tiedostoja useisiin hakemistoihin
+{COPY INTO TARGET FOLDERS}KOPIOI KOHDEKANSIOIHIN
+{CREDIT:}LUOTTO:
+{Credits}Valtuustiedot
+{CSV File}CSV-tiedosto
+{CSV File (*.csv)}CSV-tiedosto (*.csv)
+{Currency Symbol}Valuutan tunnus
+{Customer}Asiakas
+{Customer with credit cannot be deleted!}Asiakas, jolla on luottoa, ei voi poistaa!
+{CUSTOMER:}ASIAKAS:
+{Customer:}Asiakas:
+{CUSTOMERS}ASIAKKAAT
+{Customers}Asiakkaat
+{Cut}Poikki
+{Daily}Daily
+{Daily:}Päivittäin:
+{Dark}Dark
+{Date}Päivämäärä
+{Date and Time}Aika ja aika
+{Day}Päivä
+{Daylight Saving:}Päivänvalon pelastaminen:
+{Decode...}Pura ...
+{Decrease Font Size}Decrease-fontin koko
+{Default}Oletusarvo
+{Default Alphabet}Alphabetin oletusarvo
+{Del key:}Delin avain:
+{Delete}Poista
+{DELETE}POISTA
+{Delete After}Poista jälkeen
+{DELETE ALL}POISTA KAIKKI
+{Delete All}Poista kaikki
+{Delete All Spaces}Poista kaikki tilat
+{Delete Alphabetic [a-z] [A-Z]}Poista aakkosellinen [A-Z] [A-Z]
+{Delete Alphanumeric [a-z] [A-Z] [0-9]}Poista aakkosnumeerinen [a-z] [A-Z] [0-9]
+{Delete Before}Poista ennen
+{Delete Beginning or Ending Strings...}Poista alku-tai loppukohtaukset ...
+{Delete Chars}Poista Chars
+{DELETE CUSTOMER}POISTA ASIAKAS
+{Delete Customer}Poista asiakas
+{Delete Extra Spaces}Poista ylimääräiset tilat
+{Delete last entered product}Poista viimeinen tuote
+{Delete Non-Alphabetic}Poista ei-aakkosellinen
+{Delete Non-Alphanumeric}Poista muu kuin aakkosnumeerinen
+{Delete Numbers [0-9]}Poista numerot [0-9]
+{DELETE PRODUCT}POISTA TUOTE
+{Delete Record}Poista tietuetta
+{Delete Reminder}Poista muistutus
+{Delete Selected}Poista valittu
+{Delete Unnecessary Lines}Poista Unnecessary Lines
+{Delete?}Poista?
+{Deleted}Poistettu
+{Deselect All}Valittu kaikki
+{DETAILS}TIEDOT
+{Diagonal}Diagonal
+{Directory:}Hakemisto:
+{Disabled}Vammainen
+{Discount}Diskreivi
+{Discounted Price}Diskontit Price
+{Discounted Total}Diskontit yhteensä
+{Disk Write Interval (sec):}Levyn kirjoituksen siirtovirhe (sek):
+{Dismiss}Disneiti
+{Display Load Time}Näytä latausaika
+{Display Prices}Näytä hinnat
+{Display Special Chars}Näytä erikoistiedot
+{Do you really want to delete ALL stickers?}Haluatko todella poistaa ALL-tarrat?
+{Do you really want to delete the reminder?}Haluatko todella poistaa muistutuksen?
+{Do you really want to delete the sticker?}Haluatko todella poistaa tarran?
+{Do you want to save the current file before exit?}Haluatko tallentaa nykyisen tiedoston ennen poistumista?
+{Do you want to save the current file?}Haluatko tallentaa nykyisen tiedoston?
+{Do you want to save this file before exit?}Haluatko tallentaa tämän tiedoston ennen poistumista?
+{Do you want to save this file?}Haluatko tallentaa tämän tiedoston?
+{Download}Lataa
+{Drag Drop Filenames}Drag-pudotusfilenimet
+{Drive}Aja
+{DRIVE MISMATCH}AJA EPÄSOPA
+{Drive:}Aja:
+{Duplicate Lines}Kaksoiskappaleet Lines
+{E-mail}Sähköposti
+{E-mail is changed.}Sähköposti on muuttunut.
+{E-mail not accepted!}Sähköpostia ei hyväksytä!
+{E-mail Processor}Sähköpostin käsittelijä
+{Edit}Muokkaa
+{Edit License}Muokkaa lisenssiä
+{Edit License...}Muokkaa lisenssiä ...
+{Edit Password}Muokkaa salasanaa
+{Elapsed Time:}On kulunut aika:
+{Email Address}Sähköpostiosoite
+{Empty}Tyhjä
+{Empty Lines (can include spaces and tabs)}Tyhjä Lines (voi sisältää välilyöntejä ja välilehtiä)
+{Enable}Enable
+{Enabled}Käytössä
+{Encode...}Koodi ...
+{Encoding}Koodaus
+{Encryption}Salaus
+{End of Each Line...}Jokaisen rivin loppu ...
+{End-User License Agreement}Loppukäyttäjän lisenssisopimus
+{End:}Loppu:
+{English}Englanti
+{Enter License Key}Anna lisenssiavain
+{Entire Document}Koko asiakirja
+{Error}Virhe
+{ERROR}VIRHE
+{Error No:}Virhe:
+{ESC key:}ESC-avain:
+{EULA}EULA
+{Excel File (*.xls)}Excel-tiedosto (*.xls)
+{Excel File (XLS)...}Excel-tiedosto ...
+{Exit}Poistuminen
+{Exit Application?}Exit-sovellus?
+{Exit...}Poistu ...
+{EXITING...}EXITING ...
+{Explore Dictionaries...}Tutustu sanakirjoihin ...
+{Export}Vie
+{Export Lines to Files}Vie Linjat tiedostoihin
+{Export Lines to Files...}Vie Linjat Tiedostot-palveluun ...
+{Export to File...}Vie tiedostoon ...
+{Export to HTML...}Vie HTML ...
+{Export to PDF...}Vie PDF-tiedostoon ...
+{Extract Image...}Poista-kuva ...
+{Extract Text...}Pura teksti ...
+{Extras}Ekstras
+{Failed}Epäonnistunut
+{Failure}Epäonnistuminen
+{Feedback}Palaute
+{feedback}Palautetta
+{File}Tiedosto
+{File already exists!}Tiedosto on jo olemassa!
+{File does NOT exist:}Tiedostoa EI ole olemassa:
+{File inaccessible!}Tiedostoa ei ole saatavilla!
+{File List}Tiedostolista
+{File Location}Tiedoston sijainti
+{File Location:}Tiedoston sijainti:
+{File lock error!}Tiedoston lukitusvirhe!
+{File Mask}Tiedosto Mask
+{File not found!}Tiedostoa ei löydy!
+{Filename:}Tiedostonimi:
+{Files & Folders}Tiedostot ja kansiot
+{Filter Lines}Suodattimet
+{Find}Etsi
+{Find Erroneous E-mails}Erroneiden E-matsit
+{Find Lines}Etsi Lines
+{Find Lines...}Etsi Lines ...
+{Find Next}Etsi seuraava
+{Find Next Misspelling}Etsi seuraava virhe
+{Fixed-Pitch Fonts Only}Kiinteä-Pitch-fontit
+{Folder}Kansio
+{Folder does NOT exist:}Kansio EI ole olemassa:
+{Folder Size:}Kansion koko:
+{Folder:}Kansio:
+{Forgot Password?}Unohdinko salasanan?
+{FREE}VAPAA
+{Free Edit}Vapaa muokkaus
+{Free to try}Vapaa yrittämään
+{FREEWARE}FREEWARE
+{Freeware}Freeware
+{Freeware Utilities}Freeware-palvelut
+{Full Screen}Täyskuva
+{Generate Barcode Image...}Luo viivakoodikuva ...
+{Generate E-mail List}Luo sähköpostiluettelo
+{Generate Word List}Luo Word-luettelo
+{Get Server Time}Ota palvelimen aika
+{Go to...}Mene ...
+{GRAND TOTAL:}YHTEENSÄ:
+{Header}Header
+{Headers}Otsikot
+{Height:}Korkeus:
+{Help}Apua
+{Hidden}Piilotettu
+{Hide All Stickers}Piilota Kaikki tikit
+{Hide Details}Piilota tiedot
+{Highlight Active Line}Highlight Active Line
+{Highlight Even Lines}Korosta jopa Lines
+{Highlight Odd Lines}Highlight Odd Lines
+{Home}Koti
+{Hotkey:}Hotkey:
+{Hourly}Hourly
+{Hourly:}Tunti:
+{How to uninstall...}Miten poistaa asennus ...
+{HTML File (*.html)}HTML-tiedosto (*.html)
+{I dislike it!}En pidä siitä!
+{I like it!}Minä pidän!
+{ID}ID
+{ID Transformer...}Tunnuksen muunto ...
+{Idle Time:}Idle-aika:
+{If no keyboard or mouse events occur for "Idle Time", "Work Time" resets.}Jos näppäimistöjä tai hiiritapahtumia ei tapahdu \"Idle Time\", \"Work Time\" nollaa.
+{If you like the software, please buy a license to make this software fully functional and remove this window.}Jos pidät ohjelmistosta, osta lisenssi, jolla tämä ohjelmisto toimii täysin ja poistaa tämän ikkunan.
+{Ignore}Ohita
+{Ignore Drive Mismatch While Unlocking}Ohita ajo-ohjus, kun olet lukinnut
+{Ignore Failed Files While Unlocking}Ohita epäonnistui -tiedostot
+{Import}Tuonti
+{Import from File...}Tuo tiedosto ...
+{IMPORTANT}TÄRKEÄÄ
+{Include my e-mail:}Sisällytä sähköpostiini:
+{Increase Font Size}Lisää fonttikokoa
+{Indicates status of keys}Osoittaa avainten tilan
+{Info}Tietoja
+{Information}Tiedot
+{Insert}Lisää
+{Insert Empty Lines}Lisää tyhjäarvot
+{Insert Same Text Multiple Times}Lisää sama teksti monta kertaa
+{Insert Same Text Multiple Times...}Lisää sama teksti monta kertaa ...
+{Insufficient stock!}-Riittämätön varasto!
+{Invalid E-mail!}Sähköposti ei kelpaa!
+{Invalid Entry!}Virheellinen merkintä!
+{Keyboard Shortcuts}Keyboard-pikakuvakkeet
+{KeyPress Simulator}Keypres-simulaattori
+{Language}Kieli
+{Language:}Kieli:
+{Language...}Kieli ...
+{LED Color (OFF):}LED-väri (OFF):
+{LED Color (ON):}LED-Color (ON)
+{Left}Vasen
+{Left click to show Stickers on top.}Vasemmalla klikkaa näyttää Stickers päällä.
+{License key is invalid!}Lisenssiavain ei kelpaa!
+{License:}Ajokortti:
+{License...}Ajokortti ...
+{Licensed}Lisensoitu
+{Licensed to:}Lisensoitu:
+{Lifetime free updates}Vapaat päivitykset
+{Light}Light
+{Line Length}Rivin pituus
+{Line Numbers}Rivinumero
+{Line Order}Rivijärjestys
+{List}Luettelo
+{Load}Lataa
+{Load And Run Operation Files...}Lataa ja aja käyttötiedostot ...
+{Load Operation File...}Lataa operaatio ...
+{Load source list from file...}Lataa lähdetiedosto tiedostosta ...
+{Load target list from file...}Lataa kohdeluettelo tiedostosta ...
+{Load vCards from VCF file...}VCF-tiedoston lataus on meneillään ...
+{Load...}Lataa ...
+{Loading}Ladataan
+{Loading...}Ladataan ...
+{Lock}Lukko
+{Lock and Unlock processes may take some time.}Lukitus-ja lukitusprosessit voivat kestää jonkin aikaa.
+{Lock Selected}Lukitse valittu
+{LOCKED}LUKITTU
+{Locking}Lukitus
+{Login (Full Access)}Sisäänkirjaus (täydet oikeudet)
+{Logout}Logout
+{lowercase}Lowercase
+{Lowercase}Lowercase
+{MAIN MENU}PÄÄVALIKKO
+{Mark as Complete}Mark valmiiksi
+{Minimal Mode}Minimaali
+{Minute}Minute
+{minutes}Minuuttia
+{Mode}Tila
+{Monitor External File Modification}Valvo ulkoisen tiedoston muutoksia
+{Month}Kuukausi
+{Monthly}Kuukausittain
+{Monthly:}Kuukausittain:
+{Move (Delete Source Files and Folders)}Siirrä (Poista lähdetiedostot ja kansiot)
+{Move Down}Siirrä alas
+{Move Info: Source files and folders were not deleted from disk because of copy error}Siirrä tietoa: Lähdetiedostoja ja kansioita ei poistettu levyltä kopiointivirheen takia
+{Move Up}Siirrä ylös
+{Multiple Files...}Useita tiedostoja ...
+{Net Encoding}Nettokoodaus
+{New}Uusi
+{New Reminder}Uusi muistutus
+{New Reminder...}Uusi muistutus ...
+{New Sticker}Uusi Sticker
+{New Window}Uusi ikkuna
+{Next Receipt Number:}Seuraava vastaanotto:
+{Next Rest:}Seuraava lepo:
+{No}Ei
+{No Audio}Ei ääntä
+{No Item Selected!}Ketään ei valittu!
+{No item selected!}Ei kohdetta valittu!
+{No nag screen, no ads}Ei nag-näyttöä, ei mainoksia
+{No Sound}Ei ääntä
+{Non-English}Muu kuin englanti
+{None}Ei
+{Not applicable!}Ei oleellinen!
+{Not Paid:}Ei maksettu:
+{Note}Huomautus
+{Note Window Margin:}Huomautus Ikkuna Marginaali:
+{Notes Manager}Notes-johtaja
+{Notes Manager...}Notes-johtaja ...
+{Num Lock}Num-lukitus
+{Num Lock: OFF}Numin lukitus: OFF
+{Num Lock: ON}Numin lukitus:
+{Number of Files:}Tiedostojen määrä:
+{Number of Times:}Timesin numero:
+{Numbers}Numerot
+{Offline Activation}Offline-aktivointi
+{OK}OK
+{Online Help}Online-ohje
+{Only Once}Vain kerran
+{Only Once:}Vain kerran:
+{Open File}Avaa tiedosto
+{Open folder location...}Avaa kansio ...
+{Open Folder Location...}Avaa kansio ...
+{Open...}Avaa ...
+{Operating Systems:}Käyttöjärjestelmät:
+{Operation File}Operaatio tiedosto
+{Operation STOPPED!}Toiminto STOPPED!
+{Operations}Toiminta
+{Options}Valinnat
+{Options...}Optiot ...
+{Ordinal Values of Characters}Merkkien perusarvot
+{Original Size}Alkuperäinen koko
+{Output:}Tuotos:
+{Overwrite Existing Files}Korvaa nykyiset tiedostot
+{Overwrite Read-Only Files}Vain luku-ja kirjoitustiedostot
+{PAID}MAKSUT
+{Paid}Maksut
+{Paid:}Maksut:
+{Password}Salasana
+{Password is changed.}Salasana on muutettu.
+{Password is incorrect!}Salasana on väärä!
+{Password not accepted!}Salasanaa ei hyväksytä!
+{Password Recovery E-mail:}Salasanan elvytys E-mail:
+{Password:}Salasana:
+{Passwords do not match!}Salasanat eivät täsmää!
+{Paste}Paste
+{Payments}Maksut
+{PDF File (*.pdf)}PDF-tiedosto (*.pdf)
+{Permanently Delete}Pysyvästi Poista
+{Permanently Delete All}Poista kaikki pysyvästi
+{Play}Soita
+{Play Sound Effect}Soita Sound Effect
+{Please add source files!}Lisää lähdetiedostot!
+{Please add target folders!}Lisää kohdekansio!
+{Please check your e-mail box.}Tarkista sähköpostiosoitteesi.
+{Please check your internet connection!}Tarkista Internet-yhteytesi!
+{Please enter barcode or product name!}Anna viivakoodi tai tuotteen nimi.
+{Please enter discount ratio:}Anna alennussuhde:
+{Please enter master password!}Anna salasana!
+{Please enter new currency symbol:}Anna uusi valuuttasymboli:
+{Please enter password:}Anna salasana:
+{Please enter unit price:}Anna yksikköhinta:
+{Please enter your license key:}Anna lisenssiavain:
+{Please enter your license key!}Anna lisenssiavain!
+{Please keep it in a safe place. You need it to unlock your files and folders.}Pidä se turvallisessa paikassa. Sinun on avattava tiedostosi ja kansiosi.
+{Please reinstall the software.}Asenna ohjelmisto uudelleen.
+{Please reopen the software without administrator privileges.}Avaa ohjelma uudelleen ilman pääkäyttäjän oikeuksia.
+{Please try again later!}Yritä myöhemmin uudelleen!
+{Please try again later.}Yritä myöhemmin uudelleen.
+{Please try:}Yritä:
+{Please type NEW password:}Kirjoita NEW-salasana:
+{Please type your CURRENT password:}Kirjoita CURRENT-salasana:
+{Please type your NEW e-mail:}Kirjoita NEW-sähköpostiosoite:
+{Please type your NEW password:}Kirjoita NEW-salasana:
+{Please type your NEW private key:}Kirjoita NEW :n yksityinen avain:
+{Please Wait For Backup Process!}Odota, että varmistusprosessi on olemassa!
+{Preview Sticker}Esikatselulaite
+{Price}Hinta
+{PRICE:}HINTA:
+{Print}Tulosta
+{Print Setup}Tulosta asetukset
+{Print Template}Tulosta mallipohja
+{Print?}Tulosta?
+{Print...}Tulosta ...
+{Printer not found!}Sormenjälkiä ei löytynyt!
+{Privacy Policy}Yksityisyyden suoja
+{Private Key}Yksityinen avain
+{Private key changed.}Yksityinen avain muuttui.
+{Process}Prosessi
+{Process completed!}Prosessi valmis!
+{Processing...}Käsittely ...
+{Product}Tuote
+{Product List}Tuoteluettelo
+{Product List...}Tuoteluettelo ...
+{PRODUCT NAME:}TUOTTEEN NIMI:
+{Product successfully activated.}Aktivointi on onnistunut.
+{Product:}Tuote:
+{PRODUCTS}TUOTTEET
+{Products}Tuotteet
+{Purchase}Ostokset
+{Quantity}Määrä
+{Random Number Generator}Satunnainen lukugeneraattori
+{Random Number Generator...}Satunnainen lukugeneraattori ...
+{Random Text Generator}Satunnainen tekstigeneraattori
+{Random Text Generator...}Satunnainen tekstigeneraattori ...
+{Randomize Line Contents}Rivin sisältö
+{Randomize Line Order}Randomize-rivijärjestys
+{Read Reviews}Renäkymien luku
+{Receipts}Vastaanotetut asiakirjat
+{Recognize Environment Variables}Tunnista ympäristömuuttujat
+{Recognize Network Drives}Verkon ajot
+{RECORD}TALLENNA
+{RECORD DATE:}TALLETUSAIKA:
+{Recover Lost Files}Vastaanotettu kadonneet tiedostot
+{Recover Password}Vastaanotettu salasana
+{Redo}Redo
+{Refresh Device List}Päivitä vianmääritys
+{Refund Policy}Palautuspolitiikka
+{Region}Alue
+{Regular Expression...}RegEx ...
+{Related Software}Muistutukset
+{Release Date:}Julkaisupäivä:
+{Remember Settings}Muista asetukset
+{Reminder}Muistutus
+{Reminders}Muistutukset
+{Remove}Poista
+{Remove All}Poista kaikki
+{Remove Selected}Poista valittu
+{Reopen}Reavaus
+{Replace}Korvaa
+{Reports}Raportit
+{Required files are missing}Pakolliset tiedostot puuttuvat
+{Reset}Palautus
+{Reset to Defaults}Palauta vianmääritys
+{Reset Work Time}Palauta työaika
+{Restart Application?}Aloita sovellus uudelleen?
+{Restore}Palautus
+{Restore from Backup...}Palauta varmistuskopio ...
+{Reverse}Peruutus
+{Reverse Line Contents}Käänteinen rivin sisältö
+{Reverse Line Sequence}Käänteinen linjan Sequence
+{Right click to add new Stickers or Reminders.}Lisää uusi Stickers-tai Reminders-vaihtoehto.
+{Run With}Aja
+{SALES}MYYNTI
+{Sample Text}Näyteteksti
+{Save}Tallenna
+{Save As...}Tallenna ...
+{Save Operation File As...}Tallenna operaatio ...
+{Save Operation File...}Tallenna operaatio ...
+{Save source list to file...}Tallenna lähdeluettelo ...
+{Save target list to file...}Tallenna kohdeluettelo ...
+{ScreenSnap}ScreenSnap
+{ScreenSnap:}ScreenSnap:
+{Scroll Lock}Scroll-lukitus
+{Scroll Lock: OFF}Scroll-lukitus: OFF
+{Scroll Lock: ON}Scroll-lukitus:
+{Search:}Haku:
+{Search...}Etsi ...
+{seconds}Sekuntia
+{Secure your files and folders}Sulje tiedostot ja kansiot
+{Select}Valitse
+{Select All}Valitse kaikki
+{Select folder:}Valitse kansio:
+{Select Language}Valitse kieli
+{Select Product}Valitse tuote
+{Select Region and Close}Valitse alue ja sulje
+{Select your favourite theme}Valitse suosikkiteema
+{Selected}Valittu
+{SELL BY CASH}MYY KÄTEISELLÄ
+{Sell by Cash}Myy käteisenä
+{SELL BY CREDIT}MYYDÄ LUOTOLLA
+{Sell by Credit}Luoton myynti
+{Send}Lähetä
+{Send e-mail?}Lähetä sähköpostia?
+{Send Feedback}Lähetä palaute
+{Send Feedback...}Lähetä palaute ...
+{Send to Recycle Bin}Lähetä polkupyörä
+{Separate by Char}Char :n erillinen
+{Separate by String}Merkkijono
+{Separate Long Lines (Break Words)}Erillinen Long Lines (tauko)
+{Separate Long Lines (Keep Words)}Erillinen Long Lines (Pidä sanat)
+{Server Time:}Palvelimen aika:
+{Server:}Palvelin:
+{Set as Default Encoding}Määritä oletuskoodiksi
+{Settings}Asetukset
+{Settings...}Asetukset ...
+{Show}Näytä
+{Show All Stickers}Näytä kaikki laitteet
+{Show Date Time}Näytä päivämäärä
+{Show Details}Näytä tiedot
+{Show Idle Time:}Näytä aika-aika:
+{Show Letters and Numbers without Special Keys}Näytä kirjeet ja numerot ilman erikoisavaimia
+{Show Notifications}Näytä ilmoitukset
+{Show when status changes}Näytä tilan muutokset
+{Show Window}Näytä ikkuna
+{Sign up}Merkki ylös
+{Small Buttons}Pienet Buttonit
+{Software}Ohjelmisto
+{Something went wrong. Your feedback could not be delivered.}Jokin meni pieleen. Palautetta ei voitu toimittaa.
+{Sort}Lajittele
+{Sort Lines}Lajittele Lines
+{Sound Effect}Äänivaikutus
+{Sound:}Ääni:
+{Source (Files, Folders, URLs)}Lähde (tiedostot, kansiot, URL-osoitteet)
+{Space key:}Tilan avain:
+{Spell Check}Käytetty tarkistus
+{Spell Checker}Spell Checker
+{Spell Checker:}Käytetty tarkistus:
+{Split Lines}Split Lines
+{Start}Aloita
+{Start Working}Aloita työ
+{Status}Tila
+{Status Bar}Tilan baari
+{Stay on Top}Pysy huipulla.
+{Stickers}Kutkaajat
+{Stock}Kanta
+{STOCK BALANCE:}VARASTOJEN TASAPAINO:
+{Stock Inventory Count Sheet}Varastoinventaariomäärä
+{Stock Inventory Count Sheet...}Varastomuutoskreivi ...
+{STOP}LOPETA
+{Success}Menestys
+{SUCCESS}MENESTYS
+{Suggested Corrections}Ehdotetut korjaukset
+{Support}Tuki
+{Sync Computer Time}Synkronointitietokoneen aika
+{Syntax}Syntaksi
+{System Error.}Järjestelmän virhe.
+{System Tray Menu}System Tray -valikko
+{Tab Options...}Tab-asetukset ...
+{Target Folder}Kohteen kansio
+{Target Folder:}Kohdekansio:
+{Target Folders}Kohteen kansiot
+{Test Alert}Testihälytys
+{Testimonials}Lausunnot
+{Text}Teksti
+{Text Color:}Tekstin väri:
+{Text File}Tekstitiedosto
+{Text File (*.txt)}Tekstitiedosto (*.txt)
+{Text File (TXT)...}Tekstitiedosto (TXT) ...
+{Text:}Teksti:
+{Thank you}Kiitos.
+{Thank you!}Kiitos!
+{The file could not be created!}Tiedoston luonti ei onnistunut!
+{The server returned an invalid response.}Palvelin palautti virheellisen vastauksen.
+{Theme}Teema
+{This is an example note.}Tämä on esimerkki.
+{This is your first sticker!}Tämä on ensimmäinen tarrasi!
+{This software works best without administrator privileges.}Tämä ohjelmisto toimii parhaiten ilman pääkäyttäjän oikeuksia.
+{Time}Aika
+{Timestamp}Aikaleima
+{To Existing Lines}Nykyisille lineille
+{To New Lines...}Uusille lehille ...
+{Tool Bar}Tool-baari
+{Tools}Työkalut
+{Top}Top
+{Top Selling Products}Top Selling -tuotteet
+{Top Selling Products...}Parhaat myytävät tuotteet ...
+{Total}Yhteensä
+{TOTAL:}YHTEENSÄ:
+{Total:}Yhteensä:
+{Translated by:}Käännetty:
+{Transparency:}Avoimuus:
+{Tray Notifications:}Junan ilmoitukset:
+{Trial}Triaali
+{TRIAL VERSION}OIKEUDENKÄYNTI
+{Trim All}Trim Kaikki
+{Trim Both}Trim molemmat
+{Trim Left}Trim vasen
+{Trim Lines}Trim Lines
+{Trim Right}Trim Oikea
+{Truly Empty Lines}Todella tyhjät rivit
+{Try to run as Administrator.}Yritä ajaa pääkäyttäjänä.
+{Type}Tyyppi
+{Undo}Undo
+{Unicode Detector}Unicode-detektori
+{Unit}Yksikkö
+{UNLICENSED}LUVATON
+{Unlock}Unlock
+{UNLOCK ERROR}ODOTTAMATON VIRHE
+{Unlock Selected}Unlock-valinta
+{Unlocked}Avaa
+{Unlocking}Avaa lukitus
+{Unnamed}Nimetty
+{UPDATE}PÄIVITÄ
+{UPDATE AVAILABLE}PÄIVITYS KÄYTETTÄVISSÄ
+{Update Notifications}Päivitä ilmoitukset
+{UPPERCASE}UPPERCASE
+{Uppercase and Lowercase}Uppercase ja Lowercase
+{URL Highlighter (No Spell Check)}URL-osoitteen korostus (ei käytössä)
+{USE AT YOUR OWN RISK!}KÄYTÄ OMAA RISKIÄSI!
+{User Interface Language:}Käyttäjän liittymäkieli:
+{User will press keys}Käyttäjä antaa avaimet
+{using Characters}Merkkien käyttö
+{using Text}Teksti
+{using Text Length}Tekstin pituus
+{VCF Files (*.vcf)}VCF-tiedostot (*.vcf)
+{Version History}Versiohistoria
+{Video file error!}Videotiedoston virhe!
+{View}Näytä
+{Vovsoft Newsletter}Vovpehmeä Newsletter
+{Warning}Varoitus
+{WARNING}VAROITUS
+{We would really appreciate your feedback.}Arvostaisimme todella palautettanne.
+{Weekdays}Viikoajat
+{Welcome to %s}Tervetuloa %s
+{Welcome to Our Shop}Tervetuloa Shopiin.
+{What did you like or dislike?}Mistä pidit, vai et?
+{Which Customer?}Mikä asiakas?
+{Width:}Leveys:
+{Word Wrap}Sana Wrap
+{Work Time:}Työaika:
+{Wrong Admin Password!}Väärä salasana!
+{Wrong password!}Väärä salasana!
+{X:}X:
+{Y:}Y:
+{Yes}Kyllä
+{You are not logged as admin!}Et ole kirjautunut pääkäyttäjänä!
+{You can preview the font and color settings here.}Tässä näkyy fontin ja väriasetusten esikatselu.
+{You cannot use this feature in unlicensed edition.}Tätä ominaisuutta ei voi käyttää lisensoimattomassa laitoksessa.
+{Your feedback is received.}Palautteesi on vastaanotettu.
+{Your master password is successfully set.}Pääsalasana on asetettu.
+{Aborted}
+{Add Files in Folders...}
+{Add M3U8}
+{ASCII Art...}
+{Auto-Close Main Window}
+{Calculate}
+{Calculating all possibilities...}
+{Calculation Results:}
+{Change Auto-Close Time}
+{Change Auto-Close Time...}
+{Change Destination Folder}
+{Classic}
+{Click "New Sticker"}
+{Completed}
+{Default CSV Format}
+{Destination:}
+{Directory is not writable!}
+{Directory not found!}
+{Display Duration:}
+{Do you want to delete all stickers, reminders, settings and restart application?}
+{Do you want to replace the sticker with the image?}
+{Don't show this again}
+{Downloading...}
+{Draw mouse pointer}
+{E-mail not found!}
+{Edit M3U8}
+{Edit...}
+{Exported Entries:}
+{Fade-out Animation}
+{File Mask:}
+{File or Folder:}
+{Fix Broken UTF-8 Encoding}
+{For 1}
+{For 10}
+{For 100}
+{For 20}
+{For 200}
+{For 5}
+{For 50}
+{Format:}
+{Generate Domain Name List}
+{Generate Hostname List}
+{Generate URL List}
+{Go}
+{Google CSV Format}
+{Hardware encoding}
+{Height}
+{Hide}
+{HINT}
+{How to create new sticky note:}
+{Include Subdirectories?}
+{Initializing...}
+{Invert Selection}
+{Length}
+{Line}
+{LIST ALL}
+{List of Containers:}
+{List of Loads:}
+{List...}
+{Load Limit}
+{milliseconds}
+{Minimize when recording starts}
+{Monitor}
+{Name}
+{Name of Container}
+{Name of Load}
+{No erroneous e-mail found.}
+{No replacements made.}
+{No sticky notes left on the desktop!}
+{No text selected!}
+{Offset}
+{Only %s entries exported using unlicensed version.}
+{Outlook CSV Format}
+{Output}
+{Please add containers!}
+{Please add loads!}
+{Please obtain a license key to activate the software.}
+{Properties}
+{Ready}
+{Recording...}
+{Refresh Hardware Encodings}
+{Regular Expression}
+{Restore when recording is complete}
+{Right-click tray icon}
+{Sample Values}
+{Save Results}
+{Search}
+{Search Every Line with Google}
+{Software encoding}
+{Text Engine}
+{Text not found!}
+{The specified region is not valid!}
+{This is required for importing in Gmail and Outlook.}
+{TRIAL LIMIT REACHED!}
+{URL not found!}
+{URL Processor}
+{using File}
+{Volume}
+{Volume Limit}
+{Volume of Container}
+{Volume of Load}
+{Width}
+{You are here:}
+{You can't go further than:}
+{You want to go to:}

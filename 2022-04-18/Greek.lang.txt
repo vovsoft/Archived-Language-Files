@@ -1,0 +1,830 @@
+﻿{INFO:Translated By}Anonymous
+{12 hour}12 ώρες
+{24 hour}24 ώρες
+{A required file is missing:}Λείπει ένα απαιτούμενο αρχείο:
+{Ability to disable update notifications}Δυνατότητα απενεργοποίησης ειδοποιήσεων ενημέρωσης
+{Aborted}Ματωμένη.
+{About}Σχετικά με
+{About Us}Σχετικά με εμάς
+{About...}Σχετικά με ...
+{Access is denied.}Η πρόσβαση απορρίπτεται.
+{Acknowledgements...}Αναγνώριση ...
+{Activation}Ενεργοποίηση:
+{Activation Code:}Κωδικός ενεργοποίησης:
+{Activation failed.}Η ενεργοποίηση απέτυχε.
+{Active}Ενεργός.
+{ADD}ΠΡΟΣΘΉΚΗ
+{Add}Προσθήκη
+{Add context menu item}Προσθήκη στοιχείου μενού περιβάλλοντος
+{Add Dictionary...}Προσθήκη λεξικού ...
+{Add Drive}Προσθήκη Drive
+{Add File}Προσθήκη αρχείου
+{Add File(s)}Προσθήκη αρχείου (ων)
+{Add File(s)...}Προσθήκη αρχείων ...
+{Add Files in Folders...}Προσθήκη αρχείων σε φακέλους ...
+{Add Files...}Προσθήκη αρχείων ...
+{Add Folder}Προσθήκη φακέλου
+{Add Folder...}Προσθήκη φακέλου ...
+{Add Folders...}Προσθήκη φακέλων ...
+{Add M3U8}Προσθήκη M3U8
+{Add Product Manually}Μη αυτόματη προσθήκη προϊόντος
+{Add Recursive Subfolders...}Προσθήκη Διαμεριστικών υποφακέλων ...
+{Add Subfolders...}Προσθήκη υποφακέλων ...
+{Add URL(s)...}Προσθήκη URL ...
+{Add URLs...}Προσθήκη URL ...
+{Add using Environment Variables}Προσθήκη χρήσης μεταβλητών περιβάλλοντος
+{Add Word To Dictionary}Προσθήκη λέξης στο λεξικό
+{Admin Password}Κωδικός πρόσβασης διαχειριστή
+{Alert Text:}Κείμενο προειδοποίησης:
+{All Customers}Όλοι οι πελάτες
+{All files must be unlocked before changing private key!}Όλα τα αρχεία πρέπει να ξεκλειδωθούν πριν αλλάξετε το ιδιωτικό κλειδί!
+{All files must be unlocked before enabling or disabling content encryption!}Όλα τα αρχεία πρέπει να ξεκλειδωθούν πριν την ενεργοποίηση ή απενεργοποίηση της κρυπτογράφησης περιεχομένου!
+{All Products}Όλα Τα Προϊόντα
+{Alphabet}αλφάβητο
+{Alphabetical}Αλφαβητική
+{Always on Top}Πάντα στην κορυφή
+{Always on top}Πάντα στην κορυφή
+{Always show when toggled on}Πάντα εμφάνιση όταν toggled on
+{An error occurred while creating directory:}Προέκυψε σφάλμα κατά τη δημιουργία του καταλόγου:
+{An error occurred while unlocking:}Παρουσιάστηκε σφάλμα κατά το ξεκλείδωμα:
+{Analyze...}Ανάλυση ...
+{And please backup your important files and folders before locking in case of hardware or software failure.}Και παρακαλώ κάντε backup τα σημαντικά αρχεία και τους φακέλους σας πριν το κλείδωμα σε περίπτωση βλάβης υλικού ή λογισμικού.
+{Annually}Ετησίως
+{Annually:}Ετηματικά:
+{Any File}Οποιοδήποτε Αρχείο
+{Any File (*.*)}Κάθε Αρχείο (*.*)
+{Are you sure?}Είσαι σίγουρος?
+{Arrange Stickers}Δεξαμενές Arrange
+{ASCII Art...}Τέχνη ASCII ...
+{Ask Print}Ρωτήστε Εκτύπωση
+{Audio File}Αρχείο ήχου:
+{Audio file error!}Σφάλμα αρχείου ήχου!
+{Auto Copy Highlighted Text to Clipboard}Αυτόματη Αντιγραφή επισήμανσης κειμένου στο πρόχειρο
+{Auto Refresh File}Αυτόματη ανανέωση αρχείου
+{Auto Run at Startup}Αυτόματη εκτέλεση στο Startup
+{Auto-Close Main Window}Αυτόματο κλείσιμο κύριου παραθύρου
+{Auto-Close Popup Window After Finishing}Αυτόματο κλείσιμο αναδυόμενου παραθύρου μετά το τέλος
+{Auto-Closing...}Αυτόματο Κλείσιμο ...
+{Auto-Refresh Drive List}Αυτόματη ανανέωση της λίστας Drive
+{Auto-Start at Startup}Αυτόματη έναρξη στο Startup
+{Automatic}Αυτόματο
+{Automatically Synchronize}Αυτόματη Συγχρονισμός:
+{Background Color:}Χρώμα φόντου:
+{Backup Registry...}Εφεδρικό μητρώο ...
+{Backup Stickers}Εφεδρικά αυτοκόλλητα
+{Backup...}Αντιγράφων ασφαλείας ...
+{Begin:}Έναρξη:
+{Beginning of Each Line...}Αρχή κάθε γραμμής ...
+{Big Icons}Μεγάλα εικονίδια.
+{Blog}Ιστολόγιο:
+{BREAK TIME!}ΏΡΑ ΓΙΑ ΔΙΆΛΕΙΜΜΑ!
+{Browse...}Αναζήτηση ...
+{Buy Now}Αγοράστε τώρα.
+{Calculate}Υπολογισμός:
+{Calculating all possibilities...}Υπολογίζω όλες τις πιθανότητες ...
+{Calculation Results:}Αποτελέσματα υπολογισμού:
+{Cancel}Ακύρωση.
+{Cancel product selection}Ακύρωση επιλογής προϊόντος
+{CANCELED by User Request}ΑΚΥΡΩΣΗ από αίτηση χρήστη
+{Canceled!}Ακύρωσε!
+{Cannot create file}Αποτυχία δημιουργίας αρχείου.
+{Capitalize (First Letters Only)}Κεφαλαία (Μόνο Πρώτα Γράμματα)
+{Caps Lock}Κλείδωμα Caps
+{Caps Lock: OFF}Caps Lock: OFF
+{Caps Lock: ON}Caps Lock: ON
+{Cascade}αλληλουχία
+{Category:}Κατηγορία:
+{Change Auto-Close Time}Αλλαγή ώρας αυτόματης κλεισίματος
+{Change Auto-Close Time...}Αλλαγή Αυτόματος Χρόνου ...
+{Change Background Color}Αλλαγή χρώματος φόντου
+{Change Background Color...}Αλλαγή χρώματος φόντου ...
+{Change Destination Folder}Αλλαγή φακέλου προορισμού
+{Change File Location...}Αλλαγή θέσης αρχείου ...
+{Change Font...}Αλλαγή γραμματοσειράς ...
+{Change Interface}Αλλαγή διασύνδεσης
+{Change Login Password...}Αλλαγή κωδικού πρόσβασης ...
+{Change Menu Font...}Αλλαγή γραμματοσειράς μενού ...
+{Change Private Key...}Αλλαγή ιδιωτικού κλειδιού ...
+{Change Recovery E-mail}Αλλαγή e-mail αποκατάστασης
+{Change Text Font}Αλλαγή γραμματοσειράς κειμένου
+{Change Theme}Αλλαγή θέματος:
+{Change Theme...}Αλλαγή θέματος ...
+{Change:}Αλλαγή:
+{Classic}Κλασικό.
+{Classical Interface}Κλασσική διεπαφή
+{Clear}Εκκαθάριση
+{Click "New Sticker"}Πατήστε "Νέο Sticker"
+{Click to download}Κάντε κλικ για λήψη
+{Clip Lines...}Γραμμές Κλιπ ...
+{Close}Κλείσιμο
+{Code:}Κωδικός:
+{Combine Lines...}Συνδυασμός γραμμών ...
+{Comma-Separated Values File (CSV)...}Αρχείο τιμών διαχωρισμένων με κόμματα (CSV) ...
+{Commercial use allowed}Επιτρέπεται εμπορική χρήση.
+{Company}Λόχος:
+{Compare Two Texts...}Σύγκριση Δύο Κειμένων ...
+{Completed}Ολοκληρώθηκε:
+{Completed!}Ολοκληρώθηκε!
+{Completed.}Ολοκληρώθηκε.
+{Computer Code:}Κωδικός Υπολογιστή:
+{Computer Time:}Χρόνος Υπολογιστή:
+{Computer Timezone:}Ζώνη ώρας υπολογιστών:
+{Computer will press keys}Ο υπολογιστής θα πατήσει τα κλειδιά
+{Confirm Before Deletion}Επιβεβαίωση πριν τη διαγραφή
+{Confirm Password:}Επιβεβαίωση κωδικού:
+{Confirm?}Επιβεβαιώνω?
+{Confirmation}Επιβεβαίωση
+{Connection Error!}Σφάλμα σύνδεσης!
+{Contact}Επικοινωνία:
+{Content Encryption (SLOW)}Κρυπτογράφηση περιεχομένου (ΑΡΓΗ)
+{Content encryption is enabled.}Η κρυπτογράφηση περιεχομένου είναι ενεργοποιημένη.
+{Continue}Συνέχεια:
+{Contribute to Translation}Συνεισφορά στη μετάφραση:
+{Convert Non-English Chars to English Chars}Μετατροπή μη αγγλικών Chars στα αγγλικά Chars
+{Copied}Αντιγραφή
+{Copy}Αντιγραφή
+{Copy All}Αντιγραφή όλων
+{Copy files to many directories}Αντιγραφή αρχείων σε πολλούς καταλόγους
+{COPY INTO TARGET FOLDERS}ΑΝΤΙΓΡΑΦΉ ΣΕ ΦΑΚΈΛΟΥΣ ΠΡΟΟΡΙΣΜΟΎ
+{CREDIT:}ΔΆΝΕΙΑ:
+{Credits}Credits
+{CSV File}Αρχείο CSV
+{CSV File (*.csv)}Αρχείο CSV (*.csv)
+{Currency Symbol}Σύμβολο νομίσματος
+{Customer}Πελάτης:
+{Customer with credit cannot be deleted!}Ο Πελάτης με πίστωση δεν μπορεί να διαγραφεί!
+{CUSTOMER:}ΠΕΛΆΤΗΣ:
+{Customer:}Πελάτης:
+{CUSTOMERS}ΠΕΛΆΤΕΣ:
+{Customers}Πελάτες:
+{Cut}Κόψτε!
+{Daily}Ημερήσιο
+{Daily:}Καθημερινά:
+{Dark}Σκοτάδι
+{Date}Ημερομηνία
+{Date and Time}Ημερομηνία και ώρα:
+{Day}Ημέρα
+{Daylight Saving:}Αποθήκευση Daylight:
+{Decode...}Αποκωδικοποίηση ...
+{Decrease Font Size}Μείωση μεγέθους γραμματοσειράς
+{Default}Προεπιλογή:
+{Default Alphabet}Προεπιλεγμένο αλφάβητο
+{Default CSV Format}Προεπιλεγμένη μορφή CSV
+{Del key:}Το κλειδί:
+{Delete}Διαγραφή:
+{DELETE}ΔΙΑΓΡΑΦΉ:
+{Delete After}Διαγραφή:
+{DELETE ALL}ΔΙΑΓΡΑΦΉ ΌΛΩΝ:
+{Delete All}Διαγραφή όλων:
+{Delete All Spaces}Διαγραφή όλων των χώρων
+{Delete Alphabetic [a-z] [A-Z]}Διαγραφή Αλφαβήτου [a-z] [A-Z]
+{Delete Alphanumeric [a-z] [A-Z] [0-9]}Διαγραφή αλφαριθμητικών [a-z] [A-Z] [0-9]
+{Delete Before}Διαγραφή:
+{Delete Beginning or Ending Strings...}Διαγραφή έναρξης ή διαγραφής σειρών χαρακτήρων ...
+{Delete Chars}Διαγραφή Chars
+{DELETE CUSTOMER}ΔΙΑΓΡΑΦΉ ΠΕΛΆΤΗ
+{Delete Customer}Διαγραφή πελάτη
+{Delete Extra Spaces}Διαγραφή επιπλέον χώρων
+{Delete last entered product}Διαγραφή του τελευταίου προϊόντος
+{Delete Non-Alphabetic}Μη-Αλφαβητική
+{Delete Non-Alphanumeric}Διαγραφή μη αλφαριθμητικών
+{Delete Numbers [0-9]}Αριθμοί διαγραφής [0-9]
+{DELETE PRODUCT}ΔΙΑΓΡΑΦΉ ΠΡΟΪΌΝΤΟΣ
+{Delete Record}Διαγραφή εγγραφής.
+{Delete Reminder}Διαγραφή υπενθύμιου
+{Delete Selected}Διαγραφή επιλεγμένων:
+{Delete Unnecessary Lines}Διαγραφή μη απαραίτητων γραμμών
+{Delete?}Διαγράφω?
+{Deleted}Διαγράφηκε.
+{Deselect All}Αποεπιλογή όλων:
+{Destination:}Προορισμός:
+{DETAILS}ΛΕΠΤΟΜΈΡΕΙΕΣ
+{Diagonal}Διαγώνιος
+{Directory is not writable!}Ο κατάλογος δεν μπορεί να τροποποιηθεί!
+{Directory not found!}Ο κατάλογος δεν βρέθηκε!
+{Directory:}Κατάλογος:
+{Disabled}άτομα με ειδικές ανάγκες
+{Discount}Έκπτωση:
+{Discounted Price}Τιμή προεξόφλησης
+{Discounted Total}Σύνολο με έκπτωση
+{Disk Write Interval (sec):}Διάστημα εγγραφής δίσκου (δευτ):
+{Dismiss}Απολύω
+{Display Duration:}Διάρκεια εμφάνισης:
+{Display Load Time}Εμφάνιση ώρας φόρτωσης
+{Display Prices}Εμφάνιση τιμών:
+{Display Special Chars}Εμφάνιση ειδικών Chars
+{Do you really want to delete ALL stickers?}Θέλετε πραγματικά να διαγράψετε όλα τα αυτοκόλλητα;
+{Do you really want to delete the reminder?}Θέλετε πραγματικά να διαγράψετε την υπενθύμιση;
+{Do you really want to delete the sticker?}Θέλετε πραγματικά να διαγράψετε το αυτοκόλλητο;
+{Do you want to delete all stickers, reminders, settings and restart application?}Θέλετε να διαγράψετε όλα τα αυτοκόλλητα, υπενθυμίσεις, ρυθμίσεις και επανεκκίνηση;
+{Do you want to replace the sticker with the image?}Θέλετε να αντικαταστήσετε το αυτοκόλλητο με την εικόνα;
+{Do you want to save the current file before exit?}Θέλετε να αποθηκεύσετε το τρέχον αρχείο πριν την έξοδο;
+{Do you want to save the current file?}Θέλετε να αποθηκεύσετε το τρέχον αρχείο;
+{Do you want to save this file before exit?}Θέλετε να αποθηκεύσετε αυτό το αρχείο πριν την έξοδο;
+{Do you want to save this file?}Θέλετε να αποθηκεύσετε αυτό το αρχείο;
+{Don't show this again}Μην το ξαναπεις αυτο.
+{Download}& Λήψη
+{Downloading...}Μεταφόρτωση ...
+{Drag Drop Filenames}Σύρετε Αποθέστε ονόματα αρχείων
+{Draw mouse pointer}Δείκτης ποντικιού.
+{Drive}Δίσκος
+{DRIVE MISMATCH}ΑΝΤΙΣΤΟΙΧΙΑ ΟΔΗΓΙΩΝ
+{Drive:}Οδήγηση:
+{Duplicate Lines}Διπλότυπες γραμμές
+{E-mail is changed.}Αλλάζει το e-mail.
+{E-mail not accepted!}Το e-mail δεν έγινε δεκτό!
+{E-mail not found!}Το e-mail δεν βρέθηκε!
+{E-mail Processor}επεξεργαστής e-mail
+{Edit}Επεξεργασία
+{Edit License}Τροποποίηση άδειας χρήσης
+{Edit License...}Τροποποίηση άδειας ...
+{Edit M3U8}Τροποποίηση M3U8
+{Edit Password}Τροποποίηση κωδικού πρόσβασης
+{Edit...}Επεξεργασία ...
+{Elapsed Time:}Χρόνος που πέρασε:
+{Email Address}Διεύθυνση email
+{Empty}Αδειάζω
+{Empty Lines (can include spaces and tabs)}Κενές γραμμές (μπορούν να περιλαμβάνουν χώρους και καρτέλες)
+{Enable}επιτρέπω
+{Enabled}Ενεργοποιήθηκε
+{Encode...}Ο κωδικός ...
+{Encoding}Κωδικοποίηση
+{Encryption}Κρυπτογράφηση
+{End of Each Line...}Τέλος κάθε γραμμής ...
+{End-User License Agreement}Σύμβαση άδειας χρήσης τελικού χρήστη
+{End:}Τέλος:
+{English}Αγγλικά:
+{Enter License Key}Εισαγωγή κλειδιού άδειας χρήσης
+{Entire Document}Ολόκληρα το έγγραφο
+{Error}Σφάλμα:
+{ERROR}ΣΦΆΛΜΑ:
+{Error No:}Σφάλμα:
+{ESC key:}κλειδί ESC:
+{Excel File (*.xls)}Αρχείο Excel (*.xls)
+{Excel File (XLS)...}Αρχείο Excel (XLS) ...
+{Exit}Έξοδος:
+{Exit Application?}Εφαρμογή εξόδου;
+{Exit...}Έξοδος ...
+{EXITING...}ΈΞΟΔΟΣ ...
+{Explore Dictionaries...}Εξερεύνηση λεξικών ...
+{Export}Εξαγωγή
+{Export Lines to Files}Εξαγωγή γραμμών σε αρχεία
+{Export Lines to Files...}Εξαγωγή γραμμών σε αρχεία ...
+{Export to File...}Εξαγωγή σε αρχείο ...
+{Export to HTML...}Εξαγωγή σε μορφή HTML ...
+{Export to PDF...}Εξαγωγή σε PDF ...
+{Exported Entries:}Εξαχθείσες καταχωρήσεις:
+{Extract Image...}Εξαγωγή εικόνας ...
+{Extract Text...}Εξαγωγή κειμένου ...
+{Extras}Extras
+{Failed}Αποτυχία.
+{Failure}Αποτυχία
+{Feedback}Σχόλια
+{feedback}σχόλια
+{File}Αρχείο
+{File already exists!}Το αρχείο υπάρχει ήδη!
+{File does NOT exist:}Το αρχείο ΔΕΝ υπάρχει:
+{File inaccessible!}Απρόσιτο αρχείο!
+{File List}Λίστα αρχείων
+{File Location}Θέση αρχείου
+{File Location:}Θέση αρχείου:
+{File lock error!}Σφάλμα κλειδώματος!
+{File Mask}Μάσκα αρχείου
+{File Mask:}Μάσκα αρχείου:
+{File not found!}Το αρχείο δεν βρέθηκε!
+{File or Folder:}Αρχείο ή φάκελος:
+{Filename:}Όνομα αρχείου:
+{Files & Folders}Αρχεία & φάκελοι
+{Filter Lines}Γραμμές φίλτρου
+{Find}Εύρεση
+{Find Erroneous E-mails}Εύρεση εσφαλμένων E-mails
+{Find Lines}Εύρεση γραμμών
+{Find Lines...}Εύρεση γραμμών ...
+{Find Next}Εύρεση:
+{Find Next Misspelling}Εύρεση Next Misορθογραφίας
+{Fix Broken UTF-8 Encoding}Διορθώστε τη σπασμένη κωδικοποίηση UTF-8
+{Fixed-Pitch Fonts Only}Μόνο Γραμματοσειρές Σταθερής Pitch
+{Folder}Φάκελος
+{Folder does NOT exist:}Ο φάκελος ΔΕΝ υπάρχει:
+{Folder Size:}Μέγεθος φακέλου:
+{Folder:}Ο φάκελος:
+{For 1}Για 1
+{For 10}Για 10
+{For 100}Για 100
+{For 20}Για 20
+{For 200}Για 200
+{For 5}Για 5
+{For 50}Για 50
+{Forgot Password?}Ξέχασες τον κωδικό?
+{Format:}Μορφή:
+{FREE}ΕΛΕΎΘΕΡΗ
+{Free to try}Δωρεάν για δοκιμή.
+{FREEWARE}ΑΚΊΝΗΤΗ
+{Freeware}Ακίνητη
+{Freeware Utilities}Utilities Freeware
+{Full Screen}Πλήρης οθόνη
+{Generate Barcode Image...}Δημιουργία εικόνας κώδικα ...
+{Generate Domain Name List}Δημιουργία λίστας ονομάτων τομέα
+{Generate E-mail List}Δημιουργία λίστας e-mail
+{Generate Hostname List}Δημιουργία λίστας ονομάτων υπολογιστή
+{Generate URL List}Δημιουργία λίστας διευθύνσεων URL
+{Generate Word List}Δημιουργία λίστας λέξεων
+{Get Server Time}Λήψη ώρας εξυπηρετητή
+{Go to...}Πήγαινε στο ...
+{Google CSV Format}Μορφή CSV Google
+{GRAND TOTAL:}ΓΕΝΙΚΌ ΣΎΝΟΛΟ:
+{Hardware encoding}κωδικοποίηση υλικού εξοπλισμού
+{Header}Κεφαλίδα:
+{Headers}Κεφαλίδες.
+{Height}Υψος
+{Height:}Υψος:
+{Help}Βοήθεια
+{Hidden}Κρυμμένος
+{Hide}Κρύψου
+{Hide All Stickers}Απόκρυψη όλων των δεικτών
+{Hide Details}Απόκρυψη λεπτομερειών
+{Highlight Active Line}Υψηλή ενεργή γραμμή
+{Highlight Even Lines}Highlight ακόμα και γραμμές
+{Highlight Odd Lines}Επισήμανση Odd Lines
+{HINT}ΙΧΝΟΣ
+{Hourly}Ωριαία.
+{Hourly:}Ωριαία:
+{How to create new sticky note:}Πώς να δημιουργήσετε νέο σημείωμα:
+{How to uninstall...}Πώς να απεγκαταστήσετε ...
+{HTML File (*.html)}Αρχείο HTML (*.html)
+{I dislike it!}Δεν μου αρέσει!
+{I like it!}Μου αρέσει!
+{ID}ID
+{ID Transformer...}Ταυτότητα μετασχηματιστή ...
+{Idle Time:}Χρόνος αδράνειας:
+{If no keyboard or mouse events occur for "Idle Time", "Work Time" resets.}Αν δεν υπάρχουν συμβάντα πληκτρολογίου ή ποντικιού για το "Idle Time", το "Work Time" επανέρχεται.
+{If you like the software, please buy a license to make this software fully functional and remove this window.}Αν σας αρέσει το λογισμικό, παρακαλούμε να αγοράσετε μια άδεια για να κάνει αυτό το λογισμικό πλήρως λειτουργικό και να αφαιρέσετε αυτό το παράθυρο.
+{Ignore}Παράβλεψη.
+{Ignore Drive Mismatch While Unlocking}Παράβλεψη ασυμφωνίας Drive κατά την ενότητα
+{Ignore Failed Files While Unlocking}Παράβλεψη αποτυχημένων αρχείων κατά το ξεκλείδωμα
+{Import}Εισαγωγή:
+{Import from File...}Εισαγωγή από αρχείο ...
+{IMPORTANT}ΣΠΟΥΔΑΙΟΣ
+{Include my e-mail:}Συμπεριλάβετε το e-mail μου:
+{Include Subdirectories?}Συμπερίληψη υποκαταλόγων;
+{Increase Font Size}Αύξηση μεγέθους γραμματοσειράς
+{Indicates status of keys}Δηλώνει την κατάσταση κλειδιών.
+{Info}Info
+{Information}Πληροφορίες
+{Initializing...}Αρχικοποίηση ...
+{Insert}Εισαγωγή:
+{Insert Empty Lines}Εισαγωγή κενών γραμμών
+{Insert Same Text Multiple Times}Εισαγωγή Ίδιο Κείμενο Πολλές Φορές
+{Insert Same Text Multiple Times...}Εισάγετε Ίδιο Κείμενο Πολλές Φορές ...
+{Insufficient stock!}Ανεπαρκές απόθεμα!
+{Invalid E-mail!}Μη έγκυρο e-mail!
+{Invalid Entry!}Μη έγκυρη καταχώρηση!
+{Invert Selection}Επαναφορά επιλογής:
+{Keyboard Shortcuts}Συντομεύσεις πληκτρολογίου
+{KeyPress Simulator}Προσομοίωση KeyPress
+{Language}Γλώσσα
+{Language:}Γλώσσα:
+{Language...}Η γλώσσα ...
+{LED Color (OFF):}Χρώμα LED:
+{LED Color (ON):}Χρώμα LED (ON):
+{Left}Αριστερά!
+{Left click to show Stickers on top.}Αριστερό κλικ για να δείξει Stickers στην κορυφή.
+{Length}Μήκος:
+{License key is invalid!}Το κλειδί άδειας δεν είναι έγκυρο!
+{License:}Άδεια Χρήσης:
+{License...}Η άδεια ...
+{Licensed}Αδειες
+{Licensed to:}Χορήγηση άδειας:
+{Lifetime free updates}Ενημερώσεις Lifetime
+{Light}Φως!
+{Line Length}Μήκος γραμμής
+{Line Numbers}Αριθμοί γραμμών
+{Line Order}Σειρά γραμμής:
+{List}Λίστα
+{LIST ALL}ΚΑΤΑΛΟΓΟΣ ΟΛΩΝ
+{List of Containers:}Λίστα με θέσεις υποδοχής:
+{List of Loads:}Κατάλογος Loads:
+{List...}Λίστα ...
+{Load}Φόρτωση.
+{Load And Run Operation Files...}Φόρτωση Και Εκτέλεση Αρχείων Επιχειρήσεων ...
+{Load Limit}Όριο φόρτωσης
+{Load Operation File...}Φόρτωση αρχείου λειτουργίας ...
+{Load source list from file...}Φόρτωση λίστας πηγών από αρχείο ...
+{Load target list from file...}Φόρτωση λίστας προορισμού από αρχείο ...
+{Load vCards from VCF file...}Φόρτωση vCard από το αρχείο VCF ...
+{Load...}Φόρτωση ...
+{Loading}Φόρτωση:
+{Loading...}Φόρτωση ...
+{Lock}Κλείδωμα!
+{Lock and Unlock processes may take some time.}Οι διαδικασίες κλειδώματος και ξεκλειδώματος ενδέχεται να χρειαστούν κάποιο χρόνο.
+{Lock Selected}Επιλογή κλειδώματος
+{LOCKED}ΚΛΕΙΔΩΜΈΝΟ.
+{Locking}Κλειδώματα.
+{Login (Full Access)}Σύνδεση (Πλήρης Πρόσβαση)
+{Logout}Αποσύνδεση:
+{lowercase}κεφαλαία.
+{Lowercase}Lowercase.
+{MAIN MENU}ΚΎΡΙΟ ΜΕΝΟΎ
+{Mark as Complete}Σήμανση ως ολοκληρωμένης
+{milliseconds}χιλιοστά του δευτερολέπτου
+{Minimal Mode}Ελάχιστη λειτουργία
+{Minimize when recording starts}Ελαχιστοποίηση κατά την εκκίνηση
+{Minute}Λεπτό
+{minutes}λεπτά.
+{Mode}Τρόπος λειτουργίας
+{Monitor}Παρακολούθηση:
+{Monitor External File Modification}Τροποποίηση εξωτερικών αρχείων του Monitor
+{Month}Μήνας:
+{Monthly}Μηνιαίο
+{Monthly:}Μηνιαία:
+{Move (Delete Source Files and Folders)}Μεταφορά (Διαγραφή αρχείων πρωτογενούς κώδικα και φακέλων)
+{Move Down}Κάτω!
+{Move Info: Source files and folders were not deleted from disk because of copy error}Μεταφορά πληροφοριών: Τα αρχεία και οι φάκελοι πρωτογενούς κώδικα δεν διαγράφηκαν από το δίσκο λόγω σφάλματος αντιγραφής
+{Move Up}Μετακίνηση επάνω
+{Multiple Files...}Πολλαπλά αρχεία ...
+{Name}Ονομα
+{Name of Container}Όνομα του περιέκτη
+{Name of Load}Όνομα φορτίου:
+{Net Encoding}Καθαρή κωδικοποίηση.
+{New}Νέος
+{New Reminder}Νέα Υπενθύμιση
+{New Reminder...}Νέα Υπενθύμιση ...
+{New Sticker}Νέο Sticker
+{New Window}Νέο παράθυρο:
+{Next Receipt Number:}Επόμενο Αριθμός Παραλαβής:
+{Next Rest:}Επόμενη ανάπαυση:
+{No}Οχι
+{No Audio}Χωρίς ήχο
+{No erroneous e-mail found.}Δεν βρέθηκε λάθος e-mail.
+{No Item Selected!}Δεν έχει επιλεγεί στοιχείο!
+{No item selected!}Δεν έχει επιλεγεί στοιχείο!
+{No nag screen, no ads}Ούτε οθόνη, ούτε διαφημίσεις
+{No replacements made.}Όχι αντικαταστάτες.
+{No Sound}Χωρίς ήχο
+{No sticky notes left on the desktop!}Δεν υπάρχουν κολλώδη σημειώσεις στην επιφάνεια εργασίας!
+{No text selected!}Δεν επιλέχθηκε κείμενο!
+{Non-English}Μη-Αγγλικά
+{None}Κανένας
+{Not applicable!}Δεν εφαρμόζεται!
+{Not Paid:}Μη Πληρωμη:
+{Note}Σημείωση:
+{Note Window Margin:}Περιθώριο σημείωσης:
+{Notes Manager}Διαχειριστής του Notes
+{Notes Manager...}Διαχείριση των Notes ...
+{Number of Files:}Αριθμός αρχείων:
+{Number of Times:}Αριθμός Times:
+{Numbers}Αριθμοί
+{Offline Activation}Ενεργοποίηση-Ενεργοποίηση
+{OK}Εντάξει
+{Online Help}Διαδικτυακή βοήθεια
+{Only %s entries exported using unlicensed version.}Μόνο %s καταχωρήσεις που έχουν εξαχθεί με μη εξουσιοδοτημένη έκδοση.
+{Only Once}Μόνο μία φορά
+{Only Once:}Μόνο μία φορά:
+{Open File}Άνοιγμα αρχείου
+{Open folder location...}Άνοιγμα θέσης φακέλου ...
+{Open Folder Location...}Άνοιγμα θέσης φακέλου ...
+{Open...}Ανοιξε...
+{Operating Systems:}Λειτουργικά συστήματα:
+{Operation File}Αρχείο λειτουργίας:
+{Operation STOPPED!}Η λειτουργία ΣΤΑΜΑΤΗΣΕ!
+{Operations}Ενέργειες
+{Options}Επιλογές
+{Options...}Επιλογές ...
+{Ordinal Values of Characters}Τακτικές αξίες χαρακτήρων
+{Original Size}Αρχικό μέγεθος
+{Outlook CSV Format}Μορφή CSV Outlook
+{Output}Παραγωγή
+{Output:}Έξοδος:
+{Overwrite Existing Files}Αντικατάσταση υπαρχόντων αρχείων
+{Overwrite Read-Only Files}Αντικατάσταση αρχείων μόνο για ανάγνωση
+{PAID}ΕΠΙ ΠΛΗΡΩΜΗ
+{Paid}επί πληρωμή
+{Paid:}Επί πληρωμή:
+{Password}Κωδικός πρόσβασης
+{Password is changed.}Ο κωδικός πρόσβασης άλλαξε.
+{Password is incorrect!}Ο κωδικός είναι λάθος!
+{Password not accepted!}Ο κωδικός δεν έγινε δεκτός!
+{Password Recovery E-mail:}E-mail αποκατάστασης κωδικού πρόσβασης:
+{Password:}Κωδικός πρόσβασης:
+{Passwords do not match!}Τα συνθήματα δεν ταιριάζουν!
+{Paste}Επικόλληση.
+{Payments}Πληρωμές
+{PDF File (*.pdf)}Αρχείο PDF (*.pdf)
+{Permanently Delete}Μόνιμη διαγραφή,
+{Permanently Delete All}Μόνιμη διαγραφή όλων.
+{Play}Παίξε!
+{Play Sound Effect}Παίξτε ηχητικό εφέ
+{Please add containers!}Προσθέστε θέσεις υποδοχής!
+{Please add loads!}Παρακαλώ προσθέστε φορτία!
+{Please add source files!}Προσθέστε αρχεία πρωτογενούς κώδικα!
+{Please add target folders!}Προσθέστε φακέλους προορισμού!
+{Please check your e-mail box.}Ελέγξτε το πλαίσιο e-mail σας.
+{Please check your internet connection!}Παρακαλώ ελέγξτε τη σύνδεση στο internet!
+{Please enter barcode or product name!}Πληκτρολογήστε barcode ή όνομα προϊόντος!
+{Please enter discount ratio:}Καταχωρήστε το λόγο έκπτωσης:
+{Please enter master password!}Παρακαλώ εισάγετε τον κωδικό πρόσβασης!
+{Please enter new currency symbol:}Καταχωρήστε το νέο νομισματικό σύμβολο:
+{Please enter password:}Καταχωρήστε τον κωδικό πρόσβασης:
+{Please enter unit price:}Καταχωρήστε τιμή μονάδας:
+{Please enter your license key:}Καταχωρήστε το κλειδί άδειας χρήσης:
+{Please enter your license key!}Καταχωρήστε το κλειδί άδειας χρήσης!
+{Please keep it in a safe place. You need it to unlock your files and folders.}Σε παρακαλώ κράτα το σε ασφαλές μέρος. Πρέπει να ξεκλειδώσετε τα αρχεία και τους φακέλους σας.
+{Please obtain a license key to activate the software.}Λάβατε ένα κλειδί άδειας χρήσης για να ενεργοποιήσετε το λογισμικό.
+{Please reinstall the software.}Εγκαταστήστε ξανά το λογισμικό.
+{Please reopen the software without administrator privileges.}Ανοίξτε ξανά το λογισμικό χωρίς δικαιώματα διαχειριστή.
+{Please try again later!}Προσπαθήστε ξανά αργότερα!
+{Please try again later.}Προσπαθήστε ξανά αργότερα.
+{Please try:}Προσπαθήστε ξανά:
+{Please type NEW password:}Πληκτρολογήστε ΝΕΟ κωδικός πρόσβασης:
+{Please type your CURRENT password:}Πληκτρολογήστε τον ΤΡΕΧΟΝΤΑ Κωδικό Πρόσβασής σας:
+{Please type your NEW e-mail:}Πληκτρολογήστε το μήνυμα e-mail σας:
+{Please type your NEW password:}Πληκτρολογήστε τον ΝΕΟ κωδικό πρόσβασής σας:
+{Please type your NEW private key:}Πληκτρολογήστε το ιδιωτικό κλειδί σας:
+{Please Wait For Backup Process!}Παρακαλώ Περιμένετε Για Διαδικασία Εφεδρών!
+{Preview Sticker}Αυτοκόλλητο προεπισκόπησης
+{Price}Τιμή
+{PRICE:}ΤΙΜΉ:
+{Print}Τυπώνω
+{Print Setup}Ρύθμιση εκτύπωσης
+{Print Template}Πρότυπο εκτύπωσης
+{Print?}Εκτύπωση;
+{Print...}Εκτύπωση ...
+{Printer not found!}Ο εκτυπωτής δεν βρέθηκε!
+{Privacy Policy}Πολιτική Απορρήτου
+{Private Key}Ιδιωτικό κλειδί
+{Private key changed.}Το ιδιωτικό κλειδί άλλαξε.
+{Process}Διαδικασία
+{Process completed!}Η διαδικασία ολοκληρώθηκε!
+{Processing...}Επεξεργασία ...
+{Product}Προϊόν
+{Product List}Λίστα προϊόντων
+{Product List...}Λίστα προϊόντων ...
+{PRODUCT NAME:}ΌΝΟΜΑ ΠΡΟΪΌΝΤΟΣ:
+{Product successfully activated.}Το προϊόν ενεργοποιήθηκε επιτυχώς.
+{Product:}Προϊόν:
+{PRODUCTS}ΠΡΟΪΌΝΤΑ
+{Products}Προϊόντα
+{Properties}Ιδιότητες:
+{Purchase}Αγορά
+{Quantity}Ποσότητα
+{Random Number Generator}Γεννήτρια τυχαίων αριθμών
+{Random Number Generator...}Γεννήτρια τυχαίων αριθμών ...
+{Random Text Generator}Γεννήτρια τυχαίων κειμένου
+{Random Text Generator...}Γεννήτρια τυχαίου κειμένου ...
+{Randomize Line Contents}Τυχαία περιεχόμενα γραμμής
+{Randomize Line Order}Τυχαία σειρά γραμμής εντολών
+{Read Reviews}Διαβάστε Κριτικές
+{Ready}Έτοιμο!
+{Receipts}Αποδείξεις
+{Recognize Environment Variables}Αναγνώριση μεταβλητών περιβάλλοντος
+{Recognize Network Drives}Αναγνώριση Δίσκων Δικτύου
+{RECORD}ΕΝΑΡΞΗ ΕΓΓΡΑΦΗΣ
+{RECORD DATE:}ΗΜΕΡΟΜΗΝΊΑ ΕΓΓΡΑΦΉΣ:
+{Recording...}Καταγραφή ...
+{Recover Lost Files}Ανακτήστε τα χαμένα αρχεία
+{Recover Password}Ανάκτηση κωδικού πρόσβασης
+{Redo}Αναίρεση:
+{Refresh Device List}Ανανέωση λίστας συσκευών
+{Refresh Hardware Encodings}Ανανέωση κωδικοποιήσεων υλικού εξοπλισμού
+{Refund Policy}Πολιτική Αναχρηματοδότησης:
+{Region}Περιφέρεια:
+{Regular Expression}Κανονική έκφραση
+{Regular Expression...}Κανονική έκφραση ...
+{Related Software}Σχετικό λογισμικό
+{Release Date:}Ημερομηνία κυκλοφορίας:
+{Remember Settings}Ρυθμίσεις:
+{Reminder}Υπενθύμιση:
+{Reminders}Υπενθυμίσεις:
+{Remove}Αφαίρεση:
+{Remove All}Αφαίρεση όλων:
+{Remove Selected}Αφαίρεση επιλεγμένων:
+{Reopen}Ξανανοίγω
+{Replace}Αντικαθιστώ
+{Reports}Αναφορές
+{Required files are missing}Λείονται απαιτούμενα αρχεία.
+{Reset}Επαναφορά:
+{Reset to Defaults}Επαναφορά προεπιλογών:
+{Reset Work Time}Χρόνος εργασίας Επαναφορά
+{Restart Application?}Επανεκκίνηση εφαρμογής;
+{Restore}Επαναφορά:
+{Restore from Backup...}Επαναφορά από εφεδρική αποθήκευση ...
+{Restore when recording is complete}Επαναφορά κατά την ολοκλήρωση της καταγραφής
+{Reverse}Αντιστροφή:
+{Reverse Line Contents}Περιεχόμενα αντίστροφης γραμμής
+{Reverse Line Sequence}Ακολουθία αντίστροφης γραμμής
+{Right click to add new Stickers or Reminders.}Κάντε δεξί κλικ για να προσθέσετε νέα Stickers ή υπενθυμίσεις.
+{Right-click tray icon}Εικονίδιο δεξιού κλικ στο δίσκο
+{Run With}Εκτέλεση Με:
+{SALES}ΕΚΠΤΩΣΕΙΣ
+{Sample Text}Παράδειγμα κειμένου
+{Sample Values}Τιμές δειγμάτων:
+{Save}Αποθήκευση:
+{Save As...}Αποθήκευση ως ...
+{Save Operation File As...}Αποθήκευση αρχείου λειτουργίας ως ...
+{Save Operation File...}Αποθήκευση αρχείου λειτουργίας ...
+{Save Results}Αποτελέσματα αποθήκευσης:
+{Save source list to file...}Αποθήκευση λίστας πηγών σε αρχείο ...
+{Save target list to file...}Αποθήκευση λίστας προορισμών σε αρχείο ...
+{ScreenSnap}ScreenSnap
+{ScreenSnap:}ScreenSnap:
+{Search:}Αναζήτηση:
+{Search...}Αναζήτηση ...
+{seconds}δευτερόλεπτα
+{Secure your files and folders}Ασφαλίστε αρχεία και φακέλους σας
+{Select}Επιλογή
+{Select All}Επιλογή όλων
+{Select folder:}Επιλογή φακέλου:
+{Select Language}Επιλέξτε Γλώσσα
+{Select Product}Επιλογή προϊόντος
+{Select Region and Close}Επιλέξτε Περιοχή και Κλείσιμο
+{Select your favourite theme}Επιλέξτε το αγαπημένο σας θέμα
+{Selected}Επιλεγμένα
+{SELL BY CASH}ΠΏΛΗΣΗ ΜΕ ΜΕΤΡΗΤΆ
+{Sell by Cash}Πωλούν με μετρητά
+{SELL BY CREDIT}ΠΏΛΗΣΗ ΜΕ ΠΊΣΤΩΣΗ
+{Sell by Credit}Πώληση με Πίστωση
+{Send}Στείλετε
+{Send e-mail?}Αποστολή e-mail;
+{Send Feedback}Αποστολή σχολίων
+{Send Feedback...}Αποστολή σχολίων ...
+{Send to Recycle Bin}Αποστολή στο Recycle Bin
+{Separate by Char}Ξεχωριστό από Char
+{Separate by String}Ξεχωριστό από String
+{Separate Long Lines (Break Words)}Ξεχωριστές Μεγάλες Γραμμές (Σπάστε Λέξεις)
+{Separate Long Lines (Keep Words)}Διαχωρίστε Τις Μεγάλες Γραμμές (Κρατήστε Λέξεις)
+{Server Time:}Χρόνος εξυπηρετητή:
+{Server:}Εξυπηρετητής:
+{Set as Default Encoding}Ορισμός ως Default Encoding
+{Settings}Ρυθμίσεις:
+{Settings...}Ρυθμίσεις ...
+{Show}Εμφάνιση:
+{Show All Stickers}Εμφάνιση όλων των δεικτών:
+{Show Date Time}Εμφάνιση ώρας ημερομηνίας
+{Show Details}Εμφάνιση λεπτομερειών
+{Show Idle Time:}Εμφάνιση ώρας:
+{Show Letters and Numbers without Special Keys}Εμφάνιση γραμμάτων και αριθμών χωρίς ειδικά κλειδιά
+{Show Notifications}Εμφάνιση ειδοποιήσεων:
+{Show when status changes}Εμφάνιση αλλαγών κατάστασης:
+{Show Window}Εμφάνιση παραθύρου
+{Sign up}Υπογραφή:
+{Small Buttons}Μικρά κουμπιά.
+{Software}Λογισμικό
+{Software encoding}Η κωδικοποίηση λογισμικού
+{Something went wrong. Your feedback could not be delivered.}Κάτι πήγε στραβά. Τα σχόλιά σας δεν μπόρεσαν να παραδοθούν.
+{Sort}Ταξινόμηση.
+{Sort Lines}Γραμμές ταξινόμησης
+{Sound Effect}Ηχητική επίδραση
+{Sound:}Ήχος:
+{Source (Files, Folders, URLs)}Πηγή (Αρχεία, φάκελοι, διευθύνσεις URL)
+{Space key:}Κλειδί χώρου:
+{Spell Check}Ορθογραφικά
+{Spell Checker}Ορθογραφικός έλεγχος
+{Spell Checker:}Ορθογραφικός έλεγχος:
+{Split Lines}Σπλιτ
+{Start}Αρχή
+{Start Working}Έναρξη εργασίας.
+{Status}Κατάσταση
+{Status Bar}Γραμμή κατάστασης
+{Stay on Top}Μείνε στο Top
+{Stock}Απόθεμα:
+{STOCK BALANCE:}ΙΣΟΖΎΓΙΟ ΑΠΟΘΕΜΆΤΩΝ:
+{Stock Inventory Count Sheet}Απόθεμα απογραφής αποθεμάτων Sheet
+{Stock Inventory Count Sheet...}Αριθμός Αποθεμάτων Αποθεμάτων ...
+{STOP}ΝΑ ΣΤΑΜΑΤΗΣΕΙ
+{Success}Επιτυχία
+{SUCCESS}ΕΠΙΤΥΧΙΑ
+{Suggested Corrections}Προτεινόμενες Διορθώσεις:
+{Support}Υποστήριξη
+{Sync Computer Time}Συγχρονισμός χρόνου υπολογιστή
+{Syntax}Σύνταξη
+{System Error.}Σφάλμα συστήματος.
+{System Tray Menu}Μενού συστήματος Tray
+{Tab Options...}Επιλογές καρτέλας ...
+{Target Folder}Ο φάκελος προορισμού
+{Target Folder:}φάκελος προορισμού:
+{Target Folders}Φάκελοι προορισμού
+{Test Alert}Προειδοποίηση:
+{Testimonials}Καταθέσεις:
+{Text}Κείμενο:
+{Text Color:}Χρώμα κειμένου:
+{Text Engine}Μηχανισμός κειμένου
+{Text File}Αρχείο κειμένου
+{Text File (*.txt)}Αρχείο κειμένου (*.txt)
+{Text File (TXT)...}Αρχείο κειμένου (TXT)
+{Text not found!}Το κείμενο δεν βρέθηκε!
+{Text:}Κείμενο:
+{Thank you}Σας ευχαριστώ.
+{Thank you!}Σας ευχαριστώ!
+{The file could not be created!}Το αρχείο δεν μπορεί να δημιουργηθεί!
+{The server returned an invalid response.}Ο εξυπηρετητής επέστρεψε μη έγκυρη απόκριση.
+{The specified region is not valid!}Η καθορισμένη περιοχή δεν είναι έγκυρη!
+{Theme}Θέμα
+{This is an example note.}Αυτό είναι ένα παράδειγμα.
+{This is required for importing in Gmail and Outlook.}Αυτό είναι απαραίτητο για εισαγωγή στο Gmail και στο Outlook.
+{This is your first sticker!}Είναι το πρώτο σου αυτοκόλλητο!
+{This software works best without administrator privileges.}Αυτό το λογισμικό λειτουργεί καλύτερα χωρίς δικαιώματα διαχειριστή.
+{Time}χρόνος
+{Timestamp}Χρονική σήμανση
+{To Existing Lines}Σε υπάρχουσες γραμμές
+{To New Lines...}Στις Νέες Γραμμές ...
+{Tool Bar}Γραμμή εργαλείων
+{Tools}Εργαλεία:
+{Top}Πάνω!
+{Top Selling Products}Κορυφαία προϊόντα πώλησης
+{Top Selling Products...}Κορυφαία προϊόντα πώλησης ...
+{Total}Σύνολο
+{TOTAL:}ΣΎΝΟΛΟ:
+{Total:}Σύνολο:
+{Translated by:}Μετάφραση από:
+{Transparency:}Διαφάνεια:
+{Tray Notifications:}Ειδοποιήσεις Τρέι:
+{Trial}Δίκη
+{TRIAL LIMIT REACHED!}ΤΟ ΌΡΙΟ ΈΦΤΑΣΕ!
+{TRIAL VERSION}ΔΟΚΙΜΑΣΤΙΚΗ ΕΚΔΟΣΗ
+{Trim All}Περικοπή όλων
+{Trim Both}Κόψτε και τα δύο
+{Trim Left}Περικοπή αριστερά
+{Trim Lines}Γραμμές περικοπής
+{Trim Right}Περικοπή δεξιά
+{Truly Empty Lines}Πραγματικά Άδειες Γραμμές
+{Try to run as Administrator.}Προσπαθήστε να εκτελέσετε ως διαχειριστής.
+{Type}Είδος
+{Undo}Αναίρεση
+{Unicode Detector}Εντοπίστηκε ανίχνευση Unicode
+{Unit}Μονάδα
+{UNLICENSED}ΜΗ ΆΔΕΙΑ ΧΡΉΣΗΣ
+{Unlock}Ξεκλείδωμα
+{UNLOCK ERROR}ΣΦΆΛΜΑ ΞΕΚΛΕΙΔΏΜΑΤΟΣ.
+{Unlock Selected}Επιλογή ξεκλειδώματος.
+{Unlocked}Ακλείδωτος
+{Unlocking}Ξεκλείδωμα
+{Unnamed}Χωρίς όνομα.
+{UPDATE}ΕΚΣΥΓΧΡΟΝΙΖΩ
+{UPDATE AVAILABLE}ΔΙΑΘΕΣΙΜΗ ΕΝΗΜΕΡΩΣΗ
+{Update Notifications}Ειδοποιήσεις ενημέρωσης
+{UPPERCASE}ΚΕΦΑΛΑΊΑ.
+{Uppercase and Lowercase}Κεφαλαία και Lowercase
+{URL Highlighter (No Spell Check)}Επισήμανση URL (δεν υπάρχει έλεγχος ορθογραφίας)
+{URL not found!}Δεν βρέθηκε διεύθυνση URL!
+{URL Processor}επεξεργαστής URL
+{USE AT YOUR OWN RISK!}ΧΡΗΣΙΜΟΠΟΊΗΣΕ ΤΟ ΔΙΚΌ ΣΟΥ ΡΊΣΚΟ!
+{User Interface Language:}Γλώσσα περιβάλλοντος χρήστη:
+{User will press keys}Ο χρήστης θα πατήσει κλειδιά.
+{using Characters}με χρήση χαρακτήρων
+{using File}χρήση αρχείου File
+{using Text}χρήση κειμένου:
+{using Text Length}χρήση μήκους κειμένου
+{VCF Files (*.vcf)}Αρχεία VCF (*.vcf)
+{Version History}Ιστορικό εκδοχής
+{Video file error!}Σφάλμα αρχείου βίντεο!
+{View}Θέα
+{Volume}Τόμος
+{Volume Limit}Όριο έντασης.
+{Volume of Container}Όγκος του περιέκτη
+{Volume of Load}Όγκος φορτίου:
+{Vovsoft Newsletter}Vovsoft Newsletter
+{Warning}Προσοχή
+{WARNING}ΠΡΟΣΟΧΉ
+{We would really appreciate your feedback.}Θα εκτιμούσαμε πολύ τα σχόλιά σας.
+{Weekdays}Σαββατοκύριακα.
+{Welcome to %s}Καλωσορίσατε στο %s
+{Welcome to Our Shop}Καλώς ήρθατε στο μαγαζί μας.
+{What did you like or dislike?}Τι σου άρεσε ή όχι;
+{Which Customer?}Ποιον Πελάτη;
+{Width}πλάτος
+{Width:}Πλάτος:
+{Word Wrap}Wrap του Word
+{Work Time:}Χρόνος εργασίας:
+{Wrong Admin Password!}Λάθος Κωδικό Πρόσβασης!
+{Wrong password!}Λάθος κωδικός!
+{X:}Χ:
+{Y:}Y:
+{Yes}Ναί
+{You are not logged as admin!}Δεν έχετε συνδεθεί ως διαχειριστής!
+{You can preview the font and color settings here.}Μπορείτε να δείτε τις ρυθμίσεις γραμματοσειράς και χρωμάτων.
+{You cannot use this feature in unlicensed edition.}Δεν μπορείτε να χρησιμοποιήσετε αυτή τη λειτουργία στην έκδοση χωρίς άδεια χρήσης.
+{Your feedback is received.}Τα σχόλιά σας λαμβάνονται.
+{Your master password is successfully set.}Ο κύριος κωδικός πρόσβασης ορίστηκε με επιτυχία.
+{Barcode}
+{BARCODE:}
+{E-mail}
+{EULA}
+{Fade-out Animation}
+{Free Edit}
+{Go}
+{Home}
+{Hotkey:}
+{Line}
+{Num Lock}
+{Num Lock: OFF}
+{Num Lock: ON}
+{Offset}
+{Scroll Lock}
+{Scroll Lock: OFF}
+{Scroll Lock: ON}
+{Search}
+{Search Every Line with Google}
+{Stickers}
+{You are here:}
+{You can't go further than:}
+{You want to go to:}

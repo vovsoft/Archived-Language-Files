@@ -1,0 +1,830 @@
+﻿{INFO:Translated By}Máté Árpád
+{12 hour}12 óra
+{24 hour}24 óra
+{A required file is missing:}Hiányzik egy szükséges fájl:
+{Ability to disable update notifications}A frissítési értesítés letiltásának lehetõsége
+{About}Névjegy
+{About Us}Rólunk
+{About...}Névjegy...
+{Access is denied.}A hozzáférés megtagadva.
+{Acknowledgements...}Engedélyek ...
+{Activation}Aktiválás
+{Activation Code:}Aktiválókód:
+{Activation failed.}Nem sikerült az aktiválás.
+{Active}Aktív
+{ADD}HOZZÁADÁS
+{Add}Hozzáadás
+{Add context menu item}Szövegmenü-elem hozzáadása
+{Add Dictionary...}Szótár hozzáadása...
+{Add Drive}Meghajtó hozzáadása
+{Add File}Fájl hozzáadása
+{Add File(s)}Fájl(ok) hozzáadása
+{Add File(s)...}Fájl(ok) hozzáadása...
+{Add Files...}Fájlok hozzáadása
+{Add Folder}Mappa hozzáadása
+{Add Folder...}Mappa hozzáadása...
+{Add Folders...}Mappák hozzáadása
+{Add Product Manually}Termék hozzáadása manuálisan
+{Add Recursive Subfolders...}Visszatérõ almappák
+{Add Subfolders...}Almappák hozzáadása...
+{Add URL(s)...}URL-(ek) hozzáadása...
+{Add URLs...}URL-ek hozzáadása
+{Add using Environment Variables}Környezeti változó-használat hozzáadása
+{Add Word To Dictionary}Szó hozzáadása a szótárhoz
+{Admin Password}Rendszergazda jelszó
+{Alert Text:}Figyelmeztetõ-szöveg
+{All Customers}Minden ügyfél
+{All files must be unlocked before changing private key!}A személyes kulcs megváltoztatása előtt fel kell oldani az összes fájlt!
+{All files must be unlocked before enabling or disabling content encryption!}A tartalom titkosításának engedélyezése vagy tiltása előtt fel kell oldani az összes fájlt!
+{All Products}Minden termék
+{Alphabet}Betűrend
+{Alphabetical}Betűrendes
+{Always on Top}Mindig felül
+{Always on top}Mindig felül
+{Always show when toggled on}Mindig legyen látható, ha engedélyezve van
+{An error occurred while creating directory:}Hiba történt a könyvtár létrehozásakor:
+{An error occurred while unlocking:}Hiba történt a feloldás közben:
+{Analyze...}Elemzés...
+{And please backup your important files and folders before locking in case of hardware or software failure.}Hardver vagy szoftverhiba esetére készítsen biztonsági másolatot fontos fájljairól és mappáiról!
+{Annually}Évente
+{Annually:}Évente:
+{Any File}Bármelyik fájl
+{Any File (*.*)}Minden fájl (*.*)
+{Are you sure?}Biztos benne?
+{Arrange Stickers}A címkék elrendezése
+{ASCII Art...}ASCII formátumban...
+{Ask Print}Rákérdezés nyomtatásra
+{Audio File}Hangfájl
+{Audio file error!}Hangfájl-hiba
+{Auto Copy Highlighted Text to Clipboard}A kiemelt szöveg automatikus másolása a vágólapra
+{Auto Refresh File}A fájl frissítése automatikusan
+{Auto Run at Startup}Futtatás automatikusan a rendszer indításakor
+{Auto-Close Popup Window After Finishing}A felbukkanó ablak automatikus bezárása a befejezés után
+{Auto-Closing...}Automatikus bezárás...
+{Auto-Refresh Drive List}A meghajtó-lista automatikus frissítése
+{Auto-Start at Startup}Automatikus futtatás rendszerindításkor
+{Automatic}Automatikus
+{Automatically Synchronize}Automatikus szinkronizálás
+{Background Color:}Háttérszín
+{Backup Registry...}A registry biztonsági mentése...
+{Backup Stickers}A címkék biztonsági mentése
+{Backup...}Biztonsági mentés...
+{Barcode}Vonalkód
+{BARCODE:}VONALKÓD:
+{Begin:}Eleje
+{Beginning of Each Line...}Minden sor elejére...
+{Big Icons}Nagy ikonok
+{Blog}Blog
+{BREAK TIME!}MEGSZAKÍTÁSI IDÕ!
+{Browse...}Tallózás...
+{Buy Now}Megvásárlás most
+{Cancel}Mégse
+{Cancel product selection}A termékválasztás kihagyása
+{CANCELED by User Request}A felhasználó kérésére MEGSZAKÍTVA
+{Canceled!}Megszakítva!
+{Cannot create file}Nem lehet a fájlt létrehozni
+{Capitalize (First Letters Only)}Nagybetűsítés (Csak az elsõ betűt)
+{Caps Lock}Caps Lock
+{Caps Lock: OFF}Caps Lock: KI
+{Caps Lock: ON}Caps Lock: BE
+{Cascade}Szabályozott
+{Category:}Kategória:
+{Change Background Color}A háttérszín megváltoztatása
+{Change Background Color...}A háttérszín megváltoztatása...
+{Change File Location...}A fájl helyének megváltoztatása...
+{Change Font...}A betű megváltoztatása...
+{Change Interface}A felület megváltoztatása
+{Change Login Password...}A jelszó megváltoztatása...
+{Change Menu Font...}A menü betűjének megváltoztatása...
+{Change Private Key...}A személyes kulcs megváltoztatása...
+{Change Recovery E-mail}A helyreállítási email megváltoztatása
+{Change Text Font}A szöveg betűjének megváltoztatása
+{Change Theme}A téma megváltoztatása
+{Change Theme...}A téma megváltoztatása...
+{Change:}Megváltoztatás:
+{Classical Interface}Hagyományos felület
+{Clear}Törlés
+{Click to download}Kattintson a letöltéshez
+{Clip Lines...}Sorok vágása...
+{Close}Bezárás
+{Code:}Kód:
+{Combine Lines...}Sorok összevonása...
+{Comma-Separated Values File (CSV)...}Vesszővel elválasztott érték-fájl (CSV)...
+{Commercial use allowed}Kereskedelmi célra is használható
+{Company}Cég
+{Compare Two Texts...}Két szöveg összehasonlítása
+{Completed!}Kész!
+{Completed.}Elkészült.
+{Computer Code:}Számítógép-kód:
+{Computer Time:}Számítógép-idõ:
+{Computer Timezone:}Számítógép idõzóna:
+{Computer will press keys}A számítógép nyomja le a billentyűket
+{Confirm Before Deletion}Jóváhagyás a törlés előtt
+{Confirm Password:}A jelszó jóváhagyása:
+{Confirm?}Jóváhagyja?
+{Confirmation}Jóváhagyás
+{Connection Error!}Csatlakozási hiba!
+{Contact}Kapcsolat
+{Content Encryption (SLOW)}Tartalom-titkosítás LASSÚ)
+{Content encryption is enabled.}Engedélyezve van a tartalom-titkosítás
+{Continue}Folytatás
+{Contribute to Translation}Közreműködés a fordításban
+{Convert Non-English Chars to English Chars}A nem-angol karakterek angolra változtatása
+{Copied}Másolva
+{Copy}Másolás
+{Copy All}Az összes másolása
+{Copy files to many directories}Fájlok másolása több könyvtárba 
+{COPY INTO TARGET FOLDERS}MÁSOLÁS A CÉL-MAPPÁKBA
+{CREDIT:}ENGEDÉLY:
+{Credits}Engedélyek
+{CSV File}CSV-fájl
+{CSV File (*.csv)}CSV-fájl (*.csv)
+{Currency Symbol}Pénznem-jel
+{Customer}Ügyfél
+{Customer with credit cannot be deleted!}Engedélyezett ügyfél nem törölhetõ!
+{CUSTOMER:}ÜGYFÉL:
+{Customer:}Ügyfél:
+{CUSTOMERS}ÜGYFELEK
+{Customers}Ügyfelek
+{Cut}Vágás
+{Daily}Naponta
+{Daily:}Naponta
+{Dark}Sötét
+{Date}Dátum
+{Date and Time}Dátum és idõ
+{Day}Nap
+{Daylight Saving:}Nappali mentés
+{Decode...}Visszafejtés...
+{Decrease Font Size}A betűméret csökkentése
+{Default}Alapértelmezett
+{Default Alphabet}Alapértelmezett betűrend
+{Del key:}Del-billentyű:
+{Delete}Törlés
+{DELETE}TÖRLÉS
+{Delete After}Törlés utána
+{DELETE ALL}AZ ÖSSZES TÖRLÉSE
+{Delete All}Az összes törlése
+{Delete All Spaces}Az összes szóköz törlése
+{Delete Alphabetic [a-z] [A-Z]}ABC szerinti törlés [a-z][A-Z]
+{Delete Alphanumeric [a-z] [A-Z] [0-9]}Törlés betű és számsorrendben [a-z][A-Z][0-9]
+{Delete Before}Törlés elõtte
+{Delete Beginning or Ending Strings...}A karakterlánc elejének vagy végének törlése...
+{Delete Chars}Karakterek törlése
+{DELETE CUSTOMER}ÜGYFÉL TÖRLÉSE
+{Delete Customer}Ügyfél törlése
+{Delete Extra Spaces}További terület törlése
+{Delete last entered product}Az utoljára beírt termék törlése
+{Delete Non-Alphabetic}Törlés nem betűrend szerint 
+{Delete Non-Alphanumeric}Törlés nem betű és számrend szerint
+{Delete Numbers [0-9]}Számok törlése [0-9]
+{DELETE PRODUCT}TERMÉK TÖRLÉSE
+{Delete Record}Bejegyzés törlése
+{Delete Reminder}Az emlékeztető törlése
+{Delete Selected}A kijelölt törlése
+{Delete Unnecessary Lines}A szükségtelen sorok törlése
+{Delete?}Törli?
+{Deleted}Törölve
+{Deselect All}Az összes kijelölés visszavonása
+{DETAILS}RÉSZLETEK
+{Diagonal}Átlós
+{Directory:}Könyvtár
+{Disabled}Letiltva
+{Discount}Engedmény
+{Discounted Price}Engedményes ár
+{Discounted Total}A teljes engedmény
+{Disk Write Interval (sec):}Lemezírási idõköz (mp):
+{Dismiss}Elutasítás
+{Display Load Time}A betöltési idõ megjelenítése
+{Display Prices}Az árak megjelenítése
+{Display Special Chars}A különleges karakterek megjelenítése
+{Do you really want to delete ALL stickers?}Valóban törli az ÖSSZED címkét?
+{Do you really want to delete the reminder?}Valóban törli az emlékeztetőt?
+{Do you really want to delete the sticker?}Valóban törli a címkét?
+{Do you want to save the current file before exit?}Menti a jelenlegi fájlt a kilépés előtt?
+{Do you want to save the current file?}Menti a jelenlegi fájlt?
+{Do you want to save this file before exit?}Menti ezt a fájlt a kilépés előtt?
+{Do you want to save this file?}Menti ezt a fájlt?
+{Download}Letöltés
+{Drag Drop Filenames}A fájlnevek vontatása
+{Drive}Meghajtó
+{DRIVE MISMATCH}MEGHAJTÓ-ELTÉRÉS
+{Drive:}Meghajtó:
+{Duplicate Lines}Sorok duplázása
+{E-mail}Email-cím
+{E-mail is changed.}Megváltozott az email-cím.
+{E-mail not accepted!}Nem jó az email-cím!
+{E-mail Processor}Email-feldolgozó
+{Edit}Szerkesztés
+{Edit License}A licensz megadása
+{Edit License...}A licenszkulcs megadása...
+{Edit Password}A jelszó megadása
+{Elapsed Time:}Az eltelt idõ:
+{Email Address}Email-cím
+{Empty}Üres
+{Empty Lines (can include spaces and tabs)}Üres sorok (szóközt és tabulátorokat tartalmazhat)
+{Enable}Engedélyezés
+{Enabled}Engedélyezve
+{Encode...}Kódolás...
+{Encoding}Kódolás
+{Encryption}Titkosítás
+{End of Each Line...}Minden sor végére...
+{End-User License Agreement}Végfelhasználói licensz-szerzõdés
+{End:}Vége:
+{English}Angol
+{Enter License Key}A licenszkulcs megadása
+{Entire Document}Teljes dokumentum
+{Error}Hiba
+{ERROR}HIBA
+{Error No:}A hiba száma:
+{ESC key:}ESC-billentyű:
+{EULA}EULA
+{Excel File (*.xls)}Excel-fájl (*.xls)
+{Excel File (XLS)...}Excel-fájl (XLS)...
+{Exit}Kilépés
+{Exit Application?}Kilép az alkalmazásból?
+{Exit...}Kilépés...
+{EXITING...}KILÉPÉS...
+{Explore Dictionaries...}Szótárak keresése...
+{Export}Exportálás
+{Export Lines to Files}Sorok exportálása fájlba
+{Export Lines to Files...}Sorok exportálása fájlba...
+{Export to File...}Exportálás fájlba...
+{Export to HTML...}Exportálás HTML-be...
+{Export to PDF...}Exportálás PDF-be...
+{Extract Image...}Kép kibontása...
+{Extract Text...}Szöveg kibontása...
+{Extras}Egyebek
+{Failed}Nem sikerült
+{Failure}Hiba
+{Feedback}Visszajelzés
+{feedback}visszajelzés
+{File}Fájl
+{File already exists!}A fájl már létezik!
+{File does NOT exist:}A fájl NEM létezik:
+{File inaccessible!}A fájl elérhetetlen!
+{File List}Fájl-lista
+{File Location}A fájl helye
+{File Location:}A fájl helye:
+{File lock error!}Fájl-zárolási hiba!
+{File Mask}Fájl-maszk
+{File not found!}Nem található fájl
+{Filename:}Fájlnév:
+{Files & Folders}Fájlok és mappák
+{Filter Lines}Sorok szűrése
+{Find}Keresés
+{Find Erroneous E-mails}Téves email-ek keresése
+{Find Lines}Sorok keresése
+{Find Lines...}Sorok keresése...
+{Find Next}A következõ keresése
+{Find Next Misspelling}A következő elírás keresése
+{Fixed-Pitch Fonts Only}Csak az állandó szélességű (Fixed-Pitch) betűk
+{Folder}Mappa
+{Folder does NOT exist:}A mappa NEM létezik:
+{Folder Size:}Mappaméret:
+{Folder:}Mappa:
+{For 1}1-hez
+{For 10}10-hez
+{For 100}100-hoz
+{For 20}20-hoz
+{For 200}200-hoz
+{For 5}5-höz
+{For 50}50-hez
+{Forgot Password?}Elfelejtette a jelszót?
+{FREE}INGYENES
+{Free Edit}Szerkesztés
+{Free to try}Ingyenes kipróbálás
+{FREEWARE}INGYENES
+{Freeware}Ingyenes
+{Freeware Utilities}Ingyenes segégprogram
+{Full Screen}Teljesképernyõ
+{Generate Barcode Image...}Vonalkód-kép elõállítása...
+{Generate E-mail List}Email-lista létrehozása
+{Generate Word List}Szó-lista készítése
+{Get Server Time}Szerveridõ
+{Go to...}Kezdés...
+{GRAND TOTAL:}NAGYTOTÁL:
+{Header}Fejléc
+{Headers}Fejlécek
+{Height:}Magasság:
+{Help}Súgó
+{Hidden}Rejtett
+{Hide All Stickers}Az összes címke elrejtése
+{Hide Details}A részletek elrejtése
+{Highlight Active Line}Az aktív sor kiemelése
+{Highlight Even Lines}Sorok kiemelésével
+{Highlight Odd Lines}A páratlan sorok kiemelésével
+{Home}Otthoni
+{Hotkey:}Gyorsbillentyű:
+{Hourly}Óránként
+{Hourly:}Óránként:
+{How to uninstall...}Hogyan lehet eltávolítani...
+{HTML File (*.html)}HTML-fájl (*.html)
+{I dislike it!}Nem tetszik!
+{I like it!}Tetszik!
+{ID}(Azonosító)
+{ID Transformer...}ID átalakító...
+{Idle Time:}Tétlenségi idõ:
+{If no keyboard or mouse events occur for "Idle Time", "Work Time" resets.}Ha nincs billentyű vagy egér-esemény a "Tétlenségi idő"-ben, a "Mmunkaidő" alaphelyzetbe áll. 
+{If you like the software, please buy a license to make this software fully functional and remove this window.}Ha tetszik a szoftver, vásárolja meg a licenszét az összes funkció kihasználásához és ennek az ablaknak az eltávolításához!
+{Ignore}Kihagyás
+{Ignore Drive Mismatch While Unlocking}A meghajtó eltérésének  figyelmen kívül hagyása a feloldás közben
+{Ignore Failed Files While Unlocking}A sikertelen fájlok kihagyása a zárolás feloldása alól
+{Import}Importálás
+{Import from File...}Importálás fájlból...
+{IMPORTANT}FONTOS
+{Include my e-mail:}Tartalmazza az email-emet:
+{Increase Font Size}A betűméret növelése
+{Indicates status of keys}A billentyűk állapotának jelzése
+{Info}Info
+{Information}Információ
+{Insert}Beillesztés
+{Insert Empty Lines}Üres sorok beillesztése
+{Insert Same Text Multiple Times}Ugyanannak a szövegnek a beillesztése többször
+{Insert Same Text Multiple Times...}Ugyanannak a szövegnek a beillesztése többször...
+{Insufficient stock!}A készlet megtelt
+{Invalid E-mail!}Érvénytelen email-cím!
+{Invalid Entry!}Érvénytelen bejegyzés!
+{Keyboard Shortcuts}Billentyű-parancsok
+{KeyPress Simulator}Billentyűleütés szimulátorral
+{Language}Nyelv
+{Language:}Nyelv:
+{Language...}Nyelv...
+{LED Color (OFF):}LED-szín (KI):
+{LED Color (ON):}LED-szín (BE):
+{Left}Maradt
+{Left click to show Stickers on top.}Bal-gombos egérkattintással fölül megjeleníthető a címke
+{License key is invalid!}A licenszkulcs nem érvényes!
+{License:}Licensz:
+{License...}Licensz...
+{Licensed}Licenszelt
+{Licensed to:}Licenszeli:
+{Lifetime free updates}Életreszóló ingyenes frissítés
+{Light}Világos
+{Line Length}Sorhosszúság
+{Line Numbers}Sorszámok
+{Line Order}Sorrend szerint
+{List}Lista
+{Load}Betöltés
+{Load And Run Operation Files...}A működtetõfájlok betöltése és futtatása...
+{Load Operation File...}A működtetõfájl betöltése...
+{Load source list from file...}A forráslista betöltése fájlból...
+{Load target list from file...}A cél-lista betöltése fájlból...
+{Load vCards from VCF file...}A vCard-ok betöltése VCF-fájlból...
+{Load...}Betöltés...
+{Loading}Betöltés
+{Loading...}Betöltés...
+{Lock}Zárolás
+{Lock and Unlock processes may take some time.}A zárolás és a feloldás hosszabb ideig eltarthat.
+{Lock Selected}A kijelölt zárolása
+{LOCKED}ZÁROLVA
+{Locking}Zárolás
+{Login (Full Access)}Bejelentkezés (teljes hozzáférés)
+{Logout}Kijelentkezés
+{lowercase}kisbetű
+{Lowercase}Kisbetű
+{MAIN MENU}FÕMENÜ
+{Mark as Complete}Megjelölés kész-nek
+{Minimal Mode}Minimális mód
+{Minute}Perc
+{minutes}perc
+{Mode}Mód
+{Monitor External File Modification}A külsõ fájlmódosítás figyelése
+{Month}Hónap
+{Monthly}Havonta
+{Monthly:}Havonta:
+{Move (Delete Source Files and Folders)}Áthelyezés (A forrásfájlok és mappák törlése)
+{Move Down}Lefelé haladva
+{Move Info: Source files and folders were not deleted from disk because of copy error}Áthelyezési információ: Másolási hiba miatt nem lettek törölve a forrásfájlok és mappák
+{Move Up}Felfelé haladva
+{Multiple Files...}Több fájl...
+{Net Encoding}Hálózat-kódolás
+{New}Új
+{New Reminder}Új ütemezés
+{New Reminder...}Új emlékeztető...
+{New Sticker}Új címke
+{New Window}Új ablak
+{Next Receipt Number:}A következő számlaszám:
+{Next Rest:}A következõ 
+{No}Nem
+{No Audio}Nincs hang
+{No Item Selected!}Nincs kijelölt elem!
+{No item selected!}Nincs kijelölt elen!
+{No nag screen, no ads}Nincs bosszantó értesítés és reklám
+{No Sound}Nincs hang
+{Non-English}Nem-angol
+{None}Egyik sem
+{Not applicable!}Nem alkalmazható!
+{Not Paid:}Nincs kifizetve:
+{Note}Jegyzet
+{Note Window Margin:}Windows-margó jegyzet:
+{Notes Manager}Jegyzet-kezelő
+{Notes Manager...}Jegyzet-kezelő
+{Num Lock}Num Lock
+{Num Lock: OFF}Num Lock: KI
+{Num Lock: ON}Num Lock: BE
+{Number of Files:}A fájlok száma:
+{Number of Times:}Az ismétlések száma
+{Numbers}Számok
+{Offline Activation}Offline aktiválás
+{OK}Rendben
+{Online Help}Online súgó
+{Only Once}Csak egyszer
+{Only Once:}Csak egyszer:
+{Open File}Fájl megnyitása
+{Open folder location...}A mappa helyének megnyitása...
+{Open Folder Location...}A mappa helyének megnyitása...
+{Open...}Megnyitás...
+{Operating Systems:}Operációs rendszer:
+{Operation File}Fájlművelet
+{Operation STOPPED!}A művelet LEÁLLÍTVA!
+{Operations}Művelet
+{Options}Beállítások
+{Options...}Beállítások
+{Ordinal Values of Characters}A karakterek sorszám-értéke
+{Original Size}Az eredeti méret
+{Output:}Cél:
+{Overwrite Existing Files}A meglevõ fájlok felülírása
+{Overwrite Read-Only Files}A csak-olvasható fájlok felülírása
+{PAID}FIZETVE
+{Paid}Fizetve
+{Paid:}Fizetve:
+{Password}Jelszó
+{Password is changed.}A jelszó megváltozott.
+{Password is incorrect!}A jelszó helytelen!
+{Password not accepted!}A jelszó nem elfogadható!
+{Password Recovery E-mail:}Jelszóvisszaállítási email:
+{Password:}Jelszó:
+{Passwords do not match!}A jelszó nem egyezik
+{Paste}Beillesztés
+{Payments}Kifizetések
+{PDF File (*.pdf)}PDF-fájl (*.pdf)
+{Permanently Delete}Végleges törlés
+{Permanently Delete All}Az összes végleges törlése
+{Play}Lejátszás
+{Play Sound Effect}Hanghatás lejátszása
+{Please add source files!}Adja meg a forrásfájlt!
+{Please add target folders!}Adja meg a célmappát
+{Please check your e-mail box.}Nézze meg a postaládáját!
+{Please check your internet connection!}Ellenõrizze az internet-kapcsolatot!
+{Please enter barcode or product name!}Írja be a vonalkódot vagy a termék nevét!
+{Please enter discount ratio:}Adja meg a kedvezmény mértékét:
+{Please enter master password!}Adja meg a mesterjelszót!
+{Please enter new currency symbol:}Adja meg az új pénznem-jelet:
+{Please enter password:}Adja meg a jelszót:
+{Please enter unit price:}Adja meg az egységárat:
+{Please enter your license key:}Adja meg a licenszkulcsot:
+{Please enter your license key!}Adja meg a licenszkulcsot!
+{Please keep it in a safe place. You need it to unlock your files and folders.}Tartsa biztonságos helyen! Szüksége van rá a fájlok és mappák feloldásához.
+{Please reinstall the software.}Telepítse újra a szoftvert
+{Please reopen the software without administrator privileges.}Nyissa meg újra a szoftvert rendszergazdai jogosultság nélkül
+{Please try again later!}Próbálja meg később újból!
+{Please try again later.}Késõbb próbálkozzon újra.
+{Please try:}Próbálja ki:
+{Please type NEW password:}Írjon be ÚJ jelszót:
+{Please type your CURRENT password:}Adja meg a megfelelõ jelszót:
+{Please type your NEW e-mail:}Adja meg az ÚJ email-címet:
+{Please type your NEW password:}Adja meg az ÚJ jelszót:
+{Please type your NEW private key:}Adja meg az ÚJ személyes kulcsát
+{Please Wait For Backup Process!}Várjon, míg elkészül a biztonsági mentés!
+{Preview Sticker}Címke-előnézet
+{Price}Ár
+{PRICE:}ÁR:
+{Print}Nyomtatás
+{Print Setup}Nyomtatási beállítás
+{Print Template}Minta nyomtatása
+{Print?}Kinyomtatja?
+{Print...}Nyomtatás...
+{Printer not found!}Nem található nyomtató!
+{Privacy Policy}Személyiség-védelem
+{Private Key}Személyes kulcs
+{Private key changed.}Megváltozott a személyes kulcs.
+{Process}Művelet
+{Process completed!}A művelet végrehajtva!
+{Processing...}Feldolgozás...
+{Product}Termék
+{Product List}Terméklista
+{Product List...}Terméklista...
+{PRODUCT NAME:}A TERMÉK NEVE:
+{Product successfully activated.}Megtörtént az aktiválás.
+{Product:}Termék:
+{PRODUCTS}TERMÉKEK
+{Products}Termékek
+{Purchase}Megvásárlás
+{Quantity}Mennyiség
+{Random Number Generator}Véletlenszám előállító
+{Random Number Generator...}Véletlenszám elõállító...
+{Random Text Generator}Véletlen-szöveg előállító
+{Random Text Generator...}Véletlen-szöveg előállító...
+{Randomize Line Contents}Véletlenszerű sortartalommal
+{Randomize Line Order}Véletlenszerű sorrendben
+{Read Reviews}Az ismertetõ elolvasása
+{Receipts}Számlák
+{Recognize Environment Variables}A környezeti változó feilsmerése
+{Recognize Network Drives}A hálózati meghajtók felismerése
+{RECORD}FELVÉTEL
+{RECORD DATE:}A DÁTUM FELVÉTELE
+{Recover Lost Files}Elveszett fájlok visszaállítása
+{Recover Password}Jelszó helyreállítása
+{Redo}Mégis
+{Refresh Device List}Az eszközlista frissítése
+{Refund Policy}Újrakeresési alapelv
+{Region}Régió
+{Regular Expression...}RegEx(szabályos kifejezés)...
+{Related Software}Kapcsolódó szoftver
+{Release Date:}A kiadás dátuma
+{Remember Settings}A beállítások megjegyzése
+{Reminder}Emlékeztető
+{Reminders}Ütemező
+{Remove}Eltávolítás
+{Remove All}Az összes eltávolítása
+{Remove Selected}A kijelölt eltávolítása
+{Reopen}Újranyitás
+{Replace}Csere
+{Reports}Naplók
+{Required files are missing}Szükséges fájlok hiányoznak
+{Reset}Alaphelyzet
+{Reset to Defaults}Alaphelyzetbe állítás
+{Reset Work Time}A működési idõ alaphelyzetbe állítása
+{Restart Application?}Újraindítja az alkalmazást?
+{Restore}Helyreállítás
+{Restore from Backup...}Helyreállítás biztonsági mentésbõl...
+{Reverse}Fordított
+{Reverse Line Contents}Fordított sortartalom
+{Reverse Line Sequence}Fordított sorrész
+{Right click to add new Stickers or Reminders.}Új címke vagy emlékeztető hozzáadása jobb-gombos egérkattintással.
+{Run With}Futtatás
+{SALES}ÉRTÉKESÍTÉS
+{Sample Text}Mintaszöveg
+{Save}Mentés
+{Save As...}Mentés másként...
+{Save Operation File As...}A működtetõfájl mentése másként...
+{Save Operation File...}A működtetõfájl mentése
+{Save source list to file...}A forráslista mentése fájlba...
+{Save target list to file...}A cél-lista mentése fájlba...
+{ScreenSnap}Képernyőfelvétel
+{ScreenSnap:}Képernyõfelvétel
+{Scroll Lock}Scroll Lock
+{Scroll Lock: OFF}Scroll Lock: KI
+{Scroll Lock: ON}Scroll Lock: BE
+{Search:}Keresés:
+{Search...}Keresés...
+{seconds}másodperc
+{Secure your files and folders}Fájl és mappa-biztonság
+{Select}Kijelölés
+{Select All}Az összes kijelölése
+{Select folder:}A mappa kijelölése:
+{Select Language}A nyelv kijelölése
+{Select Product}A termék kijelölése
+{Select Region and Close}A régió megadása és bezárás
+{Select your favourite theme}A kedvenc téma kiválasztása
+{Selected}Kijelölt
+{SELL BY CASH}VÁSÁRLÁS KÉSZPÉNZZEL
+{Sell by Cash}Vásárlás készpénzzel
+{SELL BY CREDIT}VÁSÁRLÁS HITELRE
+{Sell by Credit}Vásárlás hitelre
+{Send}Küldés
+{Send e-mail?}Email-t küld?
+{Send Feedback}Visszajelzés küldése
+{Send Feedback...}Visszajelzés küldése...
+{Send to Recycle Bin}Küldés a lomtárba
+{Separate by Char}Elválasztás karakterrel
+{Separate by String}Elválasztás karaktersorral
+{Separate Long Lines (Break Words)}Hosszú sorok elválasztása (szavak törése)
+{Separate Long Lines (Keep Words)}Hosszú sorok elválasztása (szavak egyben tartása)
+{Server Time:}Kiszolgáló-idő:
+{Server:}Kiszolgáló:
+{Set as Default Encoding}Beállítás alapértelmezett kódolásnak
+{Settings}Beállítások
+{Settings...}Beállítások...
+{Show}Megjelenítés
+{Show All Stickers}Az összes címke megjelenítése
+{Show Date Time}A dátum és az idő megjelenítése
+{Show Details}A részletek megjelenítése
+{Show Idle Time:}A tétlenségi idõ megjelenítése
+{Show Letters and Numbers without Special Keys}Betűk és számok megjelenítése különleges jelek nélkül
+{Show Notifications}Az értesítések megjelenítése
+{Show when status changes}Az állapot megváltozásának megjelenítése
+{Show Window}Ablak megjelenítése
+{Sign up}Regisztrálás
+{Small Buttons}Kis gombok
+{Software}Szoftver
+{Something went wrong. Your feedback could not be delivered.}Valami meghibásodott. Visszajelzését nem sikerült kézbesíteni.
+{Sort}Rendezés
+{Sort Lines}Sorok rendezése
+{Sound Effect}Hanghatás
+{Sound:}Hang:
+{Source (Files, Folders, URLs)}Forrás (fájl, mappa, URL)
+{Space key:}Szóköz-billentyű:
+{Spell Check}Helyesírás-ellenõrzés
+{Spell Checker}Helyesírás-ellenõrzõ
+{Spell Checker:}Helyesírás-ellenőrző:
+{Split Lines}Sorok törése
+{Start}Indítás
+{Start Working}A munka elkezdése
+{Status}Állapot
+{Status Bar}Állapotsáv
+{Stay on Top}Mindig felül
+{Stickers}Címkék
+{Stock}Készlet
+{STOCK BALANCE:}KÉSZLET-KIEGYENLÍTÉS:
+{Stock Inventory Count Sheet}Készletszám táblázat
+{Stock Inventory Count Sheet...}Készletszám táblázat...
+{STOP}LEÁLLÍTÁS
+{Success}Kész
+{SUCCESS}KÉSZ
+{Suggested Corrections}Javasolt helyesbítés
+{Support}Támogatás
+{Sync Computer Time}A számítógép-idõ szinkronizálása
+{Syntax}Szórend
+{System Error.}Rendszerhiba.
+{System Tray Menu}Tálcamenü
+{Tab Options...}Fül-beállítások...
+{Target Folder}Célmappa
+{Target Folder:}Célmappa:
+{Target Folders}Cél-mappa
+{Test Alert}Ellenőrző-értesítés
+{Testimonials}Bizonylatok
+{Text}Szöveg
+{Text Color:}Szövegszín
+{Text File}Szövegfájl
+{Text File (*.txt)}Szövegfájl (*.txt)
+{Text File (TXT)...}Szövegfájl (TXT)...
+{Text:}Szöveg:
+{Thank you}Köszönöm
+{Thank you!}Köszönöm!
+{The file could not be created!}A fájlt nem lehet létrehozni!
+{The server returned an invalid response.}A kiszolgáló érvénytelen választ küldött.
+{Theme}Téma
+{This is an example note.}Ez egy mintajegyzet
+{This is your first sticker!}Ez az első címke
+{This software works best without administrator privileges.}Ez a szoftver jobban működik rendszergazda-jogosultság nélkül
+{Time}Idő
+{Timestamp}Időbélyeg
+{To Existing Lines}A meglevõ sorok
+{To New Lines...}Új sorok...
+{Tool Bar}Eszköztár
+{Tools}Eszközök
+{Top}Felső
+{Top Selling Products}A legjobban fogyó termékek
+{Top Selling Products...}A legtöbb példányban eladott termékek...
+{Total}Összes
+{TOTAL:}ÖSSZES:
+{Total:}Összes:
+{Translated by:}Fordította:
+{Transparency:}Átlátszóság:
+{Tray Notifications:}Tálcaüzenet
+{Trial}Próba
+{TRIAL VERSION}KIPRÓBÁLÁSI VERZIÓ
+{Trim All}Az összes vágása
+{Trim Both}Mindkettõ vágása
+{Trim Left}A baloldal vágása
+{Trim Lines}Sorok vágása
+{Trim Right}A jobboldal vágása
+{Truly Empty Lines}Az összes sor kiürítése 
+{Try to run as Administrator.}Próbálja meg rendszergazdaként futtatni.
+{Type}Típus
+{Undo}Visszavonás
+{Unicode Detector}Unikód-észlelő
+{Unit}Egység
+{UNLICENSED}NEM-LICENSZELT
+{Unlock}Feloldás
+{UNLOCK ERROR}FELOLDÁSI HIBA
+{Unlock Selected}A kijelölt feloldása
+{Unlocked}Zárolatlan
+{Unlocking}Feloldás
+{Unnamed}Névtelen
+{UPDATE}FRISSÍTÉS
+{UPDATE AVAILABLE}FRISSÍTÉS ELÉRHETÕ
+{Update Notifications}Értesítés frissítésrõl
+{UPPERCASE}Nagybetű
+{Uppercase and Lowercase}Nagy- és kisbetű
+{URL Highlighter (No Spell Check)}URL-kiemelő (Nincs helyesírás-ellenőrzés)
+{USE AT YOUR OWN RISK!}CSAK A SAJÁT FELELŐSSÉGÉRE HASZNÁLJA!
+{User Interface Language:}A felhasználói felület nyelve:
+{User will press keys}A felhasználó nyomja le a billentyűket
+{using Characters}Karakterek használata
+{using Text}Szöveg használata
+{using Text Length}Szöveghossz használata
+{VCF Files (*.vcf)}VCF-fájl (*.vcf)
+{Version History}Verziótörténeet
+{Video file error!}Videofájl-hiba
+{View}Nézet
+{Vovsoft Newsletter}Vovsoft hírek
+{Warning}Figyelmeztetés
+{WARNING}FIGYELMEZTETÉS
+{We would really appreciate your feedback.}Visszajelzését méltányoljuk.
+{Weekdays}Hétköznapok
+{Welcome to %s}Köszöntjük %s
+{Welcome to Our Shop}Köszöntjük üzletünkben
+{What did you like or dislike?}Mi tetszett vagy mi nem tetszett?
+{Which Customer?}Melyik ügyfél?
+{Width:}Szélesség:
+{Word Wrap}Sortörés
+{Work Time:}Működési idõ
+{Wrong Admin Password!}Hibás rendszergazda-jelszó
+{Wrong password!}A jelszó hibás!
+{X:}X:
+{Y:}Y:
+{Yes}Igen
+{You are not logged as admin!}Nem rendszergazdaként jelentkezett be!
+{You can preview the font and color settings here.}Itt előzetesen megtekintheti a betű és színbeállításokat.
+{You cannot use this feature in unlicensed edition.}A nem-licenszelt kiadásban nem használható ez a tulajdonság.
+{Your feedback is received.}Visszajelzését megkaptuk.
+{Your master password is successfully set.}A mesterjelszó megfelelõ.
+{Aborted}
+{Add Files in Folders...}
+{Add M3U8}
+{Auto-Close Main Window}
+{Calculate}
+{Calculating all possibilities...}
+{Calculation Results:}
+{Change Auto-Close Time}
+{Change Auto-Close Time...}
+{Change Destination Folder}
+{Classic}
+{Click "New Sticker"}
+{Completed}
+{Default CSV Format}
+{Destination:}
+{Directory is not writable!}
+{Directory not found!}
+{Display Duration:}
+{Do you want to delete all stickers, reminders, settings and restart application?}
+{Do you want to replace the sticker with the image?}
+{Don't show this again}
+{Downloading...}
+{Draw mouse pointer}
+{E-mail not found!}
+{Edit M3U8}
+{Edit...}
+{Exported Entries:}
+{Fade-out Animation}
+{File Mask:}
+{File or Folder:}
+{Fix Broken UTF-8 Encoding}
+{Format:}
+{Generate Domain Name List}
+{Generate Hostname List}
+{Generate URL List}
+{Go}
+{Google CSV Format}
+{Hardware encoding}
+{Height}
+{Hide}
+{HINT}
+{How to create new sticky note:}
+{Include Subdirectories?}
+{Initializing...}
+{Invert Selection}
+{Length}
+{Line}
+{LIST ALL}
+{List of Containers:}
+{List of Loads:}
+{List...}
+{Load Limit}
+{milliseconds}
+{Minimize when recording starts}
+{Monitor}
+{Name}
+{Name of Container}
+{Name of Load}
+{No erroneous e-mail found.}
+{No replacements made.}
+{No sticky notes left on the desktop!}
+{No text selected!}
+{Offset}
+{Only %s entries exported using unlicensed version.}
+{Outlook CSV Format}
+{Output}
+{Please add containers!}
+{Please add loads!}
+{Please obtain a license key to activate the software.}
+{Properties}
+{Ready}
+{Recording...}
+{Refresh Hardware Encodings}
+{Regular Expression}
+{Restore when recording is complete}
+{Right-click tray icon}
+{Sample Values}
+{Save Results}
+{Search}
+{Search Every Line with Google}
+{Software encoding}
+{Text Engine}
+{Text not found!}
+{The specified region is not valid!}
+{This is required for importing in Gmail and Outlook.}
+{TRIAL LIMIT REACHED!}
+{URL not found!}
+{URL Processor}
+{using File}
+{Volume}
+{Volume Limit}
+{Volume of Container}
+{Volume of Load}
+{Width}
+{You are here:}
+{You can't go further than:}
+{You want to go to:}

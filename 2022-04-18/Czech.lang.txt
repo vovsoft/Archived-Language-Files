@@ -1,0 +1,830 @@
+﻿{INFO:Translated By}Anonymous
+{12 hour}12 h
+{24 hour}24 h
+{A required file is missing:}Požadovaný soubor chybí:
+{Ability to disable update notifications}Schopnost zakázat oznámení o aktualizaci
+{About}O aplikaci
+{About Us}O nás
+{About...}O aplikaci ...
+{Access is denied.}Přístup je odepřen.
+{Acknowledgements...}Poděkování ...
+{Activation}Aktivace
+{Activation Code:}Aktivační kód:
+{Activation failed.}Aktivace se nezdařila.
+{Active}Aktivní.
+{ADD}PŘIDAT
+{Add}Přidat
+{Add context menu item}Přidat položku kontextové nabídky
+{Add Dictionary...}Přidat slovník ...
+{Add Drive}Přidat jednotku
+{Add File}Přidat soubor
+{Add File(s)}Přidat soubor (y)
+{Add File(s)...}Přidat soubor (y) ...
+{Add Files in Folders...}Přidat soubory ve složkách ...
+{Add Files...}Přidat soubory ...
+{Add Folder}Přidat složku
+{Add Folder...}Přidat složku ...
+{Add Folders...}Přidat složky ...
+{Add Product Manually}Přidat produkt ručně
+{Add Recursive Subfolders...}Přidat rekurzivní podsložky ...
+{Add Subfolders...}Přidat podsložky ...
+{Add URL(s)...}Přidat adresu (URL) ...
+{Add URLs...}Přidat adresy URL ...
+{Add using Environment Variables}Přidat pomocí proměnných prostředí
+{Add Word To Dictionary}Přidat slovo do slovníku
+{Admin Password}Heslo administrátora
+{Alert Text:}Text výstrahy:
+{All Customers}Všichni zákazníci
+{All files must be unlocked before changing private key!}Před změnou soukromého klíče musí být všechny soubory odemknuty!
+{All files must be unlocked before enabling or disabling content encryption!}Před povolením nebo zakázáním šifrování obsahu musí být všechny soubory odemčeny!
+{All Products}Všechny produkty
+{Alphabet}Abeceda
+{Alphabetical}Abecední
+{Always on Top}Vždy na začátku
+{Always on top}Vždy nahoře
+{Always show when toggled on}Vždy zobrazit při přepnutí do
+{An error occurred while creating directory:}Došlo k chybě při vytváření adresáře:
+{An error occurred while unlocking:}Došlo k chybě při odemykání:
+{Analyze...}Analyzovat ...
+{And please backup your important files and folders before locking in case of hardware or software failure.}A zálohujte prosím své důležité soubory a složky před uzamčením v případě selhání hardwaru nebo softwaru.
+{Annually}Ročně
+{Annually:}Ročně:
+{Any File}Jakýkoli soubor
+{Any File (*.*)}Jakýkoli soubor (*. *)
+{Are you sure?}Jsi si jistý?
+{Arrange Stickers}Uspořádat lepicí štítky
+{ASCII Art...}ASCII Art ...
+{Ask Print}Zobrazit dotaz
+{Audio File}Zvukový soubor
+{Audio file error!}Chyba zvukového souboru!
+{Auto Copy Highlighted Text to Clipboard}Automaticky zkopírovat zvýrazněný text do schránky
+{Auto Refresh File}Automaticky obnovit soubor
+{Auto Run at Startup}Automaticky spustit při spuštění
+{Auto-Close Main Window}Automaticky zavřít hlavní okno
+{Auto-Close Popup Window After Finishing}Automaticky zavřít automaticky otevírané okno po dokončení
+{Auto-Closing...}Automaticky zavírá ...
+{Auto-Refresh Drive List}Automatická obnova seznamu jednotek
+{Auto-Start at Startup}Automatické spuštění při spuštění
+{Automatic}Automatický
+{Automatically Synchronize}Automaticky synchronizovat
+{Background Color:}Barva pozadí:
+{Backup Registry...}Zálohovat registr ...
+{Backup Stickers}Záložní lepicí štítky
+{Backup...}Zálohovat ...
+{Barcode}Čárový kód
+{BARCODE:}ČÁROVÝ KÓD:
+{Begin:}Začátek:
+{Beginning of Each Line...}Začátek každé řádky ...
+{Big Icons}Velké ikony
+{Blog}Blog
+{BREAK TIME!}ČAS PŘESTÁVKA!
+{Browse...}Procházet ...
+{Buy Now}Koupit nyní
+{Calculate}Vypočítat
+{Calculating all possibilities...}Výpočet všech možností ...
+{Calculation Results:}Výsledky výpočtu:
+{Cancel}Storno
+{Cancel product selection}Zrušit výběr produktu
+{CANCELED by User Request}ZRUŠENO dle požadavku uživatele
+{Canceled!}Stornováno!
+{Cannot create file}Nelze vytvořit soubor
+{Capitalize (First Letters Only)}Převést na velká písmena (pouze první písmena)
+{Cascade}Kaskáda
+{Category:}Kategorie:
+{Change Auto-Close Time}Změnit čas automatického zavření
+{Change Auto-Close Time...}Změnit čas automatického zavření ...
+{Change Background Color}Změnit barvu pozadí
+{Change Background Color...}Změnit barvu pozadí ...
+{Change File Location...}Změnit umístění souboru ...
+{Change Font...}Změnit písmo ...
+{Change Interface}Změnit rozhraní
+{Change Login Password...}Změnit heslo pro přihlášení ...
+{Change Menu Font...}Změnit písmo nabídky ...
+{Change Private Key...}Změnit soukromý klíč ...
+{Change Recovery E-mail}Změna e-mailu pro obnovení
+{Change Text Font}Změnit písmo textu
+{Change Theme}Změnit motiv
+{Change Theme...}Změnit motiv ...
+{Change:}Změna:
+{Classic}Klasické
+{Classical Interface}Klasické rozhraní
+{Clear}Vyčistit
+{Click "New Sticker"}Klepněte na "Nová nálepka"
+{Click to download}Klepnutím stáhnete
+{Clip Lines...}Klipary ...
+{Close}Zavřeno
+{Code:}Kód:
+{Combine Lines...}Kombinovat řádky ...
+{Comma-Separated Values File (CSV)...}Soubory s hodnotami oddělenými čárkou (CSV) ...
+{Commercial use allowed}Komerční použití povoleno
+{Company}Společnost
+{Compare Two Texts...}Porovnat dvě textury ...
+{Completed!}Dokončeno!
+{Completed.}Dokončeno.
+{Computer Code:}Kód počítače:
+{Computer Time:}Čas počítače:
+{Computer Timezone:}Časové pásmo počítače:
+{Computer will press keys}Počítač stiskne klávesy
+{Confirm Before Deletion}Potvrdit před odstraněním
+{Confirm Password:}Potvrzení hesla:
+{Confirm?}Potvrdit?
+{Confirmation}Potvrzení
+{Connection Error!}Chyba připojení!
+{Contact}Kontaktujte
+{Content Encryption (SLOW)}Šifrování obsahu (SLOW)
+{Content encryption is enabled.}Šifrování obsahu je povoleno.
+{Continue}Pokračovat
+{Contribute to Translation}Přispívat k překladu
+{Convert Non-English Chars to English Chars}Převést neanglické znaky na anglické znaky
+{Copied}Zkopírovaný
+{Copy}Kopírování
+{Copy All}Kopírovat vše
+{Copy files to many directories}Kopírovat soubory do mnoha adresářů
+{COPY INTO TARGET FOLDERS}KOPÍROVAT DO CÍLOVÝCH SLOŽEK
+{CREDIT:}KREDIT:
+{Credits}Poděkování
+{CSV File}Soubor CSV
+{CSV File (*.csv)}Soubor CSV (*.csv)
+{Currency Symbol}Symbol měny
+{Customer}Zákaznická
+{Customer with credit cannot be deleted!}Zákazník s dobropisy nelze odstranit!
+{CUSTOMER:}ZÁKAZNÍK:
+{Customer:}Zákazník:
+{CUSTOMERS}ZÁKAZNÍCI
+{Customers}Zákazníci
+{Cut}Vyjmout
+{Daily}Každý den
+{Daily:}Denně:
+{Dark}Tmavé
+{Date}Datum
+{Date and Time}Datum a čas
+{Day}Den
+{Daylight Saving:}Letní čas:
+{Decode...}Dekódovat ...
+{Decrease Font Size}Zmenšit velikost písma
+{Default}Výchozí
+{Default Alphabet}Výchozí abeceda
+{Default CSV Format}Výchozí formát CSV
+{Del key:}Del klíč:
+{Delete}Odstranit
+{DELETE}ODSTRANIT
+{Delete After}Odstranit po
+{DELETE ALL}ODSTRANIT VŠE
+{Delete All}Odstranit vše
+{Delete All Spaces}Odstranit všechny prostory
+{Delete Alphabetic [a-z] [A-Z]}Odstranit Abecední [ a-z] [ A-Z]
+{Delete Alphanumeric [a-z] [A-Z] [0-9]}Odstranit alfanumerické znaky [ a-z] [ A-Z] [ 0-9]
+{Delete Before}Odstranit před
+{Delete Beginning or Ending Strings...}Odstranit počáteční nebo koncové řetězce ...
+{Delete Chars}Odstranit znaky
+{DELETE CUSTOMER}ODSTRANIT ZÁKAZNÍKA
+{Delete Customer}Odstranit zákazníka
+{Delete Extra Spaces}Odstranit přebytečné prostory
+{Delete last entered product}Odstranit naposledy zadaný produkt
+{Delete Non-Alphabetic}Odstranit jiné než abecedě
+{Delete Non-Alphanumeric}Odstranit jiné než alfanumerické
+{Delete Numbers [0-9]}Odstranit čísla [ 0-9]
+{DELETE PRODUCT}ODSTRANIT PRODUKT
+{Delete Record}Odstranit záznam
+{Delete Reminder}Odstranit připomenutí
+{Delete Selected}Odstranit vybrané
+{Delete Unnecessary Lines}Odstranit nevyžadované řádky
+{Delete?}Odstranit?
+{Deleted}Odstraněný
+{Deselect All}Zrušit veškerý výběr
+{DETAILS}DETAILY
+{Diagonal}úhlopříčný
+{Directory:}Adresář:
+{Disabled}Deaktivováno
+{Discount}Sleva
+{Discounted Price}Diskonovaná cena
+{Discounted Total}Diskontované celkem
+{Disk Write Interval (sec):}Interval zápisu na disk (s):
+{Dismiss}Zamítnout
+{Display Duration:}Doba trvání zobrazení:
+{Display Load Time}Zobrazit dobu načítání
+{Display Prices}Zobrazit ceny
+{Display Special Chars}Zobrazit speciální znaky
+{Do you really want to delete ALL stickers?}Opravdu chcete odstranit VŠECHNY nálepky?
+{Do you really want to delete the reminder?}Opravdu chcete připomenutí odstranit?
+{Do you really want to delete the sticker?}Skutečně chcete odstranit nálepku?
+{Do you want to save the current file before exit?}Chcete před ukončením uložit aktuální soubor?
+{Do you want to save the current file?}Chcete uložit aktuální soubor?
+{Do you want to save this file before exit?}Chcete tento soubor před ukončením uložit?
+{Do you want to save this file?}Chcete tento soubor uložit?
+{Don't show this again}Nezobrazovat znovu toto
+{Download}Stáhnout
+{Drag Drop Filenames}Přetáhnout názvy souborů
+{Draw mouse pointer}Kreslit ukazatel myši
+{Drive}Příjezdový
+{DRIVE MISMATCH}NESHODA JEDNOTEK
+{Drive:}Jednotka:
+{Duplicate Lines}Duplicitní řádky
+{E-mail}Elektronická pošta
+{E-mail is changed.}E-mail se změnil.
+{E-mail not accepted!}E-mail nebyl přijat!
+{E-mail not found!}E-mail nebyl nalezen!
+{E-mail Processor}E-mail procesoru
+{Edit}Upravit
+{Edit License}Upravit licenci
+{Edit License...}Upravit licenci ...
+{Edit Password}Upravit heslo
+{Elapsed Time:}Uplynulý čas:
+{Email Address}E-mail
+{Empty}prázdný
+{Empty Lines (can include spaces and tabs)}Prázdné řádky (může obsahovat mezery a tabulátory)
+{Enable}Povolit
+{Enabled}Povoleno
+{Encode...}Kódování ...
+{Encoding}Kódování
+{Encryption}Šifrování
+{End of Each Line...}Konec každé řádky ...
+{End-User License Agreement}Licenční smlouva pro koncového uživatele
+{End:}Ukončit:
+{English}anglický
+{Enter License Key}Zadejte licenční klíč
+{Entire Document}Celý dokument
+{Error}Chyba
+{ERROR}CHYBA
+{Error No:}Chyba Ne:
+{ESC key:}Klávesa ESC:
+{EULA}EULA
+{Excel File (*.xls)}Soubor aplikace Excel (*.xls)
+{Excel File (XLS)...}Soubor aplikace Excel (XLS) ...
+{Exit}Ukončit
+{Exit Application?}Ukončit aplikaci?
+{Exit...}Ukončit ...
+{EXITING...}UKONČOVÁNÍ ...
+{Explore Dictionaries...}Prozkoumat slovníky ...
+{Export}Exportovat
+{Export Lines to Files}Exportovat řádky do souborů
+{Export Lines to Files...}Exportovat řádky do souborů ...
+{Export to File...}Exportovat do souboru ...
+{Export to HTML...}Exportovat do HTML ...
+{Export to PDF...}Exportovat do formátu PDF ...
+{Extract Image...}Extrahovat obrázek ...
+{Extract Text...}Extrahovat text ...
+{Extras}Doplňky
+{Fade-out Animation}Animace Fade-out
+{Failed}Nezdařilo se
+{Failure}Selhání
+{Feedback}Váš názor
+{feedback}zpětná vazba
+{File}Soubor
+{File already exists!}Soubor již existuje!
+{File does NOT exist:}Soubor neexistuje:
+{File inaccessible!}Soubor není přístupný!
+{File List}Seznam souborů
+{File Location}Umístění souboru
+{File Location:}Umístění souboru:
+{File lock error!}Chyba zámku souboru!
+{File Mask}Maska souboru
+{File not found!}Soubor nebyl nalezen!
+{Filename:}Název souboru:
+{Files & Folders}Soubory a složky
+{Filter Lines}Filtrovat řádky
+{Find}Najít
+{Find Erroneous E-mails}Hledat Erronieous E-maily
+{Find Lines}Najít řádky
+{Find Lines...}Najít řádky ...
+{Find Next}Hledat další
+{Find Next Misspelling}Najít další pravopisné chyby
+{Fix Broken UTF-8 Encoding}Opravit nefunkční kódování UTF-8
+{Fixed-Pitch Fonts Only}Pouze písma s pevnou rozteč
+{Folder}Složka
+{Folder does NOT exist:}Složka NEOBSAHUJE:
+{Folder Size:}Velikost složky:
+{Folder:}Složka:
+{Forgot Password?}Zapomněl jste heslo?
+{FREE}VOLNÝ
+{Free Edit}Volné úpravy
+{Free to try}Zdarma vyzkoušet
+{FREEWARE}FREEWARE
+{Freeware}Freeware
+{Freeware Utilities}Freeware utility
+{Full Screen}Celá obrazovka
+{Generate Barcode Image...}Generovat obraz čárových kódů ...
+{Generate Domain Name List}Generovat seznam názvů domén
+{Generate E-mail List}Generovat seznam e-mailů
+{Generate Hostname List}Generovat seznam názvů hostitelů
+{Generate URL List}Generovat seznam adres URL
+{Generate Word List}Generovat seznam slov
+{Get Server Time}Čas získání serveru
+{Go to...}Přejít na ...
+{Google CSV Format}Formát Google CSV
+{GRAND TOTAL:}CELKOVÝ SOUČET:
+{Hardware encoding}Kódování hardwaru
+{Header}Hlavička
+{Headers}záhlaví
+{Height}Výška
+{Height:}Výška:
+{Help}Nápověda
+{Hidden}Skrytý
+{Hide All Stickers}Skrýt všechny lepicí štítky
+{Hide Details}Skrýt podrobnosti
+{Highlight Active Line}Zvýraznit aktivní čáru
+{Highlight Even Lines}Zvýraznění sudých řádků
+{Highlight Odd Lines}Zvýraznit lichý řádek
+{Home}Domovská stránka
+{Hotkey:}Aktivační klávesa:
+{Hourly}Jednou za hodinu
+{Hourly:}Každou hodinu:
+{How to create new sticky note:}Jak vytvořit novou nalepovací poznámku:
+{How to uninstall...}Jak odinstalovat ...
+{HTML File (*.html)}Soubor HTML (*.html)
+{I dislike it!}To se mi nelíbí!
+{I like it!}Líbí se mi to!
+{ID}ID
+{ID Transformer...}Transformer ID ...
+{Idle Time:}Doba nečinnosti:
+{If no keyboard or mouse events occur for "Idle Time", "Work Time" resets.}Pokud u "času nečinnosti" nedojde k žádné události klávesnice nebo myši, resetují se "Pracovní doba".
+{If you like the software, please buy a license to make this software fully functional and remove this window.}Pokud se vám software líbí, kupte prosím licenci, aby byl tento software plně funkční, a odeberte toto okno.
+{Ignore}Ignorovat
+{Ignore Drive Mismatch While Unlocking}Ignorovat neshodu jednotek během uzamknutí
+{Ignore Failed Files While Unlocking}Ignorovat selhané soubory během uzamknutí
+{Import}Importovat
+{Import from File...}Importovat ze souboru ...
+{IMPORTANT}DŮLEŽITÁ
+{Include my e-mail:}Zahrnout můj e-mail:
+{Include Subdirectories?}Zahrnout podadresáře?
+{Increase Font Size}Zvětšit velikost písma
+{Indicates status of keys}Označuje stav klíčů
+{Info}Informace
+{Information}Informace
+{Initializing...}Probíhá inicializace ...
+{Insert}vložení
+{Insert Empty Lines}Vložit prázdné řádky
+{Insert Same Text Multiple Times}Vložit stejný text vícekrát
+{Insert Same Text Multiple Times...}Vložit stejný text vícekrát ...
+{Insufficient stock!}Nedostatek zásob!
+{Invalid E-mail!}Neplatný e-mail!
+{Invalid Entry!}Neplatná položka!
+{Invert Selection}Invertovat výběr
+{Keyboard Shortcuts}Klávesové zkratky
+{KeyPress Simulator}Simulátor KeyPress
+{Language}Jazyk
+{Language:}Jazyk:
+{Language...}Jazyk ...
+{LED Color (OFF):}Barva LED (zhasnutá):
+{LED Color (ON):}Barva indikátoru LED (Zapnuto):
+{Left}Vlevo
+{Left click to show Stickers on top.}Klepnutím pravým tlačítkem myši zobrazíte Nálepky na začátku.
+{Length}Délka
+{License key is invalid!}Licenční klíč je neplatný!
+{License:}Licence:
+{License...}Licence ...
+{Licensed}Licencováno
+{Licensed to:}Licence k:
+{Lifetime free updates}Neživotní aktualizace volných
+{Light}Světlé
+{Line Length}Délka čáry
+{Line Numbers}Čísla řádků
+{Line Order}Pořadí čar
+{List}Seznam
+{List of Containers:}Seznam kontejnerů:
+{List of Loads:}Seznam načtení:
+{Load}Zatížení
+{Load And Run Operation Files...}Načíst a spustit operační soubory ...
+{Load Limit}Limit zátěže
+{Load Operation File...}Načíst soubor operace ...
+{Load source list from file...}Načíst zdrojový seznam ze souboru ...
+{Load target list from file...}Načíst seznam cílů ze souboru ...
+{Load vCards from VCF file...}Načíst virtuální karty ze souboru VCF ...
+{Load...}Načíst ...
+{Loading}Načítá se
+{Loading...}Probíhá načítání ...
+{Lock}Uzamknout
+{Lock and Unlock processes may take some time.}Proces zamknutí a odemčení může nějakou dobu trvat.
+{Lock Selected}Zamknout vybrané
+{LOCKED}UZAMKNUTO
+{Locking}Zamykání
+{Login (Full Access)}Přihlášení (úplný přístup)
+{Logout}Odhlášení
+{lowercase}malá písmena
+{Lowercase}Malá písmena
+{MAIN MENU}HLAVNÍ NABÍDKA
+{Mark as Complete}Označit jako dokončené
+{milliseconds}milisekund
+{Minimal Mode}Minimální režim
+{Minimize when recording starts}Minimalizovat při spuštění záznamu
+{Minute}Minut
+{minutes}minut
+{Mode}Režim
+{Monitor}Monitor
+{Monitor External File Modification}Monitorovat externí úpravu souboru
+{Month}Měsíc
+{Monthly}Měsíčně
+{Monthly:}Měsíčně:
+{Move (Delete Source Files and Folders)}Přesunout (Odstranit zdrojové soubory a složky)
+{Move Down}Přemístit dolů
+{Move Info: Source files and folders were not deleted from disk because of copy error}Informace o přesunu: Zdrojové soubory a složky nebyly odstraněny z disku kvůli chybě kopírování
+{Move Up}Přemístit nahoru
+{Multiple Files...}Více souborů ...
+{Name}Název
+{Name of Container}Název kontejneru
+{Name of Load}Název načítání
+{Net Encoding}Kódování sítě
+{New}Novinka
+{New Reminder}Nové připomenutí
+{New Reminder...}Nové připomenutí ...
+{New Sticker}Nová nálepka
+{New Window}Nové okno
+{Next Receipt Number:}Další číslo příjemky:
+{Next Rest:}Další obnovení:
+{No}Ne
+{No Audio}Bez zvuku
+{No erroneous e-mail found.}Nebyl nalezen žádný chybný e-mail.
+{No Item Selected!}Nebyla vybrána žádná položka!
+{No item selected!}Nebyla vybrána žádná položka!
+{No nag screen, no ads}Bez nag. obrazovky, žádné reklamy
+{No replacements made.}Neprovedena žádná náhrada.
+{No Sound}Bez zvuku
+{No sticky notes left on the desktop!}Na pracovní ploše nezůstalo žádné nalepovací poznámky!
+{No text selected!}Není vybrán žádný text!
+{Non-English}Neangličtina
+{None}Žádná položka
+{Not applicable!}Neuplatňuje se!
+{Not Paid:}Nezaplacené:
+{Note}Poznámka
+{Note Window Margin:}Okraj okna poznámky:
+{Notes Manager}Správce prostředí Notes
+{Notes Manager...}Správce prostředí Notes ...
+{Number of Files:}Počet souborů:
+{Number of Times:}Počet případů:
+{Numbers}Čísla
+{Offline Activation}Aktivace offline
+{OK}OK
+{Online Help}nápověda online
+{Only Once}Pouze jednou
+{Only Once:}Pouze jednou:
+{Open File}Otevřít soubor
+{Open folder location...}Otevřít umístění složky ...
+{Open Folder Location...}Otevřít umístění složky ...
+{Open...}Otevřít ...
+{Operating Systems:}Operační systémy:
+{Operation File}Operační soubor
+{Operation STOPPED!}Operace byla ZASTAVENA!
+{Operations}Operace
+{Options}Možnosti
+{Options...}Volby ...
+{Ordinal Values of Characters}Ordinální hodnoty znaků
+{Original Size}Původní velikost
+{Outlook CSV Format}Formát PDF pro Outlook
+{Output:}Výstup:
+{Overwrite Existing Files}Přepsat existující soubory
+{Overwrite Read-Only Files}Přepsat soubory jen pro čtení
+{PAID}ZPOPLATNĚNO
+{Paid}Zpoplatněno
+{Paid:}Zaplaceno:
+{Password}Heslo
+{Password is changed.}Heslo se změnilo.
+{Password is incorrect!}Heslo je nesprávné!
+{Password not accepted!}Heslo nebylo přijato!
+{Password Recovery E-mail:}E-mail pro obnovení hesla:
+{Password:}Heslo:
+{Passwords do not match!}Hesla se neshodují!
+{Paste}VložitComment
+{Payments}Platby
+{PDF File (*.pdf)}Soubor PDF (*.pdf)
+{Permanently Delete}Trvale odstranit
+{Permanently Delete All}Trvale odstranit vše
+{Play}Přehrát
+{Play Sound Effect}Hrát zvukový efekt
+{Please add containers!}Přidejte kontejnery!
+{Please add loads!}Přidejte, prosím, načtení!
+{Please add source files!}Přidejte zdrojové soubory!
+{Please add target folders!}Přidejte cílové složky!
+{Please check your e-mail box.}Zkontrolujte prosím vaši e-mailovou schránku.
+{Please check your internet connection!}Zkontrolujte prosím připojení k Internetu!
+{Please enter barcode or product name!}Zadejte čárový kód nebo název produktu!
+{Please enter discount ratio:}Zadejte prosím diskontní poměr:
+{Please enter master password!}Zadejte prosím hlavní heslo!
+{Please enter new currency symbol:}Zadejte nový symbol měny:
+{Please enter password:}Zadejte heslo:
+{Please enter unit price:}Zadejte prosím jednotkovou cenu:
+{Please enter your license key:}Zadejte prosím licenční klíč:
+{Please enter your license key!}Zadejte prosím licenční klíč!
+{Please keep it in a safe place. You need it to unlock your files and folders.}Prosím, udržujte to na bezpečném místě. Potřebujete ho k odemčení vašich souborů a složek.
+{Please reinstall the software.}Nainstalujte prosím software znovu.
+{Please reopen the software without administrator privileges.}Prosím, znovu otevřete software bez oprávnění administrátora.
+{Please try again later!}Zkuste to prosím znovu později!
+{Please try again later.}Zkuste to prosím později.
+{Please try:}Zkuste prosím:
+{Please type NEW password:}Zadejte nové heslo:
+{Please type your CURRENT password:}Zadejte prosím své CURRENT heslo:
+{Please type your NEW e-mail:}Zadejte nový e-mail:
+{Please type your NEW password:}Zadejte prosím vaše NOVÉ heslo:
+{Please type your NEW private key:}Zadejte prosím svůj nový soukromý klíč:
+{Please Wait For Backup Process!}Čekejte, prosím, na proces zálohování!
+{Preview Sticker}Náhled nálepky
+{Price}Cena
+{PRICE:}CENA:
+{Print}Tisknout
+{Print Setup}Nastavení tisku
+{Print Template}Tisknout šablonu
+{Print?}Tisknout?
+{Print...}Tisknout ...
+{Printer not found!}Tiskárna nebyla nalezena!
+{Privacy Policy}Ochrana osobních údajů
+{Private Key}Soukromý klíč
+{Private key changed.}Změnil se soukromý klíč.
+{Process}Proces
+{Process completed!}Proces dokončen!
+{Processing...}Zpracování ...
+{Product}Výrobek
+{Product List}Seznam produktů
+{Product List...}Seznam produktů ...
+{PRODUCT NAME:}NÁZEV PRODUKTU:
+{Product successfully activated.}Produkt byl úspěšně aktivován.
+{Product:}Produkt:
+{PRODUCTS}PRODUKTY
+{Products}Produkty
+{Properties}Vlastnosti
+{Purchase}Nákup
+{Quantity}Množství
+{Random Number Generator}Generátor náhodných čísel
+{Random Number Generator...}Generátor náhodných čísel ...
+{Random Text Generator}Generátor náhodných textů
+{Random Text Generator...}Generátor náhodných textů ...
+{Randomize Line Contents}Náhodný řádek obsahu
+{Randomize Line Order}Randomizovat pořadí řádků
+{Read Reviews}Přezkoumání čtení
+{Ready}prav.
+{Receipts}Příjmové doklady
+{Recognize Environment Variables}Rozpoznat proměnné prostředí
+{Recognize Network Drives}Rozpoznávat síťové jednotky
+{RECORD}ZAZNAMENAT
+{RECORD DATE:}DATUM ZÁZNAMU:
+{Recording...}Probíhá záznam ...
+{Recover Lost Files}Obnovit ztracené soubory
+{Recover Password}Obnovit heslo
+{Redo}Zopakovat
+{Refresh Device List}Obnovit seznam zařízení
+{Refresh Hardware Encodings}Aktualizovat kódování hardwaru
+{Refund Policy}Změnit zásady financování
+{Region}Oblast
+{Regular Expression}Regulární výraz
+{Regular Expression...}Regulární výraz ...
+{Related Software}Související software
+{Release Date:}Datum uvolnění:
+{Remember Settings}Zapamatovat nastavení
+{Reminder}Připomínka
+{Reminders}připomenutí
+{Remove}Odebrat
+{Remove All}Odebrat všechny
+{Remove Selected}Odebrat vybrané
+{Reopen}Znovu otevřít
+{Replace}Nahradit
+{Reports}Sestavy
+{Required files are missing}Vyžadované soubory chybí
+{Reset}Vynulovat
+{Reset to Defaults}Obnovit výchozí hodnoty
+{Reset Work Time}Resetovat pracovní dobu
+{Restart Application?}Restartovat aplikaci?
+{Restore}Obnovit
+{Restore from Backup...}Obnovit ze zálohy ...
+{Restore when recording is complete}Obnovit při dokončení záznamu
+{Reverse}Změnit směr
+{Reverse Line Contents}Obsah inverzního řádku
+{Reverse Line Sequence}Obrácené pořadí čar
+{Right click to add new Stickers or Reminders.}Klepněte pravým tlačítkem myši, chcete-li přidat nové lepičky nebo připomenutí.
+{Right-click tray icon}Ikona přihrádky pro klepnutí pravým tlačítkem myši
+{Run With}Spustit pomocí
+{SALES}PRODEJ
+{Sample Text}Ukázka textu
+{Sample Values}Ukázkové hodnoty
+{Save}Uložit
+{Save As...}Uložit jako ...
+{Save Operation File As...}Uložit soubor operace jako ...
+{Save Operation File...}Uložit soubor operace ...
+{Save Results}Uložit výsledky
+{Save source list to file...}Uložit zdrojový seznam do souboru ...
+{Save target list to file...}Uložit seznam cílů do souboru ...
+{ScreenSnap}Zachytávání obrazovky
+{ScreenSnap:}Snímek obrazovky:
+{Search:}Vyhledat:
+{Search...}Hledat ...
+{seconds}sekundy
+{Secure your files and folders}Zabezpečení vašich souborů a složek
+{Select}Vyberte
+{Select All}Označit vše
+{Select folder:}Vyberte složku:
+{Select Language}Výběr jazyka
+{Select Product}Výběr produktu
+{Select Region and Close}Vybrat oblast a zavřít
+{Select your favourite theme}Vyberte svůj oblíbený motiv
+{Selected}Vybraný
+{SELL BY CASH}PRODAT V HOTOVOSTI
+{Sell by Cash}Prodat v hotovosti
+{SELL BY CREDIT}PRODAT PODLE KREDITU
+{Sell by Credit}Prodat podle kreditu
+{Send}Odeslat
+{Send e-mail?}Odeslat e-mail?
+{Send Feedback}Odeslat zpětnou vazbu
+{Send Feedback...}Odeslat zpětnou vazbu ...
+{Send to Recycle Bin}Odeslat do koše
+{Separate by Char}Oddělit podle znaku
+{Separate by String}Oddělit podle řetězce
+{Separate Long Lines (Break Words)}Samostatné dlouhé řádky (Break Words)
+{Separate Long Lines (Keep Words)}Samostatné dlouhé řádky (Uchovat slova)
+{Server Time:}Čas serveru:
+{Server:}Server:
+{Set as Default Encoding}Nastavit jako výchozí kódování
+{Settings}NastaveníComment
+{Settings...}Nastavení ...
+{Show}Zobrazit
+{Show All Stickers}Zobrazit všechny štítky
+{Show Date Time}Zobrazit datum a čas
+{Show Details}Zobrazit podrobnosti
+{Show Idle Time:}Zobrazit dobu nečinnosti:
+{Show Letters and Numbers without Special Keys}Zobrazit písmena a čísla bez speciálních kláves
+{Show Notifications}Zobrazit upozornění
+{Show when status changes}Zobrazit při změně stavu
+{Show Window}Zobrazit okno
+{Sign up}Registrace
+{Small Buttons}Malá tlačítka
+{Software}Software.
+{Software encoding}Kódování softwaru
+{Something went wrong. Your feedback could not be delivered.}Něco se pokazilo. Váš názor nemohl být dodán.
+{Sort}Řadit
+{Sort Lines}Řadit řádky
+{Sound Effect}Efekt zvuku
+{Sound:}Zvuk:
+{Source (Files, Folders, URLs)}Zdroj (soubory, složky, adresy URL)
+{Space key:}Mezerník:
+{Spell Check}Kontrola pravopisu
+{Spell Checker}Kontrola pravopisu
+{Spell Checker:}Kontrola pravopisu:
+{Split Lines}Rozdělit řádky
+{Start}Začátek
+{Start Working}Zahájit práci
+{Status}Stav
+{Status Bar}Stavový pruh
+{Stay on Top}Pobyt nahoře
+{Stickers}Nálepky
+{Stock}Burzovní
+{STOCK BALANCE:}STAV ZÁSOB:
+{Stock Inventory Count Sheet}Burzovní list skladové zásoby
+{Stock Inventory Count Sheet...}Burzovní list stavu zásob ...
+{STOP}ZASTAVIT
+{Success}Úspěch.
+{SUCCESS}ÚSPĚCH.
+{Suggested Corrections}Doporučené opravy
+{Support}Podpora
+{Sync Computer Time}Čas synchronizace počítače
+{Syntax}Syntaxe
+{System Error.}Systémová chyba.
+{System Tray Menu}Nabídka systémové lišty
+{Tab Options...}Volby karty ...
+{Target Folder}Cílová složka
+{Target Folder:}Cílová složka:
+{Target Folders}Cílové složky
+{Test Alert}Testovat výstrahu
+{Testimonials}Testimonii
+{Text}Text
+{Text Color:}Barva textu:
+{Text Engine}Textový stroj
+{Text File}Textový soubor
+{Text File (*.txt)}Textový soubor (*.txt)
+{Text File (TXT)...}Textový soubor (TXT) ...
+{Text not found!}Text nebyl nalezen!
+{Text:}Text:
+{Thank you}Děkuji.
+{Thank you!}Děkuju!
+{The file could not be created!}Soubor nebylo možné vytvořit!
+{The server returned an invalid response.}Server vrátil neplatnou odpověď.
+{The specified region is not valid!}Uvedená oblast je neplatná!
+{Theme}Motiv
+{This is an example note.}Toto je příklad poznámky.
+{This is required for importing in Gmail and Outlook.}To je nezbytné pro import v aplikaci Gmail a aplikaci Outlook.
+{This is your first sticker!}Tohle je vaše první nálepka!
+{This software works best without administrator privileges.}Tento software funguje nejlépe bez oprávnění administrátora.
+{Time}Čas
+{Timestamp}Časové razítko
+{To Existing Lines}Na existující řádky
+{To New Lines...}Do nových řádků ...
+{Tool Bar}Panel nástrojů
+{Tools}Nástroje
+{Top}Začátek
+{Top Selling Products}Špičkové prodejní produkty
+{Top Selling Products...}Nejprodáváte produkty ...
+{Total}Celkem
+{TOTAL:}CELKEM:
+{Total:}Celkem:
+{Translated by:}Přeložil:
+{Transparency:}Transparentnost
+{Tray Notifications:}Oznámení v zásobníku:
+{Trial}Zkušební doba
+{TRIAL VERSION}ZKUŠEBNÍ VERZE
+{Trim All}Ořídit vše
+{Trim Both}Oříznout
+{Trim Left}Oříznout
+{Trim Lines}Výběrové řádky
+{Trim Right}Ořez vpravo
+{Truly Empty Lines}Skutečně prázdné řádky
+{Try to run as Administrator.}Pokuste se spustit jako administrátor.
+{Type}Typ
+{Undo}Vrátit zpět
+{Unicode Detector}Detektor Unicode
+{Unit}Jednotka
+{UNLICENSED}NELICENCOVÁNO
+{Unlock}Odemknout
+{UNLOCK ERROR}CHYBA PŘI ODEMČENÍ
+{Unlock Selected}Odemknout vybrané
+{Unlocked}Odemčeno
+{Unlocking}Odemykání
+{Unnamed}Nepojmenovaný
+{UPDATE}AKTUALIZOVAT
+{UPDATE AVAILABLE}AKTUALIZACE K DISPOZICI
+{Update Notifications}Aktualizovat oznámení
+{UPPERCASE}VELKÁ PÍSMENA
+{Uppercase and Lowercase}Velká a malá písmena
+{URL Highlighter (No Spell Check)}Zvýrazňovač adresy URL (bez kontroly pravopisu)
+{URL not found!}Adresa URL nebyla nalezena!
+{URL Processor}Procesor URL
+{USE AT YOUR OWN RISK!}POUŽÍVEJTE NA VLASTNÍ NEBEZPEČÍ!
+{User Interface Language:}Jazyk uživatelského rozhraní:
+{User will press keys}Uživatel stiskne klávesy
+{using Characters}použití znaků
+{using File}použití souboru
+{using Text}použití textu
+{using Text Length}použití délky textu
+{VCF Files (*.vcf)}Soubory VCF (*.vcf)
+{Version History}Historie verzí
+{Video file error!}Chyba souboru videa!
+{View}Pohled
+{Volume}Svazek
+{Volume Limit}Limit nosiče
+{Volume of Container}Objem kontejneru
+{Volume of Load}Objem zátěže
+{Vovsoft Newsletter}Bulletin Vovsoft
+{Warning}Varování
+{WARNING}VAROVÁNÍ
+{We would really appreciate your feedback.}Ocenili bychom vaši zpětnou vazbu.
+{Weekdays}Dny v týdnu
+{Welcome to %s}Vítejte v produktu %s
+{Welcome to Our Shop}Vítejte v našem obchodu
+{What did you like or dislike?}Co se ti líbilo nebo nelíbilo?
+{Which Customer?}Který zákazník?
+{Width}Šířka
+{Width:}Šířka:
+{Word Wrap}Zalomení textu
+{Work Time:}Pracovní doba:
+{Wrong Admin Password!}Chybné heslo administrátora!
+{Wrong password!}Chybné heslo!
+{Yes}Ano
+{You are not logged as admin!}Nejste přihlášeni jako administrátor!
+{You can preview the font and color settings here.}Zde můžete zobrazit náhled nastavení písma a barvy.
+{You cannot use this feature in unlicensed edition.}Tuto funkci nelze použít v nelicencovaném vydání.
+{Your feedback is received.}Váš názor je obdržen.
+{Your master password is successfully set.}Hlavní heslo bylo úspěšně nastaveno.
+{Aborted}
+{Add M3U8}
+{Caps Lock}
+{Caps Lock: OFF}
+{Caps Lock: ON}
+{Change Destination Folder}
+{Completed}
+{Destination:}
+{Directory is not writable!}
+{Directory not found!}
+{Do you want to delete all stickers, reminders, settings and restart application?}
+{Do you want to replace the sticker with the image?}
+{Downloading...}
+{Edit M3U8}
+{Edit...}
+{Exported Entries:}
+{File Mask:}
+{File or Folder:}
+{For 1}
+{For 10}
+{For 100}
+{For 20}
+{For 200}
+{For 5}
+{For 50}
+{Format:}
+{Go}
+{Hide}
+{HINT}
+{Line}
+{LIST ALL}
+{List...}
+{Num Lock}
+{Num Lock: OFF}
+{Num Lock: ON}
+{Offset}
+{Only %s entries exported using unlicensed version.}
+{Output}
+{Please obtain a license key to activate the software.}
+{Scroll Lock}
+{Scroll Lock: OFF}
+{Scroll Lock: ON}
+{Search}
+{Search Every Line with Google}
+{TRIAL LIMIT REACHED!}
+{X:}
+{Y:}
+{You are here:}
+{You can't go further than:}
+{You want to go to:}
