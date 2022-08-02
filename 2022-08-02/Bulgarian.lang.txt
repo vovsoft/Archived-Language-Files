@@ -1,0 +1,933 @@
+﻿{INFO:Translated By}Anonymous
+{A required file is missing:}Липсва задължителен файл:
+{Ability to disable update notifications}Възможност за деактивиране на известия за обновяване
+{About}За програмата
+{About Us}За нас.
+{About...}Относно ...
+{Access is denied.}Достъпът е отказан.
+{Acknowledgements...}Кредити ...
+{Activation}Активиране
+{Activation Code:}Код на активиране:
+{Activation failed.}Неуспешно активиране.
+{ADD}ДОБАВИ
+{Add}Добави:
+{Add Drive}Добавяне на двигател
+{Add File}Добавяне на файл
+{Add File(s)}Добавяне на файл (ове)
+{Add File(s)...}Добавяне на файл (ове) ...
+{Add Files...}Добавяне на файлове ...
+{Add Folder}Добавяне на папка
+{Add Folder...}Добавяне на папка ...
+{Add Folders...}Добавяне на папки ...
+{Add Product Manually}Добавяне на продукт ръчно
+{Add Recursive Subfolders...}Добавяне на рекурсивни подпапки ...
+{Add Subfolders...}Добавяне на подпапки ...
+{Add URL(s)...}Добавяне на URL (и) ...
+{Add URLs...}Добавяне на URL адреси ...
+{Add using Environment Variables}Добавяне на използване на променливи на среда
+{Admin Password}Администраторска парола
+{Alert Text:}Текст на тревога:
+{All Customers}Всички клиенти
+{All Products}Всички продукти
+{Always on top}Винаги отгоре.
+{Always show when toggled on}Винаги се показвай, когато се гавш.
+{An error occurred while creating directory:}Възникна грешка при създаването на директория:
+{An error occurred while unlocking:}Възникна грешка при отключване:
+{And please backup your important files and folders before locking in case of hardware or software failure.}И моля, архивирате важните файлове и папки преди заключване в случай на хардуерна или софтуерна повреда.
+{Any File}Всеки файл
+{Are you sure?}Сигурни ли сте?
+{Ask Print}Попитайте за шаблон
+{Audio file error!}Грешка в аудио файла!
+{Auto-Close Popup Window After Finishing}Автоматично затваряне на изскачащ прозорец след завършване
+{Auto-Closing...}Автоматично спиране ...
+{Auto-Start at Startup}Автоматично стартиране при стартиране
+{Background Color:}Цвят на фона:
+{Backup Registry...}Архивен регистър ...
+{Backup...}Архив ...
+{Barcode}Баркод
+{BARCODE:}БАРКОД:
+{Begin:}Начало:
+{Big Icons}Големи икони!
+{Blog}Блог:
+{BREAK TIME!}Време е!
+{Browse...}Да сърфирам ...
+{Buy Now}Купете сега
+{Cancel}Отказ
+{Cancel product selection}Отказ от избора на продукт
+{CANCELED by User Request}АНУЛИРАНА от Потребителски Request
+{Canceled!}Отменена е!
+{Cannot create file}Грешка при създаване на файл
+{Category:}Категория:
+{Change File Location...}Промяна на местоположение ...
+{Change Interface}Промяна на интерфейса
+{Change Login Password...}Промяна на паролата ...
+{Change Recovery E-mail}Промяна на имейл за възстановяване
+{Change:}Промени:
+{Classical Interface}Класически интерфейс
+{Click to download}Кликнете, за да я изтеглите
+{Close}Затвори
+{Code:}Код:
+{Commercial use allowed}Разрешена употреба:
+{Company}Компания:
+{Completed!}-Да.
+{Completed.}-Да.
+{Computer Code:}Компютърен код:
+{Computer Time:}Компютърен път:
+{Computer Timezone:}Компютърна часова зона:
+{Confirm Password:}Потвърдете паролата:
+{Confirm?}Потвърждавате ли?
+{Confirmation}Потвърждение
+{Connection Error!}Грешка при свързване!
+{Contact}Връзка:
+{Continue}Продължи
+{Contribute to Translation}Принос Превод:
+{Copied}Копие:
+{Copy}Копие:
+{Copy All}Копиране:
+{Copy files to many directories}Копиране на файлове в множество директории
+{COPY INTO TARGET FOLDERS}Копиране в целеви папки
+{CREDIT:}КРЕДИТ:
+{Credits}Кредити
+{CSV File}CSV файл
+{Customer}Client
+{Customer with credit cannot be deleted!}Клиент с кредит не може да бъде изтрит
+{CUSTOMER:}КЛИЕНТ:
+{Customer:}Клиент:
+{CUSTOMERS}КЛИЕНТИ
+{Customers}Клиенти:
+{Date}Дата
+{Daylight Saving:}Спестяване на дневна светлина:
+{Del key:}Клавиш Del:
+{DELETE}ИЗТРИЙ
+{DELETE ALL}Изтриване на всички
+{DELETE CUSTOMER}SUPPRIMER CLIENT
+{Delete Customer}Изтрий клиента
+{Delete last entered product}Изтриване на последно въведената продукт
+{DELETE PRODUCT}ИЗТРИЙ ПРОДУКТА
+{Delete Record}Изтрий записа
+{Delete Selected}Изтриване на избрано
+{Deselect All}Премахнете всички
+{DETAILS}DÉTAILS
+{Disabled}Деактивирано
+{Discount}Отстъпка:
+{Discounted Price}Дисконтирана цена
+{Discounted Total}Общо намаление
+{Disk Write Interval (sec):}Интервал за запис на диска (сек.):
+{Display Prices}Показване на цените
+{Download}Изтегли
+{Drive}Карай!
+{DRIVE MISMATCH}Грешка при шофиране.
+{Drive:}-Да.
+{E-mail}Електронна поща
+{E-mail is changed.}Имейлът е променен.
+{E-mail not accepted!}Имейлът не е приет!
+{Edit}Редактиране
+{Edit License}Редактирай лиценза...
+{Edit License...}Редактиране на лиценз ...
+{Edit Password}Редактирай паролата
+{Elapsed Time:}Изминало време:
+{Email Address}Имейл адрес
+{Enable}Активиране:
+{Enabled}Включено е
+{End-User License Agreement}Край-Лицензно споразумение за потребителя
+{End:}Край:
+{Enter License Key}Въведете лицензен ключ
+{Error}Грешка
+{ERROR}ГРЕШКА	
+{Error No:}Грешка No:
+{ESC key:}Клавиш ESC:
+{EULA}EULA
+{Exit}Изход
+{Exit Application?}Изходящо приложение?
+{Exit...}Изход ...
+{EXITING...}EXITING ...
+{Export}Износ:
+{Export to File...}Експортиране във файл ...
+{Failed}Неуспешно
+{Failure}Неуспешно
+{Feedback}Отзив
+{feedback}отзив
+{File}Файл:
+{File already exists!}Файлът вече съществува!
+{File does NOT exist:}Файлът не съществува:
+{File inaccessible!}Файлът е недостъпен!
+{File List}Списък с файлове
+{File Location}Местоположение на файла
+{File Location:}Местоположение на файла:
+{File lock error!}Грешка при заключване на файл!
+{File Mask}Маска на файл
+{File not found!}Файлът не е открит!
+{Filename:}Име на файла:
+{Files & Folders}Файлове & папки
+{Folder}Папка:
+{Folder does NOT exist:}Папка не съществува:
+{Folder Size:}Размер на папка:
+{Folder:}Папка:
+{For 1}За 1
+{For 10}За 10
+{For 100}За 100
+{For 20}За 20
+{For 200}За 200
+{For 5}За 5
+{For 50}За 50
+{Forgot Password?}Забравихте паролата?
+{FREE}БЕЗПЛАТНО
+{Free Edit}Свободно редактиране
+{Free to try}Свободен да опитам.
+{FREEWARE}БЕЗПЛАТНА
+{Freeware Utilities}Помощни програми:
+{Full Screen}Пълен екран
+{Get Server Time}Време за сървъра:
+{GRAND TOTAL:}ГРАНД ТОТАЛ:
+{Header}Заглавие:
+{Headers}Горни.
+{Height:}Височина:
+{Help}Помощ
+{Hidden}Скрит.
+{Hide Details}Скрити детайли
+{Home}Вкъщи.
+{How to uninstall...}Как да деинсталирате ...
+{I dislike it!}Не ми харесва!
+{I like it!}Харесва ми!
+{Idle Time:}Време на престой:
+{If no keyboard or mouse events occur for "Idle Time", "Work Time" resets.}"работно време" се връща, ако няма клавиатура или мишка събитие за "Idle време".
+{If you like the software, please buy a license to make this software fully functional and remove this window.} Ако харесвате програмата, моля, купете лиценз, за да я направите напълно функционална и да премахнете този прозорец..
+{Ignore}Игнориране
+{Ignore Drive Mismatch While Unlocking}Игнориране на несъвпадение на устройство при отблокиране
+{Ignore Failed Files While Unlocking}Игнориране на неуспели файлове при отключване
+{Import}Внос
+{IMPORTANT}ВАЖНО
+{Include my e-mail:}Включи моя имейл:
+{Indicates status of keys}Указва статуса на клавишите
+{Info}Информация:
+{Information}Информация:
+{Insufficient stock!}Недостатъчна наличност!
+{Invalid E-mail!}Грешен имейл!
+{Invalid Entry!}Грешен запис!
+{Keyboard Shortcuts}Клавишни комбинации
+{Language}Език...
+{Language:}Език:
+{Language...}На език ...
+{License key is invalid!}Лицензният ключ е невалиден!
+{License:}Лиценз:
+{Licensed}Лицензиран
+{Licensed to:}Лицензирана на:
+{Lifetime free updates}Безплатни актуализации за цял живот
+{List}Списък:
+{Load}Товар:
+{Load And Run Operation Files...}Зареждане и изпълнение на файлове ...
+{Load Operation File...}Зареждане на файл ...
+{Load source list from file...}Зареждане на списък с източници от файл ...
+{Load target list from file...}Зареждане на списък приемник от файл ...
+{Load vCards from VCF file...}Зареждане на vCards от VCF файл ...
+{Load...}Зареди!
+{Loading}Зареждане:
+{Loading...}Зареждане ...
+{Lock}Заключи!
+{Lock and Unlock processes may take some time.}Процесите на заключване и отключване могат да отнемат известно време.
+{Lock Selected}Избор на заключване
+{LOCKED}Заключено
+{Login (Full Access)}S'identifier (Accès complet)
+{Logout}Изход
+{MAIN MENU}ГЛАВНО МЕНЮ
+{Minimal Mode}Минимален режим:
+{minutes}Минути.
+{Mode}Режим:
+{Move (Delete Source Files and Folders)}Преместване (Изтриване на изходни файлове и папки)
+{Move Info: Source files and folders were not deleted from disk because of copy error}Преместване на информация: изходните файлове и папки не са изтрити от диска поради грешка при копиране
+{Next Rest:}Следваща почивка:
+{No}Не
+{No Audio}Няма звук.
+{No Item Selected!}Няма избран елемент!
+{No nag screen, no ads}Без наг екран, без реклами
+{No Sound}Без звук.
+{Not applicable!}Не е приложимо!
+{Not Paid:}Неплатено:
+{Number of Files:}Брой файлове:
+{Offline Activation}Активиране на офлайн
+{OK}Добре
+{Online Help}Помощ за онлайн
+{Open File}Отваряне на файл
+{Open folder location...}Отваряне на местоположение на папка ...
+{Open Folder Location...}Отваряне на местоположение на папка ...
+{Operating Systems:}Операционни системи:
+{Operation File}Файл на операция
+{Operation STOPPED!}Операцията спря!
+{Operations}Операции
+{Output:}Изход:
+{Overwrite Existing Files}Презаписване на съществуващи файлове
+{PAID}ПЛАТЕНО
+{Paid}платен
+{Paid:}Платено:
+{Password}Парола
+{Password is changed.}Паролата е променена.
+{Password is incorrect!}Паролата е неправилна!
+{Password not accepted!}Паролата не е приета!
+{Password Recovery E-mail:}Имейл за възстановяване на паролата:
+{Password:}Парола:
+{Passwords do not match!}Паролите не съвпадат!
+{Paste}Паста:
+{Payments}Плащания
+{Play}Играй!
+{Play Sound Effect}Възпроизвеждане на звук ефект
+{Please add source files!}Моля, добавете изходни файлове!
+{Please add target folders!}Добавете целеви папки!
+{Please check your e-mail box.}Моля проверете имейла си.
+{Please check your internet connection!}Моля, проверете вашата интернет връзка!
+{Please enter barcode or product name!}Моля, въведете баркод или име на продукт!
+{Please enter discount ratio:}Моля, въведете коефициент на отстъпка:
+{Please enter master password!}Моля, въведете главна парола!
+{Please enter password:}Моля въведете парола:
+{Please enter unit price:}Моля въведете единична цена:
+{Please enter your license key:}Моля, въведете вашия лицензен ключ:
+{Please enter your license key!}Моля, въведете вашия лицензен ключ!
+{Please keep it in a safe place. You need it to unlock your files and folders.}Моля, пазете го на сигурно място. Трябва да отключите файловете и папките.
+{Please reinstall the software.}Моля, инсталирайте софтуера.
+{Please reopen the software without administrator privileges.}Моля, отворете повторно софтуера без администраторски привилегии.
+{Please try again later.}Моля, опитайте отново по-късно..
+{Please try:}Моля, опитайте:
+{Please type NEW password:}Моля, въведете НОВА парола:
+{Please type your CURRENT password:}Въведете Вашата CURRENT парола:
+{Please type your NEW e-mail:}Моля, въведете новия си имейл:
+{Please type your NEW password:}Въведете новата си парола:
+{Please Wait For Backup Process!}Моля изчакайте за архивиране!
+{Price}Цена
+{PRICE:}ЦЕНА:
+{Print Template}Шаблон за печат
+{Printer not found!}Принтерът не е открит!
+{Privacy Policy}Политика за поверителност
+{Process}Процес:
+{Processing...}Обработка ...
+{Product}Продукт
+{PRODUCT NAME:}ИМЕ НА ПРОДУТА:
+{Product successfully activated.}Активирането е успешно.
+{Product:}Продукт:
+{PRODUCTS}ПРОДУКТИ
+{Products}Продукти:
+{Purchase}Купува
+{Quantity}Количество
+{Read Reviews}Прочетете отзиви
+{Recognize Environment Variables}Разпознаване на променливи на обкръжението
+{Recognize Network Drives}Разпознаване на мрежови устройства
+{RECORD}RECORD
+{RECORD DATE:}ДАТА НА ЗАПИСA
+{Recover Lost Files}Възстановяване на изгубени файлове
+{Recover Password}Възстановяване на парола
+{Refresh Device List}Refresh Списък с устройства
+{Refund Policy}Политика за възстановяване
+{Region}Регион:
+{Related Software}Свързан софтуер:
+{Release Date:}Дата на излизане:
+{Remember Settings}Не забравяйте Настройки
+{Remove}Премахване.
+{Remove All}Премахване на всички
+{Remove Selected}Премахване на избраните
+{Required files are missing}Липсващите файлове липсват
+{Reset}Нулиране
+{Reset to Defaults}Настройване на подразбирания
+{Reset Work Time}Нулиране на работното време
+{Restart Application?}Да рестартирам ли програмата?
+{Restore from Backup...}Възстановяване от архив...
+{SALES}ПРОДАЖБИ
+{Save}Запис!
+{Save As...}Запазване като ...
+{Save Operation File As...}Запис на файл като ...
+{Save Operation File...}Запис на операция ...
+{Save source list to file...}Запис на списък с източници на файл ...
+{Save target list to file...}Запис на списък приемник във файл ...
+{Search:}Търсене:
+{Search...}-Търси ...
+{seconds}S.
+{Secure your files and folders}Подсигурете Вашите файлове и папки
+{Select}Избор:
+{Select All}Маркирай всички
+{Select folder:}Избор на папка:
+{Select Product}Изберете продукт
+{Select Region and Close}Изберете регион и затваряне
+{SELL BY CASH}ПРОДАЖБА В БРОЙ
+{Sell by Cash}Продажба в брой
+{SELL BY CREDIT}ПРОДАЖБА С КАРТА
+{Sell by Credit}Продажба с карта
+{Send}Изпрати
+{Send e-mail?}Ще изпратите имейл?
+{Send Feedback}Изпратете отзив...
+{Send Feedback...}Изпращане на обратна връзка ...
+{Server Time:}Време на сървъра:
+{Server:}Сървър:
+{Settings}Настройки
+{Settings...}Настройки ...
+{Show}Afficher
+{Show Details}Показване на детайли
+{Show Idle Time:}Време на престой:
+{Show Letters and Numbers without Special Keys}Показване на писма и номера без специални ключове
+{Show when status changes}Показване, когато състоянието се промени
+{Show Window}Показване на прозорец
+{Sign up}Запишете се!
+{Small Buttons}Малки бутони!
+{Software}Софтуер:
+{Something went wrong. Your feedback could not be delivered.}Нещо се обърка. Вашето мнение не можа да бъде доставено.
+{Space key:}Клавиш интервал:
+{Status}Статус
+{STOCK BALANCE:}СТОКОВ БАЛАНС:
+{Success}Успешно
+{SUCCESS}УСПЕХ
+{Thank you!}Благодарим!
+{Total}Общо
+{TOTAL:}ТОТАЛ:
+{Translated by:}Преведена от:
+{TRIAL VERSION}ПРОБНА ВЕРСИЯ
+{UNLICENSED}НЕРЕГИСТРИРАНА
+{UPDATE}ОБНОВИ
+{UPDATE AVAILABLE}НАЛИЧНА Е АКТУАЛИЗАЦИЯ
+{Update Notifications}Обнови съобщенията
+{Warning}Внимание
+{WARNING}ВНИМАНИЕ
+{We would really appreciate your feedback.}Ние наистина ще се радваме на вашите отзиви.
+{Welcome to %s}добре дошли в %s
+{What did you like or dislike?}Какво ви хареса или не харесватe?
+{Which Customer?}Кой клиент?
+{Wrong password!}Грешна парола!
+{X:}X:
+{Y:}Y:
+{Yes}Да
+{You are not logged as admin!}вВлезли сте като Администратор!
+{Your feedback is received.}Вашите отзиви са получени.
+{12 hour}
+{24 hour}
+{Aborted}
+{About %s}
+{Active}
+{Add context menu item}
+{Add Dictionary...}
+{Add Files in Folders...}
+{Add files to the list}
+{Add M3U8}
+{Add Word To Dictionary}
+{All files must be unlocked before changing private key!}
+{All files must be unlocked before enabling or disabling content encryption!}
+{Alphabet}
+{Alphabetical}
+{Also delete entered text}
+{Always on Top}
+{Analyze...}
+{Anchor Text}
+{Anchors}
+{Annually}
+{Annually:}
+{Any File (*.*)}
+{Arrange Stickers}
+{ASCII Art...}
+{Audio File}
+{Auto Copy Highlighted Text to Clipboard}
+{Auto Refresh File}
+{Auto Run at Startup}
+{Auto-Close Main Window}
+{Auto-Refresh Drive List}
+{Automatic}
+{Automatically Synchronize}
+{Backup Stickers}
+{Beginning of Each Line...}
+{Calculate}
+{Calculating all possibilities...}
+{Calculation Results:}
+{Capitalize (First Letters Only)}
+{Caps Lock}
+{Caps Lock: OFF}
+{Caps Lock: ON}
+{Cascade}
+{Change Auto-Close Time}
+{Change Auto-Close Time...}
+{Change Background Color}
+{Change Background Color...}
+{Change Destination Folder}
+{Change Font...}
+{Change Keyboard Key}
+{Change Keyboard Key...}
+{Change Line Spacing}
+{Change Line Spacing...}
+{Change Menu Font...}
+{Change Private Key...}
+{Change Text Font}
+{Change Theme}
+{Change Theme...}
+{Check Multiple Websites}
+{Check Multiple Websites...}
+{Classic}
+{Clear}
+{Clear File History}
+{Click "New Sticker"}
+{Clip Lines...}
+{Clipboard}
+{Combine Lines...}
+{Comma-Separated Values File (CSV)...}
+{Compare Two Texts...}
+{Completed}
+{Computer will press keys}
+{Confirm Before Deletion}
+{Connection Timeout (ms):}
+{Content Encryption (SLOW)}
+{Content encryption is enabled.}
+{Convert Non-English Chars to English Chars}
+{Convert Numbers to Text}
+{Copying...}
+{CSV File (*.csv)}
+{Currency Symbol}
+{Cut}
+{Daily}
+{Daily:}
+{Dark}
+{Date and Time}
+{Day}
+{Decode...}
+{Decrease Font Size}
+{Default}
+{Default Alphabet}
+{Default CSV Format}
+{Delete}
+{Delete After}
+{Delete All}
+{Delete all characters after:}
+{Delete all characters before:}
+{Delete All Spaces}
+{Delete Alphabetic [a-z] [A-Z]}
+{Delete Alphanumeric [a-z] [A-Z] [0-9]}
+{Delete Before}
+{Delete Beginning or Ending Strings...}
+{Delete Chars}
+{Delete Extra Spaces}
+{Delete Non-Alphabetic}
+{Delete Non-Alphanumeric}
+{Delete Numbers [0-9]}
+{Delete Reminder}
+{Delete Unnecessary Lines}
+{Delete?}
+{Deleted}
+{Description}
+{Descriptions}
+{Destination:}
+{Diagnose}
+{Diagonal}
+{Directory is not writable!}
+{Directory not found!}
+{Directory:}
+{Dismiss}
+{Display Duration:}
+{Display Load Time}
+{Display Special Chars}
+{Do you really want to delete ALL stickers?}
+{Do you really want to delete the reminder?}
+{Do you really want to delete the sticker?}
+{Do you want to delete all stickers, reminders, settings and restart application?}
+{Do you want to replace the sticker with the image?}
+{Do you want to save the current file before exit?}
+{Do you want to save the current file?}
+{Do you want to save this file before exit?}
+{Do you want to save this file?}
+{Domain Name}
+{Don't show this again}
+{Downloading...}
+{Drag Drop Filenames}
+{Draw mouse pointer}
+{Duplicate Lines}
+{E-mail not found!}
+{E-mail Processor}
+{Edit M3U8}
+{Edit...}
+{Empty}
+{Empty Lines (can include spaces and tabs)}
+{Encode...}
+{Encoding}
+{Encryption}
+{End of Each Line...}
+{English}
+{Entire Document}
+{Even Numbered Lines}
+{Excel 2007 File (*.xlsx)}
+{Excel CSV Format}
+{Excel File (*.xls)}
+{Excel File (XLS)...}
+{Explore Dictionaries...}
+{Export Lines to Files}
+{Export Lines to Files...}
+{Export Report to PDF...}
+{Export To File}
+{Export to HTML...}
+{Export to PDF...}
+{Exported Entries:}
+{Extra Line Spacing:}
+{Extract Image...}
+{Extract Text...}
+{Extras}
+{Fade-out Animation}
+{File Mask:}
+{File or Folder:}
+{Filter Lines}
+{Find}
+{Find Erroneous E-mails}
+{Find Lines}
+{Find Lines...}
+{Find Next}
+{Find Next Misspelling}
+{Fix Broken UTF-8 Encoding}
+{Fixed-Pitch Fonts Only}
+{Folders}
+{Format:}
+{Freeware}
+{Generate}
+{Generate Barcode Image...}
+{Generate Domain Name List}
+{Generate E-mail List}
+{Generate Hostname List}
+{Generate URL List}
+{Generate Word List}
+{Go}
+{Go to...}
+{Google CSV Format}
+{H1 Tag}
+{H1 Tags}
+{H2 Tag}
+{H2 Tags}
+{H3 Tag}
+{H3 Tags}
+{H4 Tag}
+{H4 Tags}
+{Hardware encoding}
+{Height}
+{Hide}
+{Hide All Stickers}
+{Highlight Active Line}
+{Highlight Even Lines}
+{Highlight mouse pointer}
+{Highlight Odd Lines}
+{HINT}
+{Hotkey:}
+{Hourly}
+{Hourly:}
+{How to create new sticky note:}
+{HTML File (*.html)}
+{ID}
+{ID Transformer...}
+{Ignore Extensions:}
+{Ignore URLs:}
+{Import from File...}
+{Include Subdirectories?}
+{Increase Font Size}
+{Increment:}
+{Initializing...}
+{Insert}
+{Insert Empty Lines}
+{Insert Numbers}
+{Insert Same Text Multiple Times}
+{Insert Same Text Multiple Times...}
+{Internal URL Limit:}
+{Internal URLs}
+{Interval (sec):}
+{Invert Selection}
+{KeyPress Simulator}
+{LED Color (OFF):}
+{LED Color (ON):}
+{Left}
+{Left click to show Stickers on top.}
+{Length}
+{License...}
+{Light}
+{Line}
+{Line Length}
+{Line Numbers}
+{Line Order}
+{Link}
+{Links}
+{LIST ALL}
+{List of Containers:}
+{List of Loads:}
+{List...}
+{Load Limit}
+{Load Project...}
+{Load Time (sec)}
+{Loading: %s}
+{Locking}
+{lowercase}
+{Lowercase}
+{Mark as Complete}
+{Maximum:}
+{Menu Hotkeys}
+{Merge all files with root of target folder}
+{MERGE MULTIPLE FOLDERS INTO ONE}
+{Merge Type:}
+{Method:}
+{milliseconds}
+{Minimize when recording starts}
+{Minimum:}
+{Minute}
+{Monitor}
+{Monitor External File Modification}
+{Month}
+{Monthly}
+{Monthly:}
+{Move}
+{Move Down}
+{Move Up}
+{Moved}
+{Moving...}
+{Multiple Files...}
+{Name}
+{Name of Container}
+{Name of Load}
+{Net Encoding}
+{New}
+{New Project}
+{New Reminder}
+{New Reminder...}
+{New Sticker}
+{New Window}
+{Next Receipt Number:}
+{No erroneous e-mail found.}
+{No item selected!}
+{No mouse pointer}
+{No replacements made.}
+{No sticky notes left on the desktop!}
+{No text selected!}
+{Non-English}
+{None}
+{Note}
+{Note Window Margin:}
+{Notes Manager}
+{Notes Manager...}
+{Num Lock}
+{Num Lock: OFF}
+{Num Lock: ON}
+{Number of deleted lines: %s}
+{Number of Times:}
+{Numbers}
+{Numbers:}
+{Occurrence}
+{Odd Numbered Lines}
+{Offset}
+{Only %s entries exported using unlicensed version.}
+{Only Once}
+{Only Once:}
+{Open...}
+{Options}
+{Options...}
+{Ordinal Values of Characters}
+{Original Size}
+{Outlook CSV Format}
+{Output}
+{Overwrite Read-Only Files}
+{PDF File (*.pdf)}
+{Permanently Delete}
+{Permanently Delete All}
+{Please add containers!}
+{Please add folders!}
+{Please add loads!}
+{Please enter new currency symbol:}
+{Please obtain a license key to activate the software.}
+{Please try again later!}
+{Please type your NEW private key:}
+{Preserve folder structure}
+{Preview Sticker}
+{Print}
+{Print Setup}
+{Print?}
+{Print...}
+{Private Key}
+{Private key changed.}
+{Process completed!}
+{Product List}
+{Product List...}
+{Properties}
+{Random Number Generator}
+{Random Number Generator...}
+{Random Text Generator}
+{Random Text Generator...}
+{Randomize Line Contents}
+{Randomize Line Order}
+{Ready}
+{Receipts}
+{Recording...}
+{Redo}
+{Refresh Hardware Encodings}
+{Regular Expression}
+{Regular Expression...}
+{Reminder}
+{Reminders}
+{Reopen}
+{Replace}
+{Replace by Space}
+{Reports}
+{Reset Registry...}
+{Response Timeout (ms):}
+{Restore}
+{Restore when recording is complete}
+{Reverse}
+{Reverse Line Contents}
+{Reverse Line Sequence}
+{Right click to add new Stickers or Reminders.}
+{Right-click tray icon}
+{Run With}
+{Sample Text}
+{Sample Values}
+{Save Project As...}
+{Save Results}
+{Screen capture failed!}
+{ScreenSnap}
+{ScreenSnap:}
+{Scroll Lock}
+{Scroll Lock: OFF}
+{Scroll Lock: ON}
+{Search}
+{Search Every Line with Google}
+{Select Language}
+{Select your favourite theme}
+{Selected}
+{Send to Recycle Bin}
+{SEO Audit}
+{Separate by Char}
+{Separate by String}
+{Separate Long Lines (Break Words)}
+{Separate Long Lines (Keep Words)}
+{Set as Default Encoding}
+{Show aboutbox}
+{Show All Stickers}
+{Show Date Time}
+{Show feedback window}
+{Show Notifications}
+{Show Options}
+{Simulate Keypress:}
+{Software encoding}
+{Sort}
+{Sort Lines}
+{Sound Effect}
+{Sound:}
+{Source (Files, Folders, URLs)}
+{Source URL}
+{Spell Check}
+{Spell Checker}
+{Spell Checker:}
+{Split Lines}
+{Start}
+{Start download}
+{Start Working}
+{Start:}
+{Status Bar}
+{Status Code}
+{Stay on Top}
+{Stickers}
+{Stock}
+{Stock Inventory Count Sheet}
+{Stock Inventory Count Sheet...}
+{STOP}
+{Stop download}
+{Stop:}
+{Subdomain Name}
+{Suggested Corrections}
+{Support}
+{Sync Computer Time}
+{Syntax}
+{System Audio}
+{System Error.}
+{System Tray Menu}
+{Tab Indent}
+{Tab Options}
+{Tab Options...}
+{Tab Size:}
+{Target Folder}
+{Target folder is not defined!}
+{Target Folder:}
+{Target Folders}
+{Test Alert}
+{Testimonials}
+{Text}
+{Text Color:}
+{Text Engine}
+{Text File}
+{Text File (*.txt)}
+{Text File (TXT)...}
+{Text not found!}
+{Text:}
+{Thank you}
+{The file could not be created!}
+{The file is very large. Do you still want to try to open it?}
+{The server returned an invalid response.}
+{The specified region is not valid!}
+{The text contains no lines!}
+{Theme}
+{This action cannot be undone!}
+{This is an example note.}
+{This is required for importing in Gmail and Outlook.}
+{This is your first sticker!}
+{This software works best without administrator privileges.}
+{Time}
+{Timestamp}
+{Title}
+{Titles}
+{To Existing Lines}
+{To New Lines...}
+{Tool Bar}
+{Tools}
+{Top}
+{Top Selling Products}
+{Top Selling Products...}
+{Total URLs: %s}
+{Total:}
+{Transparency:}
+{Tray Notifications:}
+{Trial}
+{TRIAL LIMIT REACHED!}
+{Trim All}
+{Trim Both}
+{Trim Left}
+{Trim Lines}
+{Trim Right}
+{Truly Empty Lines}
+{Try to run as Administrator.}
+{Type}
+{Undo}
+{Unicode Detector}
+{Unit}
+{Unlock}
+{UNLOCK ERROR}
+{Unlock Selected}
+{Unlocked}
+{Unlocking}
+{Unnamed}
+{UPPERCASE}
+{Uppercase and Lowercase}
+{URL}
+{URL Highlighter (No Spell Check)}
+{URL Length}
+{URL not found!}
+{URL Processor}
+{URL:}
+{USE AT YOUR OWN RISK!}
+{User Interface Language:}
+{User will press keys}
+{User-Agent String:}
+{using Characters}
+{using File}
+{using Text}
+{using Text Length}
+{VCF Files (*.vcf)}
+{Version History}
+{Video file error!}
+{View}
+{View Source...}
+{Volume}
+{Volume Limit}
+{Volume of Container}
+{Volume of Load}
+{Vovsoft Newsletter}
+{Weekdays}
+{Welcome to Our Shop}
+{What numbers will be added?}
+{Width}
+{Width:}
+{Word Wrap}
+{Work Time:}
+{Wrong Admin Password!}
+{You are here:}
+{You can preview the font and color settings here.}
+{You can't go further than:}
+{You cannot use this feature in unlicensed edition.}
+{You want to go to:}
+{Your master password is successfully set.}

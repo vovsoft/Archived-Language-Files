@@ -1,0 +1,933 @@
+﻿{INFO:Translated By}Anonymous
+{12 hour}12 שעות
+{24 hour}24 שעות
+{A required file is missing:}חסר קובץ דרוש:
+{Ability to disable update notifications}יכולת להשבית הודעות עדכון
+{Aborted}הופסק
+{About}אודות
+{About Us}אודותינו
+{About...}אודות ...
+{Access is denied.}הגישה נחסמה.
+{Acknowledgements...}התקבלו כעת ...
+{Activation}הפעלה
+{Activation Code:}קוד הפעלה:
+{Activation failed.}הפעלה נכשלה.
+{Active}פעיל
+{ADD}הוספה
+{Add}הוספה
+{Add context menu item}הוספת פריט תפריט הקשר
+{Add Dictionary...}הוספת מילון ...
+{Add Drive}הוספת כונן
+{Add File}הוספת קובץ
+{Add File(s)}הוספת קבצים:
+{Add File(s)...}הוספת קבצים ...
+{Add Files in Folders...}הוספת קבצים בתיקיות ...
+{Add Files...}הוספת קבצים ...
+{Add Folder}הוספת תיקיה
+{Add Folder...}הוספת תיקיה ...
+{Add Folders...}הוספת תיקיות ...
+{Add M3U8}הוספת M3U8
+{Add Product Manually}הוספת מוצר באופן ידני
+{Add Recursive Subfolders...}הוספת תת-תיקיות חוזרות ...
+{Add Subfolders...}הוספת תת-תיקיות ...
+{Add URL(s)...}הוספת כתובות URL ...
+{Add URLs...}הוספת כתובות URL ...
+{Add using Environment Variables}הוספה באמצעות משתנים סביבה
+{Add Word To Dictionary}הוספת מילון מילים למילון
+{Admin Password}סיסמת מנהלן
+{Alert Text:}תמליל התרעה:
+{All Customers}כל הלקוחות
+{All files must be unlocked before changing private key!}יש לשחרר את נעילת כל הקבצים לפני שתשנו מפתח פרטי!
+{All files must be unlocked before enabling or disabling content encryption!}יש לשחרר את נעילת כל הקבצים לפני הפעלה או השבתה של הצפנת תוכן!
+{All Products}כל המוצרים
+{Alphabet}אלפבית
+{Alphabetical}אלפבית
+{Always on Top}תמיד על העליונה
+{Always on top}תמיד למעלה
+{Always show when toggled on}תמיד להראות כאשר לעגון על
+{An error occurred while creating directory:}אירעה שגיאה במהלך יצירת מדריך:
+{An error occurred while unlocking:}אירעה שגיאה במהלך ביטול נעילה:
+{Analyze...}ניתוח ...
+{And please backup your important files and folders before locking in case of hardware or software failure.}נא לגבות את הקבצים והתיקיות החשובים שלכם לפני הנעילה במקרה של כשל חומרה או תוכנה.
+{Annually}שנתי
+{Annually:}שנתי:
+{Any File}כל קובץ
+{Any File (*.*)}כל קובץ (*.*)
+{Are you sure?}אתה בטוח?
+{Arrange Stickers}סידור מקלות
+{ASCII Art...}ארט ארט ...
+{Ask Print}שאל הדפסה
+{Audio File}קובץ אודיו
+{Audio file error!}שגיאת קובץ אודיו!
+{Auto Copy Highlighted Text to Clipboard}העתקה אוטומטית של תמליל גבוה אל לוח הגזירים
+{Auto Refresh File}רענון אוטומטי של קובץ
+{Auto Run at Startup}הרצה אוטומטית באתחול
+{Auto-Close Main Window}אוטומטי-סגירת החלון הראשי
+{Auto-Close Popup Window After Finishing}אוטומטי-סגירת חלון צץ לאחר סיום
+{Auto-Closing...}סגירה אוטומטית ...
+{Auto-Refresh Drive List}רענון אוטומטי של רשימת כונן
+{Auto-Start at Startup}הפעלה אוטומטית של אתחול
+{Automatic}אוטומטי
+{Automatically Synchronize}סינכרון אוטומטי של
+{Background Color:}צבע רקע:
+{Backup Registry...}מערכת רישום גיבוי ...
+{Backup Stickers}גיבוי סטיקרס
+{Backup...}גיבוי ...
+{Barcode}ברקוד
+{BARCODE:}ברקוד:
+{Begin:}התחלה:
+{Beginning of Each Line...}התחלה של כל שורה ...
+{Big Icons}איקונים גדולים
+{Blog}בלוג
+{BREAK TIME!}זמן ההפסקה!
+{Browse...}עיון ...
+{Buy Now}קנה עכשיו
+{Calculate}חישוב
+{Calculating all possibilities...}חישוב כל האפשרויות ...
+{Calculation Results:}תוצאות חישוב:
+{Cancel}ביטול
+{Cancel product selection}ביטול בחירת המוצר
+{CANCELED by User Request}בוטל על-ידי בקשת משתמש
+{Canceled!}בוטל!
+{Cannot create file}לא ניתן ליצור קובץ
+{Capitalize (First Letters Only)}קפיטליזם (ספרות ראשונה בלבד)
+{Caps Lock}Caps Lock
+{Cascade}דירוג
+{Category:}סיווג:
+{Change Auto-Close Time}שינוי אוטומטי-זמן סגירה
+{Change Auto-Close Time...}שינוי זמן סגירה אוטומטי ...
+{Change Background Color}שינוי צבע רקע
+{Change Background Color...}שינוי צבע רקע ...
+{Change Destination Folder}שינוי תיקיית יעד
+{Change File Location...}שינוי מיקום קובץ ...
+{Change Font...}שינוי גופן ...
+{Change Interface}שינוי ממשק
+{Change Login Password...}שינוי סיסמת התחברות ...
+{Change Menu Font...}שינוי גופן תפריט ...
+{Change Private Key...}שינוי מפתח פרטי ...
+{Change Recovery E-mail}שינוי ' דואל שחזור '
+{Change Text Font}שינוי גופן תמליל
+{Change Theme}שינוי ערכת נושא
+{Change Theme...}שינוי ערכת נושא ...
+{Change:}שינוי:
+{Classic}קלאסי
+{Classical Interface}ממשק קלאסי
+{Clear}ניקוי
+{Click "New Sticker"}לחצו על "סטיקר חדש"
+{Click to download}לחצו כדי להוריד
+{Clip Lines...}קווי לקוח ...
+{Close}קרוב
+{Code:}קוד:
+{Combine Lines...}שילוב שורות ...
+{Comma-Separated Values File (CSV)...}קובץ ערכים מופרדים בפסיקים (CSV) ...
+{Commercial use allowed}שימוש מסחרי מותר
+{Company}חברה
+{Compare Two Texts...}השוואת שני טקסנים ...
+{Completed}הושלם
+{Completed!}הושלם!
+{Completed.}הושלם.
+{Computer Code:}קוד מחשב:
+{Computer Time:}שעת מחשב:
+{Computer Timezone:}אזור זמן מחשב:
+{Computer will press keys}המחשב ילחץ על המקשים
+{Confirm Before Deletion}אישור לפני מחיקה
+{Confirm Password:}אישור סיסמה:
+{Confirm?}לאשר?
+{Confirmation}אישור
+{Connection Error!}שגיאת חיבור!
+{Contact}איש קשר
+{Content Encryption (SLOW)}הצפנת תוכן (SLOW)
+{Content encryption is enabled.}הצפנת תוכן מופעלת.
+{Continue}המשך
+{Contribute to Translation}מתן המרה לתרגום
+{Convert Non-English Chars to English Chars}המרת תווים שאינם אנגלית לאותיות אנגליות
+{Copied}מועתק
+{Copy}העתקה
+{Copy All}העתקת הכל
+{Copy files to many directories}העתקת קבצים למדריכים רבים
+{COPY INTO TARGET FOLDERS}העתקה לתיקיות יעד
+{CREDIT:}אשראי:
+{Credits}קרירות
+{CSV File}קובץ CSV
+{CSV File (*.csv)}קובץ CSV (*.csv)
+{Currency Symbol}סמל מטבע
+{Customer}לקוח
+{Customer with credit cannot be deleted!}לא ניתן למחוק לקוח עם אשראי!
+{CUSTOMER:}לקוח:
+{Customer:}לקוח:
+{CUSTOMERS}לקוחות
+{Customers}לקוחות
+{Cut}גזירה
+{Daily}יומי
+{Daily:}יומי:
+{Dark}כהה
+{Date}תאריך
+{Date and Time}תאריך ושעה
+{Day}יום
+{Daylight Saving:}שמירת אור יום:
+{Decode...}סירוב ...
+{Decrease Font Size}הקטנת גודל גופן
+{Default}ברירת מחדל
+{Default Alphabet}אלפבית המוגדר כברירת מחדל
+{Default CSV Format}מבנה CSV המוגדר כברירת מחדל
+{Del key:}מפתח דל:
+{Delete}מחיקה
+{DELETE}מחיקה
+{Delete After}מחיקה אחרי
+{DELETE ALL}מחיקת הכל
+{Delete All}מחיקת הכל
+{Delete All Spaces}מחיקת כל מרחבים
+{Delete Alphabetic [a-z] [A-Z]}מחיקת סדר אלפביתי [a-z] [A-Z]
+{Delete Alphanumeric [a-z] [A-Z] [0-9]}מחיקת אלפנומרי [a-z] [A-Z] [0-9]
+{Delete Before}מחיקה לפני
+{Delete Beginning or Ending Strings...}מחיקה החל או סיום של מחרוזות ...
+{DELETE CUSTOMER}מחיקת לקוח
+{Delete Customer}מחיקת לקוח
+{Delete Extra Spaces}מחיקת מרחבים נוספים
+{Delete last entered product}מחיקת המוצר שהוזן לאחרונה
+{Delete Non-Alphabetic}מחיקת לא בסדר אלפביתי
+{Delete Non-Alphanumeric}מחיקת לא-אלפאנומרי
+{Delete Numbers [0-9]}מחיקת מספרים [0-9]
+{DELETE PRODUCT}מחיקת מוצר
+{Delete Record}מחיקת רשומה
+{Delete Reminder}מחיקת תזכורת
+{Delete Selected}מחיקת נבחרים
+{Delete Unnecessary Lines}מחיקת שורות לא הכרחיות
+{Delete?}למחוק?
+{Deleted}נמחק
+{Deselect All}ביטול בחירת הכל
+{Destination:}יעד:
+{DETAILS}פרטים
+{Diagnose}אבחנות
+{Diagonal}אלכסונל
+{Directory is not writable!}המדריך אינו מאפשר כתיבה!
+{Directory not found!}המדריך לא נמצא!
+{Directory:}מדריך:
+{Disabled}מושבת
+{Discount}הנחה
+{Discounted Price}מחיר זניחה
+{Discounted Total}סך הכל
+{Disk Write Interval (sec):}מרווח כתיבה של דיסק (בשניות):
+{Dismiss}פיספסר
+{Display Duration:}משך תצוגה:
+{Display Load Time}הצגת זמן טעינה
+{Display Prices}הצגת מחירים
+{Display Special Chars}הצגת תרשימים מיוחדים
+{Do you really want to delete ALL stickers?}אתם באמת רוצים למחוק את כל המדבקות?
+{Do you really want to delete the reminder?}אתם באמת רוצים למחוק את התזכורת?
+{Do you really want to delete the sticker?}אתם באמת רוצים למחוק את המדבקה?
+{Do you want to delete all stickers, reminders, settings and restart application?}האם ברצונכם למחוק את כל המדבקות, תזכורות, הגדרות והפעילו מחדש את היישום?
+{Do you want to replace the sticker with the image?}האם ברצונכם להחליף את המדבקה עם התמונה?
+{Do you want to save the current file before exit?}האם ברצונכם לשמור את הקובץ הנוכחי לפני היציאה?
+{Do you want to save the current file?}האם ברצונכם לשמור את הקובץ הנוכחי?
+{Do you want to save this file before exit?}האם ברצונכם לשמור קובץ זה לפני היציאה?
+{Do you want to save this file?}האם ברצונכם לשמור קובץ זה?
+{Don't show this again}אל תראי את זה שוב.
+{Download}הורדה
+{Downloading...}הורדה מתבצעת ...
+{Drag Drop Filenames}גרירה ושחרור של Filenames
+{Draw mouse pointer}ציור מצביע עכבר
+{Drive}כונן
+{DRIVE MISMATCH}אי-התאמה של כונן
+{Drive:}כונן:
+{Duplicate Lines}שורות כפולות
+{E-mail}דוא " ל
+{E-mail is changed.}הדואל השתנה.
+{E-mail not accepted!}הדואל לא התקבל!
+{E-mail not found!}הדואל לא נמצא!
+{E-mail Processor}מעבד דואל
+{Edit}עריכה
+{Edit License}עריכת רשיון
+{Edit License...}עריכת רשיון ...
+{Edit M3U8}עריכת M3U8
+{Edit Password}עריכת סיסמה
+{Edit...}עריכה ...
+{Elapsed Time:}זמן שחלף:
+{Email Address}כתובת דוא " ל
+{Empty}ריק
+{Empty Lines (can include spaces and tabs)}שורות ריקות (יכולות לכלול רווחים וטאבים)
+{Enable}הפעלה
+{Enabled}מופעל
+{Encode...}קוד ...
+{Encoding}קידוד
+{Encryption}הצפנה
+{End of Each Line...}סיום כל שורה ...
+{End-User License Agreement}סיום-הסכם רשיון למשתמש
+{End:}סיום:
+{English}אנגלית
+{Enter License Key}ציינו מפתח רישיון
+{Entire Document}מסמך מצורף
+{Error}שגיאה
+{ERROR}שגיאה
+{Error No:}שגיאה: לא:
+{ESC key:}מקש ESC:
+{Excel CSV Format}מבנה CSV של Excel
+{Excel File (*.xls)}קובץ Excel (*.xls)
+{Excel File (XLS)...}קובץ אקסל (XLS) ...
+{Exit}יציאה
+{Exit Application?}לצאת מיישום?
+{Exit...}יציאה ...
+{EXITING...}יציאה בביצוע ...
+{Explore Dictionaries...}סיור מילונים ...
+{Export}יצוא
+{Export Lines to Files}יצוא שורות ליישום הקבצים
+{Export Lines to Files...}יצוא שורות ליישום הקבצים ...
+{Export to File...}יצוא לקובץ ...
+{Export to HTML...}יצוא ל-HTML ...
+{Export to PDF...}יצוא ל-PDF ...
+{Exported Entries:}רשומות מיוצאות:
+{Extract Image...}שליפת תמונה ...
+{Extract Text...}שליפת תמליל ...
+{Extras}הוצאות
+{Fade-out Animation}הנפשה-out-out
+{Failed}נכשל
+{Failure}כשל
+{Feedback}משוב
+{feedback}משוב
+{File}קובץ
+{File already exists!}הקובץ כבר קיים!
+{File does NOT exist:}הקובץ אינו קיים:
+{File inaccessible!}לא ניתן לגשת לקובץ!
+{File List}רשימת קבצים
+{File Location}מיקום קובץ
+{File Location:}מיקום קובץ:
+{File lock error!}שגיאת נעילת קובץ!
+{File Mask}מסיכת קובץ
+{File Mask:}מסכת קובץ:
+{File not found!}הקובץ לא נמצא!
+{File or Folder:}קובץ או תיקיה:
+{Filename:}שם קובץ:
+{Files & Folders}קבצים ותיקיות
+{Filter Lines}סינון שורות
+{Find}איתור
+{Find Erroneous E-mails}איתור הודעות דואל שגויות
+{Find Lines}חיפוש שורות
+{Find Lines...}חיפוש שורות ...
+{Find Next}חיפוש הבא
+{Find Next Misspelling}חיפוש שגיאות כתיב הבא
+{Fix Broken UTF-8 Encoding}תיקון בקידוד UTF-8
+{Fixed-Pitch Fonts Only}קבוע-גופנים
+{Folder}תיקיה
+{Folder does NOT exist:}התיקיה אינה קיימת:
+{Folder Size:}גודל תיקיה:
+{Folder:}תיקיה:
+{For 1}עבור 1
+{For 10}עבור 10
+{For 100}עבור 100
+{For 20}עבור 20
+{For 200}עבור 200
+{For 5}עבור 5
+{For 50}עבור 50
+{Forgot Password?}שכחתם את הסיסמה?
+{Format:}עיצוב:
+{FREE}חינם
+{Free Edit}עריכה חופשית
+{Free to try}חופשי לנסות
+{FREEWARE}כו " ל
+{Freeware}כו " ל
+{Freeware Utilities}תוכניות שירות של חומרה
+{Full Screen}מסך מלא
+{Generate}הפקה
+{Generate Barcode Image...}הפקת תמונת ברקוד ...
+{Generate Domain Name List}יצירת רשימת שמות של תחום
+{Generate E-mail List}יצירת רשימת דוא " ל
+{Generate Hostname List}הפקת רשימת שמות מארחים
+{Generate URL List}יצירת רשימת כתובות URL
+{Generate Word List}הפקת רשימת מילים
+{Get Server Time}קבלת זמן שרת
+{Go}מעבר
+{Go to...}מעבר אל ...
+{Google CSV Format}מבנה CSV של Google
+{GRAND TOTAL:}סך הכל:
+{Hardware encoding}קידוד חומרה
+{Header}כותרת עליונה
+{Headers}כותרות
+{Height}גובה
+{Height:}גובה:
+{Help}עזרה
+{Hidden}מוסתר
+{Hide}הסתרה
+{Hide All Stickers}הסתרת כל המסטיקים
+{Hide Details}הסתרת פרטים
+{Highlight Active Line}סימון ' קו פעיל '
+{Highlight Even Lines}סימון גם שורות
+{Highlight Odd Lines}סימון שורות Odd
+{HINT}רמז
+{Home}בית
+{Hotkey:}מפתח ראשי:
+{Hourly}לשעה
+{Hourly:}לשעה:
+{How to create new sticky note:}איך ליצור תו דביק חדש:
+{How to uninstall...}איך להסיר את ...
+{HTML File (*.html)}קובץ HTML (*.html)
+{I dislike it!}אני לא אוהב את זה!
+{I like it!}אני אוהב את זה!
+{ID Transformer...}שינוי זיהוי ...
+{Idle Time:}זמן אידל:
+{If no keyboard or mouse events occur for "Idle Time", "Work Time" resets.}אם לא מופיעות אירועי מקלדת או עכבר עבור "זמן Idle", ערכות "זמן עבודה".
+{If you like the software, please buy a license to make this software fully functional and remove this window.}אם אתם אוהבים את התוכנה, נא לקנות רשיון כדי להפוך את התוכנה למפקדת באופן מלא ולסלק חלון זה.
+{Ignore}התעלמות
+{Ignore Drive Mismatch While Unlocking}התעלמות מכונן Misתואמים בזמן ביטול הנעילה
+{Ignore Failed Files While Unlocking}התעלמות מהקבצים שנכשלו בזמן ביטול הנעילה
+{Import}יבוא
+{Import from File...}יבוא מקובץ ...
+{IMPORTANT}חשוב
+{Include my e-mail:}הכללת הדואל שלי:
+{Include Subdirectories?}לכלול תת-מדריכים?
+{Increase Font Size}הגדלת גודל הגופן
+{Indicates status of keys}מציין את מצב המפתחות.
+{Info}מידע
+{Information}מידע
+{Initializing...}אתחול בביצוע ...
+{Insert}הוספה
+{Insert Empty Lines}הוספת שורות ריקות
+{Insert Same Text Multiple Times}הוספת אותו תמליל ' מספר פעמים '
+{Insert Same Text Multiple Times...}הוספת אותו תמליל פעמים רבות ...
+{Insufficient stock!}אין מספיק מניות!
+{Invalid E-mail!}דואל לא חוקי!
+{Invalid Entry!}ערך לא חוקי!
+{Invert Selection}בחירת בחירה
+{Keyboard Shortcuts}קיצורי דרך במקלדת
+{KeyPress Simulator}Simulator של לחיצת מקש
+{Language}שפה
+{Language:}שפה:
+{Language...}שפה ...
+{LED Color (OFF):}צבע LED (כבוי):
+{LED Color (ON):}צבע LED (פעיל):
+{Left}שמאל
+{Left click to show Stickers on top.}שמאל לוחץ כדי להראות את סטיקרס למעלה.
+{Length}אורך
+{License key is invalid!}מפתח הרשיון אינו חוקי!
+{License:}רישיון:
+{License...}רשיון ...
+{Licensed}מורשה
+{Licensed to:}מורשה:
+{Lifetime free updates}עדכונים חינם של תקופת חיים
+{Light}אור
+{Line}קו
+{Line Length}אורך שורה
+{Line Numbers}מספרי שורות
+{Line Order}סדר שורות
+{List}רשימה
+{LIST ALL}פירוט כל
+{List of Containers:}רשימת מכולות:
+{List of Loads:}רשימת הלוואות:
+{List...}רשימה ...
+{Load}טעינה
+{Load And Run Operation Files...}טעינה והפעלה של קובצי פעולה ...
+{Load Limit}מגבלת עומס
+{Load Operation File...}טעינת קובץ פעולה ...
+{Load source list from file...}טעינת רשימת מקורות מקובץ ...
+{Load target list from file...}טעינת רשימת יעד מקובץ ...
+{Load vCards from VCF file...}טעינת vCards מקובץ VCF
+{Load...}טעינה ...
+{Loading}טעינה
+{Loading...}טעינה מתבצעת ...
+{Lock}נעילה
+{Lock and Unlock processes may take some time.}נעילת תהליכים נעילה וביטול נעילה עשויה להימשך זמן מה.
+{Lock Selected}נעילת נבחר
+{LOCKED}נעול
+{Locking}נעילה
+{Login (Full Access)}התחברות (גישה מלאה)
+{Logout}התנתקות
+{lowercase}לא רישיות
+{Lowercase}לא רישיות
+{MAIN MENU}תפריט ראשי
+{Mark as Complete}סימון ' הושלם '
+{Menu Hotkeys}מפתחות תפריט
+{milliseconds}אלפיות שניה
+{Minimal Mode}מצב מינימלי
+{Minimize when recording starts}מזעור כאשר ההקלטה מתחילה
+{Minute}דקות
+{minutes}דקות
+{Mode}מצב
+{Monitor}מוניטור
+{Monitor External File Modification}שינוי קובץ חיצוני של Monitor
+{Month}חודשים
+{Monthly}חודשי
+{Monthly:}חודשי:
+{Move (Delete Source Files and Folders)}העברה (מחיקת קובצי מקור ותיקיות)
+{Move Down}העברה למטה
+{Move Info: Source files and folders were not deleted from disk because of copy error}פרטי העברה: קובצי מקור ותיקיות לא נמחקו מהדיסק עקב שגיאת העתקה
+{Move Up}העברה למעלה
+{Multiple Files...}קבצים מרובים ...
+{Name}שם
+{Name of Container}שם של מכולה
+{Name of Load}שם טעינה
+{Net Encoding}קידוד נטו
+{New}חדש
+{New Reminder}תזכורת חדשה
+{New Reminder...}תזכורת חדשה ...
+{New Sticker}סטיקר חדש
+{New Window}חלון חדש
+{Next Receipt Number:}מספר הקבלה הבא:
+{Next Rest:}והשאר הבא:
+{No}לא
+{No Audio}אין אודיו
+{No erroneous e-mail found.}לא נמצא דואל שגוי.
+{No Item Selected!}לא נבחר פריט נבחר!
+{No item selected!}לא נבחר פריט!
+{No nag screen, no ads}אין צג לנדנד, אין פרסומות.
+{No replacements made.}לא נעשו מחליפים.
+{No Sound}ללא סאונד
+{No sticky notes left on the desktop!}לא נשארו הערות דביקות בשולחן העבודה!
+{No text selected!}לא נבחר תמליל!
+{Non-English}לא אנגלית
+{None}ללא
+{Not applicable!}לא ישים!
+{Not Paid:}לא שולם:
+{Note}הערה
+{Note Window Margin:}הערה שוליים:
+{Notes Manager}מנהל Notes
+{Notes Manager...}מנהל Notes ...
+{Number of Files:}מספר קבצים:
+{Number of Times:}מספר פעמים:
+{Numbers}מספרים
+{Offline Activation}הפעלה לא מקוונת
+{Offset}היסט
+{OK}אוקי
+{Online Help}עזרה מקוונת
+{Only %s entries exported using unlicensed version.}רק %s רשומות יוצאו באמצעות גרסה ללא רישיון.
+{Only Once}רק פעם אחת
+{Only Once:}רק פעם אחת:
+{Open File}פתיחת קובץ
+{Open folder location...}פתיחת מיקום התיקיה ...
+{Open Folder Location...}פתיחת מיקום תיקיה ...
+{Open...}פתיחה ...
+{Operating Systems:}מערכות הפעלה:
+{Operation File}קובץ פעולה
+{Operation STOPPED!}הפעולה נפתחה!
+{Operations}תפעול
+{Options}אופציות
+{Options...}אפשרויות ...
+{Ordinal Values of Characters}ערכי אורכי של תווים
+{Original Size}גודל מקורי
+{Outlook CSV Format}מבנה CSV של Outlook
+{Output}פלט
+{Output:}פלט:
+{Overwrite Existing Files}דריסת קבצים קיימים
+{Overwrite Read-Only Files}דריסת קבצים לקריאה בלבד
+{PAID}שולם
+{Paid}שולם
+{Paid:}שולם:
+{Password}סיסמה
+{Password is changed.}הסיסמה השתנתה.
+{Password is incorrect!}הסיסמה שגויה!
+{Password not accepted!}הסיסמה לא התקבלה!
+{Password Recovery E-mail:}דואל שחזור סיסמה:
+{Password:}סיסמה:
+{Passwords do not match!}הסיסמאות אינן תואמות!
+{Paste}הדבקה
+{Payments}תשלומים
+{PDF File (*.pdf)}קובץ PDF (*.pdf)
+{Permanently Delete}מחיקה לצמיתות
+{Permanently Delete All}מחיקה לצמיתות של הכל
+{Play}לשחק
+{Play Sound Effect}אפקט קול
+{Please add containers!}נא להוסיף מכולות!
+{Please add loads!}נא להוסיף המון!
+{Please add source files!}נא להוסיף קובצי מקור!
+{Please add target folders!}נא להוסיף תיקיות יעד!
+{Please check your e-mail box.}נא לבדוק את תיבת הדואר האלקטרוני.
+{Please check your internet connection!}בדקו את חיבור האינטרנט שלכם!
+{Please enter barcode or product name!}נא לציין קוד ברקוד או שם מוצר!
+{Please enter discount ratio:}ציינו יחס הנחה:
+{Please enter master password!}נא לציין סיסמה ראשית!
+{Please enter new currency symbol:}נא לציין סמל מטבע חדש:
+{Please enter password:}נא לציין סיסמה:
+{Please enter unit price:}ציינו את מחיר היחידה:
+{Please enter your license key:}נא לציין את מפתח הרשיון:
+{Please enter your license key!}נא לציין את מפתח הרשיון שלכם!
+{Please keep it in a safe place. You need it to unlock your files and folders.}נא לשמור אותו במקום בטוח. אתה צריך את זה כדי לפתוח את הקבצים והתיקיות שלך.
+{Please obtain a license key to activate the software.}קבלו מפתח רישיון להפעלת התוכנה.
+{Please reinstall the software.}התקינו מחדש את התוכנה.
+{Please reopen the software without administrator privileges.}נא לפתוח מחדש את התוכנה ללא זכויות מנהלן.
+{Please try again later!}נא לנסות שוב מאוחר יותר!
+{Please try again later.}נא לנסות שוב מאוחר יותר.
+{Please try:}נא לנסות:
+{Please type NEW password:}נא להקליד סיסמה חדשה:
+{Please type your CURRENT password:}נא להקליד את סיסמת CURRENT:
+{Please type your NEW e-mail:}נא להקליד את הדוא " ל החדש:
+{Please type your NEW password:}נא להקליד את הסיסמה החדשה:
+{Please type your NEW private key:}נא להקליד את המפתח הפרטי החדש:
+{Please Wait For Backup Process!}נא להמתין לתהליך הגיבוי!
+{Preview Sticker}תצוגה מקדימה של סטיקר
+{Price}מחיר
+{PRICE:}מחיר:
+{Print}הדפסה
+{Print Setup}הגדרות הדפסה
+{Print Template}תבנית הדפסה
+{Print?}להדפיס?
+{Print...}הדפסה ...
+{Printer not found!}המדפסת לא נמצאה!
+{Privacy Policy}מדיניות פרטיות
+{Private Key}מפתח פרטי
+{Private key changed.}המפתח הפרטי השתנה.
+{Process}תהליך
+{Process completed!}התהליך הושלם!
+{Processing...}מעבד ...
+{Product}מוצר
+{Product List}רשימת מוצרים
+{Product List...}רשימת מוצרים ...
+{PRODUCT NAME:}שם מוצר:
+{Product successfully activated.}המוצר הופעל בהצלחה.
+{Product:}מוצר:
+{PRODUCTS}מוצרים
+{Products}מוצרים
+{Properties}תכונות
+{Purchase}רכש
+{Quantity}כמות
+{Random Number Generator}גנרטור מספר אקראי
+{Random Number Generator...}גנרטור מספר אקראי ...
+{Random Text Generator}מחולל תמליל אקראי
+{Random Text Generator...}מחולל תמליל אקראי ...
+{Randomize Line Contents}תוכן קו אקראי
+{Randomize Line Order}סדר שורות של רנדי
+{Read Reviews}סקירות קריאה
+{Ready}מוכן
+{Receipts}תקבולים
+{Recognize Environment Variables}זיהוי משתנים של סביבה
+{Recognize Network Drives}זיהוי כונני רשת
+{RECORD}רשומה
+{RECORD DATE:}תאריך רשומה:
+{Recording...}הקלטה ...
+{Recover Lost Files}שחזור קבצים אבודים
+{Recover Password}שחזור סיסמה
+{Redo}ביצוע מחדש
+{Refresh Device List}רענון רשימת התקנים
+{Refresh Hardware Encodings}רענון קידוד חומרה
+{Refund Policy}מדיניות החזר
+{Region}אזור
+{Regular Expression}ביטוי רגיל
+{Regular Expression...}ביטוי רגיל ...
+{Related Software}תוכנה קשורה
+{Release Date:}תאריך שחרור:
+{Remember Settings}זכור הגדרות
+{Reminder}תזכורת
+{Reminders}תזכורות
+{Remove}הסר
+{Remove All}סילוק הכל
+{Remove Selected}סילוק נבחרים
+{Reopen}פתיחה מחדש
+{Replace}החלפה
+{Reports}דוחות
+{Required files are missing}קבצים דרושים חסרים.
+{Reset}איפוס
+{Reset to Defaults}איפוס לברירות מחדל
+{Reset Work Time}איפוס שעת עבודה
+{Restart Application?}להפעיל מחדש את היישום?
+{Restore}שחזור
+{Restore from Backup...}שחזור מגיבוי ...
+{Restore when recording is complete}שחזור כאשר ההקלטה הושלמה.
+{Reverse}הפוך
+{Reverse Line Contents}ביטול תוכן הקו
+{Reverse Line Sequence}רצף קו הפוך
+{Right click to add new Stickers or Reminders.}לחצו עם לחצן העכבר הימני כדי להוסיף סטיקרס או תזכורות.
+{Right-click tray icon}איקון לחיצה ימנית
+{Run With}הפעלה עם
+{SALES}מכירות
+{Sample Text}תמליל לדוגמה
+{Sample Values}ערכים לדוגמה
+{Save}שמירה
+{Save As...}שמירה בשם ...
+{Save Operation File As...}שמירת קובץ פעולה בשם ...
+{Save Operation File...}שמירת קובץ פעולה ...
+{Save Results}שמירת תוצאות
+{Save source list to file...}שמירת רשימת מקור לקובץ ...
+{Save target list to file...}שמירת רשימת יעד לקובץ ...
+{Screen capture failed!}לכידת המסך נכשלה!
+{Search}חיפוש
+{Search Every Line with Google}חיפוש בכל שורה עם Google
+{Search:}חיפוש:
+{Search...}חיפוש ...
+{seconds}שניות
+{Secure your files and folders}אבטחת הקבצים והתיקיות שלכם
+{Select}בחירה
+{Select All}בחירת הכל
+{Select folder:}בחירת תיקיה:
+{Select Language}בחירת שפה
+{Select Product}בחירת מוצר
+{Select Region and Close}בחירת אזור וסגירה
+{Select your favourite theme}בחרו את הערכה המועדפת שלכם.
+{Selected}נבחר
+{SELL BY CASH}למכור באמצעות מזומן
+{Sell by Cash}למכור על ידי מזומנים
+{SELL BY CREDIT}למכור לפי אשראי
+{Sell by Credit}למכור לפי אשראי
+{Send}שלח
+{Send e-mail?}לשלוח דואל?
+{Send Feedback}משלוח משוב
+{Send Feedback...}משלוח משוב ...
+{Send to Recycle Bin}משלוח לסל המיחזור
+{Separate by Char}נפרד על ידי שר
+{Separate by String}הפרדה לפי מחרוזת
+{Separate Long Lines (Break Words)}שורות ארוכות נפרדות (מילות שבירה)
+{Separate Long Lines (Keep Words)}שורות ארוכות נפרדות (שמירת מילים)
+{Server Time:}שעת שרת:
+{Server:}שרת:
+{Set as Default Encoding}הגדרה כקידוד ברירת מחדל
+{Settings}הגדרות
+{Settings...}הגדרות ...
+{Show}הצגה
+{Show All Stickers}הצגת כל ' סטיקרס '
+{Show Date Time}הצגת תאריך ושעה
+{Show Details}הצגת פרטים
+{Show Idle Time:}הצגת שעת אידל:
+{Show Letters and Numbers without Special Keys}הצגת אותיות ומספרים ללא מפתחות מיוחדים
+{Show Notifications}הצגת דיווחים
+{Show when status changes}הצגה כאשר המצב משתנה.
+{Show Window}הצגת חלון
+{Sign up}הירשמו
+{Small Buttons}לחצנים קטנים
+{Software}תוכנה
+{Software encoding}קידוד תוכנה
+{Something went wrong. Your feedback could not be delivered.}משהו השתבש. לא ניתן לשלוח את המשוב שלך.
+{Sort}מיון
+{Sort Lines}מיון שורות
+{Sound Effect}אפקט קול
+{Sound:}צליל:
+{Source (Files, Folders, URLs)}מקור (קבצים, תיקיות, כתובות URL)
+{Space key:}מפתח מרחב:
+{Spell Check}בדיקת איות
+{Spell Checker}בודק איות
+{Spell Checker:}בודק איות:
+{Split Lines}פיצול שורות
+{Start}התחלה
+{Start Working}התחלת העבודה
+{Status}סטטוס
+{Status Bar}סרגל מצב
+{Stay on Top}השארו למעלה
+{Stickers}סטיקרס
+{Stock}מניות
+{STOCK BALANCE:}יתרת מלאי:
+{Stock Inventory Count Sheet}ספירת מלאי מלאי מלאי
+{Stock Inventory Count Sheet...}ספירת מלאי מלאי מלאי ...
+{STOP}עצירה
+{Success}הצלחה
+{SUCCESS}הצלחה
+{Suggested Corrections}תיקונים מוצעים
+{Support}תמיכה
+{Sync Computer Time}זמן מחשב סינכרון
+{Syntax}תחביר
+{System Audio}אודיו מערכת
+{System Error.}שגיאת מערכת.
+{System Tray Menu}תפריט Tray של המערכת
+{Tab Options}אפשרויות טאב
+{Tab Options...}אפשרויות טאב ...
+{Tab Size:}גודל טאבים
+{Target Folder}תיקיית יעד
+{Target Folder:}תיקיית יעד:
+{Target Folders}תיקיות יעד
+{Test Alert}התראת בדיקה
+{Testimonials}הערכות
+{Text}טקסט
+{Text Color:}צבע תמליל:
+{Text Engine}מנוע תמליל
+{Text File}קובץ תמליל
+{Text File (*.txt)}קובץ תמליל (*.txt)
+{Text File (TXT)...}קובץ תמליל (TXT) ...
+{Text not found!}התמליל לא נמצא!
+{Text:}תמליל:
+{Thank you}תודה
+{Thank you!}תודה רבה!
+{The file could not be created!}לא ניתן ליצור את הקובץ!
+{The server returned an invalid response.}השרת החזיר תגובה לא חוקית.
+{The specified region is not valid!}האזור שצוין אינו חוקי!
+{Theme}ערכת נושא
+{This is an example note.}זוהי הערה לדוגמה.
+{This is required for importing in Gmail and Outlook.}הדבר דרוש לייבוא Gmail ו-Outlook.
+{This is your first sticker!}זה הוא המדבקה הראשונה שלך!
+{This software works best without administrator privileges.}תוכנה זו פועלת הכי טוב ללא זכויות מנהלן.
+{Time}זמן
+{Timestamp}חותמת זמן
+{To Existing Lines}ל ' שורות קיימות '
+{To New Lines...}אל שורות חדשות ...
+{Tool Bar}סרגל כלים
+{Tools}כלים
+{Top}ראש
+{Top Selling Products}מוצרי מכירה למעלה
+{Top Selling Products...}מוצרים מוכרים ביותר ...
+{Total}סה " כ
+{TOTAL:}סך הכל:
+{Total:}סך הכל:
+{Translated by:}מורחב על ידי:
+{Transparency:}שקיפות:
+{Tray Notifications:}דיווחי Tray:
+{Trial}ניסוי
+{TRIAL LIMIT REACHED!}המגבלה של המשפט הגיעה!
+{TRIAL VERSION}גרסת ניסיון
+{Trim All}Trim הכל
+{Trim Both}טרימ שני
+{Trim Left}Trim שמאל
+{Trim Lines}קווי Trim
+{Trim Right}Trim ימני
+{Truly Empty Lines}שורות ריקות באמת
+{Try to run as Administrator.}נסו לרוץ בתור מנהלן.
+{Type}סוג
+{Undo}ביטול
+{Unicode Detector}זיהוי Unicode
+{Unit}יחידה
+{UNLICENSED}ללא רישיון
+{Unlock}שחרור נעילה
+{UNLOCK ERROR}שגיאת ביטול נעילה
+{Unlock Selected}שחרור נעילת נבחר
+{Unlocked}לא נעול
+{Unlocking}שחרור נעילה
+{Unnamed}ללא שם
+{UPDATE}עדכון
+{UPDATE AVAILABLE}עדכון זמין
+{Update Notifications}עדכון הודעות
+{UPPERCASE}UPPERCASE
+{Uppercase and Lowercase}אותיות רישיות ולא-רישיות
+{URL Highlighter (No Spell Check)}הבלטת URL (ללא בדיקת איות)
+{URL not found!}ה-URL לא נמצא!
+{URL Processor}מעבד URL
+{USE AT YOUR OWN RISK!}השתמש בו על אחריותך בלבד!
+{User Interface Language:}שפת ממשק משתמש:
+{User will press keys}המשתמש ילחץ על המקשים
+{using Characters}שימוש בתווים
+{using File}שימוש בקובץ
+{using Text}שימוש בתמליל
+{using Text Length}שימוש אורך תמליל
+{VCF Files (*.vcf)}קובצי VCF (*.vcf)
+{Version History}היסטוריית גרסאות
+{Video file error!}שגיאת קובץ וידיאו!
+{View}תצוגה
+{Volume}כרך
+{Volume Limit}מגבלת נפח
+{Volume of Container}נפח של מכולה
+{Volume of Load}כמות הטעינה
+{Vovsoft Newsletter}יומן ווורך
+{Warning}אזהרה
+{WARNING}אזהרה
+{We would really appreciate your feedback.}אנחנו באמת נעריך את המשוב שלך.
+{Weekdays}ימי שבוע
+{Welcome to %s}ברוכים הבאים אל %s
+{Welcome to Our Shop}ברוכים הבאים לחנות שלנו
+{What did you like or dislike?}מה אתה אוהב או לא אוהב?
+{Which Customer?}איזה לקוח?
+{Width}רוחב
+{Width:}רוחב:
+{Word Wrap}גלישת מילים
+{Work Time:}שעת עבודה:
+{Wrong Admin Password!}סיסמת מנהלן שגויה!
+{Wrong password!}סיסמה שגויה!
+{Yes}כן
+{You are here:}אתם כאן:
+{You are not logged as admin!}אינכם מחוברים בתור מנהלנים!
+{You can preview the font and color settings here.}תוכלו לראות תצוגה מקדימה של הגדרות הגופן והצבע כאן.
+{You can't go further than:}אתה לא יכול ללכת רחוק יותר מ:
+{You cannot use this feature in unlicensed edition.}אינכם יכולים להשתמש במאפיין זה במהדורה לא מורשית.
+{You want to go to:}אתה רוצה ללכת ל:
+{Your feedback is received.}המשוב שלך מתקבל.
+{Your master password is successfully set.}הסיסמה הראשית שלכם הוגדרה בהצלחה.
+{About %s}
+{Add files to the list}
+{Also delete entered text}
+{Anchor Text}
+{Anchors}
+{Caps Lock: OFF}
+{Caps Lock: ON}
+{Change Keyboard Key}
+{Change Keyboard Key...}
+{Change Line Spacing}
+{Change Line Spacing...}
+{Check Multiple Websites}
+{Check Multiple Websites...}
+{Clear File History}
+{Clipboard}
+{Connection Timeout (ms):}
+{Convert Numbers to Text}
+{Copying...}
+{Delete all characters after:}
+{Delete all characters before:}
+{Delete Chars}
+{Description}
+{Descriptions}
+{Domain Name}
+{EULA}
+{Even Numbered Lines}
+{Excel 2007 File (*.xlsx)}
+{Export Report to PDF...}
+{Export To File}
+{Extra Line Spacing:}
+{Folders}
+{H1 Tag}
+{H1 Tags}
+{H2 Tag}
+{H2 Tags}
+{H3 Tag}
+{H3 Tags}
+{H4 Tag}
+{H4 Tags}
+{Highlight mouse pointer}
+{ID}
+{Ignore Extensions:}
+{Ignore URLs:}
+{Increment:}
+{Insert Numbers}
+{Internal URL Limit:}
+{Internal URLs}
+{Interval (sec):}
+{Link}
+{Links}
+{Load Project...}
+{Load Time (sec)}
+{Loading: %s}
+{Maximum:}
+{Merge all files with root of target folder}
+{MERGE MULTIPLE FOLDERS INTO ONE}
+{Merge Type:}
+{Method:}
+{Minimum:}
+{Move}
+{Moved}
+{Moving...}
+{New Project}
+{No mouse pointer}
+{Num Lock}
+{Num Lock: OFF}
+{Num Lock: ON}
+{Number of deleted lines: %s}
+{Numbers:}
+{Occurrence}
+{Odd Numbered Lines}
+{Please add folders!}
+{Preserve folder structure}
+{Replace by Space}
+{Reset Registry...}
+{Response Timeout (ms):}
+{Save Project As...}
+{ScreenSnap}
+{ScreenSnap:}
+{Scroll Lock}
+{Scroll Lock: OFF}
+{Scroll Lock: ON}
+{SEO Audit}
+{Show aboutbox}
+{Show feedback window}
+{Show Options}
+{Simulate Keypress:}
+{Source URL}
+{Start download}
+{Start:}
+{Status Code}
+{Stop download}
+{Stop:}
+{Subdomain Name}
+{Tab Indent}
+{Target folder is not defined!}
+{The file is very large. Do you still want to try to open it?}
+{The text contains no lines!}
+{This action cannot be undone!}
+{Title}
+{Titles}
+{Total URLs: %s}
+{URL}
+{URL Length}
+{URL:}
+{User-Agent String:}
+{View Source...}
+{What numbers will be added?}
+{X:}
+{Y:}

@@ -1,0 +1,933 @@
+﻿{INFO:Translated By}Fatih Ramazan Çıkan, Osman Öz
+{12 hour}12 saat
+{24 hour}24 saat
+{A required file is missing:}Gerekli bir dosya eksik:
+{Ability to disable update notifications}Güncelleme uyarılarını kapatabilme
+{Aborted}İptal edildi
+{About}Hakkında
+{About %s}%s Hakkında
+{About Us}Hakkımızda
+{About...}Hakkında...
+{Access is denied.}Erişim reddedildi.
+{Acknowledgements...}Katkıda bulunanlar...
+{Activation}Etkinleştirme
+{Activation Code:}Etkinleştirme Kodu:
+{Activation failed.}Etkinleştirme başarısız oldu.
+{Active}Aktif
+{ADD}EKLE
+{Add}Ekle
+{Add context menu item}Bağlam menüsü öğesi ekle
+{Add Dictionary...}Sözlük Ekle...
+{Add Drive}Sürücü Ekle
+{Add File}Dosya Ekle
+{Add File(s)}Dosya(lar) Ekle
+{Add File(s)...}Dosya(lar) Ekle...
+{Add Files in Folders...}Klasörlerdeki Dosyaları Ekle...
+{Add files to the list}Listeye dosya ekle
+{Add Files...}Dosyalar Ekle...
+{Add Folder}Klasör Ekle
+{Add Folder...}Klasör Ekle...
+{Add Folders...}Klasörler Ekle...
+{Add M3U8}M3U8 Ekle
+{Add Product Manually}Ürünü Manuel Olarak Ekle
+{Add Recursive Subfolders...}İçiçe Altklasörleri Ekle...
+{Add Subfolders...}Alt Klasörler Ekle...
+{Add URL(s)...}URL(ler) Ekle...
+{Add URLs...}URL'ler Ekle...
+{Add using Environment Variables}Ortam Değişkenlerini kullanarak ekle
+{Add Word To Dictionary}Kelimeyi Sözlüğe Ekle
+{Admin Password}Yönetici Şifresi
+{Alert Text:}Uyarı Metni:
+{All Customers}Tüm Müşteriler
+{All files must be unlocked before changing private key!}Özel anahtarı değiştirmeden önce tüm dosyaların kilidi açılmalıdır!
+{All files must be unlocked before enabling or disabling content encryption!}İçerik şifrelemeyi etkinleştirmeden veya devre dışı bırakmadan önce tüm dosyaların kilidi açılmalıdır!
+{All Products}Tüm Ürünler
+{Alphabet}Alfabe
+{Alphabetical}Alfabetik
+{Also delete entered text}Girilen metni de sil
+{Always on Top}Her Zaman Üstte
+{Always on top}Her zaman üstte
+{Always show when toggled on}Açıkken sürekli göster
+{An error occurred while creating directory:}Dizin oluşturulurken bir hata oluştu:
+{An error occurred while unlocking:}Kilit açılırken bir hata oluştu:
+{Analyze...}Analiz et...
+{Anchor Text}Bağlantı Metni
+{Anchors}Çapalar
+{And please backup your important files and folders before locking in case of hardware or software failure.}Ve lütfen önemli dosyalarınızı ve klasörlerinizi gizlemeden önce yedekleyin. Donanımsal veya yazılımsal bir hata olabilir.
+{Annually}Yıllık
+{Annually:}Yıllık:
+{Any File}Herhangi Bir Dosya
+{Any File (*.*)}Herhangi Bir Dosya (*.*)
+{Are you sure?}Emin misiniz?
+{Arrange Stickers}Yapışkan Notları Düzenle
+{ASCII Art...}ASCII Sanatı...
+{Ask Print}Yazdırmak İçin Sor
+{Audio File}Ses Dosyası
+{Audio file error!}Ses dosyası hatası!
+{Auto Copy Highlighted Text to Clipboard}Vurgulanan Metni Panoya Otomatik Kopyala
+{Auto Refresh File}Dosyayı Otomatik Yenile
+{Auto Run at Startup}Başlangıçta Otomatik Çalıştır
+{Auto-Close Main Window}Ana Pencereyi Otomatik Kapat
+{Auto-Close Popup Window After Finishing}Bitirdikten Sonra Açılır Pencereyi Otomatik Kapat
+{Auto-Closing...}Otomatik Kapanıyor...
+{Auto-Refresh Drive List}Sürücü Listesini Otomatik Tazele
+{Auto-Start at Startup}Başlangıçta Otomatik Çalıştır
+{Automatic}Otomatik
+{Automatically Synchronize}Otomatik Senkronize Et
+{Background Color:}Arka Plan Rengi:
+{Backup Registry...}Kayıt Defterini Yedekle...
+{Backup Stickers}Yapışkan Notları Yedekle
+{Backup...}Yedekle...
+{Barcode}Barkod
+{BARCODE:}BARKOD:
+{Begin:}Başlangıç:
+{Beginning of Each Line...}Her Satırın Başlangıcı...
+{Big Icons}Büyük Simgeler
+{Blog}Blog
+{BREAK TIME!}MOLA ZAMANI!
+{Browse...}Gözat...
+{Buy Now}Şimdi Satın Al
+{Calculate}Hesapla
+{Calculating all possibilities...}Tüm ihtimaller hesaplanıyor...
+{Calculation Results:}Hesaplama Sonuçları:
+{Cancel}İptal
+{Cancel product selection}Ürün seçimini iptal et
+{CANCELED by User Request}Kullanıcı İsteği İle İPTAL EDİLDİ
+{Canceled!}İptal Edildi!
+{Cannot create file}Dosya oluşturulamıyor
+{Capitalize (First Letters Only)}Büyük Harf Yap (Yalnızca İlk Harfler)
+{Caps Lock}Caps Lock
+{Caps Lock: OFF}Caps Lock: KAPALI
+{Caps Lock: ON}Caps Lock: AÇIK
+{Cascade}Kademeli
+{Category:}Kategori:
+{Change Auto-Close Time}Otomatik Kapanma Süresini Değiştir
+{Change Auto-Close Time...}Otomatik Kapanma Süresini Değiştir...
+{Change Background Color}Arka Plan Rengini Değiştir
+{Change Background Color...}Arka Plan Rengini Değiştir...
+{Change Destination Folder}Hedef Klasörü Değiştir
+{Change File Location...}Dosya Konumunu Değiştir...
+{Change Font...}Yazı Tipini Değiştir...
+{Change Interface}Arayüzü Değiştir
+{Change Keyboard Key}Klavye Tuşunu Değiştir
+{Change Keyboard Key...}Klavye Tuşunu Değiştir...
+{Change Line Spacing}Satır Aralığını Değiştir
+{Change Line Spacing...}Satır Aralığını Değiştir...
+{Change Login Password...}Giriş Şifresini Değiştir...
+{Change Menu Font...}Menü Yazı Tipini Değiştir...
+{Change Private Key...}Özel Anahtarı Değiştir...
+{Change Recovery E-mail}Kurtarma E-Postasını Değiştir
+{Change Text Font}Metin Yazıtipini Değiştir
+{Change Theme}Temayı Değiştir
+{Change Theme...}Tema Değiştir...
+{Change:}Para Üstü:
+{Check Multiple Websites}Çoklu Web Site Kontrolü
+{Check Multiple Websites...}Çoklu Web Site Kontrolü...
+{Classic}Klasik
+{Classical Interface}Klasik Arayüz
+{Clear}Temizle
+{Clear File History}Dosya Geçmişini Temizle
+{Click "New Sticker"}Yeni Yapışkan Not'a Tıklayın
+{Click to download}İndirmek için tıklayın:
+{Clip Lines...}Satırları Kırp...
+{Clipboard}Pano
+{Close}Kapat
+{Code:}Kod:
+{Combine Lines...}Satırları Birleştir...
+{Comma-Separated Values File (CSV)...}Virgülle Ayrılmış Değerler Dosyası (CSV)...
+{Commercial use allowed}Ticari kullanım izni
+{Company}Şirket
+{Compare Two Texts...}İki Metni Karşılaştır
+{Completed}Tamamlandı
+{Completed!}Tamamlandı!
+{Completed.}Tamamlandı.
+{Computer Code:}Bilgisayar Kodu:
+{Computer Time:}Bilgisayar Saati:
+{Computer Timezone:}Bilgisayar Saat Dilimi:
+{Computer will press keys}Bilgisayar tuşlara basacak
+{Confirm Before Deletion}Silmeden Önce Onaylayın
+{Confirm Password:}Şifreyi Onayla:
+{Confirm?}Onaylansın mı?
+{Confirmation}Onay
+{Connection Error!}Bağlantı Hatası!
+{Connection Timeout (ms):}Bağlantı Zaman Aşımı (ms):
+{Contact}İletişim
+{Content Encryption (SLOW)}İçerik Şifreleme (YAVAŞ)
+{Content encryption is enabled.}İçerik şifreleme etkinleştirildi.
+{Continue}Devam et
+{Contribute to Translation}Çeviriye Katkıda Bulunun
+{Convert Non-English Chars to English Chars}İngilizce Olmayan Karakterleri İngilizce Karakterlere Dönüştür
+{Convert Numbers to Text}Sayıları Yazıya Dönüştür
+{Copied}Kopyalandı
+{Copy}Kopyala
+{Copy All}Tümünü Kopyala
+{Copy files to many directories}Dosyaları birçok dizine kopyala
+{COPY INTO TARGET FOLDERS}HEDEF KLASÖRLERE KOPYALA
+{Copying...}Kopyalanıyor...
+{CREDIT:}VERESİYE:
+{Credits}Veresiyeler
+{CSV File}CSV Dosyası
+{CSV File (*.csv)}CSV Dosyası (*.csv)
+{Currency Symbol}Para Birimi Sembolü
+{Customer}Müşteri
+{Customer with credit cannot be deleted!}Ödenmemiş veresiyesi olan müşteri silinemez!
+{CUSTOMER:}MÜŞTERİ:
+{Customer:}Müşteri:
+{CUSTOMERS}MÜŞTERİLER
+{Customers}Müşteriler
+{Cut}Kes
+{Daily}Günlük
+{Daily:}Günlük:
+{Dark}Koyu
+{Date}Tarih
+{Date and Time}Tarih ve Saat
+{Day}Gün
+{Daylight Saving:}Gün Işığından Yararlanma:
+{Decode...}Kodu çöz...
+{Decrease Font Size}Yazı Tipi Boyutunu Azalt
+{Default}Varsayılan
+{Default Alphabet}Varsayılan Alfabe
+{Default CSV Format}Varsayılan CSV Biçimi
+{Del key:}Del tuşu:
+{Delete}Sil
+{DELETE}SİL
+{Delete After}Sonrasını Sil
+{DELETE ALL}TÜMÜNÜ SİL
+{Delete All}Tümünü Sil
+{Delete all characters after:}Şunlardan sonra tüm karakterleri sil:
+{Delete all characters before:}Şunlardan önce tüm karakterleri silin:
+{Delete All Spaces}Tüm Boşlukları Sil
+{Delete Alphabetic [a-z] [A-Z]}Alfabetik Sil [a-z][A-Z]
+{Delete Alphanumeric [a-z] [A-Z] [0-9]}Alfanümerik Sil [a-z][A-Z]
+{Delete Before}Öncesini Sil
+{Delete Beginning or Ending Strings...}Başlangıç veya Bitiş Dizelerini Sil...
+{Delete Chars}Karakterleri Sil
+{DELETE CUSTOMER}MÜŞTERİYİ SİL
+{Delete Customer}Müşteriyi Sil
+{Delete Extra Spaces}Fazladan Boşlukları Sil
+{Delete last entered product}Son girilen ürünü sil
+{Delete Non-Alphabetic}Alfabetik Olmayanları Sil
+{Delete Non-Alphanumeric}Alfanümerik Olmayanları Sil
+{Delete Numbers [0-9]}Numaraları Sil [0-9]
+{DELETE PRODUCT}ÜRÜNÜ SİL
+{Delete Record}Kaydı Sil
+{Delete Reminder}Hatırlatıcı Sil
+{Delete Selected}Seçileni Sil
+{Delete Unnecessary Lines}Gereksiz Satırları Sil
+{Delete?}Sil?
+{Deleted}Silindi
+{Description}Tanım
+{Descriptions}Açıklamalar
+{Deselect All}Tüm Seçimleri Kaldır
+{Destination:}Hedef:
+{DETAILS}DETAYLAR
+{Diagnose}Teşhis
+{Diagonal}Diyagonal
+{Directory is not writable!}Dizin yazılabilir değil!
+{Directory not found!}Dizin bulunamadı!
+{Directory:}Dizin:
+{Disabled}Devre dışı
+{Discount}İndirim
+{Discounted Price}İndirimli Fiyat
+{Discounted Total}İndirimli Toplam
+{Disk Write Interval (sec):}Disk Yazma Aralığı (sn):
+{Dismiss}Reddet
+{Display Duration:}Görüntüleme Süresi:
+{Display Load Time}Yükleme Süresini Görüntüle
+{Display Prices}Fiyatları Görüntüle
+{Display Special Chars}Özel Karakterleri Görüntüle
+{Do you really want to delete ALL stickers?}TÜM yapışkan notları gerçekten silmek istiyor musunuz?
+{Do you really want to delete the reminder?}Hatırlatıcıyı gerçekten silmek istiyor musunuz?
+{Do you really want to delete the sticker?}Yapışkan notu gerçekten silmek istiyor musunuz?
+{Do you want to delete all stickers, reminders, settings and restart application?}Tüm çıkartmaları, hatırlatıcıları, ayarları silmek ve uygulamayı yeniden başlatmak istiyor musunuz?
+{Do you want to replace the sticker with the image?}Çıkartmayı resimle değiştirmek istiyor musunuz?
+{Do you want to save the current file before exit?}Çıkmadan önce mevcut dosyayı kaydetmek ister misiniz?
+{Do you want to save the current file?}Mevcut dosyayı kaydetmek ister misiniz?
+{Do you want to save this file before exit?}Çıkmadan önce bu dosyayı kaydetmek ister misiniz?
+{Do you want to save this file?}Bu dosyayı kaydetmek ister misiniz?
+{Domain Name}Alan Adı
+{Don't show this again}Bunu bir daha gösterme
+{Download}İndir
+{Downloading...}İndiriliyor...
+{Drag Drop Filenames}Dosya Adlarını Sürükle Bırak
+{Draw mouse pointer}Fare işaretçisini çiz
+{Drive}Sürücü
+{DRIVE MISMATCH}SÜRÜCÜ UYUMSUZLUĞU
+{Drive:}Sürücü:
+{Duplicate Lines}Yinelenen Satırlar
+{E-mail}E-posta
+{E-mail is changed.}E-posta değiştirildi.
+{E-mail not accepted!}E-posta kabul edilmedi!
+{E-mail not found!}E-posta bulunamadı!
+{E-mail Processor}E-posta İşlemcisi
+{Edit}Düzen
+{Edit License}Lisansı Değiştir
+{Edit License...}Lisansı Değiştir...
+{Edit M3U8}M3U8'i Düzenle
+{Edit Password}Parola Değiştir
+{Edit...}Düzenle...
+{Elapsed Time:}Geçen Süre:
+{Email Address}E-posta Adresi
+{Empty}Boş
+{Empty Lines (can include spaces and tabs)}Boş Satırlar (boşluklar ve sekmeler içerebilir)
+{Enable}Etkinleştir
+{Enabled}Etkin
+{Encode...}Kodla...
+{Encoding}Kodlama
+{Encryption}Şifreleme
+{End of Each Line...}Her Satırın Sonu...
+{End-User License Agreement}Son Kullanıcı Lisans Sözleşmesi
+{End:}Bitiş:
+{English}İngilizce
+{Enter License Key}Lisans Anahtarını Gir
+{Entire Document}Tüm Belge
+{Error}Hata
+{ERROR}HATA
+{Error No:}Hata No:
+{ESC key:}ESC tuşu:
+{EULA}Lisans Sözleşmesi
+{Even Numbered Lines}Çift Sayılı Satırlar
+{Excel 2007 File (*.xlsx)}Excel 2007 Dosyası (*.xlsx)
+{Excel CSV Format}Excel CSV Biçimi
+{Excel File (*.xls)}Excel Dosyası (*.xls)
+{Excel File (XLS)...}Excel Dosyası (XLS)...
+{Exit}Çıkış
+{Exit Application?}Uygulamadan Çıkılsın Mı?
+{Exit...}Çıkış...
+{EXITING...}ÇIKIŞ YAPILIYOR...
+{Explore Dictionaries...}Sözlükleri Keşfet...
+{Export}Dışa Aktar
+{Export Lines to Files}Satırları Dosyalara Aktar
+{Export Lines to Files...}Satırları Dosyalara Aktar...
+{Export Report to PDF...}Raporu PDF'ye Aktar...
+{Export To File}Dosyaya Aktar
+{Export to File...}Dosyaya Aktar...
+{Export to HTML...}HTML olarak aktar...
+{Export to PDF...}PDF olarak aktar...
+{Exported Entries:}Dışa Aktarılan Girişler:
+{Extra Line Spacing:}Ekstra Satır Aralığı:
+{Extract Image...}Resmi Dışa Aktar...
+{Extract Text...}Metin Ayıkla...
+{Extras}Ekstralar
+{Fade-out Animation}Kararma Animasyonu
+{Failed}Başarısız
+{Failure}Hata
+{Feedback}Geri bildirim
+{feedback}geri bildirim
+{File}Dosya
+{File already exists!}Dosya zaten mevcut!
+{File does NOT exist:}Dosya mevcut DEĞİL:
+{File inaccessible!}Dosya erişilemiyor!
+{File List}Dosya Listesi
+{File Location}Dosya Konumu
+{File Location:}Dosya Konumu:
+{File lock error!}Dosya kilidi hatası!
+{File Mask}Dosya Maskesi
+{File Mask:}Dosya Maskesi:
+{File not found!}Dosya bulunamadı!
+{File or Folder:}Dosya veya Klasör:
+{Filename:}Dosya adı:
+{Files & Folders}Dosyalar ve Klasörler
+{Filter Lines}Satırları Filtrele
+{Find}Bul
+{Find Erroneous E-mails}Hatalı E-postaları Bul
+{Find Lines}Satırları Bul
+{Find Lines...}Satırları Bul...
+{Find Next}Sonrakini Bul
+{Find Next Misspelling}Bir Sonraki Hatayı Bul
+{Fix Broken UTF-8 Encoding}Bozuk UTF-8 Kodlamasını Düzelt
+{Fixed-Pitch Fonts Only}Sadece Sabit Aralıklı Yazı Tipleri
+{Folder}Klasör
+{Folder does NOT exist:}Klasör mevcut DEĞİL:
+{Folder Size:}Klasör Boyutu:
+{Folder:}Dizin:
+{Folders}Klasörler
+{For 1}1 için
+{For 10}10 için
+{For 100}100 için
+{For 20}20 için
+{For 200}200 için
+{For 5}5 için
+{For 50}50 için
+{Forgot Password?}Şifrenizi Mi Unuttunuz?
+{Format:}Biçim:
+{FREE}BEDAVA
+{Free Edit}Serbest Düzenleme
+{Free to try}Denemesi bedava
+{FREEWARE}ÜCRETSİZ
+{Freeware}Ücretsiz
+{Freeware Utilities}Ücretsiz Yardımcı Programlar
+{Full Screen}Tam Ekran
+{Generate}Oluştur
+{Generate Barcode Image...}Barkod Görüntüsü Oluştur...
+{Generate Domain Name List}Alan Adı Listesi Oluştur
+{Generate E-mail List}E-posta Listesi Oluştur
+{Generate Hostname List}Ana Bilgisayar Adı Listesi Oluştur
+{Generate URL List}URL Listesi Oluştur
+{Generate Word List}Kelime Listesi Oluştur
+{Get Server Time}Sunucu Zamanını Al
+{Go}Git
+{Go to...}Şuraya Git...
+{Google CSV Format}Google CSV Biçimi
+{GRAND TOTAL:}GENEL TOPLAM:
+{H1 Tag}H1 Etiketi
+{H1 Tags}H1 Etiketleri
+{H2 Tag}H2 Etiketi
+{H2 Tags}H2 Etiketleri
+{H3 Tag}H3 Etiketi
+{H3 Tags}H3 Etiketleri
+{H4 Tag}H4 Etiketi
+{H4 Tags}H4 Etiketleri
+{Hardware encoding}Donanım kodlaması
+{Header}Başlık
+{Headers}Başlıklar
+{Height}Yükseklik
+{Height:}Yükseklik:
+{Help}Yardım
+{Hidden}Gizli
+{Hide}Gizle
+{Hide All Stickers}Tüm Yapışkan Notları Gizle
+{Hide Details}Detayları Gizle
+{Highlight Active Line}Aktif Satırı Vurgula
+{Highlight Even Lines}Çift Satırları Vurgula
+{Highlight mouse pointer}Fare işaretçisini vurgula
+{Highlight Odd Lines}Tek Satırları Vurgula
+{HINT}İPUCU
+{Home}Ana Sayfa
+{Hotkey:}Kısayol Tuşu:
+{Hourly}Saatlik
+{Hourly:}Saatlik:
+{How to create new sticky note:}Nasıl yeni yapışkan not oluşturulur:
+{How to uninstall...}Nasıl kaldırılır?...
+{HTML File (*.html)}HTML Dosyası (*.html)
+{I dislike it!}Bunu sevmedim!
+{I like it!}Bunu sevdim!
+{ID}ID
+{ID Transformer...}ID Dönüştürücü...
+{Idle Time:}Boşta Geçen:
+{If no keyboard or mouse events occur for "Idle Time", "Work Time" resets.}"Boşta Geçen Süre" boyunca hiç klavye veya fare hareketi olmazsa "Çalışma Zamanı" sıfırlanır.
+{If you like the software, please buy a license to make this software fully functional and remove this window.}Eğer bu programı sevdiyseniz, tam sürüm için lütfen programı satın alın ve bu ekranı yok edin.
+{Ignore}Yoksay
+{Ignore Drive Mismatch While Unlocking}Kilidi Açarken Sürücü Uyumsuzluğunu Yoksay
+{Ignore Extensions:}Uzantıları Yoksay:
+{Ignore Failed Files While Unlocking}Kilidi Açarken Başarısız Dosyaları Yoksay
+{Ignore URLs:}URL'leri Yoksay:
+{Import}İçe Aktar
+{Import from File...}Dosyadan İçe Aktar...
+{IMPORTANT}ÖNEMLİ
+{Include my e-mail:}E-postamı ekle:
+{Include Subdirectories?}Alt Dizinler Dahil Edilsin mi?
+{Increase Font Size}Yazı Tipi Boyutunu Artır
+{Increment:}Artış:
+{Indicates status of keys}Tuşların durumunu gösterir
+{Info}Bilgi
+{Information}Bilgi
+{Initializing...}Başlatılıyor...
+{Insert}Ekle
+{Insert Empty Lines}Boş Satırlar Ekle
+{Insert Numbers}Sayılar Ekle
+{Insert Same Text Multiple Times}Aynı Metni Birden Çok Kez Ekle
+{Insert Same Text Multiple Times...}Aynı Metni Birden Çok Kez Ekle...
+{Insufficient stock!}Yetersiz stok!
+{Internal URL Limit:}Dahili URL Sınırı:
+{Internal URLs}Dahili URL'ler
+{Interval (sec):}Süre (sn):
+{Invalid E-mail!}Geçersiz E-posta!
+{Invalid Entry!}Hatalı Giriş!
+{Invert Selection}Seçimi Evir
+{Keyboard Shortcuts}Klavye Kısayolları
+{KeyPress Simulator}Tuş Basma Simülatörü
+{Language}Dil
+{Language:}Dil:
+{Language...}Dil...
+{LED Color (OFF):}LED Rengi (KAPALI):
+{LED Color (ON):}LED Rengi (AÇIK):
+{Left}Sol
+{Left click to show Stickers on top.}Notları üstte göstermek için sol tıklatın.
+{Length}Uzunluk
+{License key is invalid!}Lisans anahtarı geçersiz!
+{License:}Lisans:
+{License...}Lisans...
+{Licensed}Lisanslı
+{Licensed to:}Lisans:
+{Lifetime free updates}Ömür boyu ücretsiz güncellemeler
+{Light}Açık
+{Line}Satır
+{Line Length}Satır Uzunluğu
+{Line Numbers}Satır Numaraları
+{Line Order}Satır Sırası
+{Link}Bağlantı
+{Links}Bağlantılar
+{List}Liste
+{LIST ALL}TÜMÜNÜ LİSTELE
+{List of Containers:}Konteyner Listesi:
+{List of Loads:}Yük Listesi:
+{List...}Listele...
+{Load}Yükle
+{Load And Run Operation Files...}İşlem Dosyalarını Yükle ve Çalıştır...
+{Load Limit}Yük Sınırı
+{Load Operation File...}İşlem Dosyasını Yükle...
+{Load Project...}Proje Yükle...
+{Load source list from file...}Dosyadan kaynak listesi yükle...
+{Load target list from file...}Hedef listesini dosyadan yükle...
+{Load Time (sec)}Yükleme Süresi (sn)
+{Load vCards from VCF file...}VCF dosyasından vCard yükle...
+{Load...}Yükle...
+{Loading}Yükleniyor
+{Loading: %s}Yükleniyor: %s
+{Loading...}Yükleniyor...
+{Lock}Kilitle
+{Lock and Unlock processes may take some time.}Kilitleme ve Kilit Açma işlemleri biraz zaman alabilir.
+{Lock Selected}Seçileni Kilitle
+{LOCKED}KİLİTLİ
+{Locking}Kilitleniyor
+{Login (Full Access)}Giriş (Tam Erişim)
+{Logout}Çıkış Yap
+{lowercase}küçük harf
+{Lowercase}Küçük harf
+{MAIN MENU}ANA MENÜ
+{Mark as Complete}Tamamlanmış Olarak İşaretle
+{Maximum:}En Büyük:
+{Menu Hotkeys}Menü Kısayol Tuşları
+{Merge all files with root of target folder}Tüm dosyaları hedef klasörün köküyle birleştir
+{MERGE MULTIPLE FOLDERS INTO ONE}KLASÖRLERİ BİRLEŞTİR
+{Merge Type:}Birleştirme Türü:
+{Method:}Yöntem:
+{milliseconds}milisaniye
+{Minimal Mode}Minimum Mod
+{Minimize when recording starts}Kayıt başladığında simge durumuna küçült
+{Minimum:}En Küçük:
+{Minute}Dakika
+{minutes}dakika
+{Mode}Mod
+{Monitor}Monitör
+{Monitor External File Modification}Harici Dosya Değişikliğini İzle
+{Month}Ay
+{Monthly}Aylık
+{Monthly:}Aylık:
+{Move}Taşı
+{Move (Delete Source Files and Folders)}Taşı (Kaynak Dosyaları ve Klasörleri Sil)
+{Move Down}Aşağı Taşı
+{Move Info: Source files and folders were not deleted from disk because of copy error}Taşıma Bilgisi: Kaynak dosya ve klasörler, kopyalama hatası nedeniyle diskten silinmedi
+{Move Up}Yukarı Taşı
+{Moved}Taşındı
+{Moving...}Taşınıyor...
+{Multiple Files...}Çoklu Dosyalar...
+{Name}İsim
+{Name of Container}Konteyner İsmi
+{Name of Load}Yük İsmi
+{Net Encoding}Ağ Kodlama
+{New}Yeni
+{New Project}Yeni Proje
+{New Reminder}Yeni Hatırlatıcı
+{New Reminder...}Yeni Hatırlatıcı...
+{New Sticker}Yeni Yapışkan Not
+{New Window}Yeni Pencere
+{Next Receipt Number:}Sonraki Fiş Numarası:
+{Next Rest:}Molaya Kalan:
+{No}Hayır
+{No Audio}Ses Yok
+{No erroneous e-mail found.}Hatalı e-posta bulunamadı.
+{No Item Selected!}Öğe Seçilmedi!
+{No item selected!}Öğe seçilmedi!
+{No mouse pointer}Fare işaretçisi yok
+{No nag screen, no ads}Bıktıran ekran yok, reklam yok
+{No replacements made.}Değiştirme yapılmadı.
+{No Sound}Ses Yok
+{No sticky notes left on the desktop!}Masaüstünde hiç yapışkan not kalmadı!
+{No text selected!}Metin seçilmedi!
+{Non-English}İngilizce Olmayan
+{None}Hiç Biri
+{Not applicable!}Uygun değil!
+{Not Paid:}Ödenmeyen:
+{Note}Not
+{Note Window Margin:}Not Penceresi Marjini:
+{Notes Manager}Not Yöneticisi
+{Notes Manager...}Not Yöneticisi...
+{Num Lock}Num Lock
+{Num Lock: OFF}Num Lock: KAPALI
+{Num Lock: ON}Num Lock: AÇIK
+{Number of deleted lines: %s}Silinen satır adedi: %s
+{Number of Files:}Dosya Sayısı:
+{Number of Times:}Kaç Defa:
+{Numbers}Sayılar
+{Numbers:}Sayılar:
+{Occurrence}Vuku
+{Odd Numbered Lines}Tek Sayılı Satırlar
+{Offline Activation}Çevrimdışı Etkinleştirme
+{Offset}Ofset
+{OK}Tamam
+{Online Help}Çevrimiçi Yardım
+{Only %s entries exported using unlicensed version.}Lisanssız sürüm kullanılarak yalnızca %s giriş dışa aktarıldı.
+{Only Once}Sadece Bir Defa
+{Only Once:}Sadece Bir Defa:
+{Open File}Dosyayı Aç
+{Open folder location...}Klasör konumunu aç...
+{Open Folder Location...}Klasör Konumunu Aç...
+{Open...}Aç...
+{Operating Systems:}İşletim Sistemleri:
+{Operation File}İşlem Dosyası
+{Operation STOPPED!}İşlem DURDURULDU!
+{Operations}İşlemler
+{Options}Seçenekler
+{Options...}Seçenekler...
+{Ordinal Values of Characters}Karakterlerin Sıra Değerleri
+{Original Size}Orjinal Boyut
+{Outlook CSV Format}Outlook CSV Biçimi
+{Output}Çıktı
+{Output:}Kayıt yeri:
+{Overwrite Existing Files}Mevcut Dosyaların Üzerine Yaz
+{Overwrite Read-Only Files}Salt Okunur Dosyaların Üzerine Yaz
+{PAID}ÖDENDİ
+{Paid}Ödendi
+{Paid:}Ödenen:
+{Password}Şifre
+{Password is changed.}Şifre değiştirildi.
+{Password is incorrect!}Şifre yanlış!
+{Password not accepted!}Şifre kabul edilmedi!
+{Password Recovery E-mail:}Şifre Kurtarma E-postası:
+{Password:}Şifre:
+{Passwords do not match!}Şifreler eşleşmiyor!
+{Paste}Yapıştır
+{Payments}Ödemeler
+{PDF File (*.pdf)}PDF Dosyası (*.pdf)
+{Permanently Delete}Kalıcı Olarak Sil
+{Permanently Delete All}Hepsini Kalıcı Olarak Sil
+{Play}Oynat
+{Play Sound Effect}Ses Efekti Oynat
+{Please add containers!}Lütfen konteyner ekleyin!
+{Please add folders!}Lütfen klasörleri ekleyin!
+{Please add loads!}Lütfen yük ekleyin!
+{Please add source files!}Lütfen kaynak dosyaları ekleyin!
+{Please add target folders!}Lütfen hedef klasörleri ekleyin!
+{Please check your e-mail box.}Lütfen e-posta kutunuzu kontrol edin.
+{Please check your internet connection!}Lütfen internet bağlantınızı kontrol edin!
+{Please enter barcode or product name!}Lütfen barkodu veya ürün adını girin!
+{Please enter discount ratio:}Lütfen indirim oranını girin:
+{Please enter master password!}Lütfen ana şifreyi girin!
+{Please enter new currency symbol:}Lütfen yeni para birimi sembolünü girin:
+{Please enter password:}Lütfen şifreyi girin:
+{Please enter unit price:}Lütfen birim fiyatını girin:
+{Please enter your license key:}Lütfen lisans anahtarınızı girin:
+{Please enter your license key!}Lütfen lisans anahtarınızı girin!
+{Please keep it in a safe place. You need it to unlock your files and folders.}Lütfen güvenli bir yerde saklayın. Dosya ve klasörlerinizin kilidini açmak için buna ihtiyacınız var.
+{Please obtain a license key to activate the software.}Yazılımı etkinleştirmek için lütfen bir lisans anahtarı edinin.
+{Please reinstall the software.}Lütfen yazılımı yeniden yükleyin.
+{Please reopen the software without administrator privileges.}Lütfen yazılımı yönetici ayrıcalıkları olmadan yeniden açın.
+{Please try again later!}Lütfen daha sonra tekrar deneyiniz!
+{Please try again later.}Lütfen daha sonra tekrar deneyin.
+{Please try:}Lütfen deneyin:
+{Please type NEW password:}Lütfen YENİ şifreyi yazın:
+{Please type your CURRENT password:}Lütfen GEÇERLİ şifrenizi yazın:
+{Please type your NEW e-mail:}Lütfen YENİ e-posta adresinizi yazın:
+{Please type your NEW password:}Lütfen YENİ şifrenizi yazın:
+{Please type your NEW private key:}Lütfen YENİ özel anahtarınızı girin:
+{Please Wait For Backup Process!}Lütfen Yedekleme İşlemini Bekleyin!
+{Preserve folder structure}Klasör yapısını koru
+{Preview Sticker}Yapışkan Notu Önizle
+{Price}Fiyat
+{PRICE:}FİYAT:
+{Print}Yazdır
+{Print Setup}Yazdırma Ayarları
+{Print Template}Yazdırma Şablonu
+{Print?}Yazdırılsın mı?
+{Print...}Yazdır...
+{Printer not found!}Yazıcı bulunamadı!
+{Privacy Policy}Gizlilik Politikası
+{Private Key}Özel Anahtar
+{Private key changed.}Özel anahtar değişti.
+{Process}İşlem
+{Process completed!}İşlem tamamlandı!
+{Processing...}İşlem Yapılıyor...
+{Product}Ürün
+{Product List}Ürün Listesi
+{Product List...}Ürün Listesi...
+{PRODUCT NAME:}ÜRÜN ADI:
+{Product successfully activated.}Etkinleştirme başarılı oldu.
+{Product:}Ürün:
+{PRODUCTS}ÜRÜNLER
+{Products}Ürünler
+{Properties}Özellikler
+{Purchase}Satın Al
+{Quantity}Miktar
+{Random Number Generator}Rastgele Sayı Üreticisi
+{Random Number Generator...}Rastgele Sayı Üreticisi...
+{Random Text Generator}Rastgele Yazı Üreticisi
+{Random Text Generator...}Rastgele Yazı Üreticisi...
+{Randomize Line Contents}Satır İçeriklerini Rastgele Yap
+{Randomize Line Order}Satır Sırasını Rastgele Yap
+{Read Reviews}Yorumları Oku
+{Ready}Hazır
+{Receipts}Fişler
+{Recognize Environment Variables}Ortam Değişkenlerini Algıla
+{Recognize Network Drives}Ağ Sürücülerini Algıla
+{RECORD}KAYIT
+{RECORD DATE:}KAYIT TARİHİ:
+{Recording...}Kaydediyor...
+{Recover Lost Files}Kayıp Dosyaları Kurtar
+{Recover Password}Şifreyi Kurtar
+{Redo}Yinele
+{Refresh Device List}Aygıt Listesini Yenile
+{Refresh Hardware Encodings}Donanım Kodlamalarını Yenile
+{Refund Policy}Geri Ödeme Politikası
+{Region}Bölge
+{Regular Expression}Regular Expression
+{Regular Expression...}Regular Expression...
+{Related Software}İlgili Programlar
+{Release Date:}Yayın Tarihi:
+{Remember Settings}Ayarları Hatırla
+{Reminder}Hatırlatıcı
+{Reminders}Hatırlatıcılar
+{Remove}Kaldır
+{Remove All}Tümünü Kaldır
+{Remove Selected}Seçilenleri Kaldır
+{Reopen}Yeniden Aç
+{Replace}Değiştir
+{Replace by Space}Boşluk ile Değiştir
+{Reports}Raporlar
+{Required files are missing}Gerekli dosyalar eksik:
+{Reset}Sıfırla
+{Reset Registry...}Kayıt Defterini Sıfırla...
+{Reset to Defaults}Varsayılanlara Sıfırla
+{Reset Work Time}Çalışma Süresini Sıfırla
+{Response Timeout (ms):}Yanıt Zaman Aşımı (ms):
+{Restart Application?}Uygulama Yeniden Başlatılsın mı?
+{Restore}Geri Yükle
+{Restore from Backup...}Yedekten Geri Yükle...
+{Restore when recording is complete}Kayıt tamamlandığında eski haline getir
+{Reverse}Ters Çevir
+{Reverse Line Contents}Ters Satır İçeriği
+{Reverse Line Sequence}Ters Satır Dizisi
+{Right click to add new Stickers or Reminders.}Yeni Not ya da Hatırlatıcı eklemek için sağ tıklatın.
+{Right-click tray icon}Tepsi ikonuna sağ-tıklayın
+{Run With}Birlikte Çalıştır
+{SALES}SATIŞLAR
+{Sample Text}Örnek Metin
+{Sample Values}Örnek Değerler
+{Save}Kaydet
+{Save As...}Farklı Kaydet...
+{Save Operation File As...}İşlem Dosyasını Farklı Kaydet...
+{Save Operation File...}İşlem Dosyasını Kaydet...
+{Save Project As...}Projeyi Farklı Kaydet...
+{Save Results}Sonuçları Kaydet
+{Save source list to file...}Kaynak listesini dosyaya kaydet...
+{Save target list to file...}Hedef listesini dosyaya kaydet...
+{Screen capture failed!}Ekran yakalama başarısız oldu!
+{ScreenSnap}Ekran Yerleşme
+{ScreenSnap:}Yapışkan Ekran:
+{Scroll Lock}Scroll Lock
+{Scroll Lock: OFF}Scroll Lock: KAPALI
+{Scroll Lock: ON}Scroll Lock: AÇIK
+{Search}Ara
+{Search Every Line with Google}Google ile Her Satırı Ara
+{Search:}Ara:
+{Search...}Ara...
+{seconds}saniye
+{Secure your files and folders}Dosyalarınızı ve klasörlerinizi koruyun
+{Select}Seç
+{Select All}Tümünü Seç
+{Select folder:}Klasör seç:
+{Select Language}Dil Seç
+{Select Product}Ürün Seçimi
+{Select Region and Close}Bölge Seçin ve Kapatın
+{Select your favourite theme}En sevdiğiniz temayı seçin
+{Selected}Seçildi
+{SELL BY CASH}NAKİT SATIŞ
+{Sell by Cash}Nakit Satış
+{SELL BY CREDIT}VERESİYE SATIŞ
+{Sell by Credit}Veresiye Satış
+{Send}Gönder
+{Send e-mail?}E-posta gönderilsin mi?
+{Send Feedback}Geri Bildirim Gönder
+{Send Feedback...}Geri Bildirim Gönder...
+{Send to Recycle Bin}Geri Dönüşüm Kutusuna Gönder
+{SEO Audit}SEO Denetimi
+{Separate by Char}Karaktere göre ayır
+{Separate by String}Dizeye göre ayır
+{Separate Long Lines (Break Words)}Uzun Satırları Ayır (Kelimeleri Kes)
+{Separate Long Lines (Keep Words)}Uzun Satırları Ayır (Kelimeleri Tut)
+{Server Time:}Sunucu Zamanı:
+{Server:}Sunucu:
+{Set as Default Encoding}Varsayılan Kodlama Olarak Ayarla
+{Settings}Ayarlar
+{Settings...}Ayarlar...
+{Show}Göster
+{Show aboutbox}Hakkında kutusunu göster
+{Show All Stickers}Tüm Yapışkan Notları Göster
+{Show Date Time}Tarih ve Saati Göster
+{Show Details}Detayları Göster
+{Show feedback window}Geri bildirim penceresini göster
+{Show Idle Time:}Boşta Geçen Süre:
+{Show Letters and Numbers without Special Keys}Özel Tuşlar Olmadan Harf ve Rakamları Göster
+{Show Notifications}Bildirimleri Göster
+{Show Options}Seçenekleri Göster
+{Show when status changes}Durum değiştiğinde göster
+{Show Window}Pencereyi Göster
+{Sign up}Kaydol
+{Simulate Keypress:}Tuşa Basmayı Simüle Et:
+{Small Buttons}Küçük Düğmeler
+{Software}Yazılım
+{Software encoding}Yazılım kodlaması
+{Something went wrong. Your feedback could not be delivered.}Bir terslik oldu. Mesajınız gönderilemedi.
+{Sort}Sırala
+{Sort Lines}Satırları Sırala
+{Sound Effect}Ses Efekti
+{Sound:}Ses:
+{Source (Files, Folders, URLs)}Kaynak (Dosyalar, Klasörler, URL'ler)
+{Source URL}Kaynak URL
+{Space key:}Boşluk tuşu:
+{Spell Check}Yazım Denetimi
+{Spell Checker}Yazım Denetleyicisi
+{Spell Checker:}Yazım Denetleyicisi:
+{Split Lines}Satırları Böl
+{Start}Başlat
+{Start download}İndirmeye başla
+{Start Working}Çalışmaya Başla
+{Start:}Başla:
+{Status}Durum
+{Status Bar}Durum Çubuğu
+{Status Code}Durum Kodu
+{Stay on Top}Üstte Kal
+{Stickers}Yapışkan Notlar
+{Stock}Stok
+{STOCK BALANCE:}STOK BAKİYESİ:
+{Stock Inventory Count Sheet}Stok Envanter Sayım Sayfası
+{Stock Inventory Count Sheet...}Stok Envanter Sayım Sayfası...
+{STOP}DUR
+{Stop download}İndirmeyi durdur
+{Stop:}Bitiş:
+{Subdomain Name}Alt Alan Adı
+{Success}Başarılı
+{SUCCESS}BAŞARILI
+{Suggested Corrections}Düzeltme Önerileri
+{Support}Destek
+{Sync Computer Time}Bilgisayar Saatini Eşitle
+{Syntax}Söz Dizimi
+{System Audio}Sistem Sesi
+{System Error.}Sistem Hatası.
+{System Tray Menu}Sistem Tepsisi Menüsü
+{Tab Indent}Sekme Girintisi
+{Tab Options}Tab Seçenekleri
+{Tab Options...}Tab Seçenekleri...
+{Tab Size:}Tab Boyutu:
+{Target Folder}Hedef Klasör
+{Target folder is not defined!}Hedef klasör tanımlı değil!
+{Target Folder:}Hedef Klasör:
+{Target Folders}Hedef Klasörler
+{Test Alert}Uyarıyı Test Et
+{Testimonials}Görüşler
+{Text}Metin
+{Text Color:}Yazı Rengi:
+{Text Engine}Metin Motoru
+{Text File}Metin Dosyası
+{Text File (*.txt)}Metin Dosyası (*.txt)
+{Text File (TXT)...}Metin Dosyası (TXT)...
+{Text not found!}Metin bulunamadı!
+{Text:}Metin:
+{Thank you}Teşekkürler
+{Thank you!}Teşekkürler!
+{The file could not be created!}Dosya oluşturulamadı!
+{The file is very large. Do you still want to try to open it?}Dosya çok büyük. Yine de açmayı denemek istiyor musun?
+{The server returned an invalid response.}Sunucu geçersiz bir yanıt verdi.
+{The specified region is not valid!}Belirtilen bölge geçerli değil!
+{The text contains no lines!}Metin hiç satır içermiyor!
+{Theme}Tema
+{This action cannot be undone!}Bu işlem geri alınamaz!
+{This is an example note.}Bu örnek bir nottur.
+{This is required for importing in Gmail and Outlook.}Gmail ve Outlook'ta içe aktarma için gereklidir.
+{This is your first sticker!}Bu senin ilk yapışkan notun!
+{This software works best without administrator privileges.}Bu yazılım, yönetici ayrıcalıkları olmadan en iyi şekilde çalışır.
+{Time}Zaman
+{Timestamp}Zaman Damgası
+{Title}Başlık
+{Titles}Başlıklar
+{To Existing Lines}Mevcut Satırlara
+{To New Lines...}Yeni Satırlara...
+{Tool Bar}Araç Çubuğu
+{Tools}Araçlar
+{Top}Yükseklik
+{Top Selling Products}En Çok Satan Ürünler
+{Top Selling Products...}En Çok Satan Ürünler...
+{Total}Toplam
+{Total URLs: %s}Toplam URL: %s
+{TOTAL:}TOPLAM:
+{Total:}Toplam:
+{Translated by:}Çeviri:
+{Transparency:}Saydamlık:
+{Tray Notifications:}Tepsi Bildirimleri:
+{Trial}Deneme Sürüm
+{TRIAL LIMIT REACHED!}DENEME LİMİTİNE ULAŞILDI!
+{TRIAL VERSION}DENEME SÜRÜMÜ
+{Trim All}Tümünü Kırp
+{Trim Both}İkisini de Kırp
+{Trim Left}Soldan Kırp
+{Trim Lines}Satırları Kırp
+{Trim Right}Sağdan Kırp
+{Truly Empty Lines}Gerçekten Boş Satırlar
+{Try to run as Administrator.}Yönetici olarak çalıştırmayı deneyin.
+{Type}Tür
+{Undo}Geri Al
+{Unicode Detector}Unicode Dedektörü
+{Unit}Birim
+{UNLICENSED}LİSANSSIZ
+{Unlock}Kilidini aç
+{UNLOCK ERROR}KİLİT AÇMA HATASI
+{Unlock Selected}Seçilenlerin Kilidini Aç
+{Unlocked}Kilitsiz
+{Unlocking}Kilit Çözülüyor
+{Unnamed}Adsız
+{UPDATE}GÜNCELLE
+{UPDATE AVAILABLE}GÜNCELLEME MEVCUT
+{Update Notifications}Güncelleme Bildirimleri
+{UPPERCASE}BÜYÜK HARF
+{Uppercase and Lowercase}Büyük harf ve küçük harf
+{URL}URL
+{URL Highlighter (No Spell Check)}URL Vurgulayıcı (Yazım Denetimi Yok)
+{URL Length}URL Uzunluğu
+{URL not found!}URL bulunamadı!
+{URL Processor}URL İşlemcisi
+{URL:}URL:
+{USE AT YOUR OWN RISK!}KULLANMA SORUMLULUĞU SİZE AİTTİR!
+{User Interface Language:}Kullanıcı Arayüzü Dili:
+{User will press keys}Kullanıcı tuşlara basacak
+{User-Agent String:}Kullanıcı Aracısı Dizesi:
+{using Characters}Karakterleri kullanarak
+{using File}Dosya kullanarak
+{using Text}Metin kullanarak
+{using Text Length}Metin Uzunluğunu kullanarak
+{VCF Files (*.vcf)}VCF Dosyaları (*.vcf)
+{Version History}Sürüm Geçmişi
+{Video file error!}Video dosyası hatası!
+{View}Görünüm
+{View Source...}Kaynağı Görüntüle...
+{Volume}Hacim
+{Volume Limit}Hacim Sınırı
+{Volume of Container}Konteyner Hacmi
+{Volume of Load}Yük Hacmi
+{Vovsoft Newsletter}Vovsoft Haber Bülteni
+{Warning}Uyarı
+{WARNING}UYARI
+{We would really appreciate your feedback.}Geribildiriminizden memnuniyet duyarız.
+{Weekdays}Haftanın Günleri
+{Welcome to %s}%s'e Hoşgeldiniz
+{Welcome to Our Shop}Mağazamıza Hoş Geldiniz
+{What did you like or dislike?}Nelerden hoşlandınız, neleri sevmediniz?
+{What numbers will be added?}Hangi sayılar eklenecek?
+{Which Customer?}Hangi Müşteri?
+{Width}Genişlik
+{Width:}Genişlik:
+{Word Wrap}Sözcük Kaydır
+{Work Time:}Çalışma Saati:
+{Wrong Admin Password!}Hatalı Yönetici Şifresi!
+{Wrong password!}Yanlış şifre!
+{X:}X:
+{Y:}Y:
+{Yes}Evet
+{You are here:}Burdasınız:
+{You are not logged as admin!}Yönetici olarak giriş yapmadınız!
+{You can preview the font and color settings here.}Font ve renk ayarlarını buradan önizleyebilirsiniz.
+{You can't go further than:}Burdan öteye gidemezsiniz:
+{You cannot use this feature in unlicensed edition.}Bu özelliği lisanssız sürümde kullanamazsınız.
+{You want to go to:}Buraya gideceksiniz:
+{Your feedback is received.}Geri bildiriminiz alındı.
+{Your master password is successfully set.}Parola başarıyla oluşturuldu.

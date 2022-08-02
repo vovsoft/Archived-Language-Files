@@ -1,0 +1,933 @@
+﻿{INFO:Translated By}MFM Dawdeh
+{12 hour}12 ساعة
+{24 hour}24 ساعة
+{A required file is missing:}الملف المطلوب مفقود:
+{Ability to disable update notifications}القدرة على تعطيل اعلامات التحديث
+{Aborted}محبط
+{About}حول
+{About Us}من نحن
+{About...}حول...
+{Access is denied.}تم رفض الوصول.
+{Acknowledgements...}الائتمانات...
+{Activation}التنشيط
+{Activation Code:}رمز تفعيل:
+{Activation failed.}فشل التنشيط.
+{Active}نشط
+{ADD}اضافة
+{Add}اضافة
+{Add context menu item}اضافة عنصر قائمة السياق
+{Add Dictionary...}اضافة قاموس ...
+{Add Drive}اضافة محرك
+{Add File}اضافة ملف
+{Add File(s)}اضافة ملفات
+{Add File(s)...}اضافة ملفات...
+{Add Files in Folders...}اضافة ملفات في مجلدات ...
+{Add Files...}اضافة ملفاتات...
+{Add Folder}اضافة مجلد
+{Add Folder...}اضافة مجلد...
+{Add Folders...}اضافة مجلدات...
+{Add M3U8}اضافة M3U8
+{Add Product Manually}اضافة المنتج يدويا
+{Add Recursive Subfolders...}اضافة مجلدات فرعية متكررة...
+{Add Subfolders...}اضافة مجلدات فرعية...
+{Add URL(s)...}اضافة رابط
+{Add URLs...}اضافة روابط...
+{Add using Environment Variables}اضافة باستخدام متغيرات البيئة
+{Add Word To Dictionary}اضافة كلمة الى القاموس
+{Admin Password}كلمة سر المسؤول
+{Alert Text:}نص التنبيه:
+{All Customers}كل العملاء
+{All files must be unlocked before changing private key!}يجب الغاء اقفال كل الملفات قبل تغيير المفتاح الخاص !
+{All files must be unlocked before enabling or disabling content encryption!}يجب الغاء اقفال كل الملفات قبل اتاحة او الغاء اتاحة تشفير المحتويات !
+{All Products}كل المنتجات
+{Alphabet}الابجدية
+{Alphabetical}ابجدي
+{Always on Top}دائما في القمة
+{Always on top}دائما في القائمة
+{Always show when toggled on}اظهار دائما عند التبديل عند
+{An error occurred while creating directory:}حدث خطا عند انشاء الدليل:
+{An error occurred while unlocking:}حدث خطا عند الغاء القفل:
+{Analyze...}تحليل ...
+{And please backup your important files and folders before locking in case of hardware or software failure.}يرجى نسخ الملفات والمجلدات الهامة احتياطيا قبل تامينها في حالة انقطاع الاجهزة او البرامج.
+{Annually} سنويا
+{Annually:} سنويا:
+{Any File}اي ملف
+{Any File (*.*)}اي ملف (*. *)
+{Are you sure?}هل انت متاكد؟
+{Arrange Stickers} ترتيب الملصقات
+{ASCII Art...}ASCII Art...
+{Ask Print}اسال الطباعة
+{Audio File}ملف صوتي
+{Audio file error!}خطا في ملف الصوت!
+{Auto Copy Highlighted Text to Clipboard}نسخ تلقائي للنص المميز الى الحافظة
+{Auto Refresh File}انعاش الملف تلقائيا
+{Auto Run at Startup}التشغيل الآلي عند بدء التشغيل
+{Auto-Close Main Window}اغلاق تلقائي للنافذة الرئيسية
+{Auto-Close Popup Window After Finishing}تلقائي-اغلاق النافذة المنبثقة بعد الانتهاء
+{Auto-Closing...}تلقائي-اغلاق ...
+{Auto-Refresh Drive List} تلقائي - تحديث قائمة محركات الاقراص
+{Auto-Start at Startup}تلقائي-بدء التشغيل عند التشغيل
+{Automatic}آليا
+{Automatically Synchronize}تزامن آلي
+{Background Color:}لون الخلفية:
+{Backup Registry...}مكتب سجل النسخ الاحتياطي...
+{Backup Stickers}ملصقات النسخ الاحتياطي
+{Backup...}نسخ احتياطي...
+{Barcode}الرمز الشريطي
+{BARCODE:}الرمز الشريطي:
+{Begin:}تبدا:
+{Beginning of Each Line...}بداية كل سطر...
+{Big Icons}ايقونات كبيرة
+{Blog}مدونة
+{BREAK TIME!}وقت الكسر!
+{Browse...}استعراض...
+{Buy Now}اشتر الان
+{Calculate}حساب
+{Calculating all possibilities...}حساب جميع الاحتمالات...
+{Calculation Results:}نتائج الحساب:
+{Cancel}الغاء الامر
+{Cancel product selection}الغاء تحديد المنتج
+{CANCELED by User Request}تم الالغاء حسب طلب المستخدم
+{Canceled!}ملغي!
+{Cannot create file}لا يمكن انشاء ملف
+{Capitalize (First Letters Only)} (تكبير (الاحرف الاولى فقط
+{Caps Lock}Caps Lock
+{Caps Lock: OFF}Caps Lock: UIT
+{Caps Lock: ON}Caps Lock: AAN
+{Cascade}تتالي
+{Category:}الفئه:
+{Change Auto-Close Time}تغيير وقت الاغلاق التلقائي
+{Change Auto-Close Time...}تغيير وقت الاغلاق التلقائي...
+{Change Background Color}تغيير لون الخلفية
+{Change Background Color...}تغيير لون الخلفية...
+{Change Destination Folder}تغيير مجلد الوجهة
+{Change File Location...}تغيير موقع الملف...
+{Change Font...}تغيير الخط...
+{Change Interface}تغيير الواجهة
+{Change Login Password...}تغيير كلمة السر...
+{Change Menu Font...}تغيير خط القائمة ...
+{Change Private Key...}تغيير المفتاح الخاص ...
+{Change Recovery E-mail}تغيير عنوان البريد الالكتروني للاسترداد
+{Change Text Font}تغيير طاقم طباعة النص
+{Change Theme}غير الخلفية
+{Change Theme...}تغيير النسق  ...
+{Change:}تغيير:
+{Classic}تقليدي 
+{Classical Interface}واجهة كلاسيكية
+{Clear}مسح
+{Click "New Sticker"}"انقر على "ملصق جديد
+{Click to download}انقر للتحميل
+{Clip Lines...}قص الخطوط ...
+{Close}اغلاق
+{Code:}رمز:
+{Combine Lines...}ضم الاسطر ...
+{Comma-Separated Values File (CSV)...}ملف قيم مفصولة بفواصل (CSV) ...
+{Commercial use allowed}الاستخدام التجاري المسموح به
+{Company}الشركة
+{Compare Two Texts...}قارن نصين ...
+{Completed}مكتمل
+{Completed!}المكتمله!
+{Completed.}المكتمله.
+{Computer Code:}رمز الحاسوب:
+{Computer Time:}وقت الحاسوب:
+{Computer Timezone:}منطقة الحاسوب الزمنية:
+{Computer will press keys}سيضغط الحاسوب على المفاتيح
+{Confirm Before Deletion}تاكيد قبل الحذف
+{Confirm Password:}تاكيد كلمة السر:
+{Confirm?}تاكيد؟
+{Confirmation}تاكيد
+{Connection Error!}خطا في الاتصال!
+{Contact}اتصل
+{Content Encryption (SLOW)}تشفير المحتوى (بطيء)
+{Content encryption is enabled.}تشفير المحتوى متاح.
+{Continue}مواصله
+{Contribute to Translation}المساهمة بالترجمة
+{Convert Non-English Chars to English Chars}تحويل الاحرف غير الانجليزية الى الاحرف الانجليزية
+{Copied}منسوخ
+{Copy}نسخ
+{Copy All}نسخ الكل
+{Copy files to many directories}نسخ الملفات الى العديد من الدلائل
+{COPY INTO TARGET FOLDERS}نسخ الى مجلدات الهدف
+{CREDIT:}الائتمان:
+{Credits}الائتمانات
+{CSV File}CSV ملف 
+{CSV File (*.csv)}ملف CSV (*.csv)
+{Currency Symbol}رمز العملة
+{Customer}العملاء
+{Customer with credit cannot be deleted!}لا يمكن حذف العميل مع الائتمان!
+{CUSTOMER:}العملاء:
+{Customer:}العملاء:
+{CUSTOMERS}العملاء
+{Customers}العملاء
+{Cut}قص
+{Daily}يومي
+{Daily:}يومي:
+{Dark}قاتم
+{Date}التاريخ
+{Date and Time}التاريخ والوقت
+{Day}يوم
+{Daylight Saving:}التوقيت الصيفي:
+{Decode...}فك تشفير...
+{Decrease Font Size}تقليل حجم طاقم الطباعة
+{Default}المفترض
+{Default Alphabet} الابجدية الافتراضية
+{Default CSV Format}تنسيق CSV الافتراضي
+{Del key:}مفتاح الحذف:
+{Delete}حذف
+{DELETE}حذف
+{Delete After} حذف بعد
+{DELETE ALL}حذف الكل
+{Delete All}حذف الكل
+{Delete All Spaces}حذف كافة المسافات
+{Delete Alphabetic [a-z] [A-Z]}[a-z] [A-Z] حذف الحروف الابجدية 
+{Delete Alphanumeric [a-z] [A-Z] [0-9]}[a-z] [A-Z] [0-9] حذف الابجدية الرقمية 
+{Delete Before}حذف قبل
+{Delete Beginning or Ending Strings...}حذف سلاسل البداية او النهاية ...
+{Delete Chars}حذف الاحرف
+{DELETE CUSTOMER}حذف العميل
+{Delete Customer}حذف العميل
+{Delete Extra Spaces}حذف المسافات الزائدة
+{Delete last entered product}حذف اخر منتج تم ادخاله
+{Delete Non-Alphabetic}حذف غير ابجدي
+{Delete Non-Alphanumeric}حذف غير الابجدية الرقمية
+{Delete Numbers [0-9]}حذف الارقام [0-9]
+{DELETE PRODUCT}حذف المنتج
+{Delete Record}حذف التسجيل
+{Delete Reminder}حذف التذكير
+{Delete Selected}حذف المحدد
+{Delete Unnecessary Lines}حذف الاسطر غير الضرورية
+{Delete?}حذف؟
+{Deleted}محذوف
+{Deselect All}الغاء تحديد الكل
+{Destination:}الوجهة
+{DETAILS}التفاصيل
+{Diagonal}قطري
+{Directory is not writable!}الدليل غير قابل للكتابة!
+{Directory not found!}لم يعثر على الدليل!
+{Directory:}الدليل:
+{Disabled}معطل
+{Discount}الخصم
+{Discounted Price}سعر مخفض
+{Discounted Total}المجموع المخفض
+{Disk Write Interval (sec):}(الفاصل الزمني لكتابة القرص (ثانية:
+{Dismiss}اقاله
+{Display Duration:}مدة العرض:
+{Display Load Time}عرض وقت التحميل
+{Display Prices}عرض الاسعار
+{Display Special Chars}عرض الاحرف الخاصة
+{Do you really want to delete ALL stickers?}هل تريد حقا حذف جميع الملصقات؟
+{Do you really want to delete the reminder?}هل تريد حقا حذف التذكير؟
+{Do you really want to delete the sticker?}هل تريد حقا حذف الملصق؟
+{Do you want to delete all stickers, reminders, settings and restart application?}هل تريد حذف جميع الملصقات والتذكيرات والاعدادات واعادة تشغيل التطبيق؟
+{Do you want to replace the sticker with the image?}هل تريد استبدال الملصق بالصورة؟
+{Do you want to save the current file before exit?}هل ترغب في حفظ الملف الحالي قبل الخروج ؟
+{Do you want to save the current file?}هل تريد حفظ الملف الحالي؟
+{Do you want to save this file before exit?}هل ترغب في حفظ هذا الملف قبل الخروج ؟
+{Do you want to save this file?}هل تريد حفظ هذا الملف؟
+{Don't show this again}عدم اظهار هذا مرة اخرى
+{Download}تحميل
+{Downloading...}جاري التحميل
+{Drag Drop Filenames}اسحب اسماء الملفات المسقطة
+{Draw mouse pointer}رسم مؤشر الماوس
+{Drive}محرك 
+{DRIVE MISMATCH}عدم تطابق المحرك 
+{Drive:}محرك :
+{Duplicate Lines}خطوط مكررة
+{E-mail}بريد الكتروني
+{E-mail is changed.}تم تغيير البريد الالكتروني.
+{E-mail not accepted!}لم يتم قبول البريد الكتروني!
+{E-mail not found!}البريد الالكتروني غير موجود!
+{E-mail Processor}معالج البريد الالكتروني
+{Edit}تحرير
+{Edit License}تحرير الرخصة
+{Edit License...}تغيير الرخصة...
+{Edit M3U8}تحرير M3U8
+{Edit Password}تحررير كلمة السر
+{Edit...}تحرير...
+{Elapsed Time:}الوقت المنقضي:
+{Email Address}بريد الكتروني
+{Empty}فارغة
+{Empty Lines (can include spaces and tabs)}(سطور فارغة (يمكن ان تتضمن مسافات وعلامات جدولة
+{Enable}تمكين
+{Enabled}ممكن
+{Encode...}تشفير ...
+{Encoding}المشفرة
+{Encryption}التشفير
+{End of Each Line...}نهاية كل سطر...
+{End-User License Agreement}اتفاقيه رخصة المستخدم النهائي
+{End:}انهاء:
+{English} الانجليزية
+{Enter License Key}ادخال مفتاح الرخصة
+{Entire Document}المستند باكمله
+{Error}خطا
+{ERROR}خطا
+{Error No:}لا اخطا:
+{ESC key:}مفتاح الهروب:
+{EULA}EULA
+{Excel File (*.xls)}ملف Excel (*.xls)
+{Excel File (XLS)...}ملف Excel (XLS) ...
+{Exit}خروج
+{Exit Application?}انهاء التطبيق ؟
+{Exit...}خروج...
+{EXITING...}انهاء...
+{Explore Dictionaries...}استكشاف القواميس ...
+{Export}تصدير
+{Export Lines to Files}تصدير سطور الى الملفات
+{Export Lines to Files...}تصدير سطور الى الملفات ...
+{Export to File...}تصدير الى ملف...
+{Export to HTML...}HTML تصدير الى ...
+{Export to PDF...}PDF تصدير الى ...
+{Exported Entries:} الادخالات المصدرة: 
+{Extract Image...}استخراج الصورة ...
+{Extract Text...}استخراج النص...
+{Extras}منتهي
+{Fade-out Animation}الرسوم المتحركة تتلاشى
+{Failed}فشلت 
+{Failure}فشل
+{Feedback}ردود الفعل
+{feedback}ردود الفعل
+{File}ملف
+{File already exists!}الملف موجود بالفعل!
+{File does NOT exist:}الملف غير موجود:
+{File inaccessible!}الملف لا يمكن الوصول اليه!
+{File List}قائمة الملفات
+{File Location}موقع الملف
+{File Location:}موقع الملف:
+{File lock error!}خطا قفل الملف!
+{File Mask}قناع الملف
+{File Mask:}قناع الملف:
+{File not found!}الملف غير موجود!
+{File or Folder:}ملف او مجلد:
+{Filename:}اسم الملف:
+{Files & Folders}الملفات والمجلدات
+{Filter Lines}خطوط التصفية
+{Find}البحث
+{Find Erroneous E-mails}بحث عن رسائل البريد الالكتروني الخاطئة
+{Find Lines}بحث اسطر
+{Find Lines...}بحث اسطر ...
+{Find Next}بحث عن التالي
+{Find Next Misspelling}ايجاد التهجئة التالية
+{Fix Broken UTF-8 Encoding} ترميز UTF-8 اصلاح مكسورة
+{Fixed-Pitch Fonts Only}تم الاصلاح - خطوط العرض فقط
+{Folder}المجلد
+{Folder does NOT exist:}الملف غير موجود:
+{Folder Size:}حجم الملف:
+{Folder:}المجلد:
+{For 1}ل1
+{For 10}ل10
+{For 100}ل100
+{For 20}ل20
+{For 200}ل200
+{For 5}ل5
+{For 50}ل50
+{Forgot Password?}كلمة السر المنسية؟
+{Format:}تهيئة:
+{FREE}مجاني
+{Free Edit}تحرير مجاني
+{Free to try}محاولة مجانية
+{FREEWARE}مجانيه
+{Freeware}مجانيه
+{Freeware Utilities}مرافق مجانية
+{Full Screen}ملء الشاشة
+{Generate Barcode Image...}انشاء صورة الرمز الشريطي ...
+{Generate Domain Name List}انشاء قائمة اسماء النطاقات
+{Generate E-mail List}انشاء قائمة البريد الالكتروني
+{Generate Hostname List}انشاء قائمة اسم المضيف
+{Generate URL List}انشاء قائمة الروابط 
+{Generate Word List}انشاء قائمة الكلمات
+{Get Server Time}احصل على وقت الخادم
+{Go to...}اذهب الى...
+{Google CSV Format}Google CSV  تنسيق  
+{GRAND TOTAL:}المجموع الكلي:
+{Hardware encoding}ترميز الاجهزة
+{Header}العنوان الراسي
+{Headers}العناوين الراسية
+{Height}الارتفاع 
+{Height:}الارتفاع:
+{Help}التعليمات
+{Hidden}مخفي
+{Hide}اخفاء
+{Hide All Stickers}اخفاء جميع الملصقات
+{Hide Details}اخفاء التفاصيل
+{Highlight Active Line}تمييز الخط النشط
+{Highlight Even Lines}تمييز الخطوط المتساوية
+{Highlight Odd Lines}تمييز الخطوط الفردية
+{HINT}تلميح
+{Home}الرئيسيه
+{Hotkey:}مفتاح تشغيل سريع:
+{Hourly}الساعه
+{Hourly:}الساعه:
+{How to create new sticky note:}كيفية انشاء ملاحظة لاصقة جديدة:
+{How to uninstall...}كيفية الغاء التثبيت...
+{HTML File (*.html)}ملف HTML (*.html)
+{I dislike it!}انا لا احب ذلك!
+{I like it!}احبه!
+{ID}الكود
+{ID Transformer...}هوية المحول . . .
+{Idle Time:}وقت الخمول:
+{If no keyboard or mouse events occur for "Idle Time", "Work Time" resets.}وقت العمل "اعادة التعيين في حالة عدم حدوث حدث لوحة مفاتيح او ماوس لـ"وقت الخمول
+{If you like the software, please buy a license to make this software fully functional and remove this window.}اذا كنت تحب البرنامج، يرجى شراء رخصة لجعل هذا البرنامج يعمل بكامل طاقته وازالة هذه النافذة.
+{Ignore}تجاهل
+{Ignore Drive Mismatch While Unlocking}تجاهل عدم تطابق محرك الاقراص عند الغاء القفل
+{Ignore Failed Files While Unlocking}تجاهل الملفات التي فشلت عند الغاء القفل
+{Import}استيراد
+{Import from File...}الاستيراد من ملف...
+{IMPORTANT}مهم
+{Include my e-mail:}تضمين عنوان بريدي الالكتروني:
+{Include Subdirectories?}هل تريد تضمين الدلائل الفرعية؟
+{Increase Font Size}زيادة حجم طاقم الطباعة
+{Indicates status of keys}الاشارة الى حالة المفاتيح
+{Info}معلومة
+{Information}المعلومات
+{Initializing...}التهيئه 
+{Insert}ادراج
+{Insert Empty Lines}ادراج خطوط فارغة
+{Insert Same Text Multiple Times}ادراج نفس النص عدة مرات
+{Insert Same Text Multiple Times...}ادراج نفس النص المتعدد ...
+{Insufficient stock!}عدم كفاية المخزون!
+{Invalid E-mail!}بريد الكتروني غير صالح!
+{Invalid Entry!}ادخال غير صالح!
+{Invert Selection}عكس التحديد
+{Keyboard Shortcuts}اختصارات لوحة المفاتيح
+{KeyPress Simulator}اضغط مفتاح المحاكي
+{Language}اللغة
+{Language:}اللغة:
+{Language...}اللغة...
+{LED Color (OFF):}(لون الليد (ايقاف :
+{LED Color (ON):}(لون الليد (شغل :
+{Left}يسار
+{Left click to show Stickers on top.}انقر بزر الفارة الايسر لاظهار الملصقات في الاعلى .
+{Length}الطول
+{License key is invalid!}مفتاح الرخصة غير صالح!
+{License:}الرخصة:
+{License...}الرخصة...
+{Licensed}مرخص
+{Licensed to:}مرخص لــ
+{Lifetime free updates}تحديثات مجانية مدي الحياة
+{Light}فاتح
+{Line Length}طول الخط
+{Line Numbers}ارقام الاسطر
+{Line Order}ترتيب الاسطر
+{List}قائمة
+{LIST ALL}كل القائمة
+{List of Containers:}قائمة الحاويات:
+{List of Loads:}قائمة الاحمال:
+{List...}قائمة...
+{Load}الحمل
+{Load And Run Operation Files...}تحميل وتشغيل ملفات العملية ...
+{Load Limit}حد التحميل
+{Load Operation File...}تحميل ملف العملية...
+{Load source list from file...}تحميل قائمة المصدر من الملف...
+{Load target list from file...}تحميل قائمة الهدف من الملف...
+{Load vCards from VCF file...}VCF من ملف vCards تحميل...
+{Load...}الحمل...
+{Loading}التحميل
+{Loading...}التحميل...
+{Lock}قفل
+{Lock and Unlock processes may take some time.}قد يستغرق القفل والغاء قفل العمليات بعض الوقت.
+{Lock Selected}القفل المحدد
+{LOCKED}مقفل
+{Locking}اقفال
+{Login (Full Access)}(تسجيل الدخول (الوصول الكامل
+{Logout}خروج
+{lowercase}احرف صغيره
+{Lowercase}احرف صغيره
+{MAIN MENU}القائمة الرئيسية
+{Mark as Complete}وضع علامة على انه مكتمل
+{milliseconds}مللي ثانية
+{Minimal Mode}وضع الحد الادنى
+{Minimize when recording starts}تصغير عند بدء التسجيل
+{Minute}دقيقة
+{minutes}دقائق
+{Mode}وضع 
+{Monitor}شاشة
+{Monitor External File Modification}تعديل الملف الخارجي للمراقبة
+{Month}الشهر
+{Monthly}شهري
+{Monthly:}شهري:
+{Move (Delete Source Files and Folders)}(نقل (حذف الملفات والمجلدات المصدر
+{Move Down}الانتقال للاسفل
+{Move Info: Source files and folders were not deleted from disk because of copy error}نقل المعلومات: لم يتم حذف الملفات والمجلدات المصدر من القرص بسبب خطا في النسخ
+{Move Up}الانتقال للاعلى
+{Multiple Files...}ملفات متعددة...
+{Name}الاسم
+{Name of Container}اسم الحاوية
+{Name of Load}اسم التحميل
+{Net Encoding}تشفير الشبكة
+{New}جديد
+{New Reminder}مفكرة جديدة
+{New Reminder...}تذكير جديد...
+{New Sticker}ملصق جديد
+{New Window}نافذة جديدة
+{Next Receipt Number:}رقم الايصال التالي :
+{Next Rest:}الراحة التالية:
+{No}لا
+{No Audio}بلا صوت
+{No erroneous e-mail found.}لم يتعثر على بريد الكتروني خاطئ.
+{No Item Selected!}لا يوجد عنصر محدد!
+{No item selected!}لا يوجد عنصر محدد!
+{No nag screen, no ads}لا شاشه تذمر ، لا اعلانات
+{No replacements made.}لم يتم اجراء اي بدائل.
+{No Sound}بلا صوت
+{No sticky notes left on the desktop!}لم تترك ملاحظات لاصقة على سطح المكتب!
+{No text selected!}لم يتم تحديد النص!
+{Non-English}غير الانجليزية
+{None}الاشئ
+{Not applicable!}لا ينطبق!
+{Not Paid:}غير مدفوعة:
+{Note}ملحوظة
+{Note Window Margin:}هامش نافذة الملاحظة :
+{Notes Manager}مدير الملاحظات
+{Notes Manager...}ادارةمدير الملاحظات ...
+{Num Lock}Num Lock
+{Num Lock: OFF}Num Lock: OFF
+{Num Lock: ON}Num Lock: AAN
+{Number of Files:}عدد الملفات:
+{Number of Times:}عدد من المرات :
+{Numbers}الارقام
+{Offline Activation}التنشيط دون اتصال
+{OK}موافق
+{Online Help}التعليمات عبر الانترنت
+{Only %s entries exported using unlicensed version.}ادخالات تم تصديرها باستخدام اصدار غير مرخص ٪s فقط .
+{Only Once}مرة واحدة فقط
+{Only Once:}مرة واحدة فقط:
+{Open File}فتح الملف
+{Open folder location...}فتح موقع المجلد ...
+{Open Folder Location...}فتح موقع المجلد ...
+{Open...}افتح...
+{Operating Systems:}انظمه التشغيل:
+{Operation File}ملف العملية
+{Operation STOPPED!}توقفت العملية!
+{Operations}العمليات
+{Options}الخيارات
+{Options...}الخيارات...
+{Ordinal Values of Characters}القيم الترتيبي للحروف
+{Original Size}الحجم الاصلي
+{Outlook CSV Format}Outlook CSV تنسيق 
+{Output}الناتج
+{Output:}الناتج:
+{Overwrite Existing Files}الكتابة فوق الملفات الموجودة
+{Overwrite Read-Only Files}الكتابة فوق ملفات للقراءة فقط
+{PAID}المدفوعة
+{Paid}المدفوعة
+{Paid:}المدفوعة:
+{Password}كلمة السر
+{Password is changed.}كلمه السر تغيرت.
+{Password is incorrect!}كلمه السر غير صحيحه!
+{Password not accepted!}كلمه السر غير مقبوله!
+{Password Recovery E-mail:}بريد استعادة كلمة السر :
+{Password:}كلمه السر:
+{Passwords do not match!}كلمة السر غير مطابقة!
+{Paste}لصق
+{Payments}المدفوعات
+{PDF File (*.pdf)}ملف PDF (*.pdf)
+{Permanently Delete}حذف دائم
+{Permanently Delete All}حذف الكل بشكل دائم
+{Play}شغل
+{Play Sound Effect}تشغيل تاثير الصوت
+{Please add containers!}الرجاء اضافة حاويات!
+{Please add loads!}الرجاء اضافة الاحمال!
+{Please add source files!}الرجاء اضافة ملفات المصدر!
+{Please add target folders!}الرجاء اضافة المجلدات المستهدفة!
+{Please check your e-mail box.}الرجاء التحقق من بريدك الالكتروني.
+{Please check your internet connection!}الرجاء التحقق من اتصالك بالانترنت!
+{Please enter barcode or product name!}الرجاء ادخال الباركود او اسم المنتج!
+{Please enter discount ratio:}الرجاء ادخال نسبة الخصم:
+{Please enter master password!}الرجاء ادخال كلمة السر الرئيسية!
+{Please enter new currency symbol:}الرجاء ادخال رمز العملة الجديد:
+{Please enter password:}الرجاء ادخال كلمه السر:
+{Please enter unit price:}الرجاء ادخال سعر الوحدة:
+{Please enter your license key:}الرجاء ادخال مفتاح رختصتك:
+{Please enter your license key!}الرجاء ادخال مفتاح رختصتك!
+{Please keep it in a safe place. You need it to unlock your files and folders.}احتفظ بها في مكان امن. كنت في حاجة اليها لفتح الملفات والمجلدات.
+{Please obtain a license key to activate the software.}يرجى الحصول على مفتاح رخصة لتنشيط البرنامج
+{Please reinstall the software.}الرجاء اعادة تثبيت البرنامج.
+{Please reopen the software without administrator privileges.}الرجاء اعادة فتح البرنامج بدون امتيازات المسؤول.
+{Please try again later!}الرجاء اعادة المحاولة فيما بعد !
+{Please try again later.}الرجاء المحاولة مرة اخرى في وقت لاحق.
+{Please try:}يرجى المحاولة:
+{Please type NEW password:}الرجاء كتابة كلمة سر جديدة:
+{Please type your CURRENT password:}الرجاء كتابه كلمه السر الحالية:
+{Please type your NEW e-mail:}الرجاء كتابه البريد الكتروني الجديد:
+{Please type your NEW password:}الرجاء كتابه كلمه السر الجديدة:
+{Please type your NEW private key:}الرجاء ادخال مفتاحك الخاص الجديد  :
+{Please Wait For Backup Process!}الرجاء الانتظار لعمليه النسخ الاحتياطي!
+{Preview Sticker}معاينة وحدة الطباعة
+{Price}الاسعار
+{PRICE:}الاسعار:
+{Print}طباعه 
+{Print Setup}اعداد الطباعة
+{Print Template}قالب الطباعة
+{Print?}طباعه
+{Print...}طباعة...
+{Printer not found!}لم يتم العثور علي الطابعة!
+{Privacy Policy}سياسة الخصوصية
+{Private Key}مفتاح خاص
+{Private key changed.}تم تغيير المفتاح الخاص.
+{Process}العمليه
+{Process completed!}تم استكمال العملية !
+{Processing...}معالجه...
+{Product}المنتج
+{Product List}قائمة المنتجات
+{Product List...}قائمة المنتجات...
+{PRODUCT NAME:}اسم المنتج:
+{Product successfully activated.}التنشيط ناجح.
+{Product:}المنتج:
+{PRODUCTS}المنتجات
+{Products}المنتجات
+{Properties}الخصائص
+{Purchase}يشترى
+{Quantity}الكميه
+{Random Number Generator}وحدة تكوين عدد عشوائي
+{Random Number Generator...}عدد المولدات العشوائي ...
+{Random Text Generator}برنامج تكوين النص العشوائي
+{Random Text Generator...}برنامج تكوين النص العشوائي ...
+{Randomize Line Contents}محتويات الخط العشوائي 
+{Randomize Line Order}ترتيب الخط العشوائي 
+{Read Reviews}قراءة التعليقات
+{Ready}مستعد
+{Receipts}الايصالات
+{Recognize Environment Variables}التعرف على متغيرات البيئة
+{Recognize Network Drives}التعرف على محركات الشبكة
+{RECORD}سجل
+{RECORD DATE:}تاريخ التسجيل:
+{Recording...}تسجيل...
+{Recover Lost Files}استعاده الملفات المفقودة
+{Recover Password}الحصول على كلمة السر
+{Redo}اعاده
+{Refresh Device List}تحديث قائمة الاجهزة
+{Refresh Hardware Encodings}تحديث ترميزات الاجهزة
+{Refund Policy}سياسة استرداد الاموال
+{Region}المنطقه
+{Regular Expression}التعبير المنتظم
+{Regular Expression...}التعبير المنتظم...
+{Related Software}البرامج ذات الصلة
+{Release Date:}تاريخ الاصدار:
+{Remember Settings}تذكر الاعدادات
+{Reminder}تذكير
+{Reminders}التذكيرات 
+{Remove}ازاله
+{Remove All}ازالة الكل
+{Remove Selected}ازالة المحدد
+{Reopen}اعادة فتح
+{Replace}استبدل
+{Reports}التقارير
+{Required files are missing}الملفات المطلوبة مفقودة
+{Reset}اعاده تعيين
+{Reset to Defaults}اعاده التعيين الى الافتراضيات
+{Reset Work Time}اعادة تعيين وقت العمل
+{Restart Application?}اعادة تشغيل التطبيق؟
+{Restore}استعادة
+{Restore from Backup...}الاستعادة من النسخ الاحتياطي...
+{Restore when recording is complete}استعادة عند اكتمال التسجيل
+{Reverse}عكس
+{Reverse Line Contents}عكس محتويات الخط
+{Reverse Line Sequence}عكس تسلسل الخط
+{Right click to add new Stickers or Reminders.}انقر بزر الماوس الايمن لاضافة ملصقات او تذكيرات جديدة.
+{Right-click tray icon}انقر بزر الماوس الايمن فوق ايقونة العلبة
+{Run With}تشغيل باستخدام
+{SALES}عمليات البيع
+{Sample Text}نموذج نصي
+{Sample Values}قيم العينة
+{Save}حفظ
+{Save As...}حفظ باسم...
+{Save Operation File As...}حفظ ملف العملية باسم...
+{Save Operation File...}حفظ ملف العملية...
+{Save Results}حفظ النتائج
+{Save source list to file...}حفظ قائمة المصدر الى ملف...
+{Save target list to file...}حفظ قائمة الهدف الى ملف...
+{ScreenSnap}لقطة شاشة
+{ScreenSnap:}لقطة شاشة:
+{Scroll Lock}قفل التمرير
+{Scroll Lock: OFF}قفل التمرير: ايقاف
+{Scroll Lock: ON}قفل التمرير:تشغيل
+{Search:}بحث
+{Search...}بحث...
+{seconds}ثواني
+{Secure your files and folders}تامين الملفات والمجلدات
+{Select}حدد
+{Select All}حدد الكل
+{Select folder:}حدد المجلد:
+{Select Language}حدد اللغة
+{Select Product}حدد المنتج
+{Select Region and Close}حدد المنطقة و اغلاقها
+{Select your favourite theme}حدد موضوعك المفضل 
+{Selected}المحدد
+{SELL BY CASH}بيع نقدا
+{Sell by Cash}بيع نقدا
+{SELL BY CREDIT}بيع عن طريق الائتمان
+{Sell by Credit}بيع عن طريق الائتمان
+{Send}ارسال
+{Send e-mail?}ارسال بريد الكتروني؟
+{Send Feedback}ارسال ردود الفعل
+{Send Feedback...}ارسال دود الفعل...
+{Send to Recycle Bin}ارسال الى سلة المحذوفات
+{Separate by Char}منفصلة بواسطة شارة 
+{Separate by String}افصل حسب السلسلة
+{Separate Long Lines (Break Words)}(سطور طويلة منفصلة (كسر الكلمات
+{Separate Long Lines (Keep Words)}(سطور طويلة منفصلة (احتفظ بالكلمات
+{Server Time:}وقت الخادم:
+{Server:}الخادم:
+{Set as Default Encoding}تعيين باسم ترميز افتراضي
+{Settings}الاعدادات
+{Settings...}الاعدادات...
+{Show}اظهار
+{Show All Stickers}اظهار جميع الملصقات
+{Show Date Time}عرض وقت التاريخ
+{Show Details}اظهار التفاصيل
+{Show Idle Time:}اظهار وقت الخمول:
+{Show Letters and Numbers without Special Keys}اظهار الحروف والارقام بدون مفاتيح خاصة
+{Show Notifications}عرض الاعلامات
+{Show when status changes}اظهار وقت تغيير الحالة
+{Show Window}اظهار الاطار
+{Sign up}التسجيل
+{Small Buttons}ازرار صغيرة
+{Software}البرمجيات
+{Software encoding}ترميز البرمجيات
+{Something went wrong. Your feedback could not be delivered.}حدث خطا ما تعذر تسليم تعليقاتك.
+{Sort}الفرز
+{Sort Lines}سطور الفرز
+{Sound Effect}تاثير الصوت
+{Sound:}الصوت:
+{Source (Files, Folders, URLs)}(المصدر (الملفات والمجلدات و الروابط
+{Space key:}مفتاح المسافة:
+{Spell Check}التدقيق الاملائي
+{Spell Checker}مدقق املائي
+{Spell Checker:}برنامج فحص الهجاء :
+{Split Lines}الخطوط المنقسمة
+{Start}بدء
+{Start Working}بدء العمل
+{Status}الحالة
+{Status Bar}شريط الحالة
+{Stay on Top}البقاء في القمة
+{Stickers}وحدات تحديد
+{Stock}الاسهم
+{STOCK BALANCE:}رصيد المخزون:
+{Stock Inventory Count Sheet}ورقه جرد المخزون المخزون
+{Stock Inventory Count Sheet...}ورقه جرد المخزون المخزون...
+{STOP}توقف
+{Success}ناجح
+{SUCCESS}ناجح
+{Suggested Corrections}التصويبات المقترحة
+{Support}الدعم
+{Sync Computer Time}مزامنة وقت الحاسوب
+{Syntax}بناء الجملة
+{System Error.}خطا في النظام.
+{System Tray Menu}قائمة علبة النظام
+{Tab Options...}خيارات التبويب...
+{Target Folder}الحافظة المستهدفة
+{Target Folder:}الحافظة المستهدفة :
+{Target Folders}المجلدات المستهدفة
+{Test Alert}اختبار التنبيه
+{Testimonials}الشهادات
+{Text}نص
+{Text Color:}لون النص:
+{Text Engine}محرك النص
+{Text File}ملف النص
+{Text File (*.txt)}ملف نصي (*.txt)
+{Text File (TXT)...}ملف نص (TXT) ...
+{Text not found!}النص غير موجود!
+{Text:}النص :
+{Thank you}شكرا
+{Thank you!}شكرا!
+{The file could not be created!}لا يمكن تكوين الملف !
+{The server returned an invalid response.}قامت وحدة الخدمة باعادة رد غير صحيح.
+{The specified region is not valid!}المنطقة المحددة غير صالحة!
+{Theme}سمة
+{This is an example note.}تعد هذه ملاحظة مثال.
+{This is required for importing in Gmail and Outlook.}Gmail and Outlook هذا مطلوب للاستيراد في
+{This is your first sticker!}!هذا هو ملصقك الاول 
+{This software works best without administrator privileges.}يعمل هذا البرنامج بشكل افضل بدون امتيازات المسؤول.
+{Time}الوقت
+{Timestamp}الطابع الزمني
+{To Existing Lines}الى الخطوط الموجودة
+{To New Lines...}الى خطوط جديدة ...
+{Tool Bar}شريط الادوات
+{Tools}الادوات
+{Top}اعلى
+{Top Selling Products}المنتجات الاكثر مبيعا
+{Top Selling Products...}المنتجات الاكثر مبيعا ...
+{Total}المجموع
+{TOTAL:}المجموع:
+{Total:}المجموع
+{Translated by:}ترجم من قبل فتحي الداودية:
+{Transparency:}الشفافية :
+{Tray Notifications:}علبة الاشعارات:
+{Trial}تجريبي
+{TRIAL LIMIT REACHED!} تم الوصول الى حد التقييم! 
+{TRIAL VERSION}الاصدار التجريبي
+{Trim All}تشذيب الكل
+{Trim Both}تشذيب كلاهما
+{Trim Left}تشذيب اليسار
+{Trim Lines}الخطوط المرتبة
+{Trim Right}تشذيب اليمين
+{Truly Empty Lines}خطوط فارغة حقًا
+{Try to run as Administrator.}حاول تشغيل كمسؤول.
+{Type}نوع
+{Undo}تراجع
+{Unicode Detector}كاشف الحروف الدولية
+{Unit}وحدة
+{UNLICENSED}غير مرخص
+{Unlock}غير مقفل
+{UNLOCK ERROR}خطا الغاء القفل
+{Unlock Selected}الغاء القفل المحدد
+{Unlocked}فك القفل
+{Unlocking}الغاء القفل
+{Unnamed}غير مسمى
+{UPDATE}تحديث
+{UPDATE AVAILABLE}التحديث متاح
+{Update Notifications}تحديث الاشعارات
+{UPPERCASE}الاحرف الكبيرة
+{Uppercase and Lowercase}الاحرف الكبيرة والاحرف الصغيرة
+{URL Highlighter (No Spell Check)}عنوان URL لعنوان URL (لم يتم فحص الهجاء)
+{URL not found!}الرابط غير موجود!
+{URL Processor}معالج الرابط
+{USE AT YOUR OWN RISK!}استخدام على المخاطر الخاصة بك !
+{User Interface Language:}لغة الواجهة:
+{User will press keys}المستخدم سيضغط المفاتيح
+{using Characters}باستخدام الاحرف
+{using File}باستخدام ملف
+{using Text}باستخدام النص
+{using Text Length}باستخدام طول النص
+{VCF Files (*.vcf)}ملفات VCF (*.vcf)
+{Version History}تاريخ الاصدار
+{Video file error!}ملف الفيديو خطا !
+{View}عرض
+{Volume}الحجم
+{Volume Limit}حد الحجم
+{Volume of Container}حجم الحاوية
+{Volume of Load}حجم الحمولة
+{Vovsoft Newsletter}النشرة الاخباريه vovsoft
+{Warning}تحذير
+{WARNING}تحذير
+{We would really appreciate your feedback.}نحن نقدر حقا تعليقاتكم.
+{Weekdays}ايام الاسبوع
+{Welcome to %s}%s مرحبا بكم في
+{Welcome to Our Shop}مرحبا بكم في متجرنا
+{What did you like or dislike?}ما الذي اعجبك او كرهته؟
+{Which Customer?}اي عميل؟
+{Width}العرض 
+{Width:}عرض:
+{Word Wrap}التفاف
+{Work Time:}وقت العمل:
+{Wrong Admin Password!}كلمه سر المسؤول خاطئه!
+{Wrong password!}كلمة السر خاطئة!
+{X:}X:
+{Y:}Y:
+{Yes}نعم
+{You are not logged as admin!}لم يتم تسجيل كمسؤول!
+{You can preview the font and color settings here.}يمكنك معاينة طاقم الطباعة ومحددات الالوان هنا.
+{You cannot use this feature in unlicensed edition.}لا يمكنك استخدام هذه الميزة في اصدار غير مرخص
+{Your feedback is received.}يتم تلقي تعليقاتكم.
+{Your master password is successfully set.}تم تعريف كلمة السر الرئيسية بشكل صحيح.
+{About %s}
+{Add files to the list}
+{Also delete entered text}
+{Anchor Text}
+{Anchors}
+{Change Keyboard Key}
+{Change Keyboard Key...}
+{Change Line Spacing}
+{Change Line Spacing...}
+{Check Multiple Websites}
+{Check Multiple Websites...}
+{Clear File History}
+{Clipboard}
+{Connection Timeout (ms):}
+{Convert Numbers to Text}
+{Copying...}
+{Delete all characters after:}
+{Delete all characters before:}
+{Description}
+{Descriptions}
+{Diagnose}
+{Domain Name}
+{Even Numbered Lines}
+{Excel 2007 File (*.xlsx)}
+{Excel CSV Format}
+{Export Report to PDF...}
+{Export To File}
+{Extra Line Spacing:}
+{Folders}
+{Generate}
+{Go}
+{H1 Tag}
+{H1 Tags}
+{H2 Tag}
+{H2 Tags}
+{H3 Tag}
+{H3 Tags}
+{H4 Tag}
+{H4 Tags}
+{Highlight mouse pointer}
+{Ignore Extensions:}
+{Ignore URLs:}
+{Increment:}
+{Insert Numbers}
+{Internal URL Limit:}
+{Internal URLs}
+{Interval (sec):}
+{Line}
+{Link}
+{Links}
+{Load Project...}
+{Load Time (sec)}
+{Loading: %s}
+{Maximum:}
+{Menu Hotkeys}
+{Merge all files with root of target folder}
+{MERGE MULTIPLE FOLDERS INTO ONE}
+{Merge Type:}
+{Method:}
+{Minimum:}
+{Move}
+{Moved}
+{Moving...}
+{New Project}
+{No mouse pointer}
+{Number of deleted lines: %s}
+{Numbers:}
+{Occurrence}
+{Odd Numbered Lines}
+{Offset}
+{Please add folders!}
+{Preserve folder structure}
+{Replace by Space}
+{Reset Registry...}
+{Response Timeout (ms):}
+{Save Project As...}
+{Screen capture failed!}
+{Search}
+{Search Every Line with Google}
+{SEO Audit}
+{Show aboutbox}
+{Show feedback window}
+{Show Options}
+{Simulate Keypress:}
+{Source URL}
+{Start download}
+{Start:}
+{Status Code}
+{Stop download}
+{Stop:}
+{Subdomain Name}
+{System Audio}
+{Tab Indent}
+{Tab Options}
+{Tab Size:}
+{Target folder is not defined!}
+{The file is very large. Do you still want to try to open it?}
+{The text contains no lines!}
+{This action cannot be undone!}
+{Title}
+{Titles}
+{Total URLs: %s}
+{URL}
+{URL Length}
+{URL:}
+{User-Agent String:}
+{View Source...}
+{What numbers will be added?}
+{You are here:}
+{You can't go further than:}
+{You want to go to:}
