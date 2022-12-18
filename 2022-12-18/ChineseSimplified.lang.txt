@@ -1,0 +1,1009 @@
+﻿{INFO:Translated By}LingYa, lurenjia, Mr_Xuan, 三角洲, 周北北, 弗晓, 板Chestnut@bilibili.com
+{12 hour}12时制
+{24 hour}24时制
+{A required file is missing:}缺少一个必要的文件:
+{Ability to disable update notifications}关闭更新通知
+{Aborted}中止
+{About}关于
+{About %s}关于%s
+{About Us}关于我们
+{About...}关于...
+{Access is denied.}访问被拒绝。
+{Acknowledgements...}信用...
+{Activation}激活
+{Activation Code:}激活码:
+{Activation failed.}激活失败.
+{Active}激活
+{ADD}添加
+{Add}添加
+{Add context menu item}添加上下文菜单项
+{Add Dictionary...}添加字典...
+{Add Drive}添加硬盘
+{Add File}添加文件
+{Add File(s)}添加文件(复数)
+{Add File(s)...}添加文件(复数)...
+{Add Files in Folders...}在文件夹中添加文件...
+{Add files to the list}将文件添加到列表
+{Add Files...}添加文件...
+{Add Folder}添加文件夹
+{Add Folder...}添加文件夹...
+{Add Folders...}添加文件夹(复数)...
+{Add M3U8}添加 M3U8
+{Add Product Manually}手动添加产品
+{Add Recursive Subfolders...}添加递归子文件夹...
+{Add Subfolders...}添加子文件夹...
+{Add Thousand Separator to Numbers}给数字添加千位分隔符
+{Add URL(s)...}添加 URL(复数)...
+{Add URLs...}添加 URLs...
+{Add using Environment Variables}使用环境变量添加
+{Add Word To Dictionary}向字典添加单词
+{Admin Password}管理员密码
+{Advanced Mode}高级模式
+{Alert Text:}警告文本
+{All Customers}所有客户
+{All files must be unlocked before changing private key!}更改私钥之前必须解锁所有文件!
+{All files must be unlocked before enabling or disabling content encryption!}在启用或禁用内容加密之前，必须解锁所有文件!
+{All Products}所有产品
+{Alphabet}字母
+{Alphabetical}按字母顺序排列
+{Also delete entered text}同时删除输入的文本
+{Always on Top}前端显示
+{Always on top}前端显示
+{Always show when toggled on}打开时总是显示
+{An error occurred while creating directory:}创建目录时发生错误:
+{An error occurred while unlocking:}解锁时发生错误:
+{Analyze URL...}分析URL...
+{Analyze...}分析...
+{Anchor Text}锚定文本
+{Anchors}锚点
+{And please backup your important files and folders before locking in case of hardware or software failure.}请在锁定之前备份您的重要文件和文件夹，以防出现硬件或软件故障。
+{Annually}每年
+{Annually:}每年:
+{Any File}任何文件
+{Any File (*.*)}任意文件 (*.*)
+{Are you sure?}确定吗？
+{Arrange Stickers}排序贴纸
+{ASCII Art...}ASCII 图案...
+{Ask Print}请求打印
+{Audio File}音频文件
+{Audio file error!}音频文件错误!
+{Audit Messages...}审核消息...
+{Auto Copy Highlighted Text to Clipboard}自动将选中的文本复制到剪贴板
+{Auto Paste When Clipboard Changes}剪贴板更改时自动粘贴
+{Auto Refresh File}自动刷新文件
+{Auto Run at Startup}电脑开机自动启动
+{Auto-Close Main Window}自动关闭主窗口
+{Auto-Close Popup Window After Finishing}完成后自动关闭弹出的窗口
+{Auto-Closing...}自动关闭中...
+{Auto-Refresh Drive List}自动刷新驱动器列表
+{Auto-Start at Startup}电脑开机自动启动
+{Automatic}自动
+{Automatically Restart Download}自动重新启动下载
+{Automatically restarted!}自动重新启动！
+{Automatically Synchronize}自动同步
+{Background Color:}背景颜色:
+{Backup Registry...}备份注册表...
+{Backup Stickers}备份贴纸
+{Backup...}备份...
+{Barcode}条形码
+{BARCODE:}条形码:
+{Begin:}开始:
+{Beginning of Each Line...}每行的开头...
+{Big Icons}大图标
+{Blog}博客
+{BREAK TIME!}暂停中
+{Browse...}浏览...
+{Buy Now}立即购买
+{Calculate}计算
+{Calculating all possibilities...}计算所有可能性...
+{Calculation Results:}计算结果:
+{Cancel}取消
+{Cancel product selection}取消产品选择
+{CANCELED by User Request}已由用户请求取消
+{Canceled!}取消!
+{Cannot create file}无法建立文件
+{Capitalize (First Letters Only)}首字母大写
+{Caps Lock}大写锁定
+{Caps Lock: OFF}大写锁定:关闭
+{Caps Lock: ON}大写锁定:开启
+{Cascade}映射
+{Categories}类别(复数)
+{Category}类别(单数)
+{Category:}类别:
+{Change Auto-Close Time}更改自动关闭时间
+{Change Auto-Close Time...}更改自动关闭时间...
+{Change Background Color}更改背景颜色
+{Change Background Color...}更改背景颜色...
+{Change Destination Folder}更改目标文件夹
+{Change File Location...}更改文件位置...
+{Change Font...}更改字体
+{Change Interface}更改界面
+{Change Keyboard Key}更改键盘键
+{Change Keyboard Key...}更改键盘键...
+{Change Line Spacing}更改行距
+{Change Line Spacing...}更改行距...
+{Change Login Password...}更改密码...
+{Change Menu Font...}更改菜单字体
+{Change Private Key...}更改私钥
+{Change Recovery E-mail}更改恢复电子邮件
+{Change Text Font}更改文本字体
+{Change Theme}更改主题
+{Change Theme...}更改主题
+{Change:}更改:
+{Check Multiple Websites}检查多个网站
+{Check Multiple Websites...}检查多个网站...
+{Check Status Codes}检查状态代码
+{Checking Status Codes...}检查状态代码...
+{Choose File...}选择文件...
+{Classic}经典
+{Classical Interface}经典界面
+{Clear}清晰
+{Clear File History}清除文件历史记录
+{Click "New Sticker"}点击“新标签”
+{Click to download}点击下载
+{Clip Lines...}分割线
+{Clipboard}剪贴板
+{Close}关闭
+{Code Folding}代码折叠
+{Code:}代码:
+{Combine Lines...}合并线...
+{Comma}逗号
+{Comma-Separated Values File (CSV)...}以逗号分隔文件（CSV)
+{Commercial use allowed}允许商业用途
+{Company}公司
+{Compare Two Texts...}比较两个文本...
+{Completed}完成
+{Completed!}完成!
+{Completed.}完成.
+{Computer Code:}计算机码:
+{Computer Time:}计算机时间:
+{Computer Timezone:}计算机时区:
+{Computer will press keys}电脑将按键
+{Confirm Before Deletion}删除前确认
+{Confirm Password:}确认密码
+{Confirm?}确认
+{Confirmation}确认
+{Connection Error!}连接错误!
+{Connection Timeout (ms):}连接超时 (毫秒):
+{Contact}联系
+{Content Encryption (SLOW)}内容加密 (慢)
+{Content encryption is enabled.}内容加密已启用。
+{Continue}继续
+{Contribute to Translation}贡献翻译(点击)
+{Convert}转换
+{CONVERT}转换
+{Convert Non-Breaking Spaces to Regular Spaces}将不间断空格转换为普通空格
+{Convert Non-English Chars to English Chars}将非英文字符转换为英文字符
+{Convert Numbers to Text}将数值转化为文本
+{Copied}已复制
+{Copy}复制
+{Copy All}全部复制
+{Copy Anchor Text}复制锚文本
+{Copy files to many directories}将文件复制到多个目录
+{COPY INTO TARGET FOLDERS}复制到目标文件夹
+{Copy URL}复制 URL
+{Copying...}正在复制...
+{Create Sample CSV for Advanced Mode...}为高级模式创建CSV样本
+{Create Sample CSV for Simple Mode...}为简单模式创建CSV样本
+{CREDIT:}信用:
+{Credits}贷记
+{CSV File}CSV 文件
+{CSV File (*.csv)}CSV文件 (*.csv)
+{CSV Separator}CSV分隔符号
+{CSV Separator:}CSV分隔符号:
+{Currency Symbol}货币符号
+{Customer}客户
+{Customer with credit cannot be deleted!}不能删除带信用的客户!
+{CUSTOMER:}我是您的客户
+{Customer:}客户:
+{CUSTOMERS}客户
+{Customers}客户
+{Cut}剪贴
+{Daily}日志
+{Daily:}日志:
+{Dark}深色模式
+{Database Location}数据库位置
+{Date}日期
+{Date and Time}时间和日期
+{Day}日
+{Daylight Saving:}夏令时:
+{Decode...}解码...
+{Decrease Font Size}降低字体大小
+{Default}默认
+{Default Alphabet}默认字母表
+{Default CSV Format}默认CSV格式
+{Del key:}Del(ete) 键:
+{Delete}删除
+{DELETE}删除
+{Delete After}删除之前
+{DELETE ALL}删除全部
+{Delete All}删除全部
+{Delete all characters after:}删除以下字符之后的所有字符:
+{Delete all characters before:}删除之前的所有字符:
+{Delete All Spaces}删除所有空格
+{Delete Alphabetic [a-z] [A-Z]}删除字母 [a-z] [A-Z]
+{Delete Alphanumeric [a-z] [A-Z] [0-9]}删除字符 [a-z] [A-Z] [0-9]
+{Delete Before}删除前
+{Delete Beginning or Ending Strings...}删除开始或结束字符串
+{Delete Chars}删除字符
+{DELETE CUSTOMER}删除客户
+{Delete Customer}删除客户
+{Delete Extra Spaces}删除多余的空格
+{Delete last entered product}撤销
+{Delete Non-Alphabetic}删除非字母
+{Delete Non-Alphanumeric}删除非字符
+{Delete Numbers [0-9]}删除数字 [0-9]
+{DELETE PRODUCT}删除产品
+{Delete Record}删除记录
+{Delete Reminder}删除提醒
+{Delete Selected}删除所选
+{Delete Unnecessary Lines}删除多余行
+{Delete?}删除吗？
+{Deleted}已删除
+{Description}描述(单数)
+{Descriptions}描述(复数)
+{Deselect All}取消全选
+{Destination:}目标目录:
+{DETAILS}详细信息
+{Diagnose}诊断
+{Diagonal}对角线
+{Directory is not writable!}目录不可写入！
+{Directory not found!}找不到目录！
+{Directory:}目录:
+{Disabled}已禁用
+{Discount}折扣
+{Discounted Price}折扣价
+{Discounted Total}总折扣
+{Disk Write Interval (sec):}硬盘写入间隔时间 (秒):
+{Dismiss}消除
+{Display Duration:}展示时间
+{Display Load Time}显示加载时间
+{Display Prices}显示价格
+{Display Special Chars}显示特殊字符
+{Display Unfinished Results}显示未完成的结果
+{Do you really want to delete ALL stickers?}您确认要删除所有贴纸吗？
+{Do you really want to delete the reminder?}您确认要删除当前提醒吗？
+{Do you really want to delete the sticker?}您确认要删除当前贴纸吗？
+{Do you want to delete all stickers, reminders, settings and restart application?}是否要删除所有贴纸、提醒、设置并重新启动应用程序？
+{Do you want to replace the sticker with the image?}要用图像替换标签吗？
+{Do you want to save the current file before exit?}您确认退出前要保存当前文件吗？
+{Do you want to save the current file?}您确认要保存当前文件吗？
+{Do you want to save this file before exit?}您确认退出前要保存当前文件吗？
+{Do you want to save this file?}您确认要保存当前文件吗？
+{Domain Name}域名
+{Don't show this again}将不再为您展示
+{Download}下载
+{Downloading...}下载...
+{Drag Drop Filenames}拖放文件名
+{Draw mouse pointer}绘制鼠标指针
+{Drive}驱动器
+{DRIVE MISMATCH}驱动器不匹配
+{Drive:}磁盘:
+{Duplicate Lines}重复行
+{E-mail}电子邮件
+{E-mail is changed.}电子邮件已更改。
+{E-mail not accepted!}不认可的电子邮件!
+{E-mail not found!}找不到电子邮件!
+{E-mail Processor}E-mail 处理器
+{Edit}编辑
+{Edit License}编辑许可证
+{Edit License...}编辑许可证...
+{Edit M3U8}编辑M3U8
+{Edit Password}编辑密码
+{Edit...}编辑...
+{Elapsed Time:}运行时间:
+{Email Address}电子邮件地址
+{Empty}空的
+{Empty Lines (can include spaces and tabs)}空行 (可以包含空格和制表符)
+{Enable}开启
+{Enabled}启用
+{Encode...}编码...
+{Encoding}编码
+{Encoding:}编码:
+{Encryption}加密
+{End of Each Line...}自动换行
+{End-User License Agreement}最终用户许可协议
+{End:}结束:
+{English}英语
+{Enter License Key}输入许可证密钥
+{Entire Document}整个文件
+{Error}错误
+{ERROR}错误
+{Error No:}错误码:
+{ESC key:}ESC 键:
+{EULA}最终用户协议
+{Even Numbered Lines}偶数行
+{Excel 2007 File (*.xlsx)}Excel 2007 文件 (*.xlsx)
+{Excel CSV Format}Excel CSV格式
+{Excel File (*.xls)}Excel文件 (*.xls)
+{Excel File (XLS)...}Excel文件 (XLS)
+{Exit}退出
+{Exit Application?}退出应用程序？
+{Exit...}退出...
+{EXITING...}退出中...
+{Explore Dictionaries...}浏览字典...
+{Export}导出
+{Export Anchor List...}导出锚列表...
+{Export Backlinks...}导出反向链接...
+{Export Descriptions...}导出说明...
+{Export H1 Tags...}导出 H1 标签...
+{Export H2 Tags...}导出 H2 标签...
+{Export H3 Tags...}导出 H3 标签...
+{Export H4 Tags...}导出 H4 标签...
+{Export Internal URLs...}导出内部 URLs...
+{Export Lines to Files}导出至文件
+{Export Lines to Files...}导出至文件...
+{Export Links...}导出链接...
+{Export Report to PDF...}将报告导出为PDF...
+{Export Sitemap...}导出站点地图...
+{Export Titles...}导出标题...
+{Export To File}导出到文件
+{Export to File...}导出到文件...
+{Export to HTML...}导出为HTML
+{Export to PDF...}导出为PDF
+{Export to VCF...}导出到VCF...
+{Exported Entries:}导出项目:
+{External}外部的
+{Extra Line Spacing:}额外行间距:
+{Extract Image...}提取图像...
+{Extract Text...}提取文本...
+{Extras}附加值
+{Fade-out Animation}淡出动画
+{Failed}失败
+{Failure}失败
+{Feedback}意见反馈
+{feedback}意见反馈
+{File}文件
+{File already exists!}文件已存在!
+{File does NOT exist:}文件不存在:
+{File inaccessible!}文件无法访问!
+{File List}文件列表
+{File Location}文件位置
+{File Location:}文件位置:
+{File lock error!}文件锁定错误!
+{File Mask}文件掩码
+{File Mask:}文件掩码:
+{File not found!}找不到文件!
+{File or Folder:}文件或文件夹:
+{Filename:}文件名:
+{Filename: %s}文件名: %s
+{Files & Folders}文件和文件夹
+{Filter Lines}过滤线
+{Find}查找
+{Find Erroneous E-mails}查找错误电子邮件
+{Find Lines}查找行
+{Find Lines...}查找行...
+{Find Next}查找下一个
+{Find Next Misspelling}查找下一个拼写错误
+{Fix Broken UTF-8 Encoding}修复损坏的UTF-8编码
+{Fixed-Pitch Fonts Only}仅限固定间距字体
+{Folder}文件夹
+{Folder does NOT exist:}文件夹不存在:
+{Folder Size:}文件夹大小:
+{Folder:}文件夹:
+{Folders}文件夹
+{Follow}跟随
+{Follow Redirects}跟踪重定向
+{For 1}1
+{For 10}10
+{For 100}100
+{For 20}20
+{For 200}200
+{For 5}5
+{For 50}50
+{Forgot Password?}忘记密码？
+{Format:}格式:
+{FREE}免费
+{Free Edit}自由编辑
+{Free to try}免费试用
+{FREEWARE}免费软件
+{Freeware}免费软件
+{Freeware Utilities}免费软件实用程序
+{Full Screen}全屏
+{Generate}生成
+{Generate Barcode Image...}生成条形码...
+{Generate Domain Name List}生成域名列表
+{Generate E-mail List}生成 E-mail 列表
+{Generate Hostname List}生成主机名列表
+{Generate URL List}生成URL列表
+{Generate Word List}生成单词列表
+{Get Server Time}获取服务器时间
+{Go}运行
+{Go to URL}转到URL
+{Go to...}前往
+{Google CSV Format}Google CSV格式
+{GRAND TOTAL:}总计:
+{H1 Tag}H1 标签(单数)
+{H1 Tags}H1 标签(复数)
+{H2 Tag}H2 标签(单数)
+{H2 Tags}H2 标签(复数)
+{H3 Tag}H3 标签(单数)
+{H3 Tags}H3 标签(复数)
+{H4 Tag}H4 标签(单数)
+{H4 Tags}H4 标签(复数)
+{Hardware encoding}硬件编码
+{Header}页眉
+{Headers}头
+{Height}高度
+{Height:}高度:
+{Help}帮助
+{Hidden}隐藏
+{Hide}宽度
+{Hide All Stickers}隐藏所有贴纸
+{Hide Details}隐藏详细信息
+{Highlight Active Line}高亮显示当前行
+{Highlight Even Lines}高亮显示偶数行
+{Highlight mouse pointer}高亮显示鼠标指针
+{Highlight Odd Lines}高亮显示奇数行
+{HINT}提示
+{Home}主页
+{Hotkey:}热键:
+{Hourly}每小时
+{Hourly:}每小时:
+{How to create new sticky note:}如何创建新的标签
+{How to uninstall...}如何卸载...
+{HTML File (*.html)}HTML文件
+{I dislike it!}我不喜欢它!
+{I like it!}我喜欢!
+{ID}账号
+{ID Transformer...}改名
+{Idle Time:}暂停时间:
+{If no keyboard or mouse events occur for "Idle Time", "Work Time" resets.}如果键盘或鼠标长时间无操作，“工作时间”将重置
+{If you like the software, please buy a license to make this software fully functional and remove this window.}如果您喜欢该软件，请购买许可证，使这个软件完全功能，并删除此窗口。
+{Ignore}忽略
+{Ignore Drive Mismatch While Unlocking}解锁时忽略驱动器不匹配
+{Ignore Extensions:}忽略扩展名:
+{Ignore Failed Files While Unlocking}解锁时忽略失败的文件
+{Ignore URLs:}忽略 URLs:
+{Import}导入
+{Import from File...}从文件导入...
+{IMPORTANT}重要
+{Include my e-mail:}包括我的电子邮件:
+{Include Subdirectories?}包含子目录?
+{Increase Font Size}增大字体大小
+{Increment:}增量:
+{Indicates status of keys}指示键的状态
+{Info}信息
+{Information}信息
+{Initializing...}初始化...
+{Insert}插入
+{Insert Empty Lines}插入空行
+{Insert Numbers}插入数字
+{Insert Same Text Multiple Times}多次插入同一文本
+{Insert Same Text Multiple Times...}多次插入同一文本...
+{Insufficient stock!}库存不足 !
+{Internal}内部的
+{Internal URL Limit:}内部 URL 限制:
+{Internal URL:}内部 URL:
+{Internal URLs}内部 URLs
+{Interval (sec):}间隔 (秒):
+{Invalid E-mail!}无效的电子邮件!
+{Invalid Entry!}条目无效 !
+{Invert Selection}反向选择
+{Keyboard Shortcuts}键盘快捷键
+{KeyPress Simulator}键盘快捷键
+{Language}语言
+{Language:}语言:
+{Language...}语言...
+{LED Color (OFF):}LED 颜色 (关闭):
+{LED Color (ON):}LED 颜色 (打开):
+{Left}左
+{Left click to show Stickers on top.}左键单击以在顶部显示贴纸。
+{Length}长度
+{License key is invalid!}许可证无效!
+{License:}许可证:
+{License...}许可证...
+{Licensed}授权给
+{Licensed to:}授权给:
+{Lifetime free updates}终生免费更新
+{Light}亮色模式
+{Line}行列
+{Line Length}行长度
+{Line Numbers}行数
+{Line Order}行序
+{Link}链接(单数)
+{Links}链接(复数)
+{List}列表
+{LIST ALL}列出所有
+{List of Containers:}容器列表:
+{List of Loads:}加载列表:
+{List...}列表...
+{Load}加载
+{Load And Run Operation Files...}加载并运行操作文件...
+{Load Limit}载入列表
+{Load Operation File...}加载操作文件...
+{Load Project...}加载项目...
+{Load source list from file...}从文件加载源列表 ...
+{Load target list from file...}从文件加载目标列表 ...
+{Load Time (sec)}加载时间 (秒)
+{Load vCards from VCF file...}从 VCF 文件载入 vCard ...
+{Load...}加载 ...
+{Loading}正在加载
+{Loading: %s}正在加载: %s
+{Loading...}正在加载...
+{Lock}锁定
+{Lock and Unlock processes may take some time.}锁定和解锁过程可能需要一些时间。
+{Lock Selected}锁定已选中
+{LOCKED}已锁住
+{Locking}锁定中
+{Logged in as administrator.}以管理员身份登录。
+{Login (Full Access)}登录 (完全访问)
+{Logout}注销
+{lowercase}小写
+{Lowercase}小写
+{MAIN MENU}主菜单
+{Mark as Complete}标记为完成
+{Maximum:}最大值
+{Memory}存储器
+{Menu Hotkeys}菜单热键
+{Merge all files with root of target folder}将所有文件与目标文件夹的根目录合并
+{MERGE MULTIPLE FOLDERS INTO ONE}将多个文件夹合并为一个
+{Merge Type:}合并类型:
+{Method:}方法:
+{milliseconds}毫秒
+{Minimal Mode}最小模式
+{Minimize when recording starts}记录开始时最小化
+{Minimum:}最小值
+{Minute}分
+{minutes}分钟
+{Mirror}镜像
+{Mirror (Reset Target Folders)}镜像(重置目标文件夹)
+{Miscellaneous}混杂
+{Mode}模式
+{Modified}调整
+{Monitor}显示器
+{Monitor External File Modification}监控外部文件修改
+{Month}月
+{Monthly}每月
+{Monthly:}每月:
+{Move}移动
+{Move (Delete Source Files and Folders)}移动 (删除源文件和文件夹)
+{Move Down}下移
+{Move Info: Source files and folders were not deleted from disk because of copy error}移动信息:由于复制错误，源文件和文件夹未从磁盘中删除
+{Move Up}上移
+{Moved}已移动
+{Moving...}移动中...
+{Multiple Files...}多个文件...
+{Name}名称
+{Name of Container}容器名称
+{Name of Load}加载名称
+{Net Encoding}网络编码
+{New}新建
+{New Project}新项目
+{New Reminder}新提醒
+{New Reminder...}新提醒...
+{New Sticker}新贴纸
+{New Window}新窗口
+{Next Receipt Number:}下一个收据编码
+{Next Rest:}切换下一个Rest:
+{No}否
+{No Audio}无音频
+{No data found!}未找到数据！
+{No erroneous e-mail found.}没有发现错误的电子邮件。
+{No issues have been found.}未发现任何问题。
+{No Item Selected!}未选择任何项目!
+{No item selected!}未选择任何项目!
+{No lines were affected!}没有行受影响!
+{No mouse pointer}没有鼠标指针
+{No nag screen, no ads}没有干扰提示，无广告
+{No replacements made.}未进行替换。
+{No Sound}没有声音
+{No sticky notes left on the desktop!}当前桌面无留言！
+{No text selected!}未选择文本!
+{Non-English}非英语
+{None}仅文本
+{Not applicable!}不适用!
+{Not Paid:}未支付:
+{Note}备注
+{Note Window Margin:}注意窗口边距:
+{Notes Manager}存储信息
+{Notes Manager...}笔记编辑器...
+{Num Lock}数字键
+{Num Lock: OFF}数字键锁定:关闭
+{Num Lock: ON}数字键锁定:开启
+{Number of affected lines: %s}受影响的行数: %s
+{Number of deleted lines: %s}已删除行数: %s
+{Number of Files:}文件数量:
+{Number of Times:}次数
+{Numbers}数字
+{Numbers:}数值
+{Occurrence}发生
+{Odd Numbered Lines}奇数行
+{Offline Activation}离线激活
+{Offset}偏移量
+{OK}确定
+{Online Help}联机帮助
+{Only %s entries exported using unlicensed version.}只有 %s 个条目使用未授权版本导出。
+{Only Once}仅一次
+{Only Once:}仅一次:
+{Open File}打开文件
+{Open folder location...}打开文件夹位置...
+{Open Folder Location...}打开文件夹位置...
+{Open...}打开
+{Operating Systems:}操作系统:
+{Operation File}操作文件
+{Operation STOPPED!}操作停止!
+{Operations}操作
+{Options}选项
+{Options:}选项：
+{Options...}选项...
+{Ordinal Values of Characters}字符顺序
+{Original Size}原始尺寸
+{Other}其他
+{Outlook CSV Format}Outlook CSV格式
+{Output}导出
+{Output:}输出:
+{Overwrite Existing Files}覆盖现有文件
+{Overwrite Read-Only Files}覆盖只读文件
+{PAID}已支付
+{Paid}已支付
+{Paid:}已支付:
+{Password}密码
+{Password is changed.}密码已更改。
+{Password is incorrect!}密码不正确!
+{Password not accepted!}密码未被接受!
+{Password Recovery E-mail:}密码恢复电子邮件:
+{Password:}密码:
+{Passwords do not match!}密码不匹配
+{Paste}粘贴
+{Payments}付款
+{PDF File (*.pdf)}PDF文档 (*.pdf)
+{Permanently Delete}永久删除
+{Permanently Delete All}所有内容永久删除
+{Phone Number}电话号码
+{Play}播放
+{Play Sound Effect}播放音效
+{Play Sound Effects}播放音效
+{Please add containers!}请添加容器
+{Please add folders!}请添加文件夹！
+{Please add loads!}请选择加载！
+{Please add source files!}请添加源文件 !
+{Please add target folders!}请添加目标文件夹!
+{Please check your e-mail box.}请检查您的电子邮箱。
+{Please check your internet connection!}请检查您的网络连接!
+{Please enter barcode or product name!}请输入条码或产品名称!
+{Please enter discount ratio:}请输入折扣率
+{Please enter master password!}请输入主密码!
+{Please enter new currency symbol:}请输入新的货币符号:
+{Please enter password:}请输入密码:
+{Please enter unit price:}请输入单位价格:
+{Please enter your license key:}请输入您的许可证密钥:
+{Please enter your license key!}请输入您的许可证密钥!
+{Please keep it in a safe place. You need it to unlock your files and folders.}请放在安全的地方。您需要它来解锁您的文件和文件夹。
+{Please obtain a license key to activate the software.}请获取许可证密钥以激活软件。
+{Please reinstall the software.}请重新安装软件。
+{Please reopen the software without administrator privileges.}请在没有管理员特权的情况下重新打开软件。
+{Please try again later!}请稍后再试
+{Please try again later.}请稍后重试。
+{Please try:}请尝试:
+{Please type NEW password:}请输入新密码:
+{Please type your CURRENT password:}请输入您的当前密码:
+{Please type your NEW e-mail:}请键入您的新电子邮件:
+{Please type your NEW password:}请输入您的新密码:
+{Please type your NEW private key:}请输入您的新私钥:
+{Please Wait For Backup Process!}请等待备份过程!
+{Preserve folder structure}保留文件夹结构
+{Preview Sticker}预览贴纸
+{Price}价格
+{PRICE:}价格:
+{Print}打印
+{Print Setup}打印设置
+{Print Template}打印模板
+{Print?}打印吗？
+{Print...}打印
+{Printer not found!}没有找到打印机!
+{Privacy Policy}隐私政策
+{Private Key}私钥
+{Private key changed.}私钥已更改
+{Process}处理
+{Process completed!}流程完成!
+{Processing...}处理中...
+{Product}产品
+{Product List}产品列表
+{Product List...}产品列表...
+{PRODUCT NAME:}产品名称:
+{Product successfully activated.}激活成功.
+{Product:}产品:
+{PRODUCTS}产品
+{Products}产品
+{Properties}属性
+{Purchase}购买
+{Quantity}数量
+{Random Number Generator}随机数生成器
+{Random Number Generator...}随机数生成器...
+{Random Text Generator}随机文本生成器
+{Random Text Generator...}随机文本生成器...
+{Randomize Line Contents}随机行内容
+{Randomize Line Order}随机行顺序
+{Read Reviews}阅读评论
+{Ready}准备好了
+{Receipts}收据
+{Recognize Environment Variables}识别环境变量
+{Recognize Network Drives}识别网络驱动器
+{RECORD}录制
+{RECORD DATE:}记录日期:
+{Recording...}记录...
+{Recover Lost Files}恢复丢失的文件
+{Recover Password}恢复密码
+{Redo}重做
+{Refresh Device List}刷新设备列表
+{Refresh Hardware Encodings}刷新硬件编码
+{Refund Policy}退款政策
+{Region}注册
+{Regular Expression}正规表达
+{Regular Expression...}正则表达式...
+{Related Software}相关软件
+{Release Date:}发布日期:
+{Remember Settings}记住设置
+{Reminder}提醒
+{Reminders}提醒事项
+{Remove}除去
+{Remove All}全部除去
+{Remove Anchor Links}删除锚链接
+{Remove Query String Links}删除查询字符串链接
+{Remove Selected}除去选定的
+{Reopen}重新打开
+{Replace}替换
+{Replace by Space}替换为空格
+{Reports}报告
+{Required files are missing}缺少必需的文件
+{Reset}恢复
+{Reset Registry...}重置注册表...
+{Reset to Defaults}重置为默认值
+{Reset Work Time}重置使用时间
+{Response Timeout (ms):}响应超时 (毫秒):
+{Restart Application?}重启应用程序?
+{Restore}修复
+{Restore from Backup...}从备份复原 ...
+{Restore when recording is complete}记录完成后修复
+{Reverse}反转
+{Reverse Line Contents}反转行内容
+{Reverse Line Sequence}反转行序列
+{Right click to add new Stickers or Reminders.}右键单击以添加新的贴纸或提醒。
+{Right-click tray icon}右击托盘图标
+{Run With}运行
+{SALES}售出
+{Sample Text}示例文本
+{Sample Values}采样值
+{Save}保存
+{Save As...}另存为...
+{Save Operation File As...}将操作文件另存为...
+{Save Operation File...}保存操作文件...
+{Save Project As...}将项目另存为...
+{Save Results}保存结果
+{Save source list to file...}将源列表保存到文件...
+{Save target list to file...}将目标列表保存到文件...
+{Scheduled Task}预定任务
+{Scheduled Task...}预定任务...
+{Screen capture failed!}截屏失败！
+{Screen capture interrupted!}屏幕捕获中断！
+{ScreenSnap}屏幕快照
+{ScreenSnap:}屏幕快照:
+{Scroll Lock}滚动键锁定
+{Scroll Lock: OFF}滚动锁定:关闭
+{Scroll Lock: ON}滚动锁定:开启
+{Search}查找
+{Search Every Line with Google}用谷歌搜索每一行
+{Search:}查找:
+{Search...}查找...
+{seconds}秒
+{Secure your files and folders}保护文件和文件夹
+{Select}选中
+{Select All}全选
+{Select folder:}选择文件夹:
+{Select Language}选择语言
+{Select Product}选择产品
+{Select Region and Close}选择区域并关闭
+{Select your favourite theme}选择您喜欢的主题
+{Selected}已选
+{SELL BY CASH}以现金出售
+{Sell by Cash}按现金销售
+{SELL BY CREDIT}以信用出售
+{Sell by Credit}按信用销售
+{Semicolon}分号
+{Send}发送
+{Send e-mail?}发送电子邮件？
+{Send Feedback}发送意见反馈
+{Send Feedback...}发送反馈...
+{Send to Recycle Bin}发送到回收站
+{SEO Audit}搜索引擎优化审计
+{Separate by Char}按字符分隔
+{Separate by String}按字符串分隔
+{Separate Long Lines (Break Words)}自动换行 (文字拆分)
+{Separate Long Lines (Keep Words)}自动换行 (文字不拆分)
+{Server Time:}服务时间:
+{Server:}服务:
+{Set as Default Encoding}设置为默认编码
+{Settings}设置
+{Settings...}设置...
+{Show}显示
+{Show aboutbox}显示关于盒子
+{Show All Stickers}显示所有贴纸
+{Show Date Time}显示日期时间
+{Show Details}显示详细信息
+{Show feedback window}显示反馈窗口
+{Show Idle Time:}显示空闲时间:
+{Show Letters and Numbers without Special Keys}显示没有特殊键的字母和数字
+{Show Links...}显示链接...
+{Show Notifications}显示通知
+{Show Options}显示选项
+{Show when status changes}状态更改时显示
+{Show Window}显示窗口
+{Sign up}注册
+{Simple Mode}简单模式
+{Simulate Keypress:}模拟按键:
+{Small Buttons}小按钮
+{Software}软件
+{Software encoding}软件编码
+{Something went wrong. Your feedback could not be delivered.}出问题了。您的意见反馈无法发送。
+{Sort}排序
+{Sort Lines}按行排序
+{Sound Effect}音效
+{Sound:}声音:
+{Source (Files, Folders, URLs)}源 (文件、文件夹、URL)
+{Source URL}源URL
+{Space}空白
+{Space key:}空格键:
+{Spell Check}拼写检查
+{Spell Checker}拼写检查器
+{Spell Checker:}拼写检查器:
+{Split Lines}分割线
+{Start}开启
+{Start download}开始下载
+{Start Working}开始工作
+{Start:}开始:
+{Status}状态
+{Status Bar}状态栏
+{Status Code}状态码
+{Stay on Top}停留在顶部
+{Stickers}标签
+{Stock}库存
+{STOCK BALANCE:}库存余额 :
+{Stock Inventory Count Sheet}库存盘点清单
+{Stock Inventory Count Sheet...}库存盘点清单...
+{STOP}停止
+{Stop download}停止下载
+{Stop:}停止:
+{Strip HTML Markup}去除 HTML 标记
+{Subdomain Name}子域名
+{Success}成功
+{SUCCESS}成功
+{Suggested Corrections}建议改正
+{Support}支持
+{Sync Computer Time}同步计算机时间
+{Syntax}语法
+{System Audio}系统音频
+{System Error.}系统错误。
+{System Tray Menu}系统菜单
+{Tab}制表符
+{Tab Indent}制表符缩进
+{Tab Options}选项卡选项
+{Tab Options...}选项卡选项...
+{Tab Size:} 制表符长度:
+{Target Folder}目标文件夹
+{Target folder is not defined!}未定义目标文件夹！
+{Target Folder:}目标文件夹:
+{Target Folders}目标文件夹
+{Test Alert}测试警报
+{Testimonials}赞誉
+{Text}文本
+{Text Color:}文本颜色:
+{Text Engine}文本引擎
+{Text File}文本文件
+{Text File (*.txt)}文本文件 (*.txt)
+{Text File (TXT)...}文本文件 (TXT)...
+{Text not found!}找不到文本！
+{Text:}文本
+{Thank you}感谢您
+{Thank you!}感谢您!
+{The file could not be created!}无法创建文件!
+{The file is empty!}文件为空！
+{The file is very large. Do you still want to try to open it?}文件非常大。您还想尝试打开它吗？
+{The server returned an invalid response.}服务器响应无效
+{The specified region is not valid!}指定的区域无效！
+{The text contains no lines!}文本不包含行！
+{Theme}主题
+{This action cannot be undone!}此操作无法撤消！
+{This is an example note.}这是一个示例注释。
+{This is required for importing in Gmail and Outlook.}这是在Gmail和Outlook中导入所必需的。
+{This is your first sticker!}这是您的第一个贴纸!
+{This software works best without administrator privileges.}这款软件在无管理员特权情况下运行地最好。
+{Time}时间
+{Time Remaining:}剩余时间:
+{Timestamp}时间戳
+{Title}标题(单数)
+{Titles}标题(复数)
+{To Existing Lines}到现有行
+{To New Lines...}到新行
+{Tool Bar}工具栏
+{Tools}工具
+{Top}上方
+{Top Selling Products}畅销产品
+{Top Selling Products...}畅销产品...
+{Total}总计
+{Total URLs: %s}URLs总数: %s
+{TOTAL:}总计:
+{Total:}总计:
+{Translated by:}简体中文翻译者(不排序):
+{Transparency:}透明度:
+{Tray Notifications:}系统托盘通知:
+{Trial}试用版
+{TRIAL LIMIT REACHED!}已达到试用极限！
+{TRIAL VERSION}试用版
+{Trim All}全部修剪
+{Trim Both}修剪左右
+{Trim Left}修剪左
+{Trim Lines}修剪行
+{Trim Right}修剪右
+{Truly Empty Lines}空行
+{Try to run as Administrator.}尝试以管理员身份运行。
+{Turn Off}关掉
+{Turn On}打开
+{Type}类型
+{Undo}撤消
+{Unicode Detector}Unicode 检测器
+{Unit}单元
+{UNLICENSED}未授权
+{Unlock}解锁
+{UNLOCK ERROR}解锁错误
+{Unlock Selected}解锁已选中
+{Unlocked}解锁
+{Unlocking}解锁
+{Unnamed}未命名
+{UPDATE}更新
+{UPDATE AVAILABLE}有可用的更新
+{Update Notifications}更新提示
+{UPPERCASE}大写
+{Uppercase and Lowercase}大写和小写
+{URL}URL
+{URL Highlighter (No Spell Check)}高亮链接（不检查拼写）
+{URL Length}URL 长度
+{URL not found!}找不到URL！
+{URL Processor}URL 处理器
+{URL:}URL:
+{USE AT YOUR OWN RISK!}使用风险自负!
+{User Interface Language:}界面语言选择:
+{User will press keys}按键选项
+{User-Agent String:}用户代理字符串:
+{using Characters}使用字符
+{using File}使用文档
+{using Text}使用文本
+{using Text Length}使用文本长度
+{VCF Files (*.vcf)}VCF 文件 (*.vcf)
+{Verify that the file has not been corrupted and that the file extension matches the format of the file.}验证文件是否未损坏，以及文件扩展名是否与文件格式匹配。
+{Version History}版本历史记录
+{Video file error!}视频文件错误!
+{View}查看
+{View Source...}查看源...
+{Volume}容量
+{Volume Limit}容量限制
+{Volume of Container}容器体积
+{Volume of Load}装载体积
+{Vovsoft Newsletter}Vovsoft新闻稿
+{Warning}警告
+{WARNING}!!!警告!!!
+{We would really appreciate your feedback.}我们非常感谢您的意见反馈。
+{Weekdays}工作日
+{Welcome to %s}欢迎来到 %s
+{Welcome to Our Shop}欢迎来到我们的商店
+{What did you like or dislike?}您喜欢什么或不喜欢什么？
+{What numbers will be added?}将添加哪些数字？
+{Which Customer?}哪个客户?
+{Width}宽度
+{Width:}宽度:
+{Word Wrap}自动换行
+{Work Time:}工作时间:
+{Wrong Admin Password!}错误的管理员密码!
+{Wrong password!}密码错误!
+{X:}X:
+{Y:}Y:
+{Yahoo CSV Format}雅虎CSV格式
+{Yes}是
+{You are here:}您在这里:
+{You are not logged as admin!}您未以管理员身份登录 !
+{You can preview the font and color settings here.}您可以在此处预览字体和颜色设置。
+{You can't go further than:}您不能超过:
+{You cannot use this feature in unlicensed edition.}您不能在未经许可的版本中使用此功能。
+{You want to go to:}您想到:
+{Your feedback is received.}收到您的意见反馈。
+{Your master password is successfully set.}您的主密码已成功设置。

@@ -1,0 +1,1009 @@
+﻿{INFO:Translated By}Kim KiSeong, VenusGirl-비너스걸❤
+{12 hour}12시간
+{24 hour}24시간
+{A required file is missing:}필요한 파일이 없습니다:
+{Ability to disable update notifications}업데이트 알림을 사용하지 않도록 설정하는 기능
+{Aborted}중단됨
+{About}정보
+{About %s}%s 정보
+{About Us}제작자
+{About...}프로그램 정보...
+{Access is denied.}접근이 거부되었습니다.
+{Acknowledgements...}감사 인사...
+{Activation} 활성화
+{Activation Code:}활성화 코드:
+{Activation failed.}활성화에 실패했습니다.
+{Active}활성화
+{ADD}추가
+{Add}추가
+{Add context menu item}상황에 맞는 메뉴 항목 추가
+{Add Dictionary...}사전 추가...
+{Add Drive}드라이브 추가
+{Add File}파일 추가
+{Add File(s)}파일 추가
+{Add File(s)...}파일 추가...
+{Add Files in Folders...}폴더에 파일 추가...
+{Add files to the list}목록에 파일 추가
+{Add Files...}파일 추가...
+{Add Folder}폴더 추가
+{Add Folder...}폴더 추가...
+{Add Folders...}폴더 추가...
+{Add M3U8}M3U8 추가
+{Add Product Manually}수동으로 제품 추가
+{Add Recursive Subfolders...}재귀 하위 폴더 추가...
+{Add Subfolders...}하위 폴더 추가...
+{Add URL(s)...}URL 추가...
+{Add URLs...}URL 추가...
+{Add using Environment Variables}환경 변수를 사용하여 추가
+{Add Word To Dictionary}사전 단어 추가
+{Admin Password}관리자 암호
+{Advanced Mode}고급 ㅁ드
+{Alert Text:}경고 문구
+{All Customers}전체 사용자
+{All files must be unlocked before changing private key!}개인 키를 변경하기 전에 모든 파일의 잠금을 해제해야 합니다!
+{All files must be unlocked before enabling or disabling content encryption!}콘텐츠 암호화를 사용하거나 사용하지 않도록 설정하기 전에 모든 파일의 잠금을 해제해야 합니다!
+{All Products}전체 제품
+{Alphabet}알파벳
+{Alphabetical}알파벳순
+{Also delete entered text}입력한 텍스트도 삭제
+{Always on Top}항상 맨 위에
+{Always on top}항상 맨 위에
+{Always show when toggled on}켜질 때 항상 표시
+{An error occurred while creating directory:}디렉터 생성 중 오류 발생:
+{An error occurred while unlocking:}잠금을 해제하는 중 오류 발생
+{Analyze URL...}URL 분석...
+{Analyze...}분석...
+{Anchor Text}앵커 텍스트
+{Anchors}앵커
+{And please backup your important files and folders before locking in case of hardware or software failure.}그리고 하드웨어 또는 소프트웨어 오류 시 잠금 전에 중요한 파일과 폴더를 백업하십시오.
+{Annually}매년
+{Annually:}매년:
+{Any File}아무 파일
+{Any File (*.*)}모든 파일 (*.*)
+{Are you sure?}확실합니까?
+{Arrange Stickers}스티커 배열
+{ASCII Art...}ASCII 아트...
+{Ask Print}인쇄 확인
+{Audio File}오디오파일
+{Audio file error!}오디오파일 오류!
+{Audit Messages...}감사 메시지 ...
+{Auto Copy Highlighted Text to Clipboard}강조 표시된 텍스트를 클립보드에 자동 복사
+{Auto Paste When Clipboard Changes}클립보드 변경 시 자동 붙여넣기
+{Auto Refresh File}파일 자동 새로 고침
+{Auto Run at Startup}시작 시 자동 실행
+{Auto-Close Main Window}기본 창 자동 닫기
+{Auto-Close Popup Window After Finishing}종료 후 팝업 창 자동 닫기
+{Auto-Closing...}자동 종료...
+{Auto-Refresh Drive List}드라이브 목록 자동 새로 고침
+{Auto-Start at Startup}시작 시 자동 시작
+{Automatic}자동
+{Automatically Restart Download}자동으로 다운로드 다시 시작
+{Automatically restarted!}자동으로 다시 시작됩니다!
+{Automatically Synchronize}자동 동기화
+{Background Color:}배경 색상:
+{Backup Registry...}레지스트리 백업...
+{Backup Stickers}스티커 백업...
+{Backup...}백업...
+{Barcode}바코드
+{BARCODE:}바코드:
+{Begin:}시작:
+{Beginning of Each Line...}각 줄의 시작...
+{Big Icons}큰 아이콘
+{Blog}블로그
+{BREAK TIME!}휴식 시간!
+{Browse...}찾아보기...
+{Buy Now}바로 구입
+{Calculate}계산
+{Calculating all possibilities...}모든 가능성을 계산하는 중...
+{Calculation Results:}계산 결과:
+{Cancel}취소
+{Cancel product selection}제품 선택 취소
+{CANCELED by User Request}사용자 요청에 의해 취소됨
+{Canceled!}취소되었습니다!
+{Cannot create file}파일 생성 실패
+{Capitalize (First Letters Only)}대문자 표시(첫 글자만)
+{Caps Lock}Caps Lock
+{Caps Lock: OFF}Caps Lock 끄기
+{Caps Lock: ON}Caps Lock 켜기
+{Cascade}계단식
+{Categories}범주
+{Category}범주
+{Category:}범주:
+{Change Auto-Close Time}자동 닫기 시간 변경
+{Change Auto-Close Time...}자동 닫기 시간 변경...
+{Change Background Color}배경 색상 변경
+{Change Background Color...}배경 색상 변경...
+{Change Destination Folder}대상 폴더 변경
+{Change File Location...}파일 위치 변경...
+{Change Font...}글꼴 변경...
+{Change Interface}인터페이스 변경
+{Change Keyboard Key}키보드 키 변경
+{Change Keyboard Key...}키보드 키 변경...
+{Change Line Spacing}줄 간격 변경
+{Change Line Spacing...}줄 간격 변경...
+{Change Login Password...}암호 변경...
+{Change Menu Font...}메뉴 글꼴 변경...
+{Change Private Key...}개인 키 변경
+{Change Recovery E-mail}복구 이메일 변경
+{Change Text Font}텍스트 글꼴 변경
+{Change Theme}테마 변경
+{Change Theme...}테마 변경...
+{Change:}변경:
+{Check Multiple Websites}여러 웹 사이트 확인
+{Check Multiple Websites...}여러 웹 사이트 확인...
+{Check Status Codes}상태 코드 확인
+{Checking Status Codes...}상태 코드 확인 중...
+{Choose File...} 파일 선택...
+{Classic}클래식
+{Classical Interface}기본 인터페이스
+{Clear}지우기
+{Clear File History}파일 기록 지우기
+{Click "New Sticker"}"새 스티커" 클릭
+{Click to download}클릭하여 다운로드
+{Clip Lines...}줄 자르기...
+{Clipboard}클립보드
+{Close}닫기
+{Code Folding}코드 접기
+{Code:}코드:
+{Combine Lines...}줄 결합...
+{Comma}쉼표
+{Comma-Separated Values File (CSV)...}쉼표로 구분된 값 파일 (CSV)...
+{Commercial use allowed}상업적인 사용 허용
+{Company}회사
+{Compare Two Texts...}두 텍스트 비교...
+{Completed}완료됨
+{Completed!}완료!
+{Completed.}완료되었습니다.
+{Computer Code:}컴퓨터 코드:
+{Computer Time:}컴퓨터 시간:
+{Computer Timezone:}컴퓨터 시간대:
+{Computer will press keys}컴퓨터가 키를 누릅니다.
+{Confirm Before Deletion}삭제 전 확인
+{Confirm Password:}암호 확인:
+{Confirm?}확인?
+{Confirmation}확인
+{Connection Error!}연결 오류!
+{Connection Timeout (ms):}연결 시간 초과 (ms):
+{Contact}선택
+{Content Encryption (SLOW)}콘텐츠 암호화 (느림)
+{Content encryption is enabled.}콘텐츠 암호화가 활성화되었습니다.
+{Continue}계속
+{Contribute to Translation}번역에 기여
+{Convert}변환
+{CONVERT}변환
+{Convert Non-Breaking Spaces to Regular Spaces}구분되지 않는 공간을 정규 공간으로 변환
+{Convert Non-English Chars to English Chars}영어 이외의 문자를 영어 문자로 변환
+{Convert Numbers to Text}숫자를 텍스트로 변환
+{Copied}복사됨
+{Copy}복사
+{Copy All}모두 복사
+{Copy Anchor Text}앵커 텍스트 복사
+{Copy files to many directories}여러 디렉터리에 파일 복사
+{COPY INTO TARGET FOLDERS}대상 폴더에 복사
+{Copy URL}URL 복사
+{Copying...}복사 중...
+{Create Sample CSV for Advanced Mode...}고급 모드용 샘플 CSV 생성...
+{Create Sample CSV for Simple Mode...}단순 모드용 샘플 CSV 생성...
+{CREDIT:}제작자:
+{Credits}제작자
+{CSV File}CSV 파일
+{CSV File (*.csv)}CSV파일 (*.csv)
+{CSV Separator}CSV 구분 기호
+{CSV Separator:}CSV 구분자:
+{Currency Symbol}현재 기호
+{Customer}고객
+{Customer with credit cannot be deleted!}신용이 있는 고객은 삭제할 수 없습니다!
+{CUSTOMER:}고객:
+{Customer:}고객:
+{CUSTOMERS}고객
+{Customers}고객
+{Cut}잘라내기
+{Daily}매일
+{Daily:}매일:
+{Dark}어두운
+{Database Location}데이터베이스 위치
+{Date}날짜
+{Date and Time}날짜 및 시간
+{Day}일
+{Daylight Saving:}섬머 타임제:
+{Decode...}복호화...
+{Decrease Font Size}글꼴 크기 감소
+{Default}기본값
+{Default Alphabet}기본 알파벳
+{Default CSV Format}기본 CSV 포맷
+{Del key:}Del 키:
+{Delete}삭제
+{DELETE}삭제
+{Delete After}이후 삭제
+{DELETE ALL}모두 삭제
+{Delete All}모두 삭제
+{Delete all characters after:}다음 이후 모든 문자 삭제:
+{Delete all characters before:}이전 모든 문자 삭제:
+{Delete All Spaces}모든 공백 삭제
+{Delete Alphabetic [a-z] [A-Z]}알파벳 [a-z] [A-Z] 삭제
+{Delete Alphanumeric [a-z] [A-Z] [0-9]}영숫자 [a-z] [A-Z] [0-9] 삭제
+{Delete Before}이전 삭제
+{Delete Beginning or Ending Strings...}시작 또는 끝 문자열 삭제...
+{Delete Chars}문자 삭제
+{DELETE CUSTOMER}고객 삭제
+{Delete Customer}고객 삭제
+{Delete Extra Spaces}여백 삭제
+{Delete last entered product}마지막으로 입력한 제품 삭제
+{Delete Non-Alphabetic}알파벳이 아닌 문자 삭제
+{Delete Non-Alphanumeric}숫자가 아닌 문자 삭제
+{Delete Numbers [0-9]}숫자 삭제
+{DELETE PRODUCT}제품 삭제
+{Delete Record}레코드 삭제
+{Delete Reminder}알림 삭제
+{Delete Selected}선택 항목 삭제
+{Delete Unnecessary Lines}필요없는 줄 삭제
+{Delete?}삭제?
+{Deleted}삭제됨
+{Description}설명
+{Descriptions}설명
+{Deselect All}모두 선택 취소
+{Destination:}설명:
+{DETAILS}세부 내용
+{Diagnose}진단
+{Diagonal}대각선
+{Directory is not writable!}디렉터리에 쓸 수 없습니다!
+{Directory not found!}디렉터리를 찾을 수 없습니다!
+{Directory:}디렉터리:
+{Disabled}무효
+{Discount}할인
+{Discounted Price}할인 가격
+{Discounted Total}할인 합계
+{Disk Write Interval (sec):}디스크 쓰기 간격 (초):
+{Dismiss}무시
+{Display Duration:}기간 표시
+{Display Load Time}불러오기 시간 표시
+{Display Prices}가격 표시
+{Display Special Chars}특수 문자 표시
+{Display Unfinished Results}완료되지 않은 결과 표시
+{Do you really want to delete ALL stickers?}모든 스티커를 삭제하시겠습니까?
+{Do you really want to delete the reminder?}알림을 삭제하시겠습니까?
+{Do you really want to delete the sticker?}스티커를 삭제하시겠습니까?
+{Do you want to delete all stickers, reminders, settings and restart application?}모든 스티커, 주의사항, 설정을 삭제하고 응용 프로그램을 다시 시작하시겠습니까?
+{Do you want to replace the sticker with the image?}스티커를 이미지로 교체하시겠습니까?
+{Do you want to save the current file before exit?}종료하기 전에 현재 파일을 저장하시겠습니까?
+{Do you want to save the current file?}현재 파일을 저장하시겠습니까?
+{Do you want to save this file before exit?}종료하기 전에 이 파일을 저장하시겠습니까?
+{Do you want to save this file?}이 파일을 저장하시겠습니까?
+{Domain Name}도메인 이름
+{Don't show this again}다시 표시 안 함
+{Download}다운로드
+{Downloading...}다운로드 중...
+{Drag Drop Filenames}파일 이름 끌어서 놓기
+{Draw mouse pointer}마우스 포인터 그리기
+{Drive}드라이브
+{DRIVE MISMATCH}드라이브 불일치
+{Drive:}드라이브:
+{Duplicate Lines}줄 중복
+{E-mail}이메일
+{E-mail is changed.}이메일이 변경되었습니다.
+{E-mail not accepted!}이메일 수신 불가!
+{E-mail not found!}이메일을 찾을 수 없습니다!
+{E-mail Processor}이메일 프로세서
+{Edit}편집
+{Edit License}라이선스 편집
+{Edit License...}라이선스 편집...
+{Edit M3U8}M3U8 편집
+{Edit Password}암호 편집
+{Edit...}편집...
+{Elapsed Time:}경과 시간:
+{Email Address}이메일 주소
+{Empty}비어 있음
+{Empty Lines (can include spaces and tabs)}빈 줄 (공백 및 탭 포함 가능)
+{Enable}사용
+{Enabled}사용함
+{Encode...}암호화...
+{Encoding}인코딩
+{Encoding:}인코딩
+{Encryption}암호화
+{End of Each Line...}각 줄의 끝...
+{End-User License Agreement}최종 사용자 라이선스 계약
+{End:}끝:
+{English}영어
+{Enter License Key}라이선스키 입력
+{Entire Document}전체 문서
+{Error}오류
+{ERROR}오류
+{Error No:}오류 번호:
+{ESC key:}ESC 키:
+{EULA}EULA
+{Even Numbered Lines}짝수 번호 줄
+{Excel 2007 File (*.xlsx)}Excel 2007 파일 (*.xlsx)
+{Excel CSV Format}Excel CSV 형식
+{Excel File (*.xls)}Excel 파일(*.xls)
+{Excel File (XLS)...}Excel 파일(XLS)...
+{Exit}종료
+{Exit Application?}응용 프로그램을 종료하시겠습니까?
+{Exit...}종료...
+{EXITING...}종료 중...
+{Explore Dictionaries...}사전 탐색...
+{Export}내보내기
+{Export Anchor List...}앵커 목록 내보내기...
+{Export Backlinks...}백링크 내보내기...
+{Export Descriptions...}설명 내보내기...
+{Export H1 Tags...}H1 태그 내보내기...
+{Export H2 Tags...}H2 태그 내보내기...
+{Export H3 Tags...}H3 태그 내보내기...
+{Export H4 Tags...}H4 태그 내보내기...
+{Export Internal URLs...}내부 URL 내보내기...
+{Export Lines to Files}줄을 파일로 내보내기
+{Export Lines to Files...}줄을 파일로 내보내기...
+{Export Links...}링크 내보내기...
+{Export Report to PDF...}PDF로 보고서 내보내기...
+{Export Sitemap...}사이트 맵 내보내기...
+{Export Titles...}제목 내보내기...
+{Export To File}파일로 내보내기
+{Export to File...}파일로 내보내기...
+{Export to HTML...}HTML로 내보내기...
+{Export to PDF...}PDF로 내보내기...
+{Export to VCF...}VCF로 내보내기...
+{Exported Entries:}내보낸 항목:
+{External}외부
+{Extra Line Spacing:}추가 줄 간격:
+{Extract Image...}이미지 추출 중...
+{Extract Text...}텍스트 추출 중...
+{Extras}기타
+{Fade-out Animation}점점 사라지는 애니메이션
+{Failed}실패
+{Failure}실패
+{Feedback}피드백
+{feedback}피드백
+{File}파일
+{File already exists!}파일이 이미 있습니다!
+{File does NOT exist:}파일이 없습니다:
+{File inaccessible!}파일에 접근할 수 없습니다
+{File List}파일 목록
+{File Location}파일 위치
+{File Location:}파일 위치:
+{File lock error!}파일 잠금 오류!
+{File Mask}파일 마스크
+{File Mask:}파일 마스크:
+{File not found!}파일을 찾을 수 없습니다!
+{File or Folder:}파일 또는 폴더:
+{Filename:}파일 이름:
+{Filename: %s}파일 이름: %s
+{Files & Folders}파일 및 폴더
+{Filter Lines}필터 줄
+{Find}찾기
+{Find Erroneous E-mails}잘못된 이메일 찾기
+{Find Lines}줄 찾기
+{Find Lines...}줄 찾기...
+{Find Next}다음 찾기
+{Find Next Misspelling}다음 맞춤법 오류 찾기
+{Fix Broken UTF-8 Encoding}손상된 UTF-8 인코딩 수정
+{Fixed-Pitch Fonts Only}고정 높이 글꼴만
+{Folder}폴더
+{Folder does NOT exist:}폴더가 없습니다:
+{Folder Size:}폴더 크기:
+{Folder:}폴더:
+{Folders}폴더
+{Follow}팔로우
+{Follow Redirects}리디렉션 팔로우
+{For 1}1 사용자용
+{For 10}10 사용자용
+{For 100}100 사용자용
+{For 20}20 사용자용
+{For 200} 200사용자용
+{For 5}5 사용자용
+{For 50}50 사용자용
+{Forgot Password?}암호를 잊으셨습니까？
+{Format:}형식:
+{FREE}무료
+{Free Edit}무료 편집
+{Free to try}무료 사용
+{FREEWARE}프리웨어
+{Freeware}프리웨어
+{Freeware Utilities}프리웨어 유틸리티
+{Full Screen}전체 화면
+{Generate}생성
+{Generate Barcode Image...}바코드 이미지 생성...
+{Generate Domain Name List}도메인 이름 목록 생성
+{Generate E-mail List}이메일 목록 생성
+{Generate Hostname List}호스트 이름 목록 생성
+{Generate URL List}URL 목록 생성
+{Generate Word List}단어 목록 생성
+{Get Server Time}서버 시간 가져오기
+{Go}이동
+{Go to URL}URL로 가기
+{Go to...}이동...
+{Google CSV Format}Google CSV 형식
+{GRAND TOTAL:}총계:
+{H1 Tag}H1 태그
+{H1 Tags}H1 태그
+{H2 Tag}H2 태그
+{H2 Tags}H2 태그
+{H3 Tag}H3 태그
+{H3 Tags}H3 태그
+{H4 Tag}H4 태그
+{H4 Tags}H4 태그
+{Hardware encoding}하드웨어 인코딩
+{Header}머리글
+{Headers}머리글
+{Height}높이
+{Height:}높이:
+{Help}도움말
+{Hidden}숨기기
+{Hide}숨기기
+{Hide All Stickers}모든 스티커 숨기기
+{Hide Details}세부 내용 숨기기
+{Highlight Active Line}활성줄 강조
+{Highlight Even Lines}짝수줄 강조
+{Highlight mouse pointer}마우스 포인터 강조
+{Highlight Odd Lines}홀수줄 강조
+{HINT}힌트
+{Home}홈
+{Hotkey:}단축키
+{Hourly}시간별
+{Hourly:}시간별:
+{How to create new sticky note:}새 스티커 메모 작성 방법:
+{How to uninstall...}설치 제거 방법...
+{HTML File (*.html)}HTML 파일 (*.html)
+{I dislike it!}싫어요!
+{I like it!}좋아요!
+{ID}아이디
+{ID Transformer...}ID 변환기...
+{Idle Time:}유휴 시간:
+{If no keyboard or mouse events occur for "Idle Time", "Work Time" resets.}"유휴 시간 동안 키보드 또는 마우스 이벤트가 발생하지 않으면 "작업 시간"이 재설정됩니다.
+{If you like the software, please buy a license to make this software fully functional and remove this window.}소프트웨어가 마음에 드신다면 이 소프트웨어를 완전히 작동시킬 수 있는 라이선스를 구입하시고 이 창을 제거하십시오.
+{Ignore}무시
+{Ignore Drive Mismatch While Unlocking}잠금 해제 중 드라이브 불일치 무시
+{Ignore Extensions:}확장자 무시:
+{Ignore Failed Files While Unlocking}잠금 해제 중 실패한 파일 무시
+{Ignore URLs:}URL 무시:
+{Import}가져오기
+{Import from File...}파일에서 가져오기...
+{IMPORTANT}중요
+{Include my e-mail:}내 이메일 주소 넣기:
+{Include Subdirectories?}하위 디렉터리를 포함하시겠습니까?
+{Increase Font Size}글꼴 크기 증가
+{Increment:}증분:
+{Indicates status of keys}키 상태 표시
+{Info}정보
+{Information}정보
+{Initializing...}초기화 중...
+{Insert}삽입
+{Insert Empty Lines}빈 줄 삽입
+{Insert Numbers}숫자 삽입
+{Insert Same Text Multiple Times}동일한 텍스트 여러 번 삽입
+{Insert Same Text Multiple Times...}동일한 텍스트 여러 번 삽입...
+{Insufficient stock!}재고가 부족합니다!
+{Internal}내부
+{Internal URL Limit:}내부 URL 제한:
+{Internal URL:}내부 URL:
+{Internal URLs}내부 URL
+{Interval (sec):}간격 (초):
+{Invalid E-mail!}잘못된 이메일입니다!
+{Invalid Entry!}잘못된 항목입니다!
+{Invert Selection}선택 반전
+{Keyboard Shortcuts}키보드 단축기
+{KeyPress Simulator}키누름 테스트기
+{Language}언어
+{Language:}언어:
+{Language...}언어...
+{LED Color (OFF):}LED 색상 (끄기):
+{LED Color (ON):}LED 색상 (켜기):
+{Left}왼쪽
+{Left click to show Stickers on top.}위에 스티커를 표시하려면 마우스 왼쪽 버튼을 클릭합니다.
+{Length}길이
+{License key is invalid!}라이선스 키가 잘못되었습니다!
+{License:}라이선스:
+{License...}라이선스...
+{Licensed}사용 등록됨
+{Licensed to:}등록 사용자:
+{Lifetime free updates}평생 무료
+{Light}밝은
+{Line}줄
+{Line Length}줄 길이
+{Line Numbers}줄 번호
+{Line Order}줄 순서
+{Link}링크
+{Links}링크
+{List}목록
+{LIST ALL}모든 목록
+{List of Containers:}내용 목록:
+{List of Loads:}불러온 목록:
+{List...}목록...
+{Load}불러오기
+{Load And Run Operation Files...}작업 파일 불러오기 및 실행...
+{Load Limit}불러오기 제한
+{Load Operation File...}작업 파일 불러오기 ...
+{Load Project...}프로젝트 불러오기...
+{Load source list from file...}파일에서 원본 목록 불러오기...
+{Load target list from file...}파일에서 대상 목록 불러오기....
+{Load Time (sec)}불러온 시간 (초)
+{Load vCards from VCF file...}VCF 파일에서 vCards 불러오기...
+{Load...}불러오기...
+{Loading}불러오는 중
+{Loading: %s}불러오는 중: %s
+{Loading...}불러오는 중....
+{Lock}잠금
+{Lock and Unlock processes may take some time.}잠금 및 잠금 해제 프로세스에는 시간이 걸릴 수 있습니다.
+{Lock Selected}선택한 항목 잠금
+{LOCKED}잠김
+{Locking}잠금
+{Logged in as administrator.}관리자로 로그인했습니다.
+{Login (Full Access)}로그인 (모든 권한)
+{Logout}로그아웃
+{lowercase}소문자
+{Lowercase}소문자
+{MAIN MENU}기본 메뉴
+{Mark as Complete}완료로 표시
+{Maximum:}최대:
+{Memory}메모리
+{Menu Hotkeys}메뉴 단축키
+{Merge all files with root of target folder}대상 폴더의 루트와 모든 파일 병합
+{MERGE MULTIPLE FOLDERS INTO ONE}여러 폴더를 하나로 병합
+{Merge Type:}병합 유형:
+{Method:}방법:
+{milliseconds}밀리초
+{Minimal Mode}최소 모드
+{Minimize when recording starts}녹화가 시작될 때 최소화
+{Minimum:}최소:
+{Minute}분
+{minutes}분
+{Mirror}미러
+{Mirror (Reset Target Folders)}미러 (대상 폴더 재설정)
+{Miscellaneous}기타
+{Mode}모드
+{Modified}수정 날짜
+{Monitor}모니터
+{Monitor External File Modification}외부 파일 수정 모니터
+{Month}월
+{Monthly}월간
+{Monthly:}월간:
+{Move}이동
+{Move (Delete Source Files and Folders)}이동 (원본 파일 및 폴더 삭제)
+{Move Down}아래로 이동
+{Move Info: Source files and folders were not deleted from disk because of copy error}정보 이동: 복사 오류로 인해 원본 파일 및 폴더가 디스크에서 삭제되지 않았습니다
+{Move Up}위로 이동
+{Moved}이동됨
+{Moving...}이동 중...
+{Multiple Files...}다중 파일...
+{Name}이름
+{Name of Container}내용의 이름
+{Name of Load}불러오기의 이름
+{Net Encoding}네트 인코딩
+{New}새로 만들기
+{New Project}새 프로젝트
+{New Reminder}새 알림
+{New Reminder...}새 알림...
+{New Sticker}새 스티커
+{New Window}새 창
+{Next Receipt Number:}다음 영수증 번호:
+{Next Rest:}다음 정지
+{No}아니오
+{No Audio}오디오 없음
+{No data found!}데이터를 찾을 수 없습니다!
+{No erroneous e-mail found.}잘못된 이메일을 찾을 수 없습니다.
+{No issues have been found.}문제가 발견되지 않았습니다.
+{No Item Selected!}선택된 항목이 없습니다!
+{No item selected!}선택한 항목이 없습니다!
+{No lines were affected!}영향을 받은 줄이 없습니다!
+{No mouse pointer}마우스 포인터 없음
+{No nag screen, no ads}시작 화면, 광고 없음
+{No replacements made.}대체품이 없습니다.
+{No Sound}소리 없음
+{No sticky notes left on the desktop!}바탕 화면에 스티커 메모가 남아 있지 않습니다!
+{No text selected!}선택한 텍스트가 없습니다!
+{Non-English}영어 아님
+{None}없음
+{Not applicable!}해당없음!
+{Not Paid:}미지급:
+{Note}참고
+{Note Window Margin:}참고 창 여백:
+{Notes Manager}참고 관리자
+{Notes Manager...}참고 관리자...
+{Num Lock}Num Lock
+{Num Lock: OFF}Num Lock: 끄기
+{Num Lock: ON}Num Lock: 켜기
+{Number of affected lines: %s}영향을 받는 줄 수: %s
+{Number of deleted lines: %s}삭제된 줄 수: %s
+{Number of Files:}파일 번호:
+{Number of Times:}횟수:
+{Numbers}번호
+{Numbers:}숫자:
+{Occurrence}발생
+{Odd Numbered Lines}홀수 번호 줄
+{Offline Activation}오프라인 활성화
+{Offset}오프셋
+{OK}확인
+{Online Help}온라인 도움말
+{Only %s entries exported using unlicensed version.}라이선스가 없는 버전을 사용하여 %s 항목만 내보냈습니다.
+{Only Once}한 번
+{Only Once:}한 번:
+{Open File}파일 열기
+{Open folder location...}폴더 위치 열기...
+{Open Folder Location...}폴더 위치 열기...
+{Open...}열기...
+{Operating Systems:}운영 시스템:
+{Operation File}운영 파일
+{Operation STOPPED!}작업이 중지되었습니다!
+{Operations}운영
+{Options}옵션
+{Options:}옵션:
+{Options...}옵션...
+{Ordinal Values of Characters}문자의 순서형 값
+{Original Size}원래 크기
+{Other}기타
+{Outlook CSV Format}Outlook CSV 형식
+{Output}출력
+{Output:}출력:
+{Overwrite Existing Files}기존 파일 덮어쓰기
+{Overwrite Read-Only Files}읽기 전용 파일 덮어쓰기
+{PAID}지불 완료
+{Paid}지불 완료
+{Paid:}지불 완료:
+{Password}암호
+{Password is changed.}암호가 변경되었습니다.
+{Password is incorrect!}암호가 틀립니다!
+{Password not accepted!}암호가 허용되지 않습니다!
+{Password Recovery E-mail:}이메일로 암호 복구:
+{Password:}암호:
+{Passwords do not match!}암호가 일치하지 않습니다!
+{Paste}붙여넣기
+{Payments}지불
+{PDF File (*.pdf)}PDF 파일 (*.pdf)
+{Permanently Delete}영구 삭제
+{Permanently Delete All}모두 영구 삭제
+{Phone Number}전화 번호
+{Play}재생
+{Play Sound Effect}소리 효과 재생
+{Play Sound Effects}효과음 재생
+{Please add containers!}내용을 추가하십시오!
+{Please add folders!}폴더를 추가하십시오!
+{Please add loads!}불러오기를 추가하십시오!
+{Please add source files!}소스 파일을 추가하십시요!
+{Please add target folders!}대상 폴더를 추가하십시요!
+{Please check your e-mail box.}이메일 상자를 확인하십시요.
+{Please check your internet connection!}인터넷 연결을 확인하십시오!
+{Please enter barcode or product name!}바코드 또는 제품 이름을 입력하십시오!
+{Please enter discount ratio:}할인율을 입력하십시오:
+{Please enter master password!}마스터 암호를 입력하십시오!
+{Please enter new currency symbol:}새 통화 기호를 입력하십시오:
+{Please enter password:}암호를 입력하십시요:
+{Please enter unit price:}단가를 입력하십시오:
+{Please enter your license key:}라이선스 키를 입력하십시오:
+{Please enter your license key!}라이선스 키를 입력하십시오!
+{Please keep it in a safe place. You need it to unlock your files and folders.}안전한 곳에 보관해 주세요. 파일 및 폴더의 잠금을 해제하려면 이 파일이 필요합니다
+{Please obtain a license key to activate the software.}소프트웨어를 활성화하려면 라이선스 키를 얻으십시오.
+{Please reinstall the software.}소프트웨어를 다시 설치하십시요.
+{Please reopen the software without administrator privileges.}관리자 권한 없이 소프트웨어를 다시 여십시오.
+{Please try again later!}나중에 다시 시도하십시오!
+{Please try again later.}나중에 다시 시도하십시오.
+{Please try:}시도해보십시오:
+{Please type NEW password:}새 암호를 입력하십시요:
+{Please type your CURRENT password:}현재 암호를 입력하십시오:
+{Please type your NEW e-mail:}새 이메일 주소를 입력하십시요:
+{Please type your NEW password:}새 암호를 입력하십시요:
+{Please type your NEW private key:}새 개인키 입력하십시요:
+{Please Wait For Backup Process!}백업 프로세스를 기다리십시오!
+{Preserve folder structure}폴더 구조 유지
+{Preview Sticker}미리보기 스티커
+{Price}가격
+{PRICE:}가격:
+{Print}인쇄
+{Print Setup}프린터 설정
+{Print Template}템플릿 인쇄
+{Print?}인쇄하시겠습니까?
+{Print...}인쇄...
+{Printer not found!}프린터를 찾을 수 없습니다.
+{Privacy Policy}개인 정보 보호 정책
+{Private Key}개인 키
+{Private key changed.}개인 키가 변경되었습니다.
+{Process}처리
+{Process completed!}프로세스 완료!
+{Processing...}처리 중...
+{Product}제품
+{Product List}제품 목록
+{Product List...}제품 목록...
+{PRODUCT NAME:}제품명:
+{Product successfully activated.}제품이 성공적으로 활성화되었습니다.
+{Product:}제품:
+{PRODUCTS}제품
+{Products}제품
+{Properties}속성
+{Purchase}구입
+{Quantity}수량
+{Random Number Generator}난수 생성기
+{Random Number Generator...}난수 생성...
+{Random Text Generator}임의 텍스트 생성기
+{Random Text Generator...}임의 텍스트 생성기...
+{Randomize Line Contents}줄 내용 무작위화
+{Randomize Line Order}줄 순서 무작위화
+{Read Reviews}리뷰 읽기
+{Ready}준비
+{Receipts}영수증
+{Recognize Environment Variables}환경 변수 인식
+{Recognize Network Drives}네트워크 드라이브 인식
+{RECORD}레코드
+{RECORD DATE:}레코드 날짜:
+{Recording...}녹음 중...
+{Recover Lost Files}손실된 파일 복구
+{Recover Password}암호 복구
+{Redo}다시 실행
+{Refresh Device List}장치 목록 새로고침
+{Refresh Hardware Encodings}하드웨어 인코딩 새로 고침
+{Refund Policy}환불 정책
+{Region}지역
+{Regular Expression}정규 표현식
+{Regular Expression...}정규 표현식...
+{Related Software}관련 소프트웨어
+{Release Date:}배포 날짜:
+{Remember Settings}설정 기억
+{Reminder}다시 알림
+{Reminders}다시 알림
+{Remove}제거
+{Remove All}모두 제거
+{Remove Anchor Links}앵커 링크 제거
+{Remove Query String Links}쿼리 문자열 링크 제거
+{Remove Selected}선택 항목 제거
+{Reopen}다시 열기
+{Replace}바꾸기
+{Replace by Space}공백으로 바꾸기
+{Reports}보고서
+{Required files are missing}필수 파일이 누락되었습니다
+{Reset}재설정
+{Reset Registry...}레지스트리 재설정...
+{Reset to Defaults}기본값으로 재설정
+{Reset Work Time}작업 시간 재설정
+{Response Timeout (ms):}응답 시간 초과 (ms):
+{Restart Application?}응용 프로그램을 다시 시작하시겠습니까？
+{Restore}복원
+{Restore from Backup...}백업에서 복구...
+{Restore when recording is complete}녹음이 완료되면 복원
+{Reverse}반전
+{Reverse Line Contents}줄 내용 반전
+{Reverse Line Sequence}줄 순서 반전
+{Right click to add new Stickers or Reminders.}마우스 오른쪽 버튼을 클릭하여 새 스티커 또는 알림을 추가합니다.
+{Right-click tray icon}오른쪽 버튼 트레이 아이콘
+{Run With}함께 실행
+{SALES}판매
+{Sample Text}예제 텍스트
+{Sample Values}예제 값
+{Save}저장
+{Save As...}다른 이름으로 저장...
+{Save Operation File As...}다른 이름으로 작업 파일 저장...
+{Save Operation File...}작업 파일 저장...
+{Save Project As...}다른 이름으로 프로젝트 저장...
+{Save Results}결과 저장
+{Save source list to file...}소스 목록을 파일로 저장...
+{Save target list to file...}대상 목록을 파일로 저장...
+{Scheduled Task}예약된 작업
+{Scheduled Task...}예약된 작업...
+{Screen capture failed!}화면 캡처 실패!
+{Screen capture interrupted!}화면 캡처가 중단되었습니다!
+{ScreenSnap}스크린 스냅
+{ScreenSnap:}스크린 스냅
+{Scroll Lock}Scroll Lock
+{Scroll Lock: OFF}Scroll Lock 끄기
+{Scroll Lock: ON}Scroll Lock 켜기
+{Search}검색
+{Search Every Line with Google}Google로 모든 줄 검색
+{Search:}검색:
+{Search...}검색...
+{seconds}초
+{Secure your files and folders}파일 및 폴더 보안
+{Select}선택
+{Select All}모두 선택
+{Select folder:}폴더 선택:
+{Select Language}언어 선택
+{Select Product}제품 선택
+{Select Region and Close}지역 선택하고 닫기
+{Select your favourite theme}좋아하는 테마 선택
+{Selected}선택함
+{SELL BY CASH}현금 판매
+{Sell by Cash}현금 판매
+{SELL BY CREDIT}신용 판매
+{Sell by Credit}신용 판매
+{Semicolon}세미 콜론
+{Send}보내기
+{Send e-mail?}이메일을 보내시겠습니까?
+{Send Feedback}피드백 보내기
+{Send Feedback...}피드백 보내기...
+{Send to Recycle Bin}휴지통으로 보내기
+{SEO Audit}SEO 감사
+{Separate by Char}문자로 구분
+{Separate by String}문자열로 구분
+{Separate Long Lines (Break Words)}긴 줄 분리 (단어 분리)
+{Separate Long Lines (Keep Words)}긴 줄 분리 (단어 유지)
+{Server Time:}서버 시간:
+{Server:}서버:
+{Set as Default Encoding}기본 인코딩으로 설정
+{Settings}설정
+{Settings...}설정...
+{Show}표시
+{Show aboutbox}정보 상자 표시
+{Show All Stickers}모든 스티커 표시
+{Show Date Time}날짜 시간 표시
+{Show Details}상세 표시
+{Show feedback window}피드백 창 표시
+{Show Idle Time:}유휴 시간 표시:
+{Show Letters and Numbers without Special Keys}특수 키 없이 문자 및 숫자 표시
+{Show Links...}링크 표시...
+{Show Notifications}알림 표시
+{Show Options}옵션 표시
+{Show when status changes}상태 변경시 표시
+{Show Window}창 표시
+{Sign up}가입
+{Simple Mode}단순 모드
+{Simulate Keypress:}키 누르기 시뮬레이션:
+{Small Buttons}작은 버튼
+{Software}소프트웨어
+{Software encoding}소프트웨어 인코딩
+{Something went wrong. Your feedback could not be delivered.}뭔가 잘못되었습니다. 피드백을 전달할 수 없습니다.
+{Sort}정렬
+{Sort Lines}줄 정렬
+{Sound Effect}소리 효과
+{Sound:}소리
+{Source (Files, Folders, URLs)}소스 (파일, 폴더, URL)
+{Source URL}원본 URL
+{Space}공백
+{Space key:}스페이스 키:
+{Spell Check}맞춤범 검사
+{Spell Checker}맞춤법 검사기
+{Spell Checker:}맞춤법 검사기:
+{Split Lines}분할 선
+{Start}시작
+{Start download}다운로드 시작
+{Start Working}작업 시작
+{Start:}시작:
+{Status}상태
+{Status Bar}상태 표시줄
+{Status Code}상태 코드
+{Stay on Top}맨 위에 고정
+{Stickers}스티커
+{Stock}재고
+{STOCK BALANCE:}재고량:
+{Stock Inventory Count Sheet}재고 관리 대장
+{Stock Inventory Count Sheet...}재고 관리 대장...
+{STOP}중지
+{Stop download}다운로드 중지
+{Stop:}중지:
+{Strip HTML Markup}HTML 마크업 제거
+{Subdomain Name}하위 도메인 이름
+{Success}성공
+{SUCCESS}성공
+{Suggested Corrections}제안된 수정 사항
+{Support}지원
+{Sync Computer Time}컴퓨터 시간 동기화
+{Syntax}구문
+{System Audio}시스템 오디오
+{System Error.}시스템 오류.
+{System Tray Menu}시스템 트레이 메뉴
+{Tab}탭
+{Tab Indent}탭 들여쓰기
+{Tab Options}탭 옵션
+{Tab Options...}탭 옵션...
+{Tab Size:}탭 크기:
+{Target Folder}대상 폴더
+{Target folder is not defined!}대상 폴더가 정의되지 않았습니다!
+{Target Folder:}대상 폴더:
+{Target Folders}대상 폴더
+{Test Alert}시험 경고
+{Testimonials}추천글
+{Text}텍스트
+{Text Color:}텍스트 색상
+{Text Engine}텍스트 엔진
+{Text File}텍스트 파일
+{Text File (*.txt)}텍스트 파일 (*.txt)
+{Text File (TXT)...}텍스트 파일 (TXT)
+{Text not found!}텍스트를 찾을 수 없음!
+{Text:}텍스트:
+{Thank you}감사합니다
+{Thank you!}감사합니다!
+{The file could not be created!}파일을 만들 수 없습니다!
+{The file is empty!}파일이 비어 있습니다!
+{The file is very large. Do you still want to try to open it?}파일이 매우 큽니다. 그래도 열어보시겠습니까?
+{The server returned an invalid response.}서버에서 잘못된 응답을 반환했습니다.
+{The specified region is not valid!}지정한 지역이 잘못되었습니다!
+{The text contains no lines!}텍스트에 줄이 없습니다!
+{Theme}테마
+{This action cannot be undone!}이 작업은 취소할 수 없습니다!
+{This is an example note.}이것은 예제입니다.
+{This is required for importing in Gmail and Outlook.}Gmail 및 Outlook에서 가져오려면 이 작업이 필요합니다
+{This is your first sticker!}이것은 첫 번째 스티커입니다!
+{This software works best without administrator privileges.}이 소프트웨어는 관리자 권한 없이 가장 잘 작동합니다.
+{Time}시간
+{Time Remaining:}남은 시간:
+{Timestamp}타임스탬프
+{Title}제목
+{Titles}제목
+{To Existing Lines}기존 줄에
+{To New Lines...}새 줄로...
+{Tool Bar}도구 표시줄
+{Tools}도구
+{Top}위
+{Top Selling Products}최고 판매 제품
+{Top Selling Products...}최고 판매 제품...
+{Total}합계
+{Total URLs: %s}총 URL: %s
+{TOTAL:}합계:
+{Total:}합계:
+{Translated by:}번역자:
+{Transparency:}투명성:
+{Tray Notifications:}트레이 알림:
+{Trial}체험판
+{TRIAL LIMIT REACHED!}평가판 제한에 도달
+{TRIAL VERSION}체험판
+{Trim All}모두 자르기
+{Trim Both}양쪽 자르기
+{Trim Left}왼쪽 자르기
+{Trim Lines}줄 자르기
+{Trim Right}오른쪽 자르기
+{Truly Empty Lines}실제 빈 줄
+{Try to run as Administrator.}관리자로 실행
+{Turn Off}끄기
+{Turn On}켜기
+{Type}유형
+{Undo}실행 취소
+{Unicode Detector}유니코드 탐지기
+{Unit}단위
+{UNLICENSED}무허가
+{Unlock}잠금 해제
+{UNLOCK ERROR}잠금 해제 오류
+{Unlock Selected}선택한 항목 잠금 해제
+{Unlocked}잠금 해제됨
+{Unlocking}잠금 해제 중
+{Unnamed}이름 없음
+{UPDATE}업데이트
+{UPDATE AVAILABLE}사용 가능한 업데이트
+{Update Notifications}업데이트 알림
+{UPPERCASE}대문자
+{Uppercase and Lowercase}대문자 및 소문자
+{URL}URL
+{URL Highlighter (No Spell Check)}URL 강조 (맞춤법 검사 없음)
+{URL Length}URL 길이
+{URL not found!}URL을 찾을 수 없습니다!
+{URL Processor}URL 프로세서
+{URL:}URL:
+{USE AT YOUR OWN RISK!}자신의 책임으로 사용하세요!
+{User Interface Language:}사용자 인터페이스 언어:
+{User will press keys}사용자가 키를 누릅니다
+{User-Agent String:}사용자-에이전트 문자열:
+{using Characters}문자 사용
+{using File}파일 사용
+{using Text}텍스트 사용
+{using Text Length}텍스트 길이 사용
+{VCF Files (*.vcf)}VCF 파일 (*.vcf)
+{Verify that the file has not been corrupted and that the file extension matches the format of the file.}파일이 손상되지 않았는지, 파일 확장자가 파일 형식과 일치하는지 확인합니다.
+{Version History}버전 히스토리
+{Video file error!}비디오 파일 오류!
+{View}보기
+{View Source...}원본 보기...
+{Volume}볼륨
+{Volume Limit}볼륨 제한
+{Volume of Container}내용의 볼륨
+{Volume of Load}불러오기의 볼륨
+{Vovsoft Newsletter}Vovsoft 소식지
+{Warning}경고
+{WARNING}경고
+{We would really appreciate your feedback.}귀하의 피드백에 깊이 감사드립니다.
+{Weekdays}평일
+{Welcome to %s}%s오신 걸 환영합니다
+{Welcome to Our Shop}저희 매장에 오신 것을 환영합니다
+{What did you like or dislike?}무엇을 좋아하거나 싫어했습니까?
+{What numbers will be added?}어떤 숫자가 추가됩니까?
+{Which Customer?}어떤 고객입니까?
+{Width}너비
+{Width:}너비:
+{Word Wrap}줄 바꿈
+{Work Time:}작업 시간:
+{Wrong Admin Password!}관리자 암호가 잘못되었습니다!
+{Wrong password!}암호가 틀립니다!
+{X:}X
+{Y:}Y
+{Yes}예
+{You are here:}현재 위치:
+{You are not logged as admin!}관리자로 기록되지 않았습니다!
+{You can preview the font and color settings here.}여기서 글꼴 및 색 설정을 미리 볼 수 있습니다.
+{You can't go further than:}더 이상 진행할 수 없습니다:
+{You cannot use this feature in unlicensed edition.}라이선스가 없는 버전에서는 이 기능을 사용할 수 없습니다.
+{You want to go to:}이동 대상:
+{Your feedback is received.}피드백을 받았습니다.
+{Your master password is successfully set.}마스터 암호가 설정되었습니다.
+{Add Thousand Separator to Numbers}
+{Yahoo CSV Format}

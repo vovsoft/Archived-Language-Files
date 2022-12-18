@@ -1,0 +1,1009 @@
+﻿{INFO:Translated By}Arjan op t Hof
+{12 hour}12 uur
+{24 hour}24 uur
+{A required file is missing:}Een vereist bestand is niet gevonden
+{Ability to disable update notifications}Mogelijkheid om updateberichten uit te schakelen
+{About}Over
+{About Us}Over ons
+{About...}Over...
+{Access is denied.}Toegang niet toegestaan.
+{Acknowledgements...}Dank...
+{Activation}Activatie
+{Activation Code:}Activatie code
+{Activation failed.}Activatie werkt niet.
+{ADD}TOEVOEGEN
+{Add}Toevoegen
+{Add context menu item}Context-menuoptie toevoegen
+{Add Dictionary...}Woordenboek toevoegen ...
+{Add Drive}Voeg station toe
+{Add File}Voeg bestand toe
+{Add File(s)}Voeg bestand(en) toe
+{Add File(s)...}Voeg bestand(en) toe...
+{Add Files...}Bestanden toevoegen ...
+{Add Folder}Voeg map toe
+{Add Folder...}Voeg map toe...
+{Add Folders...}Mappen toevoegen ...
+{Add Product Manually}Voeg product handmatig toe
+{Add Recursive Subfolders...}Voeg recursieve onderliggende mappen toe...
+{Add Subfolders...}Voeg onderliggende mappen toe...
+{Add URL(s)...}Voeg URL(s) toe...
+{Add URLs...}URL's toevoegen ...
+{Add using Environment Variables}Toevoegen met omgevingsvariabelen
+{Add Word To Dictionary}Woord Aan Woordenboek Toevoegen
+{Admin Password}Admin wachtwoord
+{Alert Text:}Waarschuwingstekst:
+{All Customers}Alle klanten
+{All files must be unlocked before enabling or disabling content encryption!}Alle bestanden moeten worden ontgrendeld voordat de contentversleuteling wordt ingeschakeld of uitgeschakeld!
+{All Products}Alle producten
+{Alphabet}Alfabet
+{Alphabetical}Alfabetisch
+{Always on Top}Altijd bovenaan
+{Always on top}Altijd bovenop
+{Always show when toggled on}Wordt altijd weergegeven wanneer ingeschakeld
+{An error occurred while creating directory:}Een fout trad op bij het aanmaken van een map
+{An error occurred while unlocking:}Een fout trad op bij het ontgrendelen
+{Analyze...}Analyseren ...
+{And please backup your important files and folders before locking in case of hardware or software failure.}Maak aub een backup van uw belangrijke bestanden en mappen voor het vergrendelen, voor het geval er een hardware of software fout optreedt.
+{Annually}Jaarlijks
+{Annually:}Jaarlijks:
+{Any File}Willekeurig bestand
+{Are you sure?}Weet u het zeker?
+{Arrange Stickers}Stickers rangschikken
+{ASCII Art...}ASCII-kunst ...
+{Ask Print}Vraag afdrukken
+{Audio file error!}Fout in audiobestand!
+{Auto Copy Highlighted Text to Clipboard}Automatisch kopiëren geaccentueerde tekst naar klembord
+{Auto Refresh File}Bestand automatisch vernieuwen
+{Auto Run at Startup}Automatisch uitvoeren bij opstarten
+{Auto-Close Popup Window After Finishing}Voorgrondvenster automatisch sluiten na voltooiing
+{Auto-Closing...}Automatisch sluiten ...
+{Auto-Refresh Drive List}Auto-Lijst van stations vernieuwen
+{Auto-Start at Startup}Automatisch starten met Windows
+{Background Color:}Achtergrondkleur:
+{Backup Registry...}Register backuppen...
+{Backup Stickers}Backupstickers
+{Backup...}Backup maken ...
+{Barcode}Barcode
+{BARCODE:}BARCODE:
+{Begin:}Begin:
+{Beginning of Each Line...}Begin van elke regel ...
+{Big Icons}Grote iconen
+{Blog}Blog
+{BREAK TIME!}TIJD OM TE BREKEN!
+{Browse...}Bladeren...
+{Buy Now}Koop nu
+{Cancel}Annuleer
+{Cancel product selection}Annuleer product selectie
+{CANCELED by User Request}Geannuleerd op verzoek van gebruiker
+{Canceled!}Geannuleerd!
+{Cannot create file}Kan bestand niet maken
+{Capitalize (First Letters Only)}Hoofdletters (alleen eerste letters)
+{Caps Lock}Caps Lock
+{Caps Lock: OFF}Caps Lock: UIT
+{Caps Lock: ON}Caps Lock: AAN
+{Cascade}Trapsgewijs
+{Category:}Categorie
+{Change Background Color}Achtergrondkleur wijzigen
+{Change Background Color...}Achtergrondkleur wijzigen ...
+{Change File Location...}Locatie van bestand wijzigen ...
+{Change Font...}Lettertype wijzigen ...
+{Change Interface}Pas interface aan
+{Change Login Password...}Wijzig wachtwoord...
+{Change Menu Font...}Lettertype wijzigen ...
+{Change Recovery E-mail}Wijzig herstel e-mailadres
+{Change Text Font}Lettertype voor tekst wijzigen
+{Change Theme}Thema wijzigen
+{Change:}Wijzig:
+{Classical Interface}Klasieke interface
+{Click to download}Klik om te downloaden
+{Clip Lines...}Clip lijnen ...
+{Close}Sluiten
+{Code:}Code:
+{Combine Lines...}Regels combineren ...
+{Commercial use allowed}Voor commerciële toepassing toegestaan
+{Company}Bedrijf
+{Compare Two Texts...}Twee teksten vergelijken ...
+{Completed!}Voltooid!
+{Completed.}Voltooid.
+{Computer Code:}Computercode:
+{Computer Time:}Computertijd:
+{Computer Timezone:}Computertijdzone:
+{Computer will press keys}Computer zal toetsen
+{Confirm Before Deletion}Bevestigen voor wissen
+{Confirm Password:}Wachtwoord bevestigen:
+{Confirm?}Bevestig?
+{Confirmation}Bevestiging
+{Connection Error!}Verbindingsfout!
+{Contact}Contactpersoon
+{Content Encryption (SLOW)}Contentversleuteling (SLOW)
+{Content encryption is enabled.}Versleuteling van content is ingeschakeld.
+{Continue}Doorgaan
+{Contribute to Translation}Draag bij aan de vertaling
+{Convert Non-English Chars to English Chars}Niet-Engelse tekens converteren naar Engelse tekens
+{Copied}Gekopieerd
+{Copy}Kopiëren
+{Copy All}Alles kopiëren
+{Copy files to many directories}Kopieer bestanden naar veel mappen
+{COPY INTO TARGET FOLDERS}KOPIEER NAAR DOELMAPPEN
+{CREDIT:}KREDIET:
+{Credits}Dank
+{CSV File}CSV bestand
+{Currency Symbol}Valutasymbool
+{Customer}Klant
+{Customer with credit cannot be deleted!}Klant met openstaande tegoeden kan niet verwijderd worden!
+{CUSTOMER:}KLANT:
+{Customer:}Klant:
+{CUSTOMERS}KLANTEN
+{Customers}Klanten
+{Cut}Knippen
+{Daily}Dagelijks
+{Daily:}Dagelijks:
+{Dark}Donker
+{Date}Datum
+{Date and Time}Datum en tijd
+{Daylight Saving:}Zomertijd:
+{Decode...}Decoderen ...
+{Default}Standaard
+{Default Alphabet}Standaardalfabet
+{Del key:}Del-toets:
+{Delete}Wissen
+{DELETE}VERWIJDER
+{Delete After}Wissen na
+{DELETE ALL}ALLE WISSEN
+{Delete All}Alles wissen
+{Delete All Spaces}Alle ruimten wissen
+{Delete Alphabetic [a-z] [A-Z]}Alfabetisch wissen [ a-z] [ A-Z]
+{Delete Alphanumeric [a-z] [A-Z] [0-9]}Alfanumeriek wissen [ a-z] [ A-Z] [ 0-9]
+{Delete Before}Wissen voor
+{Delete Beginning or Ending Strings...}Begin-of eindreeksen wissen ...
+{Delete Chars}Chars verwijderen
+{DELETE CUSTOMER}VERWIJDER KLANT
+{Delete Customer}Verwijder klant
+{Delete Extra Spaces}Extra spaties verwijderen
+{Delete last entered product}Verwijder laatst toegevoegd product
+{Delete Non-Alphabetic}Niet-alfabetisch wissen
+{Delete Non-Alphanumeric}Niet-alfanumeriek wissen
+{Delete Numbers [0-9]}Nummers wissen [ 0-9]
+{DELETE PRODUCT}VERWIJDER PRODUCT
+{Delete Record}Verwijder record
+{Delete Reminder}Herinnering wissen
+{Delete Selected}Verwijder selectie
+{Delete Unnecessary Lines}Onnodige regels wissen
+{Delete?}Wissen?
+{Deselect All}Deselecteer alles
+{DETAILS}GEGEVENS
+{Diagonal}Diagonaal
+{Directory:}Directory:
+{Disabled}Uitgeschakeld
+{Discount}Korting
+{Discounted Price}Korting prijs
+{Discounted Total}Totale korting
+{Disk Write Interval (sec):}Schijfschrijfinterval (sec):
+{Display Load Time}Laadtijd afbeelden
+{Display Prices}Geef prijzen weer
+{Display Special Chars}Speciale tekens afbeelden
+{Do you really want to delete ALL stickers?}Weet u zeker dat u alle stickers wilt verwijderen?
+{Do you really want to delete the reminder?}Weet u zeker dat u de herinnering wilt wissen?
+{Do you really want to delete the sticker?}Weet u zeker dat u de sticker wilt verwijderen?
+{Do you want to save the current file before exit?}Wilt u het huidige bestand opslaan voordat u afsluit?
+{Do you want to save the current file?}Wilt u het huidige bestand opslaan?
+{Do you want to save this file before exit?}Wilt u dit bestand opslaan voordat u afsluit?
+{Do you want to save this file?}Wilt u dit bestand opslaan?
+{Download}Download
+{Drag Drop Filenames}Drop-bestandsnamen verslepen
+{Drive}Station
+{DRIVE MISMATCH}SCHIJF KOMT NIET OVEREEN
+{Drive:}Station:
+{Duplicate Lines}Dubbele regels
+{E-mail}E-mail
+{E-mail is changed.}E-mail is aangepast.
+{E-mail not accepted!}E-mail is niet geaccepteerd!
+{E-mail Processor}E-mailprocessor
+{Edit}Bewerken
+{Edit License}Bewerk licentie
+{Edit License...}Bewerk licentie...
+{Edit Password}Wijzig wachtwoord
+{Elapsed Time:}Verlopen tijd:
+{Email Address}Email adres
+{Empty}Leeg
+{Empty Lines (can include spaces and tabs)}Lege regels (kan spaties en tabs bevatten)
+{Enable}Inschakelen
+{Enabled}Ingeschakeld
+{Encode...}Coderen ...
+{Encoding}Codering
+{Encryption}Versleuteling
+{End of Each Line...}Einde van elke regel ...
+{End-User License Agreement}Eindgebruikers overeenkomst
+{End:}Einde:
+{English}Engels
+{Enter License Key}Voer licentiesleutel in
+{Entire Document}Volledig document
+{Error}Fout
+{ERROR}FOUT
+{Error No:}Foutnummer:
+{ESC key:}ESC-sleutel:
+{EULA}EULA
+{Exit}Afsluiten
+{Exit Application?}Applicatie afsluiten?
+{Exit...}Afsluiten...
+{EXITING...}AFSLUITEN...
+{Explore Dictionaries...}Woordenboeken verkennen ...
+{Export}Uitvoer
+{Export to File...}Export naar bestand...
+{Export to HTML...}Exporteren naar HTML ...
+{Export to PDF...}Exporteren naar PDF ...
+{Extract Image...}Afbeelding extraheren ...
+{Extract Text...}Tekst extraheren ...
+{Failed}Mislukt
+{Failure}Mislukt
+{Feedback}Feedback
+{feedback}terugkoppeling
+{File}Bestand
+{File already exists!}Bestand bestaat al!
+{File does NOT exist:}Bestand bestaat NIET:
+{File inaccessible!}Bestand niet toegankelijk!
+{File List}Bestandslijst
+{File Location}Bestandslocatie
+{File Location:}Bestandslocatie:
+{File lock error!}Fout bij vergrendelen van bestand!
+{File Mask}Bestandsmasker
+{File not found!}Bestand niet gevonden!
+{Filename:}Bestandsnaam:
+{Files & Folders}Bestanden & mappen
+{Filter Lines}Filterregels
+{Find}Zoeken
+{Find Erroneous E-mails}Foutieve e-mails zoeken
+{Find Next}Volgende zoeken
+{Find Next Misspelling}Volgende misspelling zoeken
+{Fixed-Pitch Fonts Only}Alleen vaste-pitch-lettertypen
+{Folder}Map
+{Folder does NOT exist:}Map bestaat NIET:
+{Folder Size:}Mapgrootte:
+{Folder:}Map:
+{For 1}Voor 1
+{For 10}Voor 10
+{For 100}Voor 100
+{For 20}Voor 20
+{For 200}Voor 200
+{For 5}Voor 5
+{For 50}Voor 50
+{Forgot Password?}Wachtwoord vergeten?
+{FREE}GRATIS
+{Free Edit}Vrij bewerken
+{Free to try}Gratis proberen
+{FREEWARE}FREEWARE
+{Freeware}Freeware
+{Freeware Utilities}Freeware Utilities
+{Full Screen}Groot scherm
+{Generate Barcode Image...}Streepjescodeafbeelding genereren ...
+{Generate E-mail List}E-maillijst genereren
+{Generate Word List}Word-lijst genereren
+{Get Server Time}Servertijd ophalen
+{Go to...}Ga naar ...
+{GRAND TOTAL:}TOTAAL:
+{Header}Kop
+{Headers}Koppen
+{Height:}Hoogte:
+{Help}Help
+{Hidden}Verborgen
+{Hide All Stickers}Alle stickers verbergen
+{Hide Details}Verberg details
+{Highlight Active Line}Actieve lijn markeren
+{Highlight Even Lines}Zelfs lijnen accentueren
+{Highlight Odd Lines}Oneven lijnen accentueren
+{Home}Thuis
+{Hotkey:}Sneltoets:
+{Hourly}Elk uur
+{Hourly:}Uur:
+{How to uninstall...}Hoe te verwijderen...
+{I dislike it!}Ik vind het niet leuk!
+{I like it!}Ik vind het leuk!
+{ID Transformer...}ID-transformator ...
+{Idle Time:}Inactieve tijd:
+{If no keyboard or mouse events occur for "Idle Time", "Work Time" resets.}"Werktijd" wordt opnieuw ingesteld als er geen toetsenbord-of muisevent optreedt voor "Idle Time".
+{If you like the software, please buy a license to make this software fully functional and remove this window.}Als u het programma goed vind, koop aub een licentie om de volledige software te kunnen gebruiken en dit scherm te verwijderen.
+{Ignore}Negeren
+{Ignore Drive Mismatch While Unlocking}Incorrecte schijf negeren bij het ontgrendelen
+{Ignore Failed Files While Unlocking}Mislukte bestanden negeren bij het ontgrendelen
+{Import}Importeren
+{Import from File...}Importeren uit bestand ...
+{IMPORTANT}BELANGRIJK
+{Include my e-mail:}Neem mijn e-mail op:
+{Indicates status of keys}Geeft de status van de toetsen aan
+{Info}Info
+{Information}Informatie
+{Insert}Invoegen
+{Insert Empty Lines}Lege regels invoegen
+{Insufficient stock!}Niet voldoende voorraad!
+{Invalid E-mail!}Ongeldig e-mailadres!
+{Invalid Entry!}Ongeldige invoer!
+{Keyboard Shortcuts}Sneltoetscombinaties
+{KeyPress Simulator}KeyPress Simulator
+{Language}Taal
+{Language:}Taal:
+{Language...}Taal...
+{LED Color (OFF):}LED-kleur (UIT):
+{LED Color (ON):}LED-kleur (AAN):
+{Left click to show Stickers on top.}Links klikken om stickers op de top te tonen.
+{License key is invalid!}Licentiesleutel is ongeldig!
+{License:}Licentie:
+{License...}Licentie...
+{Licensed}Gelicenseerd
+{Licensed to:}Gelicenseerd aan:
+{Lifetime free updates}Levenslange gratis updates
+{Light}Licht
+{Line Length}Lijnlengte
+{Line Numbers}Regelnummers
+{Line Order}Regelvolgorde
+{List}Lijst
+{Load}Laden
+{Load And Run Operation Files...}Bewerkingsbestanden Laden En Uitvoeren ...
+{Load Operation File...}Laad uitvoerend bestand...
+{Load source list from file...}Bronlijst uit bestand laden ...
+{Load target list from file...}Doellijst laden uit bestand ...
+{Load vCards from VCF file...}VCards laden uit VCF-bestand ...
+{Load...}Laden...
+{Loading}Laden
+{Loading...}Laden...
+{Lock}Vergrendelen
+{Lock and Unlock processes may take some time.}Het vergrendelen en ontgrendelen kan enige tijd in beslag nemen.
+{Lock Selected}Vergrendel selectie
+{LOCKED}VERGRENDELD
+{Locking}Vergrendeling
+{Login (Full Access)}Aanmelding (volledige toegang)
+{Logout}Uitloggen
+{lowercase}kleine letters
+{Lowercase}Kleine letters
+{MAIN MENU}HOOFDMENU
+{Mark as Complete}Markeren als voltooid
+{Minimal Mode}Minimale modus
+{minutes}minuten
+{Mode}Modus
+{Monitor External File Modification}Externe bestandswijziging bewaken
+{Monthly}Maandelijks
+{Monthly:}Maandelijks:
+{Move (Delete Source Files and Folders)}Verplaatsen (bronbestanden en mappen wissen)
+{Move Down}Omlaag verplaatsen
+{Move Info: Source files and folders were not deleted from disk because of copy error}Verplaatsinfo: Bronbestanden en mappen zijn niet van de schijf verwijderd vanwege een kopieerfout
+{Move Up}Omhoog
+{Multiple Files...}Meerdere bestanden ...
+{Net Encoding}Netcodering
+{New}Nieuw
+{New Reminder...}Nieuwe herinnering ...
+{New Sticker}Nieuwe sticker
+{New Window}Nieuw venster
+{Next Receipt Number:}Volgend ontvangstnummer:
+{Next Rest:}Volgende Rust:
+{No}Nee
+{No Audio}Geen audio
+{No Item Selected!}Geen item geselecteerd
+{No item selected!}Geen item geselecteerd!
+{No nag screen, no ads}Geen nag scherm, geen advertenties
+{No Sound}Geen geluid
+{Non-English}Niet-Engels
+{None}Geen
+{Not applicable!}Niet van toepassing!
+{Not Paid:}Niet betaald:
+{Note Window Margin:}Notitiemarge opmerking:
+{Notes Manager...}Notes-manager ...
+{Num Lock}Num Lock
+{Num Lock: OFF}Num Lock: UIT
+{Num Lock: ON}Num Lock: AAN
+{Number of Files:}Aantal bestanden:
+{Numbers}Nummers
+{Offline Activation}Offline activering
+{OK}OK
+{Online Help}Online Help
+{Only Once}Slechts eenmaal
+{Only Once:}Slechts Één Keer:
+{Open File}Bestand openen
+{Open folder location...}Maplocatie openen ...
+{Open Folder Location...}Maplocatie openen ...
+{Open...}Openen ...
+{Operating Systems:}Besturingssystemen:
+{Operation File}Bewerkingsbestand
+{Operation STOPPED!}Bewerking GESTOPT!
+{Operations}Bewerkingen
+{Options}Opties
+{Options...}Opties ...
+{Original Size}Oorspronkelijke grootte
+{Output:}Uitvoer:
+{Overwrite Existing Files}Bestaande bestanden overschrijven
+{Overwrite Read-Only Files}Alleen-lezen bestanden overschrijven
+{PAID}BETAALD
+{Paid}Betaald
+{Paid:}Betaald:
+{Password}Wachtwoord
+{Password is changed.}Wachtwoord is gewijzigd.
+{Password is incorrect!}Wachtwoord is onjuist!
+{Password not accepted!}Wachtwoord is niet geaccepteerd!
+{Password Recovery E-mail:}Wachtwoord herstel e-mailadres:
+{Password:}Wachtwoord:
+{Passwords do not match!}Wachtwoorden komen niet overeen!
+{Paste}Plakken
+{Payments}Betalingen
+{Play}Afspelen
+{Play Sound Effect}Speel geluidseffect af
+{Please add source files!}Voeg bronbestanden toe!
+{Please add target folders!}Voeg doelmappen toe!
+{Please check your e-mail box.}Controleer uw e-mail box.
+{Please check your internet connection!}Controleer uw internetverbinding!
+{Please enter barcode or product name!}Voer barcode of productnaam in!
+{Please enter discount ratio:}Voer de disconteringsverhouding in:
+{Please enter master password!}Voer het hoofdwachtwoord in!
+{Please enter new currency symbol:}Geef een nieuw valutateken op:
+{Please enter password:}Voer het wachtwoord in:
+{Please enter unit price:}Geef de prijs per eenheid op:
+{Please enter your license key:}Voer uw licentiesleutel in:
+{Please enter your license key!}Voer uw licentiesleutel in!
+{Please keep it in a safe place. You need it to unlock your files and folders.}Bewaar het op een veilige plek. U hebt het nodig om uw bestanden en mappen te ontgrendelen.
+{Please reinstall the software.}Installeer de software opnieuw.
+{Please reopen the software without administrator privileges.}Open de software opnieuw zonder beheerdersmachtiging.
+{Please try again later.}Probeer het later opnieuw.
+{Please try:}Probeer het volgende:
+{Please type NEW password:}Typ het nieuwe wachtwoord:
+{Please type your CURRENT password:}Typ uw huidige wachtwoord:
+{Please type your NEW e-mail:}Typ uw nieuwe e-mail:
+{Please type your NEW password:}Typ uw nieuwe wachtwoord:
+{Please Wait For Backup Process!}Even Geduld A.u.b.!
+{Preview Sticker}Preview van sticker
+{Price}Prijs
+{PRICE:}PRIJS:
+{Print}Afdrukken
+{Print Setup}Afdrukinstellingen
+{Print Template}Afdruksjabloon
+{Print?}Afdrukken?
+{Print...}Afdrukken ...
+{Printer not found!}Printer niet gevonden!
+{Privacy Policy}Privacybeleid
+{Process}Proces
+{Process completed!}Proces voltooid!
+{Processing...}Verwerken ...
+{Product}Product
+{Product List}Productlijst
+{Product List...}Lijst van producten ...
+{PRODUCT NAME:}PRODUCTNAAM:
+{Product successfully activated.}Activatie gelukt.
+{Product:}Product:
+{PRODUCTS}PRODUCTEN
+{Products}Producten
+{Purchase}Kopen
+{Quantity}Hoeveelheid
+{Random Number Generator}Willekeurige getalgenerator
+{Random Number Generator...}Willekeurige nummergenerator ...
+{Random Text Generator}Willekeurige tekstgenerator
+{Random Text Generator...}Willekeurige tekstgenerator ...
+{Randomize Line Contents}Lijninhoud willekeurig aanpassen
+{Randomize Line Order}Regelvolgorde willekeurig wijzigen
+{Read Reviews}Leesbeoordelingen
+{Receipts}Ontvangsten
+{Recognize Environment Variables}Omgevingsvariabelen herkennen
+{Recognize Network Drives}Netwerkstations herkennen
+{RECORD}RECORD
+{RECORD DATE:}RECORDDATUM:
+{Recover Lost Files}Verloren bestanden herstellen
+{Recover Password}Wachtwoord herstellen
+{Redo}Opnieuw uitvoeren
+{Refresh Device List}Apparaatlijst vernieuwen
+{Refund Policy}Terugbetalingsbeleid
+{Region}Regio
+{Regular Expression...}RegEx ...
+{Related Software}Gerelateerde software
+{Release Date:}Releasedatum:
+{Remember Settings}Instellingen onthouden
+{Reminder}Herinnering
+{Remove}Verwijderen
+{Remove All}Alles verwijderen
+{Remove Selected}Selectie verwijderen
+{Reopen}Heropenen
+{Replace}Vervangen
+{Reports}Verslagen
+{Required files are missing}Vereiste bestanden ontbreken
+{Reset}Opnieuw instellen
+{Reset to Defaults}Standaardwaarden opnieuw instellen
+{Reset Work Time}Werktijd opnieuw instellen
+{Restart Application?}Start toepassing opnieuw?
+{Restore from Backup...}Terugzetten vanaf backup ...
+{Reverse}Achteruit
+{Reverse Line Contents}Inhoud van omgekeerde lijn
+{Reverse Line Sequence}Volgorde van omgekeerde lijn
+{Right click to add new Stickers or Reminders.}Klik met de rechtermuisknop om nieuwe stickers of herinneringen toe te voegen.
+{Run With}Uitvoeren met
+{SALES}ARTIKELEN
+{Sample Text}Voorbeeldtekst
+{Save}Opslaan
+{Save As...}Opslaan als ...
+{Save Operation File As...}Bewerkingsbestand opslaan als ...
+{Save Operation File...}Bewerkingsbestand opslaan ...
+{Save source list to file...}Bronlijst opslaan in bestand ...
+{Save target list to file...}Doellijst opslaan in bestand ...
+{ScreenSnap}SchermSnap
+{ScreenSnap:}Screensnap:
+{Scroll Lock}Scroll Lock
+{Scroll Lock: OFF}Scroll Lock: UIT
+{Scroll Lock: ON}Scroll Lock: AAN
+{Search:}Zoeken:
+{Search...}Zoeken ...
+{seconds}seconden
+{Secure your files and folders}Uw bestanden en mappen beveiligen
+{Select}Selecteren
+{Select All}Alles selecteren
+{Select folder:}Map selecteren:
+{Select Language}Taal selecteren
+{Select Product}Product selecteren
+{Select Region and Close}Regio selecteren en sluiten
+{Select your favourite theme}Selecteer uw favoriete thema
+{Selected}Geselecteerd
+{SELL BY CASH}VERKOPEN MET CONTANT GELD
+{Sell by Cash}Verkopen door Cash
+{SELL BY CREDIT}VERKOPEN OP KREDIET
+{Sell by Credit}Verkopen op krediet
+{Send}Sturen
+{Send e-mail?}E-mail versturen?
+{Send Feedback}Feedback verzenden
+{Send Feedback...}Feedback verzenden...
+{Separate by Char}Gescheiden door Char
+{Separate by String}Afzonderlijk per tekenreeks
+{Separate Long Lines (Break Words)}Afzonderlijke Lange Lijnen (Break Woorden)
+{Separate Long Lines (Keep Words)}Afzonderlijke Lange Lijnen (Houd Woorden)
+{Server Time:}Servertijd:
+{Server:}Server:
+{Set as Default Encoding}Instellen als standaardcodering
+{Settings}Instellingen
+{Settings...}Instellingen ...
+{Show}Weergeven
+{Show All Stickers}Alle stickers tonen
+{Show Date Time}Datum/tijd afbeelden
+{Show Details}Details weergeven
+{Show Idle Time:}Inactieve tijd afbeelden:
+{Show Letters and Numbers without Special Keys}Letters en getallen zonder speciale sleutels tonen
+{Show Notifications}Meldingen afbeelden
+{Show when status changes}Laat zien wanneer de status verandert
+{Show Window}Venster afbeelden
+{Sign up}Aanmelden
+{Small Buttons}Kleine knoppen
+{Software}Programmatuur
+{Something went wrong. Your feedback could not be delivered.}Er is iets fout gegaan. Je feedback kon niet worden afgeleverd.
+{Sort}Sorteren
+{Sort Lines}Regels sorteren
+{Sound Effect}Geluidseffect
+{Sound:}Geluid:
+{Source (Files, Folders, URLs)}Bron (bestanden, mappen, URL's)
+{Space key:}Spatiebalk
+{Spell Check}Spellingcontrole
+{Spell Checker}Spellingcontrole
+{Spell Checker:}Spellingcontrole:
+{Split Lines}Regels splitsen
+{Start}Starten
+{Status}Status
+{Status Bar}Statusbalk
+{Stay on Top}Blijf boven
+{Stock}Bestand
+{STOCK BALANCE:}VOORRAADBALANS:
+{Stock Inventory Count Sheet}Voorraadtelling voorraadinventaris
+{Stock Inventory Count Sheet...}Werkblad voorraadtelling ...
+{STOP}STOP
+{Success}Success
+{SUCCESS}GESLAAGD
+{Suggested Corrections}Voorgestelde correcties
+{Support}Ondersteuning
+{Sync Computer Time}Computertijd synchroniseren
+{Syntax}Syntaxis
+{System Error.}Systeemfout.
+{System Tray Menu}Systeemvakmenu
+{Tab Options...}Tabopties ...
+{Target Folders}Doelmappen
+{Test Alert}Testwaarschuwing
+{Testimonials}Getuigenissen
+{Text}Tekst
+{Text Color:}Tekstkleur:
+{Thank you}Dank u
+{Thank you!}Dank u!
+{The file could not be created!}Het bestand kan niet worden gemaakt!
+{Theme}Thema
+{This is an example note.}Dit is een voorbeeld.
+{This is your first sticker!}Dit is je eerste sticker!
+{This software works best without administrator privileges.}Deze software werkt het best zonder beheerdersrechten.
+{Timestamp}Tijdsaanduiding
+{To Existing Lines}Naar bestaande lijnen
+{To New Lines...}Naar Nieuwe Regels ...
+{Tool Bar}Werkbalk
+{Tools}Hulpprogramma's
+{Top Selling Products}Top Selling Products
+{Top Selling Products...}Top Verkopen Producten ...
+{Total}Totaal
+{TOTAL:}TOTAAL:
+{Total:}Totaal:
+{Translated by:}Vertaald door:
+{Transparency:}Transparantie:
+{Tray Notifications:}Dienblad-berichten:
+{Trial}Proefperiode
+{TRIAL VERSION}PROEFVERSIE
+{Trim All}Alles bijsnijden
+{Trim Both}Trim Beide
+{Trim Left}Links bijsnijden
+{Trim Lines}Afsnijlijnen
+{Trim Right}Bijsnijden
+{Truly Empty Lines}Werkelijk Lege regels
+{Try to run as Administrator.}Probeer als beheerder te worden uitgevoerd.
+{Type}Type invoer
+{Undo}Ongedaan maken
+{Unicode Detector}Unicode-detector
+{Unit}Eenheid
+{UNLICENSED}Niet gelicenseerd
+{Unlock}Ontgrendelen
+{UNLOCK ERROR}ONTGRENDELFOUT
+{Unlock Selected}Ontgrendel selectie
+{Unlocked}Ontgrendeld
+{Unlocking}Ontgrendelen
+{UPDATE}BIJWERKEN
+{UPDATE AVAILABLE}UPDATE BESCHIKBAAR
+{Update Notifications}Meldingen bijwerken
+{UPPERCASE}HOOFDLETTERS
+{Uppercase and Lowercase}Hoofdletters en kleine letters
+{USE AT YOUR OWN RISK!}GEBRUIK OP EIGEN RISICO!
+{User Interface Language:}Gebruikersinterfacetaal:
+{User will press keys}Gebruiker drukt op toetsen
+{using Characters}Tekens gebruiken
+{using Text}Tekst gebruiken
+{using Text Length}Tekstlengte
+{Version History}Versie geschiedenis
+{Video file error!}Fout in videobestand!
+{View}Bekijken
+{Vovsoft Newsletter}Vovsoft-Nieuwsbrief
+{Warning}Waarschuwing
+{WARNING}WAARSCHUWING
+{We would really appreciate your feedback.}We stellen uw feedback zeer op prijs.
+{Welcome to %s}Welkom bij %s
+{Welcome to Our Shop}Welkom in onze winkel
+{What did you like or dislike?}Wat vond u leuk of niet leuk?
+{Which Customer?}Welke klant?
+{Width:}Breedte:
+{Word Wrap}Tekstterugloop
+{Work Time:}Werktijd:
+{Wrong Admin Password!}Onjuist Admin wachtwoord
+{Wrong password!}Onjuist wachtwoord
+{X:}X:
+{Y:}Y:
+{Yes}Ja
+{You are not logged as admin!}U bent niet aangemeld als beheerder!
+{You can preview the font and color settings here.}U kunt hier een voorbeeld van het lettertype en de kleur instellingen.
+{You cannot use this feature in unlicensed edition.}U kunt deze functie niet gebruiken in de niet-gelicentieerde editie.
+{Your feedback is received.}Uw feedback is ontvangen.
+{Your master password is successfully set.}Uw masterwachtwoord is ingesteld.
+{Aborted}
+{About %s}
+{Active}
+{Add Files in Folders...}
+{Add files to the list}
+{Add M3U8}
+{Add Thousand Separator to Numbers}
+{Advanced Mode}
+{All files must be unlocked before changing private key!}
+{Also delete entered text}
+{Analyze URL...}
+{Anchor Text}
+{Anchors}
+{Any File (*.*)}
+{Audio File}
+{Audit Messages...}
+{Auto Paste When Clipboard Changes}
+{Auto-Close Main Window}
+{Automatic}
+{Automatically Restart Download}
+{Automatically restarted!}
+{Automatically Synchronize}
+{Calculate}
+{Calculating all possibilities...}
+{Calculation Results:}
+{Categories}
+{Category}
+{Change Auto-Close Time}
+{Change Auto-Close Time...}
+{Change Destination Folder}
+{Change Keyboard Key}
+{Change Keyboard Key...}
+{Change Line Spacing}
+{Change Line Spacing...}
+{Change Private Key...}
+{Change Theme...}
+{Check Multiple Websites}
+{Check Multiple Websites...}
+{Check Status Codes}
+{Checking Status Codes...}
+{Choose File...}
+{Classic}
+{Clear}
+{Clear File History}
+{Click "New Sticker"}
+{Clipboard}
+{Code Folding}
+{Comma}
+{Comma-Separated Values File (CSV)...}
+{Completed}
+{Connection Timeout (ms):}
+{Convert}
+{CONVERT}
+{Convert Non-Breaking Spaces to Regular Spaces}
+{Convert Numbers to Text}
+{Copy Anchor Text}
+{Copy URL}
+{Copying...}
+{Create Sample CSV for Advanced Mode...}
+{Create Sample CSV for Simple Mode...}
+{CSV File (*.csv)}
+{CSV Separator}
+{CSV Separator:}
+{Database Location}
+{Day}
+{Decrease Font Size}
+{Default CSV Format}
+{Delete all characters after:}
+{Delete all characters before:}
+{Deleted}
+{Description}
+{Descriptions}
+{Destination:}
+{Diagnose}
+{Directory is not writable!}
+{Directory not found!}
+{Dismiss}
+{Display Duration:}
+{Display Unfinished Results}
+{Do you want to delete all stickers, reminders, settings and restart application?}
+{Do you want to replace the sticker with the image?}
+{Domain Name}
+{Don't show this again}
+{Downloading...}
+{Draw mouse pointer}
+{E-mail not found!}
+{Edit M3U8}
+{Edit...}
+{Encoding:}
+{Even Numbered Lines}
+{Excel 2007 File (*.xlsx)}
+{Excel CSV Format}
+{Excel File (*.xls)}
+{Excel File (XLS)...}
+{Export Anchor List...}
+{Export Backlinks...}
+{Export Descriptions...}
+{Export H1 Tags...}
+{Export H2 Tags...}
+{Export H3 Tags...}
+{Export H4 Tags...}
+{Export Internal URLs...}
+{Export Lines to Files}
+{Export Lines to Files...}
+{Export Links...}
+{Export Report to PDF...}
+{Export Sitemap...}
+{Export Titles...}
+{Export To File}
+{Export to VCF...}
+{Exported Entries:}
+{External}
+{Extra Line Spacing:}
+{Extras}
+{Fade-out Animation}
+{File Mask:}
+{File or Folder:}
+{Filename: %s}
+{Find Lines}
+{Find Lines...}
+{Fix Broken UTF-8 Encoding}
+{Folders}
+{Follow}
+{Follow Redirects}
+{Format:}
+{Generate}
+{Generate Domain Name List}
+{Generate Hostname List}
+{Generate URL List}
+{Go}
+{Go to URL}
+{Google CSV Format}
+{H1 Tag}
+{H1 Tags}
+{H2 Tag}
+{H2 Tags}
+{H3 Tag}
+{H3 Tags}
+{H4 Tag}
+{H4 Tags}
+{Hardware encoding}
+{Height}
+{Hide}
+{Highlight mouse pointer}
+{HINT}
+{How to create new sticky note:}
+{HTML File (*.html)}
+{ID}
+{Ignore Extensions:}
+{Ignore URLs:}
+{Include Subdirectories?}
+{Increase Font Size}
+{Increment:}
+{Initializing...}
+{Insert Numbers}
+{Insert Same Text Multiple Times}
+{Insert Same Text Multiple Times...}
+{Internal}
+{Internal URL Limit:}
+{Internal URL:}
+{Internal URLs}
+{Interval (sec):}
+{Invert Selection}
+{Left}
+{Length}
+{Line}
+{Link}
+{Links}
+{LIST ALL}
+{List of Containers:}
+{List of Loads:}
+{List...}
+{Load Limit}
+{Load Project...}
+{Load Time (sec)}
+{Loading: %s}
+{Logged in as administrator.}
+{Maximum:}
+{Memory}
+{Menu Hotkeys}
+{Merge all files with root of target folder}
+{MERGE MULTIPLE FOLDERS INTO ONE}
+{Merge Type:}
+{Method:}
+{milliseconds}
+{Minimize when recording starts}
+{Minimum:}
+{Minute}
+{Mirror}
+{Mirror (Reset Target Folders)}
+{Miscellaneous}
+{Modified}
+{Monitor}
+{Month}
+{Move}
+{Moved}
+{Moving...}
+{Name}
+{Name of Container}
+{Name of Load}
+{New Project}
+{New Reminder}
+{No data found!}
+{No erroneous e-mail found.}
+{No issues have been found.}
+{No lines were affected!}
+{No mouse pointer}
+{No replacements made.}
+{No sticky notes left on the desktop!}
+{No text selected!}
+{Note}
+{Notes Manager}
+{Number of affected lines: %s}
+{Number of deleted lines: %s}
+{Number of Times:}
+{Numbers:}
+{Occurrence}
+{Odd Numbered Lines}
+{Offset}
+{Only %s entries exported using unlicensed version.}
+{Options:}
+{Ordinal Values of Characters}
+{Other}
+{Outlook CSV Format}
+{Output}
+{PDF File (*.pdf)}
+{Permanently Delete}
+{Permanently Delete All}
+{Phone Number}
+{Play Sound Effects}
+{Please add containers!}
+{Please add folders!}
+{Please add loads!}
+{Please obtain a license key to activate the software.}
+{Please try again later!}
+{Please type your NEW private key:}
+{Preserve folder structure}
+{Private Key}
+{Private key changed.}
+{Properties}
+{Ready}
+{Recording...}
+{Refresh Hardware Encodings}
+{Regular Expression}
+{Reminders}
+{Remove Anchor Links}
+{Remove Query String Links}
+{Replace by Space}
+{Reset Registry...}
+{Response Timeout (ms):}
+{Restore}
+{Restore when recording is complete}
+{Right-click tray icon}
+{Sample Values}
+{Save Project As...}
+{Save Results}
+{Scheduled Task}
+{Scheduled Task...}
+{Screen capture failed!}
+{Screen capture interrupted!}
+{Search}
+{Search Every Line with Google}
+{Semicolon}
+{Send to Recycle Bin}
+{SEO Audit}
+{Show aboutbox}
+{Show feedback window}
+{Show Links...}
+{Show Options}
+{Simple Mode}
+{Simulate Keypress:}
+{Software encoding}
+{Source URL}
+{Space}
+{Start download}
+{Start Working}
+{Start:}
+{Status Code}
+{Stickers}
+{Stop download}
+{Stop:}
+{Strip HTML Markup}
+{Subdomain Name}
+{System Audio}
+{Tab}
+{Tab Indent}
+{Tab Options}
+{Tab Size:}
+{Target Folder}
+{Target folder is not defined!}
+{Target Folder:}
+{Text Engine}
+{Text File}
+{Text File (*.txt)}
+{Text File (TXT)...}
+{Text not found!}
+{Text:}
+{The file is empty!}
+{The file is very large. Do you still want to try to open it?}
+{The server returned an invalid response.}
+{The specified region is not valid!}
+{The text contains no lines!}
+{This action cannot be undone!}
+{This is required for importing in Gmail and Outlook.}
+{Time}
+{Time Remaining:}
+{Title}
+{Titles}
+{Top}
+{Total URLs: %s}
+{TRIAL LIMIT REACHED!}
+{Turn Off}
+{Turn On}
+{Unnamed}
+{URL}
+{URL Highlighter (No Spell Check)}
+{URL Length}
+{URL not found!}
+{URL Processor}
+{URL:}
+{User-Agent String:}
+{using File}
+{VCF Files (*.vcf)}
+{Verify that the file has not been corrupted and that the file extension matches the format of the file.}
+{View Source...}
+{Volume}
+{Volume Limit}
+{Volume of Container}
+{Volume of Load}
+{Weekdays}
+{What numbers will be added?}
+{Width}
+{Yahoo CSV Format}
+{You are here:}
+{You can't go further than:}
+{You want to go to:}

@@ -1,0 +1,1009 @@
+﻿{INFO:Translated By}nyany2828, wakaizumo
+{12 hour}12時間制
+{24 hour}24時間制
+{A required file is missing:}必要なファイルが欠落しています :
+{Ability to disable update notifications}更新通知を無効にする機能
+{About}バージョン情報...
+{About Us}弊社について
+{About...}バージョン情報...
+{Access is denied.}アクセスは拒否されました
+{Acknowledgements...}謝辞 ...
+{Activation}認証
+{Activation Code:}認証コード：
+{Activation failed.}認証に失敗しました
+{Active}アクティブ
+{ADD}追加
+{Add}追加
+{Add context menu item}コンテキストメニュー項目の追加
+{Add Dictionary...}辞書の追加 ...
+{Add Drive}ドライブを追加
+{Add File}ファイルを追加
+{Add File(s)}追加ファイル
+{Add File(s)...}ファイルの追加...
+{Add Files...}ファイルの追加...
+{Add Folder}フォルダーを追加
+{Add Folder...}フォルダーの追加...
+{Add Folders...}フォルダーの追加...
+{Add Product Manually}手動で認証する...
+{Add Recursive Subfolders...}サブフォルダーの追加  - 全配下...
+{Add Subfolders...}サブフォルダーの追加  - １階層...
+{Add URL(s)...}URL の追加...
+{Add URLs...}URLの追加...
+{Add using Environment Variables}環境変数を使用して指定
+{Add Word To Dictionary}ワードを辞書に追加
+{Admin Password}管理者パスワード
+{Alert Text:}警告:
+{All Customers}すべての顧客
+{All files must be unlocked before changing private key!}秘密鍵を変更する前に、すべてのファイルをロック解除する
+{All files must be unlocked before enabling or disabling content encryption!}コンテンツの暗号化を有効または無効にする前に、すべてのファイルをアンロックする
+{All Products}すべての製品
+{Alphabet}アルファベット
+{Alphabetical}アルファベット順
+{Always on Top}常に手前に表示
+{Always on top}常に手前に表示
+{Always show when toggled on}切替え時に常に手前に表示
+{An error occurred while creating directory:}ディレクトリの作成中にエラーが発生しました：
+{An error occurred while unlocking:}ロック解除中にエラーが発生しました：
+{Analyze...}分析...
+{And please backup your important files and folders before locking in case of hardware or software failure.}また、ハードウェアやソフトウェアに障害が発生した場合は、ロックする前に重要なファイルやフォルダをバックアップして下さい
+{Annually}毎年
+{Annually:}毎年:
+{Any File}すべてのファイル
+{Any File (*.*)}任意のファイル (*.*)
+{Are you sure?}- 本当によいですか?
+{Arrange Stickers}ステッカーアレンジ
+{ASCII Art...}ASCII アート...
+{Ask Print}印刷の確認
+{Audio File}音声ファイル
+{Audio file error!}音声ファイルのエラーです
+{Auto Copy Highlighted Text to Clipboard}ハイライトされた文字をクリップボードに自動コピー
+{Auto Refresh File}ファイルの自動リフレッシュ
+{Auto Run at Startup}スタートアップに登録
+{Auto-Close Popup Window After Finishing}完了時にダイアログを閉じる
+{Auto-Closing...}自動で閉じる...
+{Auto-Refresh Drive List}ドライブリストの自動リフレッシュ
+{Auto-Start at Startup}スタートアップに登録
+{Automatic}自動
+{Automatically Synchronize}自動的同期化
+{Background Color:}背景色:
+{Backup Registry...}レジストリーのバックアップ...
+{Backup Stickers}ステッカーのバックアップ
+{Backup...}バックアップ...
+{Barcode}バーコード
+{BARCODE:}バーコード:
+{Begin:}開始:
+{Beginning of Each Line...}各行の先頭...
+{Big Icons}ビッグ アイコン
+{Blog}ブログ
+{BREAK TIME!}休息時間
+{Browse...}参照...
+{Buy Now}今すぐ購入する
+{Cancel}キャンセル
+{Cancel product selection}商品選択のキャンセル
+{CANCELED by User Request}ユーザー要求によるキャンセル
+{Canceled!}キャンセルされました
+{Cannot create file}ファイルを作成できません
+{Capitalize (First Letters Only)}大文字 (最初の文字のみ)
+{Caps Lock}Caps Lock
+{Caps Lock: OFF}Caps Lock: オフ
+{Caps Lock: ON}Caps Lock: オン
+{Cascade}Cascade
+{Category:}カテゴリー：
+{Change Background Color}背景色の変更
+{Change Background Color...}背景色の変更...
+{Change File Location...}ファイルパスの変更...
+{Change Font...}フォントの変更...
+{Change Interface}インターフェースの変更
+{Change Login Password...}パスワードの変更...
+{Change Menu Font...}メニューフォントの変更...
+{Change Private Key...}秘密鍵の変更 ...
+{Change Recovery E-mail}回復メールの変更
+{Change Text Font}テキストフォントの変更
+{Change Theme}テーマの変更
+{Change Theme...}テーマの変更 ...
+{Change:}変更:
+{Classical Interface}クラシカルインターフェース
+{Clear}クリア
+{Click "New Sticker"}「新規ステッカー」をクリックします。
+{Click to download}クリックしてダウンロードする
+{Clip Lines...}クリップ行...
+{Close}閉じる
+{Code:}コード:
+{Combine Lines...}行を結合...
+{Comma-Separated Values File (CSV)...}コンマ区切り値ファイル (CSV)...
+{Commercial use allowed}商用利用が許可されています
+{Company}会社
+{Compare Two Texts...}2つのテキストを比較...
+{Completed!}処理が完了しました
+{Completed.}完了
+{Computer Code:}コンピュータコード：
+{Computer Time:}コンピューター時間:
+{Computer Timezone:}コンピューター タイム ゾーン:
+{Computer will press keys}コンピューターによるキー押下
+{Confirm Before Deletion}削除する前に確認
+{Confirm Password:}パスワードの確認 :
+{Confirm?}確認?
+{Confirmation}確認
+{Connection Error!}接続エラー
+{Contact}接続
+{Content Encryption (SLOW)}コンテンツの暗号化（遅い）
+{Content encryption is enabled.}コンテンツの暗号化は有効です。
+{Continue}持続する
+{Contribute to Translation}翻訳について...
+{Convert Non-English Chars to English Chars}非英語圏の文字を英語圏の文字に変換
+{Copied}コピー済み
+{Copy}コピー
+{Copy All}すべてをコピー
+{Copy files to many directories}多くのディレクトリにファイルをコピーします
+{COPY INTO TARGET FOLDERS}コピー (移動) 開始
+{CREDIT:}貢献者 :
+{Credits}謝辞 
+{CSV File}CSV ファイル
+{CSV File (*.csv)}CSV ファイル (*.csv)
+{Currency Symbol}通貨記号
+{Customer}顧客
+{Customer with credit cannot be deleted!}貢献された顧客は削除できません
+{CUSTOMER:}顧客:
+{Customer:}顧客:
+{CUSTOMERS}顧客
+{Customers}顧客
+{Cut}カット
+{Daily}毎日
+{Daily:}毎日:
+{Dark}ダーク
+{Date}日付
+{Date and Time}日付と時刻
+{Day}デー
+{Daylight Saving:}夏時間調整:
+{Decode...}デコード...
+{Decrease Font Size}フォント・サイズの縮小
+{Default}デフォルト
+{Default Alphabet}既定のアルファベット
+{Del key:}Del キー:
+{Delete}削除
+{DELETE}削除
+{Delete After}後を削除
+{DELETE ALL}すべて削除
+{Delete All}すべて削除
+{Delete All Spaces}すべてのスペースを削除
+{Delete Alphabetic [a-z] [A-Z]}アルファベットの [a-z] [A-Z] を削除
+{Delete Alphanumeric [a-z] [A-Z] [0-9]}英数字 [a-z] [A-Z] [0-9] を削除
+{Delete Before}前を削除
+{Delete Beginning or Ending Strings...}先頭または末尾の文字列を削除...
+{Delete Chars}文字を削除
+{DELETE CUSTOMER}顧客の削除
+{Delete Customer}カスタマーの削除
+{Delete Extra Spaces}余分なスペースを削除
+{Delete last entered product}最後に入力した製品を削除
+{Delete Non-Alphabetic}アルファベット以外を削除
+{Delete Non-Alphanumeric}英数字以外の文字を削除
+{Delete Numbers [0-9]}数字 [0-9] を削除
+{DELETE PRODUCT}製品の削除
+{Delete Record}記録の削除
+{Delete Reminder}削除リマインダ
+{Delete Selected}選択を削除します
+{Delete Unnecessary Lines}不要な行の削除
+{Delete?}削除してもよいですか?
+{Deleted}削除
+{Deselect All}すべて選択解除
+{DETAILS}詳細
+{Diagonal}斜め
+{Directory:}場所:
+{Disabled}無効
+{Discount}割引
+{Discounted Price}割引価格
+{Discounted Total}割引合計
+{Disk Write Interval (sec):}ディスク書き込み間隔 (秒):
+{Dismiss}ディスミス
+{Display Duration:}表示期間:
+{Display Load Time}読込み時間を表示
+{Display Prices}価格の表示
+{Display Special Chars}特殊文字を表示
+{Do you really want to delete ALL stickers?}本当にすべてのステッカーを削除しますか?
+{Do you really want to delete the reminder?}本当にアラームを削除しますか?
+{Do you really want to delete the sticker?}本当にステッカーを削除しますか?
+{Do you want to save the current file before exit?}終了する前に現行ファイルを保存しますか ?
+{Do you want to save the current file?}現在のファイルを保存しますか ?
+{Do you want to save this file before exit?}終了する前にこのファイルを保存しますか ?
+{Do you want to save this file?}このファイルを保存しますか ?
+{Don't show this again}今後この表示を表示しない
+{Download}ダウンロード
+{Drag Drop Filenames}ドラッグ＆ドロップファイル名
+{Drive}ドライブ
+{DRIVE MISMATCH}ドライブの不一致
+{Drive:}ドライブ:
+{Duplicate Lines}重複した行
+{E-mail}電子メール
+{E-mail is changed.}メールアドレスが変更されました
+{E-mail not accepted!}メールが受け入れられません
+{E-mail Processor}メールプロセッサ
+{Edit}編集
+{Edit License}ライセンス
+{Edit License...}ライセンス...
+{Edit Password}パスワードの編集
+{Elapsed Time:}経過時間:
+{Email Address}メール アドレス
+{Empty}空
+{Empty Lines (can include spaces and tabs)}空白行 (スペースとタブを含む) 
+{Enable}有効
+{Enabled}有効中
+{Encode...}エンコード...
+{Encoding}エンコーディング
+{Encryption}暗号化
+{End of Each Line...}各行の終わり...
+{End-User License Agreement}ライセンスご使用条件
+{End:}終了:
+{English}英語
+{Enter License Key}ライセンスキーを入力します
+{Entire Document}文書全体
+{Error}エラー
+{ERROR}エラー
+{Error No:}エラー番号：
+{ESC key:}ESC キー:
+{EULA}使用許諾
+{Excel File (*.xls)}Excel ファイル (*.xls)
+{Excel File (XLS)...}Excel ファイル (XLS)...
+{Exit}終了
+{Exit Application?}アプリケーションを終了しますか?
+{Exit...}終了...
+{EXITING...}終了中...
+{Explore Dictionaries...}辞書の探索 ...
+{Export}エクスポート
+{Export Lines to Files}行をファイルにエクスポート
+{Export Lines to Files...}行をファイルにエクスポート ...
+{Export to File...}ファイルにエクスポート...
+{Export to HTML...}HTMLにエクスポート...
+{Export to PDF...}PDFにエクスポート...
+{Extract Image...}イメージを抽出...
+{Extract Text...}テキストを抽出...
+{Extras}エキトラス
+{Failed}失敗
+{Failure}失敗
+{Feedback}フィードバック
+{feedback}フィードバック
+{File}ファイル
+{File already exists!}ファイルは既に存在します
+{File does NOT exist:}ファイルが存在しません：
+{File inaccessible!}ファイルにアクセスできません
+{File List}ファイルリスト
+{File Location}ファイルの場所
+{File Location:}ファイルの場所:
+{File lock error!}ファイルロックエラー
+{File Mask}ファイルマスク
+{File not found!}ファイルが見つかりません
+{Filename:}ファイル名:
+{Files & Folders}ファイルとフォルダ
+{Filter Lines}項目行フィルター
+{Find}検索
+{Find Erroneous E-mails}エラーのあるメールを検索
+{Find Lines}アイテムの検索
+{Find Lines...}アイテムの検索 ...
+{Find Next}次を検索
+{Find Next Misspelling}次のミススペルを検索
+{Fixed-Pitch Fonts Only}固定ピッチフォントのみ
+{Folder}フォルダ
+{Folder does NOT exist:}フォルダが存在しません：
+{Folder Size:}フォルダサイズ：
+{Folder:}フォルダー:
+{For 1}1 用
+{For 10}10 用
+{For 100}100 用
+{For 20}20 用
+{For 200}200 用
+{For 5}5 用
+{For 50}50 用
+{Forgot Password?}パスワードをお忘れですか？
+{FREE}無料
+{Free Edit}エディタで編集
+{Free to try}無料で試用
+{FREEWARE}フリーウェア
+{Freeware}フリーウェア
+{Freeware Utilities}フリーウェア ユーティリティ
+{Full Screen}全画面表示
+{Generate Barcode Image...}バーコードイメージの生成...
+{Generate E-mail List}メールリストの生成
+{Generate Word List}単語リストの生成
+{Get Server Time}サーバーの取得日時
+{Go to...}移動...
+{GRAND TOTAL:}総計:
+{Hardware encoding}ハードウェア・エンコード
+{Header}ヘッダー
+{Headers}ヘッダー
+{Height:}高さ:
+{Help}ヘルプ
+{Hidden}非表示
+{Hide All Stickers}すべてのステッカーを非表示にする
+{Hide Details}詳細を隠す
+{Highlight Active Line}アクティブな行を強調表示
+{Highlight Even Lines}偶数行の強調表示
+{Highlight Odd Lines}奇数行をハイライト表示
+{Home}ホームページ
+{Hotkey:}ホット キー:
+{Hourly}毎時
+{Hourly:}毎時:
+{How to create new sticky note:}新しい付箋メモを作成する方法 :
+{How to uninstall...}アンインストール方法...
+{HTML File (*.html)}HTML ファイル (*.html)
+{I dislike it!}気に入らない
+{I like it!}気に入りました
+{ID}ID
+{ID Transformer...}ID 変換...
+{Idle Time:}アイドル時間:
+{If no keyboard or mouse events occur for "Idle Time", "Work Time" resets.}「アイドル時間」に対してキーボードまたはマウスのイベントが発生しない場合には「作業時間」はリセットされます。
+{If you like the software, please buy a license to make this software fully functional and remove this window.}このソフトウェアが気に入りましたら、完全に機能させるためのライセンスを購入する事でこのウィンドウが表示されなくなります
+{Ignore}無視
+{Ignore Drive Mismatch While Unlocking}ロック解除中にドライブの不一致を無視する
+{Ignore Failed Files While Unlocking}アンロック中に失敗したファイルを無視する
+{Import}インポート
+{Import from File...}ファイルからインポート...
+{IMPORTANT}重要
+{Include my e-mail:}メールアドレスも送信する：
+{Increase Font Size}フォントサイズを大きく
+{Indicates status of keys}キーの状況を示します
+{Info}情報
+{Information}情報
+{Insert}挿入
+{Insert Empty Lines}空白行の挿入
+{Insert Same Text Multiple Times}同じテキストを複数回挿入
+{Insert Same Text Multiple Times...}同じテキストを複数回挿入 ...
+{Insufficient stock!}ストック不足
+{Invalid E-mail!}無効なメールアドレスです
+{Invalid Entry!}エントリーが無効です
+{Invert Selection}選択を反転
+{Keyboard Shortcuts}キーボード ショートカット
+{KeyPress Simulator}キープレス シミュレーター
+{Language}言語選択
+{Language:}言語：
+{Language...}言語選択...
+{LED Color (OFF):}LEDの色 (オフ) :
+{LED Color (ON):}LEDの色 (オン) :
+{Left}左
+{Left click to show Stickers on top.}左クリックすると、上部にステッカーが表示されます
+{License key is invalid!}ライセンスキーが無効です
+{License:}ライセンス：
+{License...}ライセンスについて...
+{Licensed}ライセンス認証済み
+{Licensed to:}ライセンス所有者：
+{Lifetime free updates}永年無料アップデート
+{Light}強調表示
+{Line Length}行の長さ
+{Line Numbers}行番号
+{Line Order}行の順序
+{List}一覧
+{Load}開く
+{Load And Run Operation Files...}構成ファイルを実行...
+{Load Operation File...}構成ファイルを開く...
+{Load source list from file...}コピー元リストファイルを開く...
+{Load target list from file...}コピー先リストファイルを開く...
+{Load vCards from VCF file...}VCF ファイルから vCards を開く...
+{Load...}開く...
+{Loading}読込み中
+{Loading...}読込み中...
+{Lock}ロック
+{Lock and Unlock processes may take some time.}ロックとアンロックの処理には時間がかかる場合があります
+{Lock Selected}選択されたロック
+{LOCKED}ロック中
+{Locking}ロッキング
+{Login (Full Access)}ログイン (フル アクセス)
+{Logout}ログアウト
+{lowercase}小文字
+{Lowercase}小文字
+{MAIN MENU}メインメニュー
+{Mark as Complete}完了としてマーク
+{milliseconds}ミリ秒
+{Minimal Mode}最小モード
+{Minimize when recording starts}記録開始時に最小化
+{Minute}分
+{minutes}分
+{Mode}操作モードの選択
+{Monitor External File Modification}外部ファイルの変更を監視
+{Month}月
+{Monthly}毎月
+{Monthly:}毎月:
+{Move (Delete Source Files and Folders)}移動 (元ファイルとフォルダの削除) 
+{Move Down}下へ移動
+{Move Info: Source files and folders were not deleted from disk because of copy error}情報: コピーエラーのため、コピー元ファイルおよびフォルダーはディスクから削除されませんでした
+{Move Up}下へ移動
+{Multiple Files...}複数ファイル...
+{Net Encoding}ネット・エンコード
+{New}新規
+{New Reminder}新規リマインダー
+{New Reminder...}新しいリマインダー...
+{New Sticker}新しいステッカー
+{New Window}新しいウィンドウ
+{Next Receipt Number:}次のレシート番号
+{Next Rest:}次の休み:
+{No}いいえ
+{No Audio}オーディオなし
+{No Item Selected!}アイテムが選択されてい
+{No item selected!}項目が選択されていません
+{No nag screen, no ads}宣伝広告なし
+{No Sound}サウンドなし
+{No sticky notes left on the desktop!}デスクトップにスティッキーメモは残っていません !
+{Non-English}英語以外の言語
+{None}なし
+{Not applicable!}適用外です
+{Not Paid:}未払い:
+{Note}備考
+{Note Window Margin:}メモ・ウィンドウ・マージン:
+{Notes Manager}Notes マネージャー
+{Notes Manager...}ノート管理...
+{Num Lock}Num Lock
+{Num Lock: OFF}Num Lock: オフ
+{Num Lock: ON}Num Lock: オン
+{Number of Files:}ファイル数 :
+{Number of Times:}回数:
+{Numbers}数
+{Offline Activation}オフラインで認証する
+{OK}OK
+{Online Help}オンライン ヘルプ
+{Only Once}1 回のみ
+{Only Once:}1 回のみ:
+{Open File}ファイルを開く
+{Open folder location...}フォルダの場所を開く...
+{Open Folder Location...}フォルダの場所を開く...
+{Open...}開く...
+{Operating Systems:}オペレーティングシステム：
+{Operation File}構成ファイル
+{Operation STOPPED!}操作が停止しました
+{Operations}操作
+{Options}オプション
+{Options...}オプション...
+{Ordinal Values of Characters}文字の順序値
+{Original Size}元のサイズ
+{Output:}出力:
+{Overwrite Existing Files}上書き保存 (チェック無しの場合はスキップ)
+{Overwrite Read-Only Files}読取り専用ファイルを上書き
+{PAID}支払済
+{Paid}支払済
+{Paid:}支払済:
+{Password}パスワード
+{Password is changed.}パスワードが変更されました
+{Password is incorrect!}パスワードが正しくありません
+{Password not accepted!}パスワードは受け入れられませんでした
+{Password Recovery E-mail:}パスワード回復 メールアドレス：
+{Password:}パスワード：
+{Passwords do not match!}パスワードが一致しません
+{Paste}貼り付け
+{Payments}支払い
+{PDF File (*.pdf)}PDF ファイル (*.pdf)
+{Permanently Delete}永続的に削除
+{Permanently Delete All}すべてを永続的に削除
+{Play}再生
+{Play Sound Effect}サウンド効果
+{Please add source files!}コピー元ファイルを追加して下さい
+{Please add target folders!}コピー先フォルダを追加して下さい
+{Please check your e-mail box.}メールボックスを確認して下さい
+{Please check your internet connection!}インターネット接続を確認して下さい
+{Please enter barcode or product name!}バーコードまたは製品名を入力して下さい
+{Please enter discount ratio:}割引率を入力して下さい :
+{Please enter master password!}マスターパスワードを入力して下さい
+{Please enter new currency symbol:}新しい通貨記号を入力して下さい:
+{Please enter password:}パスワードを入力して下さい :
+{Please enter unit price:}単価を入力して下さい :
+{Please enter your license key:}ライセンスキーを入力して下さい：
+{Please enter your license key!}ライセンスキーを入力して下さい
+{Please keep it in a safe place. You need it to unlock your files and folders.}安全な場所に保管して下さい。ファイルとフォルダのロックを解除する必要があります
+{Please reinstall the software.}ソフトウェアを再インストールして下さい
+{Please reopen the software without administrator privileges.}管理者権限がない状態で再度ソフトウェアを起動してみて下さい
+{Please try again later!}後で再試行してください。
+{Please try again later.}後でもう一度お試し下さい
+{Please try:}以下をお試し下さい
+{Please type NEW password:}新規パスワードを入力して下さい :
+{Please type your CURRENT password:}現在のパスワードを入力してください :
+{Please type your NEW e-mail:}新規メールアドレスを入力して下さい :
+{Please type your NEW password:}新規パスワードを入力して下さい :
+{Please type your NEW private key:}新規秘密鍵を入力してください :
+{Please Wait For Backup Process!}バックアップ処理には時間がかかります。お待ち下さい。
+{Preview Sticker}プレビューステッカー
+{Price}価格
+{PRICE:}価格:
+{Print}印刷
+{Print Setup}印刷設定
+{Print Template}テンプレートの印刷
+{Print?}印刷?
+{Print...}印刷...
+{Printer not found!}プリンターが見つかりません
+{Privacy Policy}プライバシー ポリシー
+{Private Key}秘密鍵
+{Private key changed.}秘密鍵が変わった。
+{Process}プロセス
+{Process completed!}プロセスの完了!
+{Processing...}処理中...
+{Product}製品
+{Product List}製品リスト
+{Product List...}製品リスト...
+{PRODUCT NAME:}製品名:
+{Product successfully activated.}認証に成功しました
+{Product:}製品:
+{PRODUCTS}製品
+{Products}製品
+{Properties}性質
+{Purchase}購入する
+{Quantity}数量
+{Random Number Generator}乱数ジェネレータ
+{Random Number Generator...}乱数ジェネレータ...
+{Random Text Generator}ランダムテキストジェネレータ
+{Random Text Generator...}ランダムテキストジェネレータ...
+{Randomize Line Contents}項目の内容をランダム化
+{Randomize Line Order}項目の順序をランダム化
+{Read Reviews}レビューの読み取り
+{Receipts}入金
+{Recognize Environment Variables}環境変数によるパスを許可する
+{Recognize Network Drives}ネットワークドライブを含める
+{RECORD}記録
+{RECORD DATE:}記録日時:
+{Recover Lost Files}消失ファイルの回復
+{Recover Password}パスワードの回復
+{Redo}やり直し
+{Refresh Device List}デバイスリストの更新
+{Refund Policy}払い戻しについて
+{Region}地域
+{Regular Expression}正規表現
+{Regular Expression...}正規表現...
+{Related Software}関連ソフトウェア
+{Release Date:}発売日：
+{Remember Settings}設定を記憶する
+{Reminder}リマインダー
+{Reminders}リマインダー
+{Remove}削除
+{Remove All}すべて削除
+{Remove Selected}選択アイテムを削除
+{Reopen}再度開く
+{Replace}置換
+{Reports}レポート
+{Required files are missing}必要ファイルの欠落
+{Reset}初期化
+{Reset to Defaults}設定の初期化
+{Reset Work Time}作業時間をリセット
+{Restart Application?}アプリケーションを再起動しますか？
+{Restore}復元
+{Restore from Backup...}バックアップから復元...
+{Restore when recording is complete}記録の完了時に復元
+{Reverse}反転
+{Reverse Line Contents}行の内容を反転
+{Reverse Line Sequence}行の順序を反転
+{Right click to add new Stickers or Reminders.}右クリックして新しいステッカーまたはリマインダーを追加
+{Right-click tray icon}右クリックトレイアイコン
+{Run With}実行
+{SALES}販売実績
+{Sample Text}サンプルテキスト
+{Save}ファイルを保存
+{Save As...}現在の構成を保存...
+{Save Operation File As...}構成を保存 COPF形式...
+{Save Operation File...}現在の構成を保存...
+{Save source list to file...}コピー元リストをファイルに保存...
+{Save target list to file...}コピー先リストをファイルに保存...
+{ScreenSnap}画面スナップ
+{ScreenSnap:}画面スナップ:
+{Scroll Lock}スクロールロック
+{Scroll Lock: OFF}Scroll Lock: オフ
+{Scroll Lock: ON}Scroll Lock: オン
+{Search:}検索:
+{Search...}検索
+{seconds}秒
+{Secure your files and folders}ファイルとフォルダーを保護する
+{Select}選択
+{Select All}すべて選択
+{Select folder:}フォルダーを選択：
+{Select Language}言語の選択
+{Select Product}製品の選択
+{Select Region and Close}地域を選択して閉じる
+{Select your favourite theme}お気に入りのテーマを選択
+{Selected}選択済み
+{SELL BY CASH}現金売り
+{Sell by Cash}現金売り
+{SELL BY CREDIT}クレジット販売
+{Sell by Credit}クレジット販売
+{Send}送信
+{Send e-mail?}メールを送りますか？
+{Send Feedback}フィードバック
+{Send Feedback...}フィードバック...
+{Send to Recycle Bin}リサイクル・ビンに送信
+{Separate by Char}文字で区切る
+{Separate by String}文字列で区切る
+{Separate Long Lines (Break Words)}区切りの長い行 (ブレークワード)
+{Separate Long Lines (Keep Words)}区切りの長い行 (単語を保持) 
+{Server Time:}サーバー時刻:
+{Server:}サーバー:
+{Set as Default Encoding}デフォルトのエンコーディングとして設定
+{Settings}設定
+{Settings...}設定...
+{Show}表示
+{Show All Stickers}すべてのステッカーを表示
+{Show Date Time}日時を表示
+{Show Details}詳細の表示
+{Show Idle Time:}アイドル時間の表示:
+{Show Letters and Numbers without Special Keys}特殊キーなしで文字と数字を表示
+{Show Notifications}通知の表示
+{Show when status changes}ステータスが変更されたときに表示
+{Show Window}ウィンドウを表示
+{Sign up}サインアップ
+{Small Buttons}ボタン表示に切替える
+{Software}ソフトウェア
+{Software encoding}ソフトウェアエンコーディング
+{Something went wrong. Your feedback could not be delivered.}エラー: フィードバックは送信できませんでした
+{Sort}ソート
+{Sort Lines}ソート行
+{Sound Effect}サウンド効果
+{Sound:}サウンド:
+{Source (Files, Folders, URLs)}コピー元 (ファイル フォルダ URL) ドラッグ＆ドロップ可
+{Space key:}スペース キー:
+{Spell Check}スペルチェック
+{Spell Checker}スペルチェッカー
+{Spell Checker:}スペルチェッカー:
+{Split Lines}行で分割
+{Start}スタート
+{Start Working}作業の開始
+{Status}状態
+{Status Bar}ステータスバー
+{Stay on Top}常に手前に表示する
+{Stickers}ステッカー
+{Stock}ストック
+{STOCK BALANCE:}ストック:
+{Stock Inventory Count Sheet}ストックカウントシート
+{Stock Inventory Count Sheet...}ストックカウントシート...
+{STOP}停止
+{Success}成功
+{SUCCESS}成功
+{Suggested Corrections}推奨される修正
+{Support}サポート
+{Sync Computer Time}コンピュータの時間を同期
+{Syntax}シンタックス
+{System Error.}システム エラー
+{System Tray Menu}システムトレイメニュー
+{Tab Options...}タブのオプション...
+{Target Folder}ターゲット・フォルダー
+{Target Folder:}ターゲット・フォルダー:
+{Target Folders}コピー先フォルダー (複数可) ドラッグ＆ドロップ可
+{Test Alert}テストアラート
+{Testimonials}お客様からの声
+{Text}テキスト
+{Text Color:}テキスト色:
+{Text File}テキスト・ファイル
+{Text File (*.txt)}テキスト・ファイル (*.txt)
+{Text File (TXT)...}テキスト・ファイル (TXT)...
+{Text:}テキスト:
+{Thank you}ありがとうございました
+{Thank you!}ありがとうございました
+{The file could not be created!}ファイルを作成できませんでした。
+{The server returned an invalid response.}サーバーから無効な応答が返されました。
+{Theme}テーマ
+{This is an example note.}これは注釈の例です
+{This is your first sticker!}初めてのステッカーです
+{This software works best without administrator privileges.}このソフトウェアは通常、管理者権限がなくても動作します
+{Time}時間
+{Timestamp}タイムスタンプ
+{To Existing Lines}既存の行へ移動
+{To New Lines...}新しい行に移動...
+{Tool Bar}ツールバー
+{Tools}ツール
+{Top}トップ
+{Top Selling Products}最も売れている製品
+{Top Selling Products...}最も売れている製品...
+{Total}トータル
+{TOTAL:}合計:
+{Total:}合計:
+{Translated by:}翻訳者：
+{Transparency:}透明度 :
+{Tray Notifications:}トレイ通知
+{Trial}体験版
+{TRIAL VERSION}体験版
+{Trim All}すべてトリム
+{Trim Both}両方をトリム
+{Trim Left}左をトリム
+{Trim Lines}行をトリム
+{Trim Right}右をトリム
+{Truly Empty Lines}完全に空白の行
+{Try to run as Administrator.}管理者権限で実行してみて下さい
+{Type}種別
+{Undo}元に戻す
+{Unicode Detector}Unicode の検出
+{Unit}単位
+{UNLICENSED}試用中
+{Unlock}ロック解除
+{UNLOCK ERROR}ロック解除エラー
+{Unlock Selected}選択項目をロック解除
+{Unlocked}ロック解除中
+{Unlocking}アンロック
+{Unnamed}名前なし
+{UPDATE}アップデート
+{UPDATE AVAILABLE}利用可能な更新
+{Update Notifications}通知の更新
+{UPPERCASE}大文字
+{Uppercase and Lowercase}大文字と小文字
+{URL Highlighter (No Spell Check)}URL 強調表示機能 ( スペル・チェックなし )
+{USE AT YOUR OWN RISK!}自分の責任で利用してください !
+{User Interface Language:}表示言語：
+{User will press keys}キーの使用
+{using Characters}文字の使用
+{using File}ファイルの使用
+{using Text}テキストの使用
+{using Text Length}テキストの長さ
+{VCF Files (*.vcf)}VCF ファイル (*.vcf)
+{Version History}更新履歴
+{Video file error!}ビデオ ファイル エラー!
+{View}表示
+{Vovsoft Newsletter}Vovsoft 社ニュースレター
+{Warning}警告
+{WARNING}警告
+{We would really appreciate your feedback.}フィードバックに感謝します
+{Weekdays}平日
+{Welcome to %s}%sへようこそ
+{Welcome to Our Shop}当社の販売店へようこそ
+{What did you like or dislike?}気に入った点、気に入らなかった点をお知らせ下さい
+{Which Customer?}お客様
+{Width:}幅:
+{Word Wrap}ワードラップ
+{Work Time:}作業時間:
+{Wrong Admin Password!}管理者パスワードが違います
+{Wrong password!}間違ったパスワードです
+{X:}X:
+{Y:}Y:
+{Yes}OK
+{You are not logged as admin!}管理者権限が必要です
+{You can preview the font and color settings here.}フォントと色の設定をプレビューできます
+{You cannot use this feature in unlicensed edition.}この機能を利用するには、ライセンスが必要となります
+{Your feedback is received.}フィードバックを受信しました
+{Your master password is successfully set.}マスターパスワードが正しく設定されています
+{Aborted}
+{About %s}
+{Add Files in Folders...}
+{Add files to the list}
+{Add M3U8}
+{Add Thousand Separator to Numbers}
+{Advanced Mode}
+{Also delete entered text}
+{Analyze URL...}
+{Anchor Text}
+{Anchors}
+{Audit Messages...}
+{Auto Paste When Clipboard Changes}
+{Auto-Close Main Window}
+{Automatically Restart Download}
+{Automatically restarted!}
+{Calculate}
+{Calculating all possibilities...}
+{Calculation Results:}
+{Categories}
+{Category}
+{Change Auto-Close Time}
+{Change Auto-Close Time...}
+{Change Destination Folder}
+{Change Keyboard Key}
+{Change Keyboard Key...}
+{Change Line Spacing}
+{Change Line Spacing...}
+{Check Multiple Websites}
+{Check Multiple Websites...}
+{Check Status Codes}
+{Checking Status Codes...}
+{Choose File...}
+{Classic}
+{Clear File History}
+{Clipboard}
+{Code Folding}
+{Comma}
+{Completed}
+{Connection Timeout (ms):}
+{Convert}
+{CONVERT}
+{Convert Non-Breaking Spaces to Regular Spaces}
+{Convert Numbers to Text}
+{Copy Anchor Text}
+{Copy URL}
+{Copying...}
+{Create Sample CSV for Advanced Mode...}
+{Create Sample CSV for Simple Mode...}
+{CSV Separator}
+{CSV Separator:}
+{Database Location}
+{Default CSV Format}
+{Delete all characters after:}
+{Delete all characters before:}
+{Description}
+{Descriptions}
+{Destination:}
+{Diagnose}
+{Directory is not writable!}
+{Directory not found!}
+{Display Unfinished Results}
+{Do you want to delete all stickers, reminders, settings and restart application?}
+{Do you want to replace the sticker with the image?}
+{Domain Name}
+{Downloading...}
+{Draw mouse pointer}
+{E-mail not found!}
+{Edit M3U8}
+{Edit...}
+{Encoding:}
+{Even Numbered Lines}
+{Excel 2007 File (*.xlsx)}
+{Excel CSV Format}
+{Export Anchor List...}
+{Export Backlinks...}
+{Export Descriptions...}
+{Export H1 Tags...}
+{Export H2 Tags...}
+{Export H3 Tags...}
+{Export H4 Tags...}
+{Export Internal URLs...}
+{Export Links...}
+{Export Report to PDF...}
+{Export Sitemap...}
+{Export Titles...}
+{Export To File}
+{Export to VCF...}
+{Exported Entries:}
+{External}
+{Extra Line Spacing:}
+{Fade-out Animation}
+{File Mask:}
+{File or Folder:}
+{Filename: %s}
+{Fix Broken UTF-8 Encoding}
+{Folders}
+{Follow}
+{Follow Redirects}
+{Format:}
+{Generate}
+{Generate Domain Name List}
+{Generate Hostname List}
+{Generate URL List}
+{Go}
+{Go to URL}
+{Google CSV Format}
+{H1 Tag}
+{H1 Tags}
+{H2 Tag}
+{H2 Tags}
+{H3 Tag}
+{H3 Tags}
+{H4 Tag}
+{H4 Tags}
+{Height}
+{Hide}
+{Highlight mouse pointer}
+{HINT}
+{Ignore Extensions:}
+{Ignore URLs:}
+{Include Subdirectories?}
+{Increment:}
+{Initializing...}
+{Insert Numbers}
+{Internal}
+{Internal URL Limit:}
+{Internal URL:}
+{Internal URLs}
+{Interval (sec):}
+{Length}
+{Line}
+{Link}
+{Links}
+{LIST ALL}
+{List of Containers:}
+{List of Loads:}
+{List...}
+{Load Limit}
+{Load Project...}
+{Load Time (sec)}
+{Loading: %s}
+{Logged in as administrator.}
+{Maximum:}
+{Memory}
+{Menu Hotkeys}
+{Merge all files with root of target folder}
+{MERGE MULTIPLE FOLDERS INTO ONE}
+{Merge Type:}
+{Method:}
+{Minimum:}
+{Mirror}
+{Mirror (Reset Target Folders)}
+{Miscellaneous}
+{Modified}
+{Monitor}
+{Move}
+{Moved}
+{Moving...}
+{Name}
+{Name of Container}
+{Name of Load}
+{New Project}
+{No data found!}
+{No erroneous e-mail found.}
+{No issues have been found.}
+{No lines were affected!}
+{No mouse pointer}
+{No replacements made.}
+{No text selected!}
+{Number of affected lines: %s}
+{Number of deleted lines: %s}
+{Numbers:}
+{Occurrence}
+{Odd Numbered Lines}
+{Offset}
+{Only %s entries exported using unlicensed version.}
+{Options:}
+{Other}
+{Outlook CSV Format}
+{Output}
+{Phone Number}
+{Play Sound Effects}
+{Please add containers!}
+{Please add folders!}
+{Please add loads!}
+{Please obtain a license key to activate the software.}
+{Preserve folder structure}
+{Ready}
+{Recording...}
+{Refresh Hardware Encodings}
+{Remove Anchor Links}
+{Remove Query String Links}
+{Replace by Space}
+{Reset Registry...}
+{Response Timeout (ms):}
+{Sample Values}
+{Save Project As...}
+{Save Results}
+{Scheduled Task}
+{Scheduled Task...}
+{Screen capture failed!}
+{Screen capture interrupted!}
+{Search}
+{Search Every Line with Google}
+{Semicolon}
+{SEO Audit}
+{Show aboutbox}
+{Show feedback window}
+{Show Links...}
+{Show Options}
+{Simple Mode}
+{Simulate Keypress:}
+{Source URL}
+{Space}
+{Start download}
+{Start:}
+{Status Code}
+{Stop download}
+{Stop:}
+{Strip HTML Markup}
+{Subdomain Name}
+{System Audio}
+{Tab}
+{Tab Indent}
+{Tab Options}
+{Tab Size:}
+{Target folder is not defined!}
+{Text Engine}
+{Text not found!}
+{The file is empty!}
+{The file is very large. Do you still want to try to open it?}
+{The specified region is not valid!}
+{The text contains no lines!}
+{This action cannot be undone!}
+{This is required for importing in Gmail and Outlook.}
+{Time Remaining:}
+{Title}
+{Titles}
+{Total URLs: %s}
+{TRIAL LIMIT REACHED!}
+{Turn Off}
+{Turn On}
+{URL}
+{URL Length}
+{URL not found!}
+{URL Processor}
+{URL:}
+{User-Agent String:}
+{Verify that the file has not been corrupted and that the file extension matches the format of the file.}
+{View Source...}
+{Volume}
+{Volume Limit}
+{Volume of Container}
+{Volume of Load}
+{What numbers will be added?}
+{Width}
+{Yahoo CSV Format}
+{You are here:}
+{You can't go further than:}
+{You want to go to:}

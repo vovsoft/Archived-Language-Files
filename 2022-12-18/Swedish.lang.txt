@@ -1,0 +1,1009 @@
+﻿{INFO:Translated By}Alan Wade
+{About}Om
+{About Us}Om oss
+{About...}Om...
+{Access is denied.}Åtkomst nekad.
+{Acknowledgements...}Credits ...
+{Activation}Aktivering
+{Activation Code:}Aktiveringskod:
+{Activation failed.}Aktivering misslyckad.
+{Add}Lägg till
+{Add Drive}Lägg till enhet
+{Add File}Lägg till fil
+{Add File(s)}Lägga till filer
+{Add Folder}Lägg till mapp
+{Add Product Manually}Lägg till produkten manuellt
+{Add Recursive Subfolders...}Lägg till rekursiva undermappar
+{Add Subfolders...}Lägg till undermappar
+{Add URL(s)...}Lägg till webbadresser
+{Admin Password}Admin lösenord
+{All Customers}Alla kunder
+{All Products}Alla produkter
+{Always on top}Alltid på topp
+{Always show when toggled on}Visa alltid när du slår på
+{An error occurred while creating directory:}Ett fel inträffade när katalogen skapades:
+{An error occurred while unlocking:}Ett fel inträffade vid upplåsning:
+{And please backup your important files and folders before locking in case of hardware or software failure.}Och vänligen säkerhetskopiera dina viktiga filer och mappar innan du låser i händelse av maskinvaru- eller programvarufel.
+{Any File}Alla filer
+{Are you sure?}Är du säker
+{Ask Print}Fråga utskrift
+{Auto-Start at Startup}Starta automatiskt vid start
+{Backup Registry...}Säkerhetskopieringsregister...
+{Backup...}Säkerhetskopiering
+{Barcode}Streckkod
+{BARCODE:}STRECKKOD
+{Begin:}Börja
+{Big Icons}Stora ikoner
+{Blog}blogg
+{Browse...}Bläddra...
+{Buy Now}Köp nu
+{Cancel}Avbryt
+{Cancel product selection}Avbryt produktval
+{CANCELED by User Request}AVBRYTT av användarbegäran
+{Canceled!}Inställt
+{Cannot create file}Kan inte skapa fil
+{Caps Lock: OFF}Caps Lock av
+{Caps Lock: ON}Caps Lock på
+{Category:}Kategori
+{Change Interface}Ändra gränssnitt
+{Change Login Password...}Ändra lösenord...
+{Change Recovery E-mail}Ändern Sie die Wiederherstellungs-E-Mail
+{Click to download}Ändra återställnings-e-post
+{Close}Stäng
+{Code:}Kod:
+{Commercial use allowed}Kommersiell användning tillåten
+{Company}Företag
+{Completed!}Avslutad!
+{Completed.}Avslutad
+{Computer Code:}Datorkod:
+{Confirm?}Bekräfta
+{Confirmation}Bekräftelse
+{Connection Error!}Anslutningsfel!
+{Contact}Kontakt
+{Continue}Fortsätta
+{Contribute to Translation}Bidra med översättning
+{Copied}kopierade
+{Copy}Kopiera
+{Copy All}Kopiera alla
+{Copy files to many directories}Kopiera filer till många kataloger
+{COPY INTO TARGET FOLDERS}KOPIERA TILL MÅLMAPPAR
+{CREDIT:}KREDITERA:
+{Credits}Credits
+{CSV File}CSV-fil
+{Customer}Kund
+{Customer with credit cannot be deleted!}Kund med kredit kan inte raderas!
+{CUSTOMER:}KUND:
+{Customer:}Kund:
+{CUSTOMERS}KUNDER
+{Customers}kunder
+{Date}Datum
+{Del key:}Del-nyckel
+{DELETE}Radera
+{DELETE CUSTOMER}Radera Kund
+{Delete Customer}Radera Kund
+{Delete last entered product}Radera den sist inmatade produkten
+{DELETE PRODUCT}RADERA PRODUKT
+{Delete Record}Radera posten
+{Delete Selected}Radera valda
+{Deselect All}Avmarkera alla
+{DETAILS}INFORMATION
+{Discount}Rabatt
+{Discounted Price}Nedsatt pris
+{Discounted Total}Rabatterat totalt
+{Disk Write Interval (sec):}Diskskrivningsintervall (sek):
+{Display Prices}Visa priser
+{Download}Ladda ner
+{Drive:}Disk
+{E-mail}E-post
+{E-mail is changed.}E-post ändras
+{E-mail not accepted!}E-post accepteras inte!
+{Edit}Redigera
+{Edit License}Redigera licens
+{Edit License...}Redigera licens...
+{Edit Password}Redigera lösenord
+{Elapsed Time:}Förfluten tid:
+{Email Address}E-postadress
+{End-User License Agreement}Licensavtal för slutanvändare
+{End:}Slutet
+{Enter License Key}Ange licensnyckel
+{ERROR}FEL
+{Error No:}Felnr:
+{ESC key:}ESC-nyckel:
+{Exit}Ausgang
+{Exit...}Stäng...
+{EXITING...}stängning...
+{Export}Exportera
+{Export to File...}Exportera till fil
+{Failed}misslyckades
+{Failure}Fel
+{Feedback}Respons
+{feedback}respons
+{File}Fil
+{File already exists!}filen finns redan!
+{File does NOT exist:}Fil existerar inte:
+{File inaccessible!}Filen otillgänglig!
+{File List}Fil-lista
+{File lock error!}Fel i fillås!
+{File not found!}Filen hittades inte!
+{Filename:}Filnamn:
+{Files & Folders}Filer & mappar
+{Folder}Mapp
+{Folder does NOT exist:}Mapp finns INTE:
+{Folder Size:}Mappstorlek:
+{Folder:}Mapp:
+{For 1}För 1
+{For 10}För 10
+{For 100}För 100
+{For 20}För 20
+{For 200}För 200
+{For 5}För 5
+{For 50}För 50
+{Forgot Password?}Glömt ditt lösenord?
+{FREE}Gratis
+{Free Edit}Fri redigering
+{Free to try}gratis att prova
+{FREEWARE}Gratisprogram
+{Freeware}Gratisprogram
+{Freeware Utilities}Gratisprogramverktyg
+{Full Screen}Fullskärm
+{GRAND TOTAL:}STORT TOTAL
+{Header}Rubrik
+{Headers}Rubriker
+{Height:}Höjd
+{Help}Hjälp
+{Hide Details}Gömma detaljer
+{Home}Hem
+{How to uninstall...}Hur man avinstallerar ...
+{I dislike it!}Jag ogillar det!
+{I like it!}Jag gillar det!
+{If you like the software, please buy a license to make this software fully functional and remove this window.}Om du gillar programvaran, köp en licens för att göra denna programvara fullt funktionell och ta bort det här fönstret.
+{Ignore Drive Mismatch While Unlocking}Ignorera oöverensstämmelse när du låser upp
+{Ignore Failed Files While Unlocking}Ignorera misslyckade filer när du låser upp
+{Import}Importera
+{IMPORTANT}VIKTIG
+{Include my e-mail:}Inkludera min e-post:
+{Indicates status of keys}Anger status för nycklar
+{Info}Info
+{Information}Information
+{Insufficient stock!}Otillräckligt lager
+{Invalid E-mail!}Ogiltig e-postadress!
+{Invalid Entry!}Ogiltig
+{Keyboard Shortcuts}Tangentbordsgenvägar
+{Language}Språk
+{Language:}Språk:
+{Language...}Språk...
+{License key is invalid!}Licensnyckeln är ogiltig
+{License:}Licens:
+{Licensed}Licensierad
+{Licensed to:}Licensierad till:
+{Lifetime free updates}Livstid gratis uppdateringar
+{List}Lista
+{Load}Ladda
+{Load Operation File...}Ladda operationsfilen...
+{Load source list from file...}Ladda källistan från filen...
+{Load target list from file...}Ladda mållistan från filen...
+{Load vCards from VCF file...}Ladda vCard från VCF-fil...
+{Load...}Ladda...
+{Loading}läser in
+{Loading...}läser in...
+{Lock}Låsa
+{Lock and Unlock processes may take some time.}Låsa och låsa upp processer kan ta lite tid.
+{Lock Selected}Lås vald
+{LOCKED}LÅST
+{Login (Full Access)}Logga in (fullständig åtkomst)
+{Logout}Logga ut
+{MAIN MENU}HUVUDMENY
+{Minimal Mode}Minimalt läge
+{Mode}Läge
+{Move (Delete Source Files and Folders)}Flytta (Ta bort källfiler och mappar)
+{Move Info: Source files and folders were not deleted from disk because of copy error}Flytta information: Källfiler och mappar raderades inte från disken på grund av kopieringsfel
+{No}Nej
+{No Item Selected!}Ingen artikel vald
+{No nag screen, no ads}Ingen nag skärm, inga annonser
+{Not applicable!}Inte tillämpbar!
+{Not Paid:}Inte betalad:
+{Num Lock: OFF}Num Lock: Av
+{Num Lock: ON}Num Lock: På
+{Number of Files:}Antal filer:
+{Offline Activation}Offline-aktivering
+{OK}OK
+{Open File}Öppna fil
+{Open folder location...}Öppna mappens plats...
+{Operating Systems:}Operativsystem:
+{Operation File}Operationsfil
+{Operation STOPPED!}Operation stoppad!
+{Operations}Operationer
+{Output:}Produktion:
+{Overwrite Existing Files}Skriv över existerande filer
+{PAID}Betald
+{Paid}betald
+{Paid:}betald:
+{Password}Lösenord
+{Password is changed.}Lösenordet ändras.
+{Password is incorrect!}Lösenord är inkorrekt!
+{Password not accepted!}Lösenord accepteras inte!
+{Password Recovery E-mail:}E-post för återställning av lösenord:
+{Password:}Lösenord:
+{Paste}Klistra in
+{Payments}betalningar
+{Play Sound Effect}Spela ljudeffekt
+{Please add source files!}Lägg till källfiler!
+{Please add target folders!}Lägg till målmappar!
+{Please check your e-mail box.}Kontrollera din e-postlåda.
+{Please check your internet connection!}Kontrollera din internetanslutning!
+{Please enter barcode or product name!}Ange streckkod eller produktnamn!
+{Please enter discount ratio:}Ange rabattkvot:
+{Please enter master password!}Ange huvudlösenordet!
+{Please enter password:}Vänligen skriv in lösenord:
+{Please enter unit price:}Ange enhetspris:
+{Please enter your license key:}Ange din licensnyckel:
+{Please enter your license key!}Ange din licensnyckel!
+{Please keep it in a safe place. You need it to unlock your files and folders.}Förvara det på ett säkert ställe. Du behöver den för att låsa upp dina filer och mappar.
+{Please try again later.}Vänligen försök igen senare.
+{Please try:}Snälla försök:
+{Please type NEW password:}Vänligen skriv NYTT lösenord:
+{Please type your CURRENT password:}Vänligen skriv ditt nuvarande lösenord:
+{Please type your NEW e-mail:}Vänligen skriv ditt NYA e-postmeddelande:
+{Please type your NEW password:}Vänligen skriv NYTT lösenord:
+{Please Wait For Backup Process!}Vänta på säkerhetskopieringsprocessen!
+{Price}Pris
+{PRICE:}Pris
+{Print Template}Skrivmall
+{Print?}Skriva ut?
+{Printer not found!}Skrivaren hittades inte!
+{Privacy Policy}Integritetspolicy
+{Process}Bearbeta
+{Processing...}bearbetning...
+{Product}Produkt
+{PRODUCT NAME:}PRODUKTNAMN:
+{Product successfully activated.}Aktiveringen är framgångsrik.
+{Product:}Produkt:
+{PRODUCTS}PRODUKTER
+{Products}Produkter
+{Purchase}Inköp
+{Quantity}Kvantitet
+{Read Reviews}Läs recensioner
+{RECORD}Uppteckna
+{RECORD DATE:}Uppteckna Datum:
+{Recover Lost Files}Återställa förlorade filer
+{Recover Password}Återställa lösenord
+{Refund Policy}Återbetalningspolicy
+{Region}Område
+{Related Software}Relaterad programvara
+{Release Date:}Utgivningsdatum:
+{Remember Settings}Kom ihåg inställningar
+{Remove}Ta bort
+{Remove All}Ta bort alla
+{Remove Selected}Ta bort valda
+{Reset}Återställa
+{Reset to Defaults}Återställ till standardvärden
+{Restart Application?}Starta om applikationen?
+{Restore from Backup...}Återställ från säkerhetskopiering...
+{Save Operation File...}Spara operationsfilen...
+{Save source list to file...}Spara källlista för fil ...
+{Save target list to file...}Spara mållistan i filen...
+{Scroll Lock}Rulla lås
+{Scroll Lock: OFF}Rulla lås AV
+{Scroll Lock: ON}Rulla lås PÅ
+{Search:}Sok:
+{Search...}Sok...
+{seconds}sekunder
+{Secure your files and folders}Säkra dina filer och mappar
+{Select All}Välj alla
+{Select folder:}Välj mapp:
+{Select Product}Välj produkt
+{Select Region and Close}Välj Region och stäng
+{SELL BY CASH}Sälj med kontanter
+{Sell by Cash}Sälj med kontanter
+{SELL BY CREDIT}Sälj med kredit
+{Sell by Credit}Sälj med kredit
+{Send}Skicka
+{Send e-mail?}Skicka epost?
+{Send Feedback}Skicka synpunkter
+{Send Feedback...}Skicka synpunkter...
+{Settings}Inställningar
+{Show}Visa
+{Show Details}Visa detaljer
+{Show when status changes}Visa när status ändras
+{Sign up}Bli Medlem
+{Software}programvara
+{Something went wrong. Your feedback could not be delivered.}Något gick fel. Din feedback kunde inte levereras.
+{Sort}Sortera
+{Sound Effect}Ljudeffekt
+{Source (Files, Folders, URLs)}Källa (filer, mappar, webbadresser)
+{Space key:}blanksteg
+{Start}Start
+{Status}Status
+{STOCK BALANCE:}Lagerbalans
+{Stock Inventory Count Sheet}Lagerinventariernas räkning
+{Stock Inventory Count Sheet...}Lagerinventariernas räkning...
+{STOP}STOPP
+{Success}Framgång
+{SUCCESS}FRAMGÅNG
+{Support}Stöd
+{System Error.}Systemfel
+{Target Folders}Målmappar
+{Testimonials}vittnesmål
+{Thank you}Tack så mycket
+{Thank you!}Tack så mycket!
+{Total}Total
+{TOTAL:}Total:
+{Total:}Total:
+{Translated by:}Översatt av:
+{Trial}Prov
+{TRIAL VERSION}Testversion
+{Try to run as Administrator.}Försök att köra som administratör.
+{Type}Sort
+{UNLICENSED}OREGISTRERAD
+{Unlock}Låsa upp
+{UNLOCK ERROR}LÅSA FEL
+{Unlock Selected}Lås upp vald
+{Unlocked}Olåst
+{UPDATE}UPPDATERING
+{UPDATE AVAILABLE}UPPDATERING TILLGÄNGLIG
+{Update Notifications}Uppdatera aviseringar
+{User Interface Language:}Användargränssnitt språk:
+{Version History}Versionshistorik
+{Vovsoft Newsletter}Vovsoft Nyhetsbrev
+{Warning}Varning
+{WARNING}VARNING
+{We would really appreciate your feedback.}Vi skulle verkligen uppskatta din feedback.
+{Welcome to %s}Välkommen till %s
+{Welcome to Our Shop}Välkommen till vår butik
+{What did you like or dislike?}Vad gillade du eller gillade du inte?
+{Which Customer?}Vilken kund?
+{Width:}Bredd:
+{Wrong Admin Password!}Fel administratörslösenord!
+{Wrong password!}Fel lösenord!
+{X:}X:
+{Y:}Y:
+{Yes}Ja
+{You are not logged as admin!}Du är inte inloggad som admin!
+{You cannot use this feature in unlicensed edition.}Du kan inte använda den här funktionen i olicensierad utgåva.
+{Your feedback is received.}Din feedback tas emot.
+{Your master password is successfully set.}Ditt huvudlösenord har ställts in.
+{12 hour}
+{24 hour}
+{A required file is missing:}
+{Ability to disable update notifications}
+{Aborted}
+{About %s}
+{Active}
+{ADD}
+{Add context menu item}
+{Add Dictionary...}
+{Add File(s)...}
+{Add Files in Folders...}
+{Add files to the list}
+{Add Files...}
+{Add Folder...}
+{Add Folders...}
+{Add M3U8}
+{Add Thousand Separator to Numbers}
+{Add URLs...}
+{Add using Environment Variables}
+{Add Word To Dictionary}
+{Advanced Mode}
+{Alert Text:}
+{All files must be unlocked before changing private key!}
+{All files must be unlocked before enabling or disabling content encryption!}
+{Alphabet}
+{Alphabetical}
+{Also delete entered text}
+{Always on Top}
+{Analyze URL...}
+{Analyze...}
+{Anchor Text}
+{Anchors}
+{Annually}
+{Annually:}
+{Any File (*.*)}
+{Arrange Stickers}
+{ASCII Art...}
+{Audio File}
+{Audio file error!}
+{Audit Messages...}
+{Auto Copy Highlighted Text to Clipboard}
+{Auto Paste When Clipboard Changes}
+{Auto Refresh File}
+{Auto Run at Startup}
+{Auto-Close Main Window}
+{Auto-Close Popup Window After Finishing}
+{Auto-Closing...}
+{Auto-Refresh Drive List}
+{Automatic}
+{Automatically Restart Download}
+{Automatically restarted!}
+{Automatically Synchronize}
+{Background Color:}
+{Backup Stickers}
+{Beginning of Each Line...}
+{BREAK TIME!}
+{Calculate}
+{Calculating all possibilities...}
+{Calculation Results:}
+{Capitalize (First Letters Only)}
+{Caps Lock}
+{Cascade}
+{Categories}
+{Category}
+{Change Auto-Close Time}
+{Change Auto-Close Time...}
+{Change Background Color}
+{Change Background Color...}
+{Change Destination Folder}
+{Change File Location...}
+{Change Font...}
+{Change Keyboard Key}
+{Change Keyboard Key...}
+{Change Line Spacing}
+{Change Line Spacing...}
+{Change Menu Font...}
+{Change Private Key...}
+{Change Text Font}
+{Change Theme}
+{Change Theme...}
+{Change:}
+{Check Multiple Websites}
+{Check Multiple Websites...}
+{Check Status Codes}
+{Checking Status Codes...}
+{Choose File...}
+{Classic}
+{Classical Interface}
+{Clear}
+{Clear File History}
+{Click "New Sticker"}
+{Clip Lines...}
+{Clipboard}
+{Code Folding}
+{Combine Lines...}
+{Comma}
+{Comma-Separated Values File (CSV)...}
+{Compare Two Texts...}
+{Completed}
+{Computer Time:}
+{Computer Timezone:}
+{Computer will press keys}
+{Confirm Before Deletion}
+{Confirm Password:}
+{Connection Timeout (ms):}
+{Content Encryption (SLOW)}
+{Content encryption is enabled.}
+{Convert}
+{CONVERT}
+{Convert Non-Breaking Spaces to Regular Spaces}
+{Convert Non-English Chars to English Chars}
+{Convert Numbers to Text}
+{Copy Anchor Text}
+{Copy URL}
+{Copying...}
+{Create Sample CSV for Advanced Mode...}
+{Create Sample CSV for Simple Mode...}
+{CSV File (*.csv)}
+{CSV Separator}
+{CSV Separator:}
+{Currency Symbol}
+{Cut}
+{Daily}
+{Daily:}
+{Dark}
+{Database Location}
+{Date and Time}
+{Day}
+{Daylight Saving:}
+{Decode...}
+{Decrease Font Size}
+{Default}
+{Default Alphabet}
+{Default CSV Format}
+{Delete}
+{Delete After}
+{DELETE ALL}
+{Delete All}
+{Delete all characters after:}
+{Delete all characters before:}
+{Delete All Spaces}
+{Delete Alphabetic [a-z] [A-Z]}
+{Delete Alphanumeric [a-z] [A-Z] [0-9]}
+{Delete Before}
+{Delete Beginning or Ending Strings...}
+{Delete Chars}
+{Delete Extra Spaces}
+{Delete Non-Alphabetic}
+{Delete Non-Alphanumeric}
+{Delete Numbers [0-9]}
+{Delete Reminder}
+{Delete Unnecessary Lines}
+{Delete?}
+{Deleted}
+{Description}
+{Descriptions}
+{Destination:}
+{Diagnose}
+{Diagonal}
+{Directory is not writable!}
+{Directory not found!}
+{Directory:}
+{Disabled}
+{Dismiss}
+{Display Duration:}
+{Display Load Time}
+{Display Special Chars}
+{Display Unfinished Results}
+{Do you really want to delete ALL stickers?}
+{Do you really want to delete the reminder?}
+{Do you really want to delete the sticker?}
+{Do you want to delete all stickers, reminders, settings and restart application?}
+{Do you want to replace the sticker with the image?}
+{Do you want to save the current file before exit?}
+{Do you want to save the current file?}
+{Do you want to save this file before exit?}
+{Do you want to save this file?}
+{Domain Name}
+{Don't show this again}
+{Downloading...}
+{Drag Drop Filenames}
+{Draw mouse pointer}
+{Drive}
+{DRIVE MISMATCH}
+{Duplicate Lines}
+{E-mail not found!}
+{E-mail Processor}
+{Edit M3U8}
+{Edit...}
+{Empty}
+{Empty Lines (can include spaces and tabs)}
+{Enable}
+{Enabled}
+{Encode...}
+{Encoding}
+{Encoding:}
+{Encryption}
+{End of Each Line...}
+{English}
+{Entire Document}
+{Error}
+{EULA}
+{Even Numbered Lines}
+{Excel 2007 File (*.xlsx)}
+{Excel CSV Format}
+{Excel File (*.xls)}
+{Excel File (XLS)...}
+{Exit Application?}
+{Explore Dictionaries...}
+{Export Anchor List...}
+{Export Backlinks...}
+{Export Descriptions...}
+{Export H1 Tags...}
+{Export H2 Tags...}
+{Export H3 Tags...}
+{Export H4 Tags...}
+{Export Internal URLs...}
+{Export Lines to Files}
+{Export Lines to Files...}
+{Export Links...}
+{Export Report to PDF...}
+{Export Sitemap...}
+{Export Titles...}
+{Export To File}
+{Export to HTML...}
+{Export to PDF...}
+{Export to VCF...}
+{Exported Entries:}
+{External}
+{Extra Line Spacing:}
+{Extract Image...}
+{Extract Text...}
+{Extras}
+{Fade-out Animation}
+{File Location}
+{File Location:}
+{File Mask}
+{File Mask:}
+{File or Folder:}
+{Filename: %s}
+{Filter Lines}
+{Find}
+{Find Erroneous E-mails}
+{Find Lines}
+{Find Lines...}
+{Find Next}
+{Find Next Misspelling}
+{Fix Broken UTF-8 Encoding}
+{Fixed-Pitch Fonts Only}
+{Folders}
+{Follow}
+{Follow Redirects}
+{Format:}
+{Generate}
+{Generate Barcode Image...}
+{Generate Domain Name List}
+{Generate E-mail List}
+{Generate Hostname List}
+{Generate URL List}
+{Generate Word List}
+{Get Server Time}
+{Go}
+{Go to URL}
+{Go to...}
+{Google CSV Format}
+{H1 Tag}
+{H1 Tags}
+{H2 Tag}
+{H2 Tags}
+{H3 Tag}
+{H3 Tags}
+{H4 Tag}
+{H4 Tags}
+{Hardware encoding}
+{Height}
+{Hidden}
+{Hide}
+{Hide All Stickers}
+{Highlight Active Line}
+{Highlight Even Lines}
+{Highlight mouse pointer}
+{Highlight Odd Lines}
+{HINT}
+{Hotkey:}
+{Hourly}
+{Hourly:}
+{How to create new sticky note:}
+{HTML File (*.html)}
+{ID}
+{ID Transformer...}
+{Idle Time:}
+{If no keyboard or mouse events occur for "Idle Time", "Work Time" resets.}
+{Ignore}
+{Ignore Extensions:}
+{Ignore URLs:}
+{Import from File...}
+{Include Subdirectories?}
+{Increase Font Size}
+{Increment:}
+{Initializing...}
+{Insert}
+{Insert Empty Lines}
+{Insert Numbers}
+{Insert Same Text Multiple Times}
+{Insert Same Text Multiple Times...}
+{Internal}
+{Internal URL Limit:}
+{Internal URL:}
+{Internal URLs}
+{Interval (sec):}
+{Invert Selection}
+{KeyPress Simulator}
+{LED Color (OFF):}
+{LED Color (ON):}
+{Left}
+{Left click to show Stickers on top.}
+{Length}
+{License...}
+{Light}
+{Line}
+{Line Length}
+{Line Numbers}
+{Line Order}
+{Link}
+{Links}
+{LIST ALL}
+{List of Containers:}
+{List of Loads:}
+{List...}
+{Load And Run Operation Files...}
+{Load Limit}
+{Load Project...}
+{Load Time (sec)}
+{Loading: %s}
+{Locking}
+{Logged in as administrator.}
+{lowercase}
+{Lowercase}
+{Mark as Complete}
+{Maximum:}
+{Memory}
+{Menu Hotkeys}
+{Merge all files with root of target folder}
+{MERGE MULTIPLE FOLDERS INTO ONE}
+{Merge Type:}
+{Method:}
+{milliseconds}
+{Minimize when recording starts}
+{Minimum:}
+{Minute}
+{minutes}
+{Mirror}
+{Mirror (Reset Target Folders)}
+{Miscellaneous}
+{Modified}
+{Monitor}
+{Monitor External File Modification}
+{Month}
+{Monthly}
+{Monthly:}
+{Move}
+{Move Down}
+{Move Up}
+{Moved}
+{Moving...}
+{Multiple Files...}
+{Name}
+{Name of Container}
+{Name of Load}
+{Net Encoding}
+{New}
+{New Project}
+{New Reminder}
+{New Reminder...}
+{New Sticker}
+{New Window}
+{Next Receipt Number:}
+{Next Rest:}
+{No Audio}
+{No data found!}
+{No erroneous e-mail found.}
+{No issues have been found.}
+{No item selected!}
+{No lines were affected!}
+{No mouse pointer}
+{No replacements made.}
+{No Sound}
+{No sticky notes left on the desktop!}
+{No text selected!}
+{Non-English}
+{None}
+{Note}
+{Note Window Margin:}
+{Notes Manager}
+{Notes Manager...}
+{Num Lock}
+{Number of affected lines: %s}
+{Number of deleted lines: %s}
+{Number of Times:}
+{Numbers}
+{Numbers:}
+{Occurrence}
+{Odd Numbered Lines}
+{Offset}
+{Online Help}
+{Only %s entries exported using unlicensed version.}
+{Only Once}
+{Only Once:}
+{Open Folder Location...}
+{Open...}
+{Options}
+{Options:}
+{Options...}
+{Ordinal Values of Characters}
+{Original Size}
+{Other}
+{Outlook CSV Format}
+{Output}
+{Overwrite Read-Only Files}
+{Passwords do not match!}
+{PDF File (*.pdf)}
+{Permanently Delete}
+{Permanently Delete All}
+{Phone Number}
+{Play}
+{Play Sound Effects}
+{Please add containers!}
+{Please add folders!}
+{Please add loads!}
+{Please enter new currency symbol:}
+{Please obtain a license key to activate the software.}
+{Please reinstall the software.}
+{Please reopen the software without administrator privileges.}
+{Please try again later!}
+{Please type your NEW private key:}
+{Preserve folder structure}
+{Preview Sticker}
+{Print}
+{Print Setup}
+{Print...}
+{Private Key}
+{Private key changed.}
+{Process completed!}
+{Product List}
+{Product List...}
+{Properties}
+{Random Number Generator}
+{Random Number Generator...}
+{Random Text Generator}
+{Random Text Generator...}
+{Randomize Line Contents}
+{Randomize Line Order}
+{Ready}
+{Receipts}
+{Recognize Environment Variables}
+{Recognize Network Drives}
+{Recording...}
+{Redo}
+{Refresh Device List}
+{Refresh Hardware Encodings}
+{Regular Expression}
+{Regular Expression...}
+{Reminder}
+{Reminders}
+{Remove Anchor Links}
+{Remove Query String Links}
+{Reopen}
+{Replace}
+{Replace by Space}
+{Reports}
+{Required files are missing}
+{Reset Registry...}
+{Reset Work Time}
+{Response Timeout (ms):}
+{Restore}
+{Restore when recording is complete}
+{Reverse}
+{Reverse Line Contents}
+{Reverse Line Sequence}
+{Right click to add new Stickers or Reminders.}
+{Right-click tray icon}
+{Run With}
+{SALES}
+{Sample Text}
+{Sample Values}
+{Save}
+{Save As...}
+{Save Operation File As...}
+{Save Project As...}
+{Save Results}
+{Scheduled Task}
+{Scheduled Task...}
+{Screen capture failed!}
+{Screen capture interrupted!}
+{ScreenSnap}
+{ScreenSnap:}
+{Search}
+{Search Every Line with Google}
+{Select}
+{Select Language}
+{Select your favourite theme}
+{Selected}
+{Semicolon}
+{Send to Recycle Bin}
+{SEO Audit}
+{Separate by Char}
+{Separate by String}
+{Separate Long Lines (Break Words)}
+{Separate Long Lines (Keep Words)}
+{Server Time:}
+{Server:}
+{Set as Default Encoding}
+{Settings...}
+{Show aboutbox}
+{Show All Stickers}
+{Show Date Time}
+{Show feedback window}
+{Show Idle Time:}
+{Show Letters and Numbers without Special Keys}
+{Show Links...}
+{Show Notifications}
+{Show Options}
+{Show Window}
+{Simple Mode}
+{Simulate Keypress:}
+{Small Buttons}
+{Software encoding}
+{Sort Lines}
+{Sound:}
+{Source URL}
+{Space}
+{Spell Check}
+{Spell Checker}
+{Spell Checker:}
+{Split Lines}
+{Start download}
+{Start Working}
+{Start:}
+{Status Bar}
+{Status Code}
+{Stay on Top}
+{Stickers}
+{Stock}
+{Stop download}
+{Stop:}
+{Strip HTML Markup}
+{Subdomain Name}
+{Suggested Corrections}
+{Sync Computer Time}
+{Syntax}
+{System Audio}
+{System Tray Menu}
+{Tab}
+{Tab Indent}
+{Tab Options}
+{Tab Options...}
+{Tab Size:}
+{Target Folder}
+{Target folder is not defined!}
+{Target Folder:}
+{Test Alert}
+{Text}
+{Text Color:}
+{Text Engine}
+{Text File}
+{Text File (*.txt)}
+{Text File (TXT)...}
+{Text not found!}
+{Text:}
+{The file could not be created!}
+{The file is empty!}
+{The file is very large. Do you still want to try to open it?}
+{The server returned an invalid response.}
+{The specified region is not valid!}
+{The text contains no lines!}
+{Theme}
+{This action cannot be undone!}
+{This is an example note.}
+{This is required for importing in Gmail and Outlook.}
+{This is your first sticker!}
+{This software works best without administrator privileges.}
+{Time}
+{Time Remaining:}
+{Timestamp}
+{Title}
+{Titles}
+{To Existing Lines}
+{To New Lines...}
+{Tool Bar}
+{Tools}
+{Top}
+{Top Selling Products}
+{Top Selling Products...}
+{Total URLs: %s}
+{Transparency:}
+{Tray Notifications:}
+{TRIAL LIMIT REACHED!}
+{Trim All}
+{Trim Both}
+{Trim Left}
+{Trim Lines}
+{Trim Right}
+{Truly Empty Lines}
+{Turn Off}
+{Turn On}
+{Undo}
+{Unicode Detector}
+{Unit}
+{Unlocking}
+{Unnamed}
+{UPPERCASE}
+{Uppercase and Lowercase}
+{URL}
+{URL Highlighter (No Spell Check)}
+{URL Length}
+{URL not found!}
+{URL Processor}
+{URL:}
+{USE AT YOUR OWN RISK!}
+{User will press keys}
+{User-Agent String:}
+{using Characters}
+{using File}
+{using Text}
+{using Text Length}
+{VCF Files (*.vcf)}
+{Verify that the file has not been corrupted and that the file extension matches the format of the file.}
+{Video file error!}
+{View}
+{View Source...}
+{Volume}
+{Volume Limit}
+{Volume of Container}
+{Volume of Load}
+{Weekdays}
+{What numbers will be added?}
+{Width}
+{Word Wrap}
+{Work Time:}
+{Yahoo CSV Format}
+{You are here:}
+{You can preview the font and color settings here.}
+{You can't go further than:}
+{You want to go to:}

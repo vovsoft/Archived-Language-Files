@@ -1,0 +1,1009 @@
+﻿{INFO:Translated By}Jadran Rudec, Stanislav R.
+{12 hour}12 ur
+{24 hour}24 ur
+{A required file is missing:}Manjka zahtevana datoteka:
+{Ability to disable update notifications}Možnost onemogočanja obvestil o posodobitvah
+{Aborted}Prekinjeno
+{About}Vizitka...
+{About %s}Vizitka %s
+{About Us}Vizitka
+{About...}Vizitka...
+{Access is denied.}Dostop je zavrnjen.
+{Acknowledgements...}Zasluge...
+{Activation}Aktivacija
+{Activation Code:}Aktivacijska koda:
+{Activation failed.}Aktivacija ni uspela.
+{Active}Aktiven
+{ADD}DODAJ
+{Add}Dodaj
+{Add context menu item}Dodaj vnos priročnega menija
+{Add Dictionary...}Dodaj slovar
+{Add Drive}Dodaj pogon
+{Add File}Dodaj datoteko
+{Add File(s)}Dodaj datoteke
+{Add File(s)...}Dodaj datoteke...
+{Add Files in Folders...}Dodaj datoteke v mape...
+{Add files to the list}Dodaj datoteke na seznam
+{Add Files...}Dodaj datoteke...
+{Add Folder}Dodaj mapo
+{Add Folder...}Dodaj mapo...
+{Add Folders...}Dodaj mape...
+{Add M3U8}Dodaj M3U8
+{Add Product Manually}Ročno dodaj izdelek
+{Add Recursive Subfolders...}Dodaj rekurzivne podmape...
+{Add Subfolders...}Dodaj podmape...
+{Add URL(s)...}Dodaj URL
+{Add URLs...}Dodaj URL...
+{Add using Environment Variables}Dodaj z uporabo spremenljivk okolja
+{Add Word To Dictionary}Dodaj besedo v slovar
+{Admin Password}Skrbniško geslo
+{Alert Text:}Besedilo opozorila:
+{All Customers}Vse stranke
+{All files must be unlocked before changing private key!}Pred zamenjavo zasebnega ključa je treba vse datoteke odkleniti!
+{All files must be unlocked before enabling or disabling content encryption!}Vse datoteke morajo biti odklenjene, preden omogočite ali onemogočite šifriranje vsebine!
+{All Products}Vsi izdelki
+{Alphabet}Abeceda
+{Alphabetical}Abecedno
+{Also delete entered text}Izbriši tudi vneseno besedilo
+{Always on Top}Vedno na zaslonu
+{Always on top}Vedno na zaslonu
+{Always show when toggled on}Vedno prikaži, ko je vklopljen
+{An error occurred while creating directory:}Pri ustvarjanju imenika je prišlo do napake:
+{An error occurred while unlocking:}Pri odklepanju je prišlo do napake:
+{Analyze URL...}Analiziraj URL
+{Analyze...}Analiziraj...
+{Anchor Text}Sidrno besedilo
+{Anchors}Sidra
+{And please backup your important files and folders before locking in case of hardware or software failure.}Pred zaklepanjema varnostno kopirajte vaše pomembne datoteke in mape v primeru okvare strojne ali programske opreme.
+{Annually}Letno
+{Annually:}Letno:
+{Any File}Katera koli datoteka
+{Any File (*.*)}Katera koli datoteka (*.*)
+{Are you sure?}Ali ste prepričani?
+{Arrange Stickers}Razporedi nalepke
+{ASCII Art...}Slika kot ASCII...
+{Ask Print}Vprašaj za tiskanje
+{Audio File}Zvočna datoteka
+{Audio file error!}Napaka zvočne datoteke!
+{Audit Messages...}Sporočila pregleda
+{Auto Copy Highlighted Text to Clipboard}Samodejno kopiraj označeno besedilo v odložišče
+{Auto Paste When Clipboard Changes}Samodejno prilepi, ko se odložišče spremeni
+{Auto Refresh File}Samodejno osveži datoteko
+{Auto Run at Startup}Samodejni zagon ob zagonu
+{Auto-Close Main Window}Samodejno zapri glavno okno
+{Auto-Close Popup Window After Finishing}Samodejno zapri pojavno okno po zaključku
+{Auto-Closing...}Samodejno zapiranje...
+{Auto-Refresh Drive List}Samodejno osveži seznam pogonov
+{Auto-Start at Startup}Samodejni zagon ob zagonu
+{Automatic}Samodejno
+{Automatically Restart Download}Samodejno znova zaženi prenos
+{Automatically restarted!}Samodejni ponovni zagon!
+{Automatically Synchronize}Samodejna sinhronizacija
+{Background Color:}Barva ozadja:
+{Backup Registry...}Varnostna kopija registra...
+{Backup Stickers}Varnostna kopija nalepk
+{Backup...}Varnostno kopiraj...
+{Barcode}Črtna koda
+{BARCODE:}ČRTNA KODA:
+{Begin:}Začetek:
+{Beginning of Each Line...}Začetek vsake vrstice...
+{Big Icons}Velike ikone
+{Blog}Blog
+{BREAK TIME!}ČAS ZA ODMOR!
+{Browse...}Brskaj...
+{Buy Now}Kupite zdaj
+{Calculate}Izračunaj
+{Calculating all possibilities...}Izračun vseh možnosti...
+{Calculation Results:}Rezultati izračuna:
+{Cancel}Prekliči
+{Cancel product selection}Prekliči izbiro izdelka
+{CANCELED by User Request}PREKLICAL sam uporabnik
+{Canceled!}Preklicano
+{Cannot create file}Datoteke ni mogoče ustvariti
+{Capitalize (First Letters Only)}Uporaba velikih začetnic (Samo prve črke)
+{Caps Lock}Caps Lock
+{Caps Lock: OFF}Caps Lock: IZKLOP
+{Caps Lock: ON}Caps Lock: VKLOP
+{Cascade}Stopničasto
+{Categories}Kategorje
+{Category}Kategorija
+{Category:}Kategorija:
+{Change Auto-Close Time}Spremeni čas samodejnega zapiranja
+{Change Auto-Close Time...}Spremeni čas samodejnega zapiranja...
+{Change Background Color}Spremeni barvo ozadja
+{Change Background Color...}Spremeni barvo ozadja...
+{Change Destination Folder}Spremeni ciljno mapo
+{Change File Location...}Spremeni lokacijo datoteke...
+{Change Font...}Spremeni pisavo...
+{Change Interface}Spremeni vmesnik
+{Change Keyboard Key}Spremeni tipko tipkovnice
+{Change Keyboard Key...}Spremeni tipko tipkovnice...
+{Change Line Spacing}Spremeni razmik med vrsticami
+{Change Line Spacing...}Spremeni razmik med vrsticami...
+{Change Login Password...}Spremeni geslo...
+{Change Menu Font...}Spremeni pisavo menija...
+{Change Private Key...}Spremeni zaseben ključ...
+{Change Recovery E-mail}Spremeni obnovitveni e-poštni naslov
+{Change Text Font}Spremeni pisavo besedila
+{Change Theme}Spremeni temo
+{Change Theme...}Spremeni temo...
+{Change:}Spremeni:
+{Check Multiple Websites}Preveri več spletnih strani
+{Check Multiple Websites...}Preveri več spletnih strani
+{Check Status Codes}Preveri stanje kod
+{Checking Status Codes...}Preverjanje stanja kod...
+{Classic}Klasična
+{Classical Interface}Klasični vmesnik
+{Clear}Počisti
+{Clear File History}Počisti zgodovino datotek
+{Click "New Sticker"}Klikni "Nova nalepka"
+{Click to download}Kliknite za prenos
+{Clip Lines...}Izreži vrstice...
+{Clipboard}Odložišče
+{Close}Zapri
+{Code:}Koda:
+{Combine Lines...}Združi vrstice...
+{Comma-Separated Values File (CSV)...}Datoteka vrednosti, ločenih z vejico (CSV)...
+{Commercial use allowed}Dovoljena komercialna uporaba 
+{Company}Podjetje
+{Compare Two Texts...}Primerjaj dve besedili...
+{Completed}Dokončano
+{Completed!}Dokončano!
+{Completed.}Dokončano.
+{Computer Code:}Koda računalnika:
+{Computer Time:}Čas računalnika:
+{Computer Timezone:}Časovni pas računalnika:
+{Computer will press keys}Računalnik bo pritiskal tipke
+{Confirm Before Deletion}Potrdite pred brisanjem
+{Confirm Password:}Potrdite geslo:
+{Confirm?}Potrdim?
+{Confirmation}Potrditev
+{Connection Error!}Napaka pri povezavi!
+{Connection Timeout (ms):}Časovna omejitev povezave (ms):
+{Contact}Stik
+{Content Encryption (SLOW)}Šifriranje vsebine (POČASNO)
+{Content encryption is enabled.}Šifriranje vsebine je omogočeno.
+{Continue}Nadaljuj
+{Contribute to Translation}Prispevajte prevod
+{Convert Non-English Chars to English Chars}Pretvori neangleške znake v angleške znake
+{Convert Numbers to Text}Prevori številke v besedilo
+{Copied}Kopirano
+{Copy}Kopiraj
+{Copy All}Kopiraj vse
+{Copy Anchor Text}Kopiraj sidrno besedilo
+{Copy files to many directories}Kopiraj datoteke v številne imenike
+{COPY INTO TARGET FOLDERS}KOPIRAJ V CILJNE MAPE
+{Copy URL}Kopiraj URL
+{Copying...}Kopiranje...
+{CREDIT:}ZASLUGE:
+{Credits}Zasluge
+{CSV File}CSV datoteka
+{CSV File (*.csv)}Datoteka CSV (*.csv)
+{Currency Symbol}Simbol valute
+{Customer}Stranka
+{Customer with credit cannot be deleted!}Stranke z zaslugami ni mogoče izbrisati!
+{CUSTOMER:}STRANKA:
+{Customer:}Stranka:
+{CUSTOMERS}STRANKE
+{Customers}Stranke
+{Cut}Izreži
+{Daily}Dnevno
+{Daily:}Dnevno:
+{Dark}Temna
+{Database Location}Mesti zbirke podatkov
+{Date}Datum
+{Date and Time}Datum in čas
+{Day}Dan
+{Daylight Saving:}Poletni čas:
+{Decode...}Dekodiraj...
+{Decrease Font Size}Zmanjšaj velikost pisave
+{Default}Privzeto
+{Default Alphabet}Privzeta abeceda
+{Default CSV Format}Privzeta oblika CSV
+{Del key:}Tipka DEL:
+{Delete}Izbriši
+{DELETE}IZBRIŠI
+{Delete After}Izbriši po
+{DELETE ALL}IZBRIŠI VSE
+{Delete All}Izbriši VSE
+{Delete all characters after:}Izbriši vse znake po:
+{Delete all characters before:}Izbriši vse znake pred:
+{Delete All Spaces}Izbriši vse presledke
+{Delete Alphabetic [a-z] [A-Z]}Izbriši abecedno [a-z] [A-Z]
+{Delete Alphanumeric [a-z] [A-Z] [0-9]}Izbriši alfanumerično [a-z] [A-Z] [0-9]
+{Delete Before}Izbriši pred
+{Delete Beginning or Ending Strings...}Izbriši začetni ali končni niz...
+{Delete Chars}Izbriši znake
+{DELETE CUSTOMER}IZBRIŠI STRANKO
+{Delete Customer}Izbriši stranko
+{Delete Extra Spaces}Izbriši odvečne presledke
+{Delete last entered product}Izbriši zadnji vneseni izdelek
+{Delete Non-Alphabetic}Izbriši neabecedno
+{Delete Non-Alphanumeric}Izbriši nealfanumerično
+{Delete Numbers [0-9]}Izbriši številke [0-9]
+{DELETE PRODUCT}IZBRIŠI IZDELEK
+{Delete Record}Izbriši zapis
+{Delete Reminder}Izbriši opomnik
+{Delete Selected}Izbriši izbrano
+{Delete Unnecessary Lines}Izbriši nepotrebne vrstice
+{Delete?}Izbrišem?
+{Deleted}Izbrisano
+{Description}Opis
+{Descriptions}Opisi
+{Deselect All}Prekliči izbiro vseh
+{Destination:}Cilj:
+{DETAILS}PODROBNOSTI
+{Diagnose}Diagnosticiraj
+{Diagonal}Diagonalno
+{Directory is not writable!}Mapa ni zapisljiva!
+{Directory not found!}Mapa ni bila najdena!
+{Directory:}Mapa
+{Disabled}Onemogočeno
+{Discount}Popust
+{Discounted Price}Cena s popustom
+{Discounted Total}Skupaj s popustom
+{Disk Write Interval (sec):}Interval zapisovanja diska (sek):
+{Dismiss}Opusti
+{Display Duration:}Trajanje prikaza:
+{Display Load Time}Prikaži čas nalaganja
+{Display Prices}Prikaži cene
+{Display Special Chars}Prikaži posebne znake
+{Display Unfinished Results}Prikaži nedokončane rezultate
+{Do you really want to delete ALL stickers?}Ali res želite izbrisati VSE nalepke?
+{Do you really want to delete the reminder?}Ali res želite izbrisati opomnik?
+{Do you really want to delete the sticker?}Ali res želite izbrisati nalepko?
+{Do you want to delete all stickers, reminders, settings and restart application?}Ali želite izbrisati vse nalepke, opomnike, nastavitve in znova zagnati aplikacijo?
+{Do you want to replace the sticker with the image?}Želite zamenjati nalepko s sliko?
+{Do you want to save the current file before exit?}Ali želite shraniti trenutno datoteko pred izhodom?
+{Do you want to save the current file?}Ali želite shraniti trenutno datoteko?
+{Do you want to save this file before exit?}Ali želite shraniti to datoteko pred izhodom?
+{Do you want to save this file?}Ali želite shraniti to datoteko?
+{Domain Name}Ime domene
+{Don't show this again}Tega ne prikazuj več
+{Download}Prenesi
+{Downloading...}Prenos...
+{Drag Drop Filenames}Povleci-spusti datoteke/mape
+{Draw mouse pointer}Nariši miškini kazalec
+{Drive}Pogon
+{DRIVE MISMATCH}NESKLADEN POGON
+{Drive:}Pogon:
+{Duplicate Lines}Podvojene vrstice
+{E-mail}E-pošta
+{E-mail is changed.}E-pošta je spremenjena.
+{E-mail not accepted!}E-pošta ni sprejeta!
+{E-mail not found!}E-pošte ni bilo mogoče najti!
+{E-mail Processor}Obdelovalec e-pošte
+{Edit}Uredi
+{Edit License}Uredi licenco
+{Edit License...}Uredi licenco...
+{Edit M3U8}Uredi M3U8
+{Edit Password}Uredi geslo
+{Edit...}Uredi
+{Elapsed Time:}Potekel čas:
+{Email Address}E-poštni naslov
+{Empty}Prazno
+{Empty Lines (can include spaces and tabs)}Prazne vrstice (lahko vključujejo presledke in tabulatorje)
+{Enable}Omogoči
+{Enabled}Omogočeno
+{Encode...}Kodiraj...
+{Encoding}Kodiranje
+{Encryption}Šifriranje
+{End of Each Line...}Konec vsake vrstice...
+{End-User License Agreement}Licenčna pogodba za končnega uporabnika
+{End:}Konec:
+{English}Angleška
+{Enter License Key}Vnesite licenčni ključ
+{Entire Document}Ves dokument
+{Error}Napaka
+{ERROR}NAPAKA
+{Error No:}Napaka št.:
+{ESC key:}Tipka ESC:
+{EULA}EULA
+{Even Numbered Lines}Sodo oštevilčene vrstice
+{Excel 2007 File (*.xlsx)}Datoteka Excel 2007 (*.xlsx)
+{Excel CSV Format}Format Excel CSV
+{Excel File (*.xls)}Datoteka Excel (*.xls)
+{Excel File (XLS)...}Datoteke Excel (XLS)...
+{Exit}Izhod
+{Exit Application?}Želite zapreti program?
+{Exit...}Izhod...
+{EXITING...}IZHOD...
+{Explore Dictionaries...}Razišči slovarje...
+{Export}Izvozi
+{Export Anchor List...}Izvozi sidrni seznam...
+{Export Backlinks...}Izvozi povratne povezave...
+{Export Descriptions...}Izvozi opise
+{Export H1 Tags...}Izvozi oznake H1...
+{Export H2 Tags...}Izvozi oznake H2...
+{Export H3 Tags...}Izvozi oznake H3...
+{Export H4 Tags...}Izvozi oznake H4...
+{Export Internal URLs...}Izvozi zunanje URL-je...
+{Export Lines to Files}Izvozi vrstice v datoteke
+{Export Lines to Files...}Izvozi vrstice v datoteke...
+{Export Links...}Izvozi povezave...
+{Export Report to PDF...}Izvozi poročilo v PDF...
+{Export Sitemap...}Izvozi zemljevid spletne strani...
+{Export Titles...}Izvozi naslove...
+{Export To File}Izvozi v datoteko
+{Export to File...}Izvozi v datoteko...
+{Export to HTML...}Izvozi v HTML...
+{Export to PDF...}Izvozi v PDF...
+{Exported Entries:}Izvoženi vnosi:
+{External}Zunanje
+{Extra Line Spacing:}Dodaten razmik med vrsticami:
+{Extract Image...}Izvleci sliko...
+{Extract Text...}Izvleci besedilo...
+{Extras}Dodatno
+{Fade-out Animation}Pojemajoča animacija
+{Failed}Ni uspelo
+{Failure}Neuspeh
+{Feedback}Povratne informacije
+{feedback}povratne informacije
+{File}Datoteka
+{File already exists!}Datoteka že obstaja!
+{File does NOT exist:}Datoteka NE OBSTAJA:
+{File inaccessible!}Datoteka ni dostopna!
+{File List}Seznam datotek
+{File Location}Mesto datoteke
+{File Location:}Mesto datoteke:
+{File lock error!}Napaka pri zaklepanju datoteke!
+{File Mask}Maska datoteke
+{File Mask:}Maska datoteke:
+{File not found!}Datoteka ni najdena!
+{File or Folder:}Datoteka ali mapa
+{Filename:}Ime datoteke:
+{Filename: %s}Ime datoteke: %s
+{Files & Folders}Datoteke in mape
+{Filter Lines}Filter vrstic
+{Find}Najdi
+{Find Erroneous E-mails}Poišči napačne e-pošte
+{Find Lines}Poišči vrstice
+{Find Lines...}Poišči vrstice...
+{Find Next}Poišči naslednje
+{Find Next Misspelling}Poišči naslednje napačno črkovanje
+{Fix Broken UTF-8 Encoding}Popravi pokvarjeno UTF-8 kodiranje 
+{Fixed-Pitch Fonts Only}Samo pisave fiksne velikosti
+{Folder}Mapa
+{Folder does NOT exist:}Mapa NE obstaja:
+{Folder Size:}Velikost mape:
+{Folder:}Mapa:
+{Folders}Mape
+{Follow}Sledi
+{Follow Redirects}Sledi preusmeritvam
+{For 1}Za 1
+{For 10}Za 10
+{For 100}Za 100
+{For 20}Za 20
+{For 200}Za 200
+{For 5}Za 5
+{For 50}Za 50
+{Forgot Password?}Pozabili ste geslo?
+{Format:}Oblika:
+{FREE}BREZPLAČNO
+{Free Edit}Brezplačno urejanje
+{Free to try}Brezplačen poskus
+{FREEWARE}BREZPLAČNO
+{Freeware}Brezplačno
+{Freeware Utilities}Brezplačni pripomočki
+{Full Screen}Celozaslonski način
+{Generate}Ustvari
+{Generate Barcode Image...}Ustvari sliko črtne kode...
+{Generate Domain Name List}Ustvari seznam domenskih imen
+{Generate E-mail List}Ustvari e-poštni seznam
+{Generate Hostname List}Ustvari seznam imen gostiteljev
+{Generate URL List}Ustvari seznam URL
+{Generate Word List}Ustvari seznam besed
+{Get Server Time}Pridobi čas strežnika
+{Go}Pojdi
+{Go to URL}Pojdi na URL
+{Go to...}Pojdi na...
+{Google CSV Format}Googlova oblika CSV
+{GRAND TOTAL:}SKUPNA VSOTA:
+{H1 Tag}Oznaka H1
+{H1 Tags}Oznake H1
+{H2 Tag}Oznaka H2
+{H2 Tags}Oznake H2
+{H3 Tag}Oznaka H3
+{H3 Tags}Oznake H4
+{H4 Tag}Oznaka H4
+{H4 Tags}Oznake H4
+{Hardware encoding}Strojno kodiranje
+{Header}Glava
+{Headers}Glave
+{Height}Višina
+{Height:}Višina:
+{Help}Pomoč
+{Hidden}Skrito
+{Hide}Skrij
+{Hide All Stickers}Skrij vse nalepke
+{Hide Details}Skrij podrobnosti
+{Highlight Active Line}Označi aktivno vrstico
+{Highlight Even Lines}Označi parne vrstice
+{Highlight mouse pointer}Označi kazalec miške
+{Highlight Odd Lines}Označi neparne vrstice
+{HINT}NAMIG
+{Home}Domov
+{Hotkey:}Bližnjica:
+{Hourly}Vsako uro
+{Hourly:}Vsako uro:
+{How to create new sticky note:}Kako ustvariti novo nalepko:
+{How to uninstall...}Kako odstraniti...
+{HTML File (*.html)}HTML datoteka (*.html)
+{I dislike it!}Ni mi všeč!
+{I like it!}Všeč mi je!
+{ID}ID
+{ID Transformer...}ID urejevalnik...
+{Idle Time:}Čas nedejavnosti:
+{If no keyboard or mouse events occur for "Idle Time", "Work Time" resets.}"Čas dela" se ponastavi, če za "Čas nedejavnosti" ne pride do dogodka na tipkovnici ali miški.
+{If you like the software, please buy a license to make this software fully functional and remove this window.}Če vam je program všeč, kupite licenco za njegovo popolno delovanje in odstranitev tega okna. 
+{Ignore}Prezri
+{Ignore Drive Mismatch While Unlocking}Prezri neskladje pogona med odklepanjem
+{Ignore Extensions:}Prezri končnice
+{Ignore Failed Files While Unlocking}Prezri neuspele datoteke med odklepanjem
+{Ignore URLs:}Prezri URL-je:
+{Import}Uvozi
+{Import from File...}Uvozi iz datoteke...
+{IMPORTANT}POMEMBNO
+{Include my e-mail:}Vključi mojo e-pošto:
+{Include Subdirectories?}Vključim podimenike?
+{Increase Font Size}Povečaj velikost pisave
+{Increment:}Prirastek
+{Indicates status of keys}Označuje stanje tipk
+{Info}Informacija
+{Information}Informacija
+{Initializing...}Inicializacija...
+{Insert}Vstavi
+{Insert Empty Lines}Vstavi prazne vrstice
+{Insert Numbers}Vstavi številke
+{Insert Same Text Multiple Times}Vstavi isto besedilo večkrat
+{Insert Same Text Multiple Times...}Vstavi isto besedilo večkrat...
+{Insufficient stock!}Pomanjkanje zalog!
+{Internal}Notranji
+{Internal URL Limit:}Omejitev notranjega URL-ja:
+{Internal URL:}Notranji URL:
+{Internal URLs}Notranji URL-ji
+{Interval (sec):}Interval (sek):
+{Invalid E-mail!}Neveljaven e-poštni naslov!
+{Invalid Entry!}Neveljaven vnos!
+{Invert Selection}Obrni izbor
+{Keyboard Shortcuts}Bližnjice na tipkovnici
+{KeyPress Simulator}Simulator pritiska tipke
+{Language}Jezik
+{Language:}Jezik:
+{Language...}Jezik...
+{LED Color (OFF):}Barva LED (IZKLOP):
+{LED Color (ON):}Barva LED (VKLOP):
+{Left}Levo
+{Left click to show Stickers on top.}Levi klik za prikaz nalepk na zaslonu.
+{Length}Dolžina
+{License key is invalid!}Licenčni ključ ni veljaven!
+{License:}Licenca:
+{License...}Licenca...
+{Licensed}Licencirano
+{Licensed to:}Licencirano za:
+{Lifetime free updates}Doživljenjske brezplačne posodobitve
+{Light}Svetla
+{Line}Vrstica
+{Line Length}Dolžina vrstice
+{Line Numbers}Številke vrstic
+{Line Order}Vrstni red
+{Link}Povezava
+{Links}Povezave
+{List}Seznam
+{LIST ALL}SEZNAM VSEH
+{List of Containers:}Seznam vsebnikov:
+{List of Loads:}Seznam naloženih:
+{List...}Seznam...
+{Load}Naloži
+{Load And Run Operation Files...}Naloži in zaženi operacijske datoteke...
+{Load Limit}Meja nalaganja
+{Load Operation File...}Naloži operacijske datoteke...
+{Load Project...}Naloži projekt...
+{Load source list from file...}Naloži seznam virov iz datoteke...
+{Load target list from file...}Naloži ciljni seznam iz datoteke...
+{Load Time (sec)}Čas nalaganja (s)
+{Load vCards from VCF file...}Naloži vCards iz datoteke VCF...
+{Load...}Naloži...
+{Loading}Nalaganje
+{Loading: %s}Nalaganje: %s
+{Loading...}Nalaganje...
+{Lock}Zakleni
+{Lock and Unlock processes may take some time.}Zaklepanje in odklepanje lahko zahteva nekaj časa.
+{Lock Selected}Zakleni izbrano
+{LOCKED}ZAKLENJENO
+{Locking}Zaklepanje
+{Logged in as administrator.}Prijavljen kot skrbnik.
+{Login (Full Access)}Prijava (Polni dostop)
+{Logout}Odjava
+{lowercase}male črke
+{Lowercase}Male črke
+{MAIN MENU}GLAVNI MENI
+{Mark as Complete}Označi kot dokončano
+{Maximum:}Največ:
+{Memory}Pomnilnik
+{Menu Hotkeys}Meni Vroče tipke
+{Merge all files with root of target folder}Združi vse datoteke s korenom ciljne mape
+{MERGE MULTIPLE FOLDERS INTO ONE}ZDRUŽI VEČ MAP V ENO
+{Merge Type:}Vrsta združitve:
+{Method:}Način:
+{milliseconds}milisekund
+{Minimal Mode}Minimalni način
+{Minimize when recording starts}Zmanjšaj ob začetku snemanja
+{Minimum:}Najmanj:
+{Minute}Minuta
+{minutes}minut
+{Miscellaneous}Razno
+{Mode}Način
+{Modified}Spremenjeno
+{Monitor}Monitor
+{Monitor External File Modification}Spremljanje sprememb zunanje datoteke
+{Month}Mesec
+{Monthly}Mesečno
+{Monthly:}Mesečno:
+{Move}Premakni
+{Move (Delete Source Files and Folders)}Premakni (izbriše izvorne datoteke in mape)
+{Move Down}Premakni navzdol
+{Move Info: Source files and folders were not deleted from disk because of copy error}Informacije o premikanju: izvorne datoteke in mape niso bile izbrisane z diska zaradi napake pri kopiranju
+{Move Up}Premakni navzgor
+{Moved}Premaknjeno
+{Moving...}Premikanje...
+{Multiple Files...}Več datotek...
+{Name}Ime
+{Name of Container}Ime vsebnika
+{Name of Load}Ime nalaganja
+{Net Encoding}Mrežno kodiranje
+{New}Nova
+{New Project}Nov projekt
+{New Reminder}Nov opomnik
+{New Reminder...}Nov opomnik...
+{New Sticker}Nova nalepka
+{New Window}Novo okno
+{Next Receipt Number:}Naslednja številka potrdila:
+{Next Rest:}Naslednja omejitev:
+{No}Ne
+{No Audio}Brez zvoka
+{No data found!}Ni najdenih podatkov!
+{No erroneous e-mail found.}Napačna e-pošta ni bila najdena.
+{No issues have been found.}Težave niso bile najdene.
+{No Item Selected!}Noben element ni izbran!
+{No item selected!}Noben element ni izbran!
+{No mouse pointer} Brez kazalca miške
+{No nag screen, no ads}Brez nagajivega zaslona, brez oglasov
+{No replacements made.}Zamenjave niso bile izvedene.
+{No Sound}Brez zvoka
+{No sticky notes left on the desktop!}Na namizju ni več nalepk!
+{No text selected!}Ni izbranega besedila!
+{Non-English}Neangleška
+{None}Brez
+{Not applicable!}Ne pride v poštev!
+{Not Paid:}Ni plačano:
+{Note}Opomba
+{Note Window Margin:}Opomba na rob okna:
+{Notes Manager}Upravitelj opomb
+{Notes Manager...}Upravitelj opomb...
+{Num Lock}Num Lock
+{Num Lock: OFF}Num Lock IZKLOP
+{Num Lock: ON}Num Lock VKLOP
+{Number of deleted lines: %s}Število izbrisanih vrstic: %s
+{Number of Files:}Število datotek:
+{Number of Times:}Kolikokrat:
+{Numbers}Številke
+{Numbers:}Številke:
+{Occurrence}Pojavnost
+{Odd Numbered Lines}Liho oštevilčene vrstice
+{Offline Activation}Aktivacija brez povezave
+{Offset}Odmik
+{OK}Vredu
+{Online Help}Spletna pomoč
+{Only %s entries exported using unlicensed version.}Samo %s vnosov je bilo izvoženih z uporabo nelicencirane različice.
+{Only Once}Samo enkrat
+{Only Once:}Samo enkrat:
+{Open File}Odpri datoteko
+{Open folder location...}Odpri mesto mape...
+{Open Folder Location...}Odpri mesto mape...
+{Open...}Odpri...
+{Operating Systems:}Operacijski sistemi:
+{Operation File}Operacijska datoteka
+{Operation STOPPED!}Operacija je USTAVLJENA!
+{Operations}Operacije
+{Options}Možnosti
+{Options...}Možnosti...
+{Ordinal Values of Characters}Zaporedne vrednosti znakov
+{Original Size}Izvorna velikost
+{Outlook CSV Format}Oblika Outlook CSV
+{Output}Izhod
+{Output:}Izhod:
+{Overwrite Existing Files}Prepiši obstoječe datoteke
+{Overwrite Read-Only Files}Prepiši 'samo_za_branje' datoteke 
+{PAID}PLAČANO
+{Paid}Plačano
+{Paid:}Plačano:
+{Password}Geslo
+{Password is changed.}Geslo je spremenjeno.
+{Password is incorrect!}Geslo je napačno!
+{Password not accepted!}Geslo ni sprejeto!
+{Password Recovery E-mail:}E-pošta za obnovitev gesla:
+{Password:}Geslo:
+{Passwords do not match!}Gesli se ne ujemata!
+{Paste}Prilepi
+{Payments}Plačila
+{PDF File (*.pdf)}PDF datoteka (*.pdf)
+{Permanently Delete}Trajno izbriši
+{Permanently Delete All}Trajno izbriši vse
+{Play}Predvajaj
+{Play Sound Effect}Predvajaj zvočni učinek
+{Play Sound Effects}Predvajaj zvočne učinke
+{Please add containers!}Prosimo, dodajte vsebnike!
+{Please add folders!}Dodajte mape!
+{Please add loads!}Prosimo, dodajte naložene!
+{Please add source files!}Dodajte izvorne datoteke!
+{Please add target folders!}Dodajte ciljne mape!
+{Please check your e-mail box.}Preverite svoj e-poštni predal.
+{Please check your internet connection!}Preverite internetno povezavo!
+{Please enter barcode or product name!}Vnesite črtno kodo ali ime izdelka!
+{Please enter discount ratio:}Vnesite popust:
+{Please enter master password!}Vnesite glavno geslo!
+{Please enter new currency symbol:}Vnesite nov simbol valute:
+{Please enter password:}Vnesite geslo:
+{Please enter unit price:}Vnesite ceno enote:
+{Please enter your license key:}Vnesite svoj licenčni ključ:
+{Please enter your license key!}Vnesite svoj licenčni ključ!
+{Please keep it in a safe place. You need it to unlock your files and folders.}Prosimo, hranite ga na varnem mestu. Potrebujete ga za odklepanje datotek in map.
+{Please obtain a license key to activate the software.}Za aktiviranje programa pridobite licenčni ključ.
+{Please reinstall the software.}Znova namestite program.
+{Please reopen the software without administrator privileges.}Znova odprite program brez skrbniških pravic.
+{Please try again later!}Prosimo, poskusite ponovno kasneje!
+{Please try again later.}Prosimo, poskusite znova kasneje.
+{Please try:}Poskusite:
+{Please type NEW password:}Vnesite novo geslo:
+{Please type your CURRENT password:}Vnesite vaše trenutno geslo:
+{Please type your NEW e-mail:}Vnesite svoj novi e-naslov:
+{Please type your NEW password:}Vnesite svoje novo geslo:
+{Please type your NEW private key:}Prosimo, vnesite svoj NOVI zaseben ključ:
+{Please Wait For Backup Process!}Počakajte na postopek varnostnega kopiranja!
+{Preserve folder structure}Ohrani strukturo map
+{Preview Sticker}Predogled nalepke
+{Price}Cena
+{PRICE:}CENA:
+{Print}Tiskanje
+{Print Setup}Nastavitev tiskanja
+{Print Template}Natisni predlogo
+{Print?}Natisnem?
+{Print...}Natisni...
+{Printer not found!}Tiskalnik ni bil najden!
+{Privacy Policy}Politika zasebnosti
+{Private Key}Zaseben ključ
+{Private key changed.}Zaseben ključ je spremenjen.
+{Process}Postopek
+{Process completed!}Postopek končan!
+{Processing...}Obdelava...
+{Product}Izdelek
+{Product List}Seznam izdelkov
+{Product List...}Seznam izdelkov...
+{PRODUCT NAME:}IME IZDELKA:
+{Product successfully activated.}Izdelek je uspešno aktiviran.
+{Product:}Izdelek:
+{PRODUCTS}IZDELKI
+{Products}Izdelki
+{Properties}Lastnosti
+{Purchase}Nakup
+{Quantity}Količina
+{Random Number Generator}Generator naključnih števil
+{Random Number Generator...}Generator naključnih števil...
+{Random Text Generator}Generator naključnega besedila
+{Random Text Generator...}Generator naključnega besedila...
+{Randomize Line Contents}Naključne vsebine vrstice
+{Randomize Line Order}Naključni vrstni red
+{Read Reviews}Preberite mnenja
+{Ready}Pripravljen
+{Receipts}Prejeto
+{Recognize Environment Variables}Prepoznaj spremenljivke okolja
+{Recognize Network Drives}Prepoznaj omrežne pogone
+{RECORD}ZAPIS
+{RECORD DATE:}DATUM ZAPISA:
+{Recording...}Snemanje...
+{Recover Lost Files}Obnovi izgubljene datoteke
+{Recover Password}Obnovi geslo
+{Redo}Uveljavi
+{Refresh Device List}Osveži seznam naprav
+{Refresh Hardware Encodings}Osveži strojno kodiranje
+{Refund Policy}Politika vračila
+{Region}Regija
+{Regular Expression}Regularni izraz
+{Regular Expression...}Regularni izraz...
+{Related Software}Povezan
+{Release Date:}Datum izdaje:
+{Remember Settings}Zapomni nastavitve
+{Reminder}Opomnik
+{Reminders}Opomniki
+{Remove}Odstrani
+{Remove All}Odstrani vse
+{Remove Anchor Links}Odstrani sidrne povezave
+{Remove Query String Links}Odstrani povezave nizov poizvedb
+{Remove Selected}Odstrani izbrano
+{Reopen}Ponovno odpri
+{Replace}Zamenjaj
+{Replace by Space}Zamenjaj s presledkom
+{Reports}Poročila
+{Required files are missing}Zahtevane datoteke manjkajo
+{Reset}Ponastavi
+{Reset Registry...}Ponastavi Register...
+{Reset to Defaults}Ponastavi na privzeto
+{Reset Work Time}Ponastavi čas dela 
+{Response Timeout (ms):}Časovna omejitev odziva (ms):
+{Restart Application?}Znova zaženem aplikacijo?
+{Restore}Obnovi
+{Restore from Backup...}Obnovi iz varnostne kopije...
+{Restore when recording is complete}Obnovi, ko je snemanje končano
+{Reverse}Obrnjeno
+{Reverse Line Contents}Obrnjena vsebina vrstic
+{Reverse Line Sequence}Obrnjeno zaporedje vrstic
+{Right click to add new Stickers or Reminders.}Desni klik za dodajanje novih nalepk ali opomnikov.
+{Right-click tray icon}Z desno tipko miške kliknite ikono pladnja
+{Run With}Zaženi z
+{SALES}PRODAJA
+{Sample Text}Vzorec besedila
+{Sample Values}Vzorčne vrednosti
+{Save}Shrani
+{Save As...}Shrani kot
+{Save Operation File As...}Shrani operacijsko datoteko kot...
+{Save Operation File...}Shrani operacijsko datoteko...
+{Save Project As...}Shrani projekt kot...
+{Save Results}Shrani rezultate
+{Save source list to file...}Shrani izvorni seznam v datoteko...
+{Save target list to file...}Shrani ciljni seznam v datoteko
+{Scheduled Task}Načrtovano opravilo
+{Scheduled Task...}Načrtovano opravilo...
+{Screen capture failed!}Zajem zaslona ni uspel!
+{ScreenSnap}Posnetek zaslona
+{ScreenSnap:}Posnetek zaslona:
+{Scroll Lock}Pomikanje
+{Scroll Lock: OFF}Pomikanje: IZKLOP
+{Scroll Lock: ON}Pomikanje: VKLOP
+{Search}Išči
+{Search Every Line with Google}Išči vsako vrstico z Googlom
+{Search:}Išči:
+{Search...}Išči...
+{seconds}sekund
+{Secure your files and folders}Zaščitite datoteke in mape
+{Select}Izberi
+{Select All}Izberi vse
+{Select folder:}Izberi mapo:
+{Select Language}Izberi jezik
+{Select Product}Izberi izdelek
+{Select Region and Close}Izberi območje in zapri
+{Select your favourite theme}Izberite svojo najljubšo temo
+{Selected}Izbrano
+{SELL BY CASH}PLAČILO Z GOTOVINO
+{Sell by Cash}Plačilo z gotovino
+{SELL BY CREDIT}PLAČILO S POSOJILOM
+{Sell by Credit}Plačilo s posojilom
+{Send}Pošlji
+{Send e-mail?}Pošljem e-pošto?
+{Send Feedback}Pošlji povratne informacije
+{Send Feedback...}Pošlji povratne informacije...
+{Send to Recycle Bin}Pošlji v koš
+{SEO Audit}SEO Pregled
+{Separate by Char}Loči po znaku
+{Separate by String}Loči po nizu
+{Separate Long Lines (Break Words)}Loči dolge vrstice (prelomi besede)
+{Separate Long Lines (Keep Words)}Loči dolge vrstice (obdrži besede)
+{Server Time:}Čas strežnika:
+{Server:}Strežnik:
+{Set as Default Encoding}Nastavi kot privzeto kodiranje
+{Settings}Nastavitve
+{Settings...}Nastavitve...
+{Show}Prikaži
+{Show aboutbox}Prikaži polje Vizitka
+{Show All Stickers}Prikaži vse nalepke
+{Show Date Time}Prikaži datum in čas
+{Show Details}Prikaži podrobnosti
+{Show feedback window}Prikaži okno 'Povratne informacije'
+{Show Idle Time:}Prikaži čas nedejavnosti:
+{Show Letters and Numbers without Special Keys}Prikaži črke in številke brez posebnih tipk
+{Show Links...}Prikaži povezave
+{Show Notifications}Prikaži obvestila
+{Show Options}Prikaži 'Možnosti'
+{Show when status changes}Prikaži, ko se stanje spremeni
+{Show Window}Prikaži okno
+{Sign up}Prijavite se
+{Simulate Keypress:}Simuliraj pritisk tipke:
+{Small Buttons}Majhni gumbi
+{Software}Program
+{Software encoding}Kodiranje programa
+{Something went wrong. Your feedback could not be delivered.}Nekaj je šlo narobe. Vaše povratne informacije ni bilo mogoče posredovati.
+{Sort}Razvrsti
+{Sort Lines}Razvrsti vrstice
+{Sound Effect}Zvočni efekt
+{Sound:}Zvok:
+{Source (Files, Folders, URLs)}Vir (datoteke, mape, URL-ji)
+{Source URL}URL vira:
+{Space key:}Preslednica:
+{Spell Check}Preverjanje črkovanja
+{Spell Checker}Črkovalnik
+{Spell Checker:}Črkovalnik:
+{Split Lines}Razdeli vrstice
+{Start}Začni
+{Start download}Začni prenos
+{Start Working}Začni delati
+{Start:}začetek:
+{Status}Stanje
+{Status Bar}Vrstica stanja
+{Status Code}Stanje kode
+{Stay on Top}Ostani na zaslonu
+{Stickers}Nalepke
+{Stock}Zaloge
+{STOCK BALANCE:}STANJE ZALOG:
+{Stock Inventory Count Sheet}Razpredelnica popisa stanja zalog
+{Stock Inventory Count Sheet...}Razpredelnica popisa stanja zalog...
+{STOP}USTAVI
+{Stop download}Ustavi prenos
+{Stop:}Ustavi:
+{Strip HTML Markup}Odstranitev oznak HTML
+{Subdomain Name}Ime poddomene
+{Success}Uspešno
+{SUCCESS}USPEH
+{Suggested Corrections}Predlagani popravki
+{Support}Podpora
+{Sync Computer Time}Sinhronizacija računalniškega časa
+{Syntax}Sintaksa
+{System Audio}Sistemski zvok
+{System Error.}Sistemska napaka.
+{System Tray Menu}Meni sistemske vrstice
+{Tab Indent}Zamik zavihka
+{Tab Options}Možnosti zavihka
+{Tab Options...}Možnosti zavihka...
+{Tab Size:}Velikost zavihka:
+{Target Folder}Ciljna mapa
+{Target folder is not defined!}Ciljna mapa ni določena!
+{Target Folder:}Ciljna mapa:
+{Target Folders}Ciljne mape
+{Test Alert}Opozorilo o preizkusu
+{Testimonials}Priporočila
+{Text}Besedilo
+{Text Color:}Barva besedila:
+{Text Engine}Besedilni program
+{Text File}Besedilna datoteka
+{Text File (*.txt)}Besedilna datoteka (*.txt)
+{Text File (TXT)...}Besedilna datoteka (TXT)...
+{Text not found!}Besedilo ni najdeno!
+{Text:}Besedilo
+{Thank you}Hvala vam
+{Thank you!}Hvala vam!
+{The file could not be created!}Datoteke ni bilo mogoče ustvariti!
+{The file is empty!}Datoteka je prazna
+{The file is very large. Do you still want to try to open it?}Datoteka je zelo velika. Ali jo še vedno želite poskusiti odpreti?
+{The server returned an invalid response.}Strežnik je vrnil neveljaven odgovor.
+{The specified region is not valid!}Navedeno območje ni veljavno!
+{The text contains no lines!}Besedilo ne vsebuje vrstic!
+{Theme}Tema
+{This action cannot be undone!} Te akcije ni mogoče razveljaviti!
+{This is an example note.}To je primer opombe.
+{This is required for importing in Gmail and Outlook.}To je potrebno za uvoz v Gmail in Outlook.
+{This is your first sticker!}To je vaša prva nalepka!
+{This software works best without administrator privileges.}Ta program deluje najbolje brez skrbniških pravic.
+{Time}Čas
+{Timestamp}Časovni žig
+{Title}Naslov
+{Titles}Naslovi
+{To Existing Lines}Do obstoječih vrstic
+{To New Lines...}Do novih vrstic...
+{Tool Bar}Orodna vrstica
+{Tools}Orodja
+{Top}Zgoraj
+{Top Selling Products}Najbolj prodajani izdelki
+{Top Selling Products...}Najbolj prodajani izdelki...
+{Total}Skupaj
+{Total URLs: %s}Skupno število URL-jev: %s
+{TOTAL:}SKUPAJ:
+{Total:}Skupaj:
+{Translated by:}Prevedel:
+{Transparency:}Prosojnost:
+{Tray Notifications:}Obvestila v opravilni vrstici:
+{Trial}Preizkus
+{TRIAL LIMIT REACHED!}DOSEŽENA JE OMEJITEV PREIZKUŠANJA!
+{TRIAL VERSION}PREIZKUSNA RAZLIČICA
+{Trim All}Obreži vse
+{Trim Both}Obreži oboje
+{Trim Left}Obreži levo
+{Trim Lines}Obreži vrstice
+{Trim Right}Obreži desno
+{Truly Empty Lines}Resnično prazne vrstice
+{Try to run as Administrator.}Poskusite zagnati kot skrbnik.
+{Turn Off}Izklopi
+{Turn On}Vklopi
+{Type}Vrsta
+{Undo}Razveljavi
+{Unicode Detector}Unicode detektor
+{Unit}Enota
+{UNLICENSED}NI LICENCIRAN
+{Unlock}Odkleni
+{UNLOCK ERROR}NAPAKA PRI ODKLEPANJU
+{Unlock Selected}Odkleni
+{Unlocked}Odklenjena
+{Unlocking}Odklepanje
+{Unnamed}Neimenovano
+{UPDATE}POSODOBI
+{UPDATE AVAILABLE}NA VOLJO JE POSODOBITEV
+{Update Notifications}Obvestilo o posodobitvi
+{UPPERCASE}VELIKE ČRKE
+{Uppercase and Lowercase}Velike in male črke
+{URL}URL
+{URL Highlighter (No Spell Check)}Označevalnik URL (brez preverjanja črkovanja)
+{URL Length}Dolžina URL-ja
+{URL not found!}URL ni najden!
+{URL Processor}URL procesor
+{URL:}URL:
+{USE AT YOUR OWN RISK!}UPORABLJAJTE NA LASTNO ODGOVORNOST!
+{User Interface Language:}Jezik uporabniškega vmesnika
+{User will press keys}Uporabnik bo pritisnil tipke
+{User-Agent String:}Niz uporabniškega agenta:
+{using Characters}z uporabo znakov
+{using File}z uporabo datoteke
+{using Text}z uporabo besedila
+{using Text Length}z uporabo dolžine besedila
+{VCF Files (*.vcf)}VCF datoteke (*.vcf)
+{Verify that the file has not been corrupted and that the file extension matches the format of the file.}Preverite, da datoteka ni bila poškodovana in da se končnica datoteke ujema s formatom datoteke.
+{Version History}Zgodovina različic
+{Video file error!}Napaka video datoteke!
+{View}Prikaz
+{View Source...}Prikaz vira...
+{Volume}Velikost
+{Volume Limit}Omejitev velikosti
+{Volume of Container}Velikost vsebnika
+{Volume of Load}Velikost nalaganja
+{Vovsoft Newsletter}Vovsoft glasilo 
+{Warning}Opozorilo
+{WARNING}OPOZORILO
+{We would really appreciate your feedback.}Zelo bi bili veseli vaše povratne informacije.
+{Weekdays}Tedensko
+{Welcome to %s}Dobrodošli v %s
+{Welcome to Our Shop}Dobrodošli v našo trgovino
+{What did you like or dislike?}Kaj vam je bilo všeč ali ne?
+{What numbers will be added?}Katera števila bodo dodana?
+{Which Customer?}Katera stranka?
+{Width}Širina
+{Width:}Širina:
+{Word Wrap}Zavijanje besed
+{Work Time:}Čas dela:
+{Wrong Admin Password!}Napačno skrbniško geslo!
+{Wrong password!}Napačno geslo!
+{X:}X:
+{Y:}Y:
+{Yes}Da
+{You are here:}Tukaj ste:
+{You are not logged as admin!}Niste prijavljeni kot skrbnik!
+{You can preview the font and color settings here.}Tu si lahko ogledate nastavitve pisave in barve.
+{You can't go further than:}Ne morete iti dlje kot:
+{You cannot use this feature in unlicensed edition.}Te funkcije ne morete uporabljati v nelicencirani izdaji.
+{You want to go to:}Želite iti na:
+{Your feedback is received.}Povratne informacije so poslane.
+{Your master password is successfully set.}Vaše glavno geslo je uspešno nastavljeno.
+{Add Thousand Separator to Numbers}
+{Advanced Mode}
+{Choose File...}
+{Code Folding}
+{Comma}
+{Convert}
+{CONVERT}
+{Convert Non-Breaking Spaces to Regular Spaces}
+{Create Sample CSV for Advanced Mode...}
+{Create Sample CSV for Simple Mode...}
+{CSV Separator}
+{CSV Separator:}
+{Encoding:}
+{Export to VCF...}
+{Mirror}
+{Mirror (Reset Target Folders)}
+{No lines were affected!}
+{Number of affected lines: %s}
+{Options:}
+{Other}
+{Phone Number}
+{Screen capture interrupted!}
+{Semicolon}
+{Simple Mode}
+{Space}
+{Tab}
+{Time Remaining:}
+{Yahoo CSV Format}

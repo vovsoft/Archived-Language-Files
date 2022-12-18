@@ -1,0 +1,1009 @@
+﻿{INFO:Translated By}Ahmad Khajehpoorr, Ali Homayouni
+{12 hour}12 ساعت
+{24 hour}24 ساعت
+{A required file is missing:}فایل مورد نظر وجود ندارد
+{Ability to disable update notifications}غیر فعال کردن اعلان های بروزرسانی
+{About}درباره
+{About Us}درباره ما
+{About...}درباره...
+{Access is denied.}دسترسی غیر فعال
+{Acknowledgements...}تشکرها
+{Activation}فعالسازی
+{Activation Code:}کد فعالسازی:
+{Activation failed.}فعال سازی انجام نشد.
+{Active}فعال
+{ADD}اضافه کردن
+{Add}اضافه کردن
+{Add context menu item}اضافه کردن آیتم منو زمینه
+{Add Dictionary...}اضافه کردن دیکشنری
+{Add Drive}افزودن درایور
+{Add File}اضافه کردن فایل
+{Add File(s)}اضافه کردن چند فایل
+{Add File(s)...}اضافه کردن چند فایل...
+{Add Files in Folders...} افزودن فایل در پوشه ها
+{Add Files...}اضافه کردن فایل ها...
+{Add Folder}اضافه کردن فولدر
+{Add Folder...}اضافه کردن فولدر...
+{Add Folders...}اضافه کردن فولدرها...
+{Add M3U8} M3U8 اضافه کردن
+{Add Product Manually}افزودن محصول به صورت دستی
+{Add Recursive Subfolders...}افزودن پوشه های فرعی
+{Add Subfolders...}اضافه کردن پوشه های زیر
+{Add URL(s)...}افزودن(URL)...
+{Add URLs...}اضافه کردن (URLs)...
+{Add using Environment Variables}افزودن متغیرهای محیط و استفاده کردن
+{Add Word To Dictionary}اضافه کردن کلمه به دیکشنری
+{Admin Password}مدیریت رمز عبور
+{Alert Text:}هشدار متن
+{All Customers}تمام مشتریان
+{All files must be unlocked before changing private key!}باز شدن همه فایلهای  قبل از تغییر کلید خصوصی
+{All files must be unlocked before enabling or disabling content encryption!}قبل از غیرفعال یا فعال کردن رمزگزاری محتوا.قفل همه فایلها باید باز شود
+{All Products}تمام محصولات
+{Alphabet}الفبا
+{Alphabetical}بر اساس حروف الفبا
+{Always on Top}همیشه در بالا
+{Always on top}همیشه در بالا
+{Always show when toggled on}همیشه هنگام روشن شدن نشان داده شود
+{An error occurred while creating directory:}همگام ایجاد دایر کتوری خطایی رخ داده است
+{An error occurred while unlocking:}هنگام باز کردن قفل.خطایی رخ داده
+{Analyze...}تجزیه و تحلیل...
+{And please backup your important files and folders before locking in case of hardware or software failure.}لطفا قبل از قفل کردن در صورت خرابی نرم افزار و یا سخت افزار.از فایلها و پوشه های مهم خود پشتیبانی تهیه کنید
+{Annually}سالانه
+{Annually:}سالانه
+{Any File}هر فایلی
+{Any File (*.*)}هر فایلی
+{Are you sure?}شما مطمئن هستید
+{Arrange Stickers}مرتب کردن برچسبها
+{ASCII Art...} ASCIIهنر
+{Ask Print}درخواست چاپ 
+{Audio File}فایل صوتی
+{Audio file error!}خطای فایل صوتی
+{Auto Copy Highlighted Text to Clipboard}کپی خودکار متن برجسته در کلیپ بورد
+{Auto Refresh File}باز خوانی خودکار فایل
+{Auto Run at Startup}اجرای خودکار هنگام راه اندازی
+{Auto-Close Main Window}بستن خودکار پنجره اصلی 
+{Auto-Close Popup Window After Finishing}بستن خودکار پنجره باز شو بعد از اتمام
+{Auto-Closing...}بسته شدن خودکار ...
+{Auto-Refresh Drive List}باز خوانی خودکار لیست درایو
+{Auto-Start at Startup}شروع به کار هنگام راه اندازی
+{Automatic}خود کار
+{Automatically Synchronize}همگام سازی خودکار
+{Background Color:}رنگ پس زمینه:
+{Backup Registry...}پشتیبان گیری ریجستری
+{Backup Stickers}پشتیبان گیری استیکرها
+{Backup...}پشتیبان گیری
+{Barcode}بارکد
+{BARCODE:}بارکد
+{Begin:}شروع
+{Beginning of Each Line...}شروع هر خط...
+{Big Icons}ایکونهای بزرگ
+{Blog}وبلاگ
+{BREAK TIME!}زمان استراحت
+{Browse...}مرور کردن
+{Buy Now}هم اکنون خریداری کنید
+{Calculate}محاسبه
+{Calculating all possibilities...}محاسبه کردن همه احتمالات
+{Calculation Results:}نتایج محاسبه
+{Cancel}انصراف
+{Cancel product selection}لغو محصول انتخواب شده
+{CANCELED by User Request}به درخواست کاربر لغو شد
+{Canceled!}انصراف!
+{Cannot create file}عدم ایجاد فایل
+{Capitalize (First Letters Only)}بزرگ کردن(فقط حروف اول)
+{Caps Lock}قفل
+{Caps Lock: OFF}قفل خواموش
+{Caps Lock: ON}قفل روشن
+{Cascade}ابشاری
+{Category:}دسته بندی
+{Change Auto-Close Time}تغییر زمان بسته شدن خودکار
+{Change Auto-Close Time...}تغییر زمان بسته شدن خودکار
+{Change Background Color}تغییر رنگ پس زمینه
+{Change Background Color...}تغییر رنگ پس زمینه...
+{Change Destination Folder}تغییر پوشه مقصد
+{Change File Location...}تغییر مکان فایل...
+{Change Font...}تغییر فونت...
+{Change Interface}تغییر رابط
+{Change Login Password...}تغییر دادن رمز عبور
+{Change Menu Font...}تغییر فونت منو(فهرست)
+{Change Private Key...}تغییر دادن کلید خصوصی
+{Change Recovery E-mail}تغییر دادن ایمیل بازیابی
+{Change Text Font}تغییر فونت متن
+{Change Theme}تغییر زمینه
+{Change Theme...}تغییر دادن زمینه...
+{Change:}تغییر
+{Classic}کلاسیک
+{Classical Interface}رابطه کلاسیک
+{Clear}پاک کردن
+{Click "New Sticker"}"کلیک کردن روی "برچسب جدید
+{Click to download}برای دانلود کلیک کنید
+{Clip Lines...}کلیپ خطوط...
+{Close}بستن
+{Code:}کد
+{Combine Lines...}ترکیپ کردن خطوط
+{Comma-Separated Values File (CSV)...}(CSV)مقادیر فایل جدا شده با کاما 
+{Commercial use allowed}مجاز است استفاده تجاری
+{Company}شرکت
+{Compare Two Texts...}مقایسه دو متن...
+{Completed}تکمیل شد
+{Completed!}تکمیل شد
+{Completed.}تکمیل شد
+{Computer Code:}کد کامپیوتر
+{Computer Time:}زمان کامپیوتر
+{Computer Timezone:}منطقه زمانی کامپیوتر
+{Computer will press keys}فشار دادن کلید در کامپیوتر
+{Confirm Before Deletion}تایید کنید قبل از حذف
+{Confirm Password:}تایید کنید رمز عبور را
+{Confirm?}تایید کردن
+{Confirmation}تایید
+{Connection Error!}خطای اتصال
+{Contact}اتصال
+{Content Encryption (SLOW)}رمز گذاری محتوا (اهسته)
+{Content encryption is enabled.}رمز گزاری محتوا فعال است
+{Continue}ادامه دادن
+{Contribute to Translation}مشارکت در ترجمه 
+{Convert Non-English Chars to English Chars}تبدیل نویسه های غیر انگلیسی به انگلیسی
+{Copied}کپی شده است
+{Copy}کپی
+{Copy All}کپی همه
+{Copy files to many directories}کپی فایلها در بسیاری از دایر کتوری ها
+{COPY INTO TARGET FOLDERS}کپی کردن در پوشه های حدف
+{CREDIT:}کارت اعتباری
+{Credits}کارتهای اعتباری
+{CSV File}کد(CSV)
+{CSV File (*.csv)}(CSV)کد
+{Currency Symbol}واحد پول
+{Customer}مشتری
+{Customer with credit cannot be deleted!}مشتری با اعتبار قابل حذف نیست
+{CUSTOMER:}مشتری
+{Customer:}مشتری
+{CUSTOMERS}مشتریان
+{Customers}مشتریان
+{Cut}قطع کردن
+{Daily}روزانه
+{Daily:}روزانه
+{Dark}تاریک
+{Date}تاریخ
+{Date and Time}زمان و تاریخ
+{Day}روز
+{Daylight Saving:}صرفجویی روزانه
+{Decode...}گشودن رمز
+{Decrease Font Size}کاهش دادن اندازه قلم
+{Default}پیش فرض
+{Default Alphabet}الفبا پیش فرض
+{Default CSV Format} CSV قالب پیش فرض 
+{Del key:}کلید Del
+{Delete}حذف
+{DELETE}حذف
+{Delete After}حذف بعد
+{DELETE ALL}حذف همه
+{Delete All}حذف همه
+{Delete All Spaces}حذف همه فضا ها
+{Delete Alphabetic [a-z] [A-Z]}حذف بر اساس حروف الفبا
+{Delete Alphanumeric [a-z] [A-Z] [0-9]}حذف بر اساس حروف الفبایی
+{Delete Before}حذف قبلی
+{Delete Beginning or Ending Strings...}حذف رشته های اغازین یا پایانی
+{Delete Chars}حذف کاراکترها
+{DELETE CUSTOMER}حذف مشتری
+{Delete Customer}حدف مشتری
+{Delete Extra Spaces}حذف فضاهای اضافه
+{Delete last entered product}حذف اخرین محصول وارد شده
+{Delete Non-Alphabetic}حذف غیر الفبایی
+{Delete Non-Alphanumeric}حذف غیر الفبایی
+{Delete Numbers [0-9]}حذف عددی
+{DELETE PRODUCT}حذف محصول
+{Delete Record}رکورد را حدف کنید
+{Delete Reminder}حذف یاداوری
+{Delete Selected}حذف محصول انتخواب شده
+{Delete Unnecessary Lines}حذف خطوط غیر ضروری
+{Delete?}حذف
+{Deleted}حذف
+{Deselect All}لغو انتخاب همه
+{Destination:}مقصد
+{DETAILS}جزئیات
+{Diagonal}مورب
+{Directory is not writable!}دایرکتوری قابل نوشتن نیست
+{Directory not found!}دایر کتوری پیدا نشد
+{Directory:}فهرست راهنما
+{Disabled}غیر فعال
+{Discount}تخفیف
+{Discounted Price}تخفیف با قیمت
+{Discounted Total}مجموع با تخفیف
+{Disk Write Interval (sec):}فاصله زمانی نوشتن دیسک (ثانیه)
+{Dismiss}رد کردن
+{Display Duration:}مدت زمان نمایش
+{Display Load Time}بارگزاری نمایش زمان
+{Display Prices}نمایش قیمت ها
+{Display Special Chars}نمایش ویژه
+{Do you really want to delete ALL stickers?}ایا واقعا میخواهید همه برچسبها را حذف کنید
+{Do you really want to delete the reminder?}ایا میخواهید یاداوری را حذف کنید
+{Do you really want to delete the sticker?}ایا میخواهید استیکر را حذف کنید
+{Do you want to delete all stickers, reminders, settings and restart application?}آیا می خواهید تمام استیکرها، یادآورها، تنظیمات و راه اندازی مجدد برنامه را حذف کنید
+{Do you want to replace the sticker with the image?}آیا می خواهید استیکر را با تصویر جایگزین کنید؟
+{Do you want to save the current file before exit?}آیا می خواهید قبل از خروج از برنامه این فایل را ذخیره کنید؟
+{Do you want to save the current file?}آیا می خواهید این فایل را ذخیره کنید؟
+{Do you want to save this file before exit?}آیا می خواهید قبل از خروج از برنامه این فایل را ذخیره کنید؟
+{Do you want to save this file?}آیا می خواهید این فایل را ذخیره کنید؟
+{Don't show this again}اینو دیگه نشون نده
+{Download}دانلود
+{Downloading...}در حال دانلود...
+{Drag Drop Filenames}کشیدن و رها کردن فایلها
+{Draw mouse pointer}نشانگر ماوس را بکشید
+{Drive}درایو
+{DRIVE MISMATCH}عدم تطابق درایو
+{Drive:}درایو
+{Duplicate Lines}تکراری خطوط
+{E-mail}ایمیل
+{E-mail is changed.}ایمیل تغییر یافت.
+{E-mail not accepted!}ایمیل تایید نشد!
+{E-mail not found!}ایمیل پیدا نشد!
+{E-mail Processor}پردازشگر ایمیل
+{Edit}ویرایش
+{Edit License}ویرایش لایسنس(مجوز)
+{Edit License...}ویرایش لایسنس(مجوز)...
+{Edit M3U8} M3U8 را ویرایش کنید
+{Edit Password}ویرایش کلمه عبور(پسورد)
+{Edit...}ویرایش...
+{Elapsed Time:}زمان سپری شد
+{Email Address}آدرس ایمیل
+{Empty}خالی
+{Empty Lines (can include spaces and tabs)}خطوط خالی (شامل فاصله هاو برگه ها)
+{Enable}فعال
+{Enabled}فعال شده
+{Encode...}رمز گزاری
+{Encoding}رمز گزاری
+{Encryption}رمز گزاری
+{End of Each Line...}...پایان هر خط 
+{End-User License Agreement}توافقنامه مجوز کاربر نهایی
+{End:}پایان
+{English}انگلیسی
+{Enter License Key}وارد کردن کلید لایسنس(مجوز)
+{Entire Document}سند کامل
+{Error}خطا
+{ERROR}خطا
+{Error No:}شماره خطا
+{ESC key:}(ESC)کلید
+{EULA}اروپا
+{Excel File (*.xls)}اکسل فایل
+{Excel File (XLS)...}اکسل فایل
+{Exit}خروج
+{Exit Application?}خروج از برنامه؟
+{Exit...}خروج...
+{EXITING...}... خروج
+{Explore Dictionaries...}کاوش در فرهنگ لغت نامه
+{Export}خروجی
+{Export Lines to Files}صادر کردن خطوط به فایلها
+{Export Lines to Files...}صادر کردن خطوط به فایلها
+{Export to File...}صادر کردن به فایل
+{Export to HTML...}HTML صادر کردن به 
+{Export to PDF...}صادر کردن به پی دی اف
+{Exported Entries:}ورودی های صادر شده:
+{Extract Image...}استخراج به تصویر
+{Extract Text...}استخراج به متن
+{Extras}اضافی
+{Fade-out Animation}محو شدن انیمیشن
+{Failed}ناموفق
+{Failure}شکست
+{Feedback}بازخورد(نظر)
+{feedback}بازخورد(نظر)
+{File}فایل
+{File already exists!}فایل مورد نطر از قبل وجود دارد!
+{File does NOT exist:}فایل وجود ندارد:
+{File inaccessible!}فایل غیر قابل دسترس!
+{File List}لیست فایل
+{File Location}مکان فایل
+{File Location:}مکان فایل:
+{File lock error!}خطای قفل فایل
+{File Mask}پنهان کردن فایل
+{File Mask:}ماسک فایل
+{File not found!}فایل موجود نیست!
+{File or Folder:}فایل یا پوشه
+{Filename:}نام فایل:
+{Files & Folders}فایل ها و فولدرها
+{Filter Lines}فیلتر کردن خطوط
+{Find}جست و جو
+{Find Erroneous E-mails}جست و جوی ایمیل های اشتباه
+{Find Lines}پیدا کردن خطوط
+{Find Lines...}... پیدا کردن خطوط 
+{Find Next}جست و جوی مورد بعدی
+{Find Next Misspelling}جست و جوی غلط املایی بعدی
+{Fix Broken UTF-8 Encoding} رفع خرابی رمزگذاری UTF-8
+{Fixed-Pitch Fonts Only}فقط فونتها با پچ ثابت
+{Folder}فولدر
+{Folder does NOT exist:}وجود ندارد پوشه
+{Folder Size:}سایز فولدر
+{Folder:}فولدر:
+{For 1}برای 1
+{For 10}برای 10
+{For 100}برای 100
+{For 20}برای 20
+{For 200}برای 200
+{For 5}برای 5
+{For 50}برای 50
+{Forgot Password?}رمز عبور را فراموش کردید
+{Format:}فرمت
+{FREE}رایگان
+{Free Edit}ویرایش رایگان
+{Free to try}رایگان امتحان کردن
+{FREEWARE}رایگان
+{Freeware}رایگان
+{Freeware Utilities}ابزارهای رایگان
+{Full Screen}تمام صفحه
+{Generate Barcode Image...}... ایجاد تصویر بارکد 
+{Generate Domain Name List}لیست نام دامنه را ایجاد کنید
+{Generate E-mail List}ایجاد ایمیل
+{Generate Hostname List}لیست نام میزبان را ایجاد کنید
+{Generate URL List}ایجاد لیست URL
+{Generate Word List}ایجاد لیست کلمات
+{Get Server Time}دریافت زمان سرور
+{Go to...}رفتن به...
+{Google CSV Format}فرمت CSV گوگل
+{GRAND TOTAL:}مجموع کل
+{Hardware encoding}رمزگذاری سخت افزاری
+{Header}سربرگ
+{Headers}سربرگها
+{Height}ارتفاع
+{Height:}ارتفاع:
+{Help}راهنما
+{Hidden}پنهان
+{Hide}پنهان شدن
+{Hide All Stickers}پنهان کردن استیکرها
+{Hide Details}پنهان کردن جزییات
+{Highlight Active Line}برجسته کردن خط فعال
+{Highlight Even Lines}برجسته کردن خطوط زوج
+{Highlight Odd Lines}برجسته کردن خطوط شکسته
+{HINT}راهنمایی
+{Home}صفحه اصلی
+{Hotkey:}کلید فوری
+{Hourly}ساعتی
+{Hourly:}ساعتی
+{How to create new sticky note:}نحوه ایجاد یادداشت چسبناک جدید
+{How to uninstall...}نحوه حذف نصب برنامه...
+{HTML File (*.html)}html فایل 
+{I dislike it!}نمی پسندم!
+{I like it!}می پسندم!
+{ID}شناسه
+{ID Transformer...}شناسه ترانسفور
+{Idle Time:}زمان بیکاری
+{If no keyboard or mouse events occur for "Idle Time", "Work Time" resets.}اگر هیچ رویداد صفحه کلید یا ماوس برای "زمان بیکار" رخ ندهد، "زمان کار" بازنشانی می شود
+{If you like the software, please buy a license to make this software fully functional and remove this window.}اگر نرم افزار را دوست دارید، لطفاً مجوزی برای عملکرد کامل این نرم افزار بخرید و این پنجره را حذف کنید
+{Ignore}نادیده گرفتن
+{Ignore Drive Mismatch While Unlocking}هنگام باز کردن قفل .تطابق درایو را نادیده بگیرید
+{Ignore Failed Files While Unlocking}هنگام باز کردن قفل. فایلهای ناموفق را نادیده بگیرید
+{Import}وارد کردن
+{Import from File...}وارد کردن فایل
+{IMPORTANT}مهم 
+{Include my e-mail:}درج ایمیل من:
+{Include Subdirectories?}شامل زیر شاخه ها می شود؟
+{Increase Font Size}افزایش اندازه قلم
+{Indicates status of keys}نشان دادن وضعیت کلید ها
+{Info}اطلاعات
+{Information}اطلاعات
+{Initializing...}در حال شروع...
+{Insert}درج کردن
+{Insert Empty Lines}درج خطوط خالی
+{Insert Same Text Multiple Times}درج کردن متن یکسان
+{Insert Same Text Multiple Times...}متن یکسان را درج کنید
+{Insufficient stock!}موجودی ناکافی
+{Invalid E-mail!}ایمیل نامعتبر
+{Invalid Entry!}ورودی نانعتبر است
+{Invert Selection}انتخاب معکوس
+{Keyboard Shortcuts}میانبرهای صحفه کلید
+{KeyPress Simulator}کلی فشار شبیه ساز
+{Language}زبان
+{Language:}زبان برنامه:
+{Language...}زبان برنامه...
+{LED Color (OFF):}خاموش کردن رنگ ال ای دی
+{LED Color (ON):}روشن کردن رنگ ال ای دی
+{Left}چپ
+{Left click to show Stickers on top.}برای نشان دادن استیکرها در بالا کلیک چپ کنید 
+{Length}طول
+{License key is invalid!}کلید مجوز نامعتبر است
+{License:}مجوز
+{License...}مجوز
+{Licensed}مجوز
+{Licensed to:}لایسنس (مجوز) به نام:
+{Lifetime free updates}به روز رسانی رایگان مادام العمر
+{Light}نور
+{Line Length} طول خط
+{Line Numbers} شماره خطوط
+{Line Order} سفارش خطی
+{List} فهرست کنید 
+{LIST ALL}لیست همه
+{List of Containers:}لیست کانتینرها:
+{List of Loads:}لیست بارها:
+{List...}لیست...
+{Load} بار
+{Load And Run Operation Files...} بارگیری و اجرای فایل های عملیاتی
+{Load Limit}محدودیت بار
+{Load Operation File...} بارگذاری فایل عملیاتی 
+{Load source list from file...} فهرست منبع را از فایل بارگیری کنید 
+{Load target list from file...}لیست هدف را بارگیری کنید از فایل
+{Load vCards from VCF file...} بارگیری کنید کارت های مجازی را از فایل وی سی اف
+{Load...} بارگزاری کنید 
+{Loading} در حال بارگذاری
+{Loading...}بار گذاری
+{Lock} قفل کردن 
+{Lock and Unlock processes may take some time.} فراینده های قفل و باز کردن قفل ممکن است طول بکشد 
+{Lock Selected} قفل انتخاب شد 
+{LOCKED} قفل شده است
+{Locking} قفل کردن
+{Login (Full Access)}...ورود به سیستم دسترسی کامل
+{Logout} خروج از سیستم
+{lowercase} حروف کوچک
+{Lowercase} حروف کوچک
+{MAIN MENU} منوی اصلی 
+{Mark as Complete} علامت گذاری کنید کامل
+{milliseconds}میلی ثانیه
+{Minimal Mode} حالت حداقل
+{Minimize when recording starts}هنگام شروع ضبط، به حداقل برسانید
+{Minute} دقیقه
+{minutes} دقیقه
+{Mode} حالت
+{Monitor}نظارت کنید
+{Monitor External File Modification}..نظارت بر تغییر های فایل خارجی
+{Month} ماه
+{Monthly} ماهانه 
+{Monthly:} ماهیانه
+{Move (Delete Source Files and Folders)} انتقال حذف فایل ها و پوشه های منبع
+{Move Down} حرکت به پایین
+{Move Info: Source files and folders were not deleted from disk because of copy error}انتقال اطلاعات فایل ها و پوشه های منبع به دلیل خطای کپی از دیسک حذف نشدند
+{Move Up} حرکت به بالا
+{Multiple Files...} چندین فایل 
+{Name}نام
+{Name of Container}نام کانتینر
+{Name of Load}نام بار
+{Net Encoding} رمزگذاری شبکه
+{New}جدید
+{New Reminder} یاداوری جدید
+{New Reminder...} یاداوری جدید
+{New Sticker} استیکر جدید
+{New Window}پنجره جدید
+{Next Receipt Number:} شماره دریافتی بعدی
+{Next Rest:} استراحت بعدی 
+{No}نه
+{No Audio}بی صدا
+{No erroneous e-mail found.}ایمیل اشتباهی پیدا نشد
+{No Item Selected!}هیچ موردی انتخاب نشد
+{No item selected!}هیچ موردی انتخاب نشد
+{No nag screen, no ads} بدون صفحه نمایش بدون تبلیغات
+{No replacements made.}هیچ جایگزینی انجام نشده است
+{No Sound} بدون صدا
+{No sticky notes left on the desktop!}هیچ یادداشت چسبنده ای روی دسکتاپ باقی نمانده است!
+{No text selected!}هیچ متنی انتخاب نشده است!
+{Non-English} غیر انگلیسی
+{None} هیچ
+{Not applicable!} قابل اجرا نمیباشد
+{Not Paid:} پراداخت نشده
+{Note}نکته
+{Note Window Margin:} به حاشیه پنجره توجه کنید
+{Notes Manager} مدیر یادداشت ها
+{Notes Manager...} مدیر یادداشت ها
+{Num Lock} قفل کردن شماره 
+{Num Lock: OFF} قفل کردن شماره خاموش
+{Num Lock: ON} قفل کردن شماره روشن
+{Number of Files:} تعداد فایل ها
+{Number of Times:} تعداد دفعات 
+{Numbers} شماره 
+{Offline Activation} فعال سازی افلاین
+{OK}تایید
+{Online Help}راهنمای آنلاین
+{Only %s entries exported using unlicensed version.}فقط %s ورودی با استفاده از نسخه بدون مجوز صادر شد.
+{Only Once} فقط یکبار
+{Only Once:}فقط یکبار
+{Open File}بازکردن فایل
+{Open folder location...}بازکردن مکان فولدر...
+{Open Folder Location...}بازکردن مکان فولدر...
+{Open...}بازکردن...
+{Operating Systems:} سیستم عامل ها
+{Operation File} فایل عملیاتی 
+{Operation STOPPED!} عملیات متوقف شده
+{Operations} عملیات
+{Options}تنظیمات
+{Options...}تنظیمات...
+{Ordinal Values of Characters} ارزش های تربیتی شخصیتها
+{Original Size}سایز اصلی
+{Outlook CSV Format}فرمت Outlook CSV
+{Output}خروجی
+{Output:} خروجی
+{Overwrite Existing Files} بازنویسی فایلهای موجود
+{Overwrite Read-Only Files} بازنویسی فایل های فقط خواندنی
+{PAID} پرداخت شده
+{Paid} پرداخت شده
+{Paid:} پرداخت شده
+{Password} پسورد
+{Password is changed.} پسورد عوض شده
+{Password is incorrect!} رمز عبور اشتباه است
+{Password not accepted!} رمز عبورپذیرفته نشد
+{Password Recovery E-mail:} ایمیل بازیابی پسورد
+{Password:} پسورد
+{Passwords do not match!} مطابقت ندارد رمز های عبور
+{Paste} چسباندن 
+{Payments} پرداخت ها
+{PDF File (*.pdf)} فایل پی دی اف
+{Permanently Delete} حذف کنید برای همیشه
+{Permanently Delete All} برای همیشه حذف کنید همه را
+{Play} پخش کنید
+{Play Sound Effect} پخش کنید جلوه صوتی
+{Please add containers!}لطفا ظروف اضافه کنید!
+{Please add loads!}لطفا بارها را اضافه کنید!
+{Please add source files!} اضافه کنید لطفا فایل های منبع را
+{Please add target folders!} اضافه کنید لطفا پوشه های هدف را
+{Please check your e-mail box.} برسی کنید لطفا صندوق الکترونیکی خود را
+{Please check your internet connection!} اتصال اینترنتی خورد را لطفا برسی کنید
+{Please enter barcode or product name!} بارکد یا نام محصول خود را وارد کنید لطفا
+{Please enter discount ratio:} نسبت تخفیف را لطفا وارد کنید
+{Please enter master password!} لطفا وارد کنید رمز اصلی را
+{Please enter new currency symbol:} نماد ارز جدید را لطفا وارد کنید
+{Please enter password:} لطفا وارد کنید رمز عبور را
+{Please enter unit price:} وارد کنید قیمت واحد را لطفا
+{Please enter your license key:}لطفا سریال لایسنس(مجوز) خودتان را وارد کنید:
+{Please enter your license key!}لطفا سریال لایسنس(مجوز) خودتان را وارد کنید!
+{Please keep it in a safe place. You need it to unlock your files and folders.}ان را در جای امن نگهدارید لطفا برای باز کردن فایل ها و پوشه های خود به ان نیاز دارید
+{Please obtain a license key to activate the software.}لطفا یک کلید مجوز برای فعال کردن نرم افزار دریافت کنید.
+{Please reinstall the software.}لطفا نرم افزار را دوباره نصب کنید.
+{Please reopen the software without administrator privileges.}لطفا نرم افزار را بدون دسترسی ادمین راه اندازی کنید
+{Please try again later!}لطفا بعدا دوباره اقدام کنید!
+{Please try again later.}لطفا بعدا دوباره اقدام کنید.
+{Please try:}لطفا سعی کنید:
+{Please type NEW password:} رمز عبور جدید را لطفا وارد کنید
+{Please type your CURRENT password:} تایپ کنید لطفا رمز عبور خود را
+{Please type your NEW e-mail:} ایمیل جدید خود را لطفا تایپ کنید
+{Please type your NEW password:} تایپ کنید لطفا پسورد جدید را
+{Please type your NEW private key:} کلید خصوصی جدید خود را لطفا تایپ کنید
+{Please Wait For Backup Process!} منتظر فراینده پشتیبان گیری باشید لطفا
+{Preview Sticker} استیکر پیش نمایش 
+{Price} قیمت
+{PRICE:} قیمت
+{Print} چاپ کنید
+{Print Setup} راه اندازی چاپ
+{Print Template} قالب چاپ
+{Print?} چاپ
+{Print...} چاپ
+{Printer not found!} پیدا نشد چاپ گر
+{Privacy Policy} حریم خصوصی
+{Private Key} کلید خصوصی
+{Private key changed.} تغییر کرده است کلید خصوصی
+{Process} فرایند
+{Process completed!} تکمیل فرایند
+{Processing...} درحال پردازش است
+{Product} محصول 
+{Product List} تولید لیست
+{Product List...}تولید لیست
+{PRODUCT NAME:} نام تولید
+{Product successfully activated.}فعالسای با موفقیت انجام شد
+{Product:} تولید
+{PRODUCTS}تولید
+{Products}تولید
+{Properties}خواص
+{Purchase}تولید
+{Quantity}مقدار
+{Random Number Generator}تولید کننده اعدادتصافی
+{Random Number Generator...}تولید کننده اعداد تصادفی
+{Random Text Generator} تولید کننده متن تصادفی
+{Random Text Generator...} تولید کننده متن تصادفی
+{Randomize Line Contents} تصادفی کردن محتویات خطوط
+{Randomize Line Order} ترتیب خط تصادفی
+{Read Reviews} بخوانید نظرات را
+{Ready}آماده
+{Receipts} رسید
+{Recognize Environment Variables} بشناسید متغیر های خطوطی را
+{Recognize Network Drives} بشناسید شبکه های درایو هارا 
+{RECORD} ثبت 
+{RECORD DATE:} ثبت تاریخ
+{Recording...}در حال ضبط ...
+{Recover Lost Files} فایل های بازیابی از دست رفته
+{Recover Password} بازیابی پسورد
+{Redo} انجام دهید مجدد
+{Refresh Device List}  تازه کنید فهرست دستگاه را
+{Refresh Hardware Encodings}رمزگذاری های سخت افزاری را به روز کنید
+{Refund Policy} بازپرداخت سیاست
+{Region} منطقه
+{Regular Expression}عبارت منظم
+{Regular Expression...}عبارت منظم...
+{Related Software} نرم افزار مرتبط
+{Release Date:} تاریخ انتشار
+{Remember Settings}بخاطر بسپارید تنظیمات را
+{Reminder} یاداور
+{Reminders} یاداوری
+{Remove}حذف کنید
+{Remove All} همه را حذف کنید
+{Remove Selected} حذف انتخاب شده
+{Reopen} باز کنید دوباره
+{Replace} جایگزین کنید
+{Reports} گزارش ها
+{Required files are missing} وجود ندارد فایل های مورد نیاز
+{Reset} بازنشانی کنید 
+{Reset to Defaults}بازنشانی به حالت پیش فرض
+{Reset Work Time} تنظیم مجدد زمان کار
+{Restart Application?}راه اندازی مجدد برنامه؟
+{Restore} بازیابی کنید
+{Restore from Backup...} پشتیبانگیری از بازیابی
+{Restore when recording is complete}پس از اتمام ضبط، بازیابی کنید
+{Reverse}معکوس 
+{Reverse Line Contents} محتویات خط معکوس 
+{Reverse Line Sequence} دنباله خط معکوس 
+{Right click to add new Stickers or Reminders.} کلیک راست کنید برای افزودن استیکرها و یاداورهای جدید
+{Right-click tray icon}روی نماد سینی کلیک راست کنید
+{Run With} اجرا با
+{SALES} حراج 
+{Sample Text} نمونه متن
+{Sample Values}مقادیر نمونه
+{Save}ذخیره
+{Save As...}ذخیره با نام...
+{Save Operation File As...} ذخیره کنید فایل عملیات را به عنوان
+{Save Operation File...} ذخیره کنید فایل عملیات را
+{Save Results}ذخیره نتایج
+{Save source list to file...}ذخیره کنید فهرست منبع را در فایل 
+{Save target list to file...} ذخیره کنید لیست هدف را در فایل
+{ScreenSnap} ضربه زدن ناگهانی به صفحه نمایش 
+{ScreenSnap:} ضربه زدن ناگهانی به صفحه نمایش 
+{Scroll Lock} قفل کردن طومار 
+{Scroll Lock: OFF} قفل کردن طومار خاموش 
+{Scroll Lock: ON} قفل کردن طومار روشن 
+{Search:}جست و جو:
+{Search...}جست و جو...
+{seconds} ثانیه 
+{Secure your files and folders} ایمن کنید فایل ها و پوشه های خود را
+{Select}انتخاب
+{Select All}انتخاب همه
+{Select folder:}انتخاب فولدر:
+{Select Language}انتخاب زبان
+{Select Product} انتخاب کنید محصول را
+{Select Region and Close}  نزدیک و منطقه را انتخاب کنید
+{Select your favourite theme} انتخاب کنید تم مورد علاقه خود را
+{Selected} انتخاب شده است
+{SELL BY CASH} فروش به صورت نقدی 
+{Sell by Cash} فروش به صورت نقدی
+{SELL BY CREDIT} فروش اعتباری
+{Sell by Credit}فروش اعتباری 
+{Send}ارسال
+{Send e-mail?}ارسال ایمیل؟
+{Send Feedback}ارسال بازخورد(نظر)
+{Send Feedback...}ارسال بازخورد(نظر)...
+{Send to Recycle Bin}ارسال به بازیافت
+{Separate by Char}جداگانه توسط 
+{Separate by String} جدا شدن به صورت رشته
+{Separate Long Lines (Break Words)} جدا کردن خطوط طولانی شکستن کلمات 
+{Separate Long Lines (Keep Words)} خطوط طولانی جدا کردن کلمات نگهدارید 
+{Server Time:} سرور زمان
+{Server:} سرور 
+{Set as Default Encoding} تنظیم کنید به عنوان رمز گذاری پیش فرض 
+{Settings}تنظیمات
+{Settings...}تنظیمات...
+{Show}نمایش
+{Show All Stickers} نمایش همه استیکر ها 
+{Show Date Time}نمایش تاریخ و زمان
+{Show Details} نمایش اطلاعات
+{Show Idle Time:} نمایش زمان بیکار
+{Show Letters and Numbers without Special Keys}فقط نمایش کلیدهای مخصوص(بدون حروف و شماره ها)
+{Show Notifications}نمایش اعلان ها
+{Show when status changes} زمانی که وضعیت تغیر میکند نمایش داده شود 
+{Show Window} نمایش پنجره 
+{Sign up} ثبت نام کنید 
+{Small Buttons} دکمه های کوچک
+{Software} نرم افزار 
+{Software encoding}رمزگذاری نرم افزار
+{Something went wrong. Your feedback could not be delivered.}مشکلی پیش آمده. بازخورد(نظر) شما به دست ما نرسید!
+{Sort} مرتب کردن
+{Sort Lines} مرطب کردن خطوط 
+{Sound Effect} جلوه صوتی 
+{Sound:}صدا:
+{Source (Files, Folders, URLs)} منبع پوشه  ها ادرس ها فایل ها
+{Space key:} کلید فاصله
+{Spell Check}برسی غلط املایی
+{Spell Checker} برسی کننده غلط املایی
+{Spell Checker:} برسی کننده غلط املایی 
+{Split Lines} خطوط تقسیم شده
+{Start}شروع
+{Start Working} شروع به کار کنید
+{Status} وضعیت 
+{Status Bar} وضعیت نوار
+{Stay on Top} در بالا بمانید
+{Stickers} استیکر ها
+{Stock} موجودی
+{STOCK BALANCE:} موجودی سهام
+{Stock Inventory Count Sheet} برگه شمارش موجودی سهام
+{Stock Inventory Count Sheet...} برگه شمارش موجودی سهام
+{STOP} توقف
+{Success} ثانیه
+{SUCCESS} ثانیه
+{Suggested Corrections} اصلاحات پیشنهاد شده
+{Support} پشتیبانی کنید
+{Sync Computer Time} همگام سازی زمان کامپیوتر
+{Syntax} نحو
+{System Error.} خطا سیستم
+{System Tray Menu} منوی سینی سیستم
+{Tab Options...} گزینه های تب
+{Target Folder} پوشه مورد نظر
+{Target Folder:} پوشه مورد نظر
+{Target Folders} پوشه های مورد نظر
+{Test Alert} هشدار ازمایشی
+{Testimonials} گواهی نامه ها
+{Text}متن
+{Text Color:}رنگ متن:
+{Text Engine}موتور متن
+{Text File}فایل متن
+{Text File (*.txt)} فایل متنی تکست
+{Text File (TXT)...} فایل متنی تکست
+{Text not found!}متن پیدا نشد!
+{Text:}متن:
+{Thank you} سپاس گذارم
+{Thank you!} سپاس گذارم
+{The file could not be created!} فایل نمیتواند اجرا شود
+{The server returned an invalid response.} سرور یک پاسخ نامعتبر را برگرداند
+{The specified region is not valid!}منطقه مشخص شده معتبر نیست!
+{Theme} قالب
+{This is an example note.} این یک نمونه یادداشت هست
+{This is required for importing in Gmail and Outlook.}این برای وارد کردن در Gmail و Outlook لازم است.
+{This is your first sticker!} این اولین استیکر شماست
+{This software works best without administrator privileges.} این نرم ا فزار بدون حقوق مدیر به بهترین وجه کار میکند
+{Time} زمان
+{Timestamp} مهر زمانی
+{To Existing Lines} به خط های موجود
+{To New Lines...} به خطوط جدید
+{Tool Bar} نوار ابزار
+{Tools} ابزار ها
+{Top} بالا
+{Top Selling Products} محصولات پر فروش 
+{Top Selling Products...} محصولات پر فروش 
+{Total} مجموع
+{TOTAL:}مجموع
+{Total:}مجموع
+{Translated by:}ترجمه شده توسط:
+{Transparency:} شفافیت
+{Tray Notifications:} اعلان های سینی
+{Trial}نسخه رایگان
+{TRIAL LIMIT REACHED!}به محدودیت آزمایشی رسیده است!
+{TRIAL VERSION}نسخه ازمایشی
+{Trim All}برش همه
+{Trim Both}برش دادن
+{Trim Left}برش سمت چپ
+{Trim Lines}برش خطوط
+{Trim Right}برش راست
+{Truly Empty Lines}خطوط واقعی خالی
+{Try to run as Administrator.}اجرا به اعنوان مدیر
+{Type}تایپ کردن
+{Undo}واگرد
+{Unicode Detector}اشکار سازی یونیکد
+{Unit}رایگان
+{UNLICENSED}نسخه رایگان
+{Unlock}باز کردن قفل
+{UNLOCK ERROR}خطای قفل
+{Unlock Selected}قفل انتخاب شده باز شود
+{Unlocked}قفل باز شده است
+{Unlocking}باز کردن قفل
+{Unnamed}بی نام
+{UPDATE}به روز رسانی
+{UPDATE AVAILABLE}در دسترس است به روز رسانی
+{Update Notifications}به روز رسانی اعلانها
+{UPPERCASE}حروف بزرگ
+{Uppercase and Lowercase}حروف بزرگ و کوچک
+{URL Highlighter (No Spell Check)}برجسته کننده (URL)بدون بررسی املاه
+{URL not found!}URL پیدا نشد!
+{URL Processor}پردازنده URL
+{USE AT YOUR OWN RISK!} استفاده با مسئولیت خود 
+{User Interface Language:}زبان کارکردن با برنامه:
+{User will press keys}فشار دادن کلیدها توسط کاربر
+{using Characters}با استفاده از شخصیتها
+{using File}استفاده از فایل
+{using Text}استفاده از متن
+{using Text Length}استفاده از متن طولانی
+{VCF Files (*.vcf)}فایل vcf
+{Version History}تاریخچه نسخه
+{Video file error!}خطای فایل ویدیویی
+{View}چشم انداز
+{Volume}حجم
+{Volume Limit}محدودیت حجم
+{Volume of Container}حجم کانتینر
+{Volume of Load}حجم بار
+{Vovsoft Newsletter}(Vovsoft) خبر نامه 
+{Warning}اخطار
+{WARNING}هشدار
+{We would really appreciate your feedback.}ما واقعا از بازخورد(نظر) شما قدردانی می کنیم.
+{Weekdays}روزهای هفته
+{Welcome to %s}به %s خوش آمدید
+{Welcome to Our Shop}به فروشگاه ما خوش امدید
+{What did you like or dislike?}چه چیزی را می پسندید یا نمی پسندید؟
+{Which Customer?}کدام مشتری
+{Width}عرض
+{Width:}عرض:
+{Word Wrap}بسته بندی کلمات
+{Work Time:}ساعت کاری:
+{Wrong Admin Password!}مدیریت رمز عبور اشتباه
+{Wrong password!}کلمه عبور(پسورد) اشتباه است!
+{X:}X
+{Y:}Y
+{Yes}بله
+{You are not logged as admin!}شما به عنوان مدیر وارد نشد ه اید
+{You can preview the font and color settings here.}شما می توانید پیش نمایش فونت و رنگ را اینجا مشاهده کنید.
+{You cannot use this feature in unlicensed edition.}شما نمیتوانید از این ویژگی ها در نسخه بدون مجوز استفاده کنید
+{Your feedback is received.}بازخورد شما به دست ما رسید.
+{Your master password is successfully set.}رمز عبور شما با موفقیت تنظیم شد 
+{Aborted}
+{About %s}
+{Add files to the list}
+{Add Thousand Separator to Numbers}
+{Advanced Mode}
+{Also delete entered text}
+{Analyze URL...}
+{Anchor Text}
+{Anchors}
+{Audit Messages...}
+{Auto Paste When Clipboard Changes}
+{Automatically Restart Download}
+{Automatically restarted!}
+{Categories}
+{Category}
+{Change Keyboard Key}
+{Change Keyboard Key...}
+{Change Line Spacing}
+{Change Line Spacing...}
+{Check Multiple Websites}
+{Check Multiple Websites...}
+{Check Status Codes}
+{Checking Status Codes...}
+{Choose File...}
+{Clear File History}
+{Clipboard}
+{Code Folding}
+{Comma}
+{Connection Timeout (ms):}
+{Convert}
+{CONVERT}
+{Convert Non-Breaking Spaces to Regular Spaces}
+{Convert Numbers to Text}
+{Copy Anchor Text}
+{Copy URL}
+{Copying...}
+{Create Sample CSV for Advanced Mode...}
+{Create Sample CSV for Simple Mode...}
+{CSV Separator}
+{CSV Separator:}
+{Database Location}
+{Delete all characters after:}
+{Delete all characters before:}
+{Description}
+{Descriptions}
+{Diagnose}
+{Display Unfinished Results}
+{Domain Name}
+{Encoding:}
+{Even Numbered Lines}
+{Excel 2007 File (*.xlsx)}
+{Excel CSV Format}
+{Export Anchor List...}
+{Export Backlinks...}
+{Export Descriptions...}
+{Export H1 Tags...}
+{Export H2 Tags...}
+{Export H3 Tags...}
+{Export H4 Tags...}
+{Export Internal URLs...}
+{Export Links...}
+{Export Report to PDF...}
+{Export Sitemap...}
+{Export Titles...}
+{Export To File}
+{Export to VCF...}
+{External}
+{Extra Line Spacing:}
+{Filename: %s}
+{Folders}
+{Follow}
+{Follow Redirects}
+{Generate}
+{Go}
+{Go to URL}
+{H1 Tag}
+{H1 Tags}
+{H2 Tag}
+{H2 Tags}
+{H3 Tag}
+{H3 Tags}
+{H4 Tag}
+{H4 Tags}
+{Highlight mouse pointer}
+{Ignore Extensions:}
+{Ignore URLs:}
+{Increment:}
+{Insert Numbers}
+{Internal}
+{Internal URL Limit:}
+{Internal URL:}
+{Internal URLs}
+{Interval (sec):}
+{Line}
+{Link}
+{Links}
+{Load Project...}
+{Load Time (sec)}
+{Loading: %s}
+{Logged in as administrator.}
+{Maximum:}
+{Memory}
+{Menu Hotkeys}
+{Merge all files with root of target folder}
+{MERGE MULTIPLE FOLDERS INTO ONE}
+{Merge Type:}
+{Method:}
+{Minimum:}
+{Mirror}
+{Mirror (Reset Target Folders)}
+{Miscellaneous}
+{Modified}
+{Move}
+{Moved}
+{Moving...}
+{New Project}
+{No data found!}
+{No issues have been found.}
+{No lines were affected!}
+{No mouse pointer}
+{Number of affected lines: %s}
+{Number of deleted lines: %s}
+{Numbers:}
+{Occurrence}
+{Odd Numbered Lines}
+{Offset}
+{Options:}
+{Other}
+{Phone Number}
+{Play Sound Effects}
+{Please add folders!}
+{Preserve folder structure}
+{Remove Anchor Links}
+{Remove Query String Links}
+{Replace by Space}
+{Reset Registry...}
+{Response Timeout (ms):}
+{Save Project As...}
+{Scheduled Task}
+{Scheduled Task...}
+{Screen capture failed!}
+{Screen capture interrupted!}
+{Search}
+{Search Every Line with Google}
+{Semicolon}
+{SEO Audit}
+{Show aboutbox}
+{Show feedback window}
+{Show Links...}
+{Show Options}
+{Simple Mode}
+{Simulate Keypress:}
+{Source URL}
+{Space}
+{Start download}
+{Start:}
+{Status Code}
+{Stop download}
+{Stop:}
+{Strip HTML Markup}
+{Subdomain Name}
+{System Audio}
+{Tab}
+{Tab Indent}
+{Tab Options}
+{Tab Size:}
+{Target folder is not defined!}
+{The file is empty!}
+{The file is very large. Do you still want to try to open it?}
+{The text contains no lines!}
+{This action cannot be undone!}
+{Time Remaining:}
+{Title}
+{Titles}
+{Total URLs: %s}
+{Turn Off}
+{Turn On}
+{URL}
+{URL Length}
+{URL:}
+{User-Agent String:}
+{Verify that the file has not been corrupted and that the file extension matches the format of the file.}
+{View Source...}
+{What numbers will be added?}
+{Yahoo CSV Format}
+{You are here:}
+{You can't go further than:}
+{You want to go to:}

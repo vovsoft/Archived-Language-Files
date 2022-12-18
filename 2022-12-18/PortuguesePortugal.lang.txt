@@ -1,0 +1,1009 @@
+﻿{INFO:Translated By}Anonymous
+{A required file is missing:}Falta um arquivo necessário:
+{Ability to disable update notifications}Capacidade de desativar notificações de atualização
+{About}Sobre
+{About Us}Sobre Nós
+{About...}Sobre ...
+{Access is denied.}O acesso é negado.
+{Acknowledgements...}Créditos ...
+{Activation}Ativação
+{Activation Code:}Código de ativação:
+{Activation failed.}Ativação falhou.
+{ADD}ADD
+{Add}Adicionar
+{Add Drive}Adicionar unidade
+{Add File}Adicionar ficheiro
+{Add File(s)}Adicionar arquivos
+{Add File(s)...}Adicionar Arquivo (s) ...
+{Add Files...}Adicionar Arquivos ...
+{Add Folder}Adicionar pasta
+{Add Folder...}Adicionar Pasta ...
+{Add Folders...}Adicionar Pastas ...
+{Add Product Manually}Adicionar Produto Manualmente
+{Add Recursive Subfolders...}Adicionar Subpastas Recursivas ...
+{Add Subfolders...}Adicionar Subpastas ...
+{Add URL(s)...}Adicionar URL (s) ...
+{Add URLs...}Adicionar URLs ...
+{Add using Environment Variables}Adicionar usando Variáveis de Ambiente
+{Admin Password}Senha do Administrador
+{Alert Text:}Texto de Alerta:
+{All Customers}Todos Os Clientes
+{All Products}Todos os Produtos
+{Always on top}Sempre em cima
+{Always show when toggled on}Sempre mostrar quando acenar em
+{An error occurred while creating directory:}Ocorreu um erro ao criar o diretório:
+{An error occurred while unlocking:}Ocorreu um erro ao desbloquear:
+{And please backup your important files and folders before locking in case of hardware or software failure.}E faça backup de seus arquivos e pastas importantes antes de bloquear em caso de falha de hardware ou software.
+{Any File}Qualquer Arquivo
+{Are you sure?}Você tem certeza?
+{Ask Print}Pedir Imprimir
+{Audio file error!}Erro de arquivo de áudio!
+{Auto-Close Popup Window After Finishing}Janela Popup De Fechamento Automático Após O Acabamento
+{Auto-Closing...}Auto-Fechamento ...
+{Auto-Start at Startup}Auto-início na inicialização
+{Background Color:}Cor De Fundo:
+{Backup Registry...}Registro de Backup ...
+{Backup...}Backup ...
+{Barcode}Código de barras
+{BARCODE:}BARCODE:
+{Begin:}Início:
+{Big Icons}Grandes Ícones
+{Blog}Blog
+{BREAK TIME!}HORA DO INTERVALO!
+{Browse...}Navegar ...
+{Buy Now}Compre
+{Cancel}Cancelar
+{Cancel product selection}Cancelar seleção de produto
+{CANCELED by User Request}CANCELAMENTO por Solicitação de Usuário
+{Canceled!}Cancelado!
+{Cannot create file}Não é possível criar arquivo
+{Caps Lock: OFF}Caps Lock: OFF
+{Caps Lock: ON}Caps Lock: ON
+{Category:}Categoria:
+{Change File Location...}Alterar Local do Arquivo ...
+{Change Interface}Interface de Mud
+{Change Login Password...}Mudar senha...
+{Change Recovery E-mail}Alterar e-mail de recuperação
+{Change:}Mudança:
+{Classical Interface}Interface clássica
+{Click to download}Clique para fazer o download
+{Close}Fechar
+{Code:}Código:
+{Commercial use allowed}Uso comercial permitido
+{Company}Empresa
+{Completed!}Concluído!
+{Completed.}Concluído.
+{Computer Code:}Código do computador:
+{Computer Time:}Tempo do Computador:
+{Computer Timezone:}Timezone De Computador:
+{Confirm Password:}Confirmar Senha:
+{Confirm?}Confirmar?
+{Confirmation}Confirmação
+{Connection Error!}Erro de conexão!
+{Contact}Contato
+{Continue}Continuar
+{Contribute to Translation}Tradução Contribuir
+{Copied}Copiado
+{Copy}cópia de
+{Copy All}Copiar Tudo
+{Copy files to many directories}Copiar arquivos para muitos diretórios
+{COPY INTO TARGET FOLDERS}COPIAR EM PASTAS DE DESTINO
+{CREDIT:}CRÉDITO:
+{Credits}Créditos
+{CSV File}Arquivo CSV
+{Customer}Cliente
+{Customer with credit cannot be deleted!}Cliente com crédito não pode ser excluído!
+{CUSTOMER:}CLIENTE:
+{Customer:}Cliente:
+{CUSTOMERS}CLIENTES
+{Customers}Clientes
+{Date}Data
+{Daylight Saving:}Economia Daylight:
+{Del key:}Chave del:
+{DELETE}DELETE
+{DELETE ALL}EXCLUIR TODOS
+{DELETE CUSTOMER}EXCLUIR CLIENTE
+{Delete Customer}Excluir Cliente
+{Delete last entered product}Excluir último produto inserido
+{DELETE PRODUCT}PRODUTO DE EXCLUSÃO
+{Delete Record}Excluir Registro
+{Delete Selected}Excluir selecionado
+{Deselect All}Desmarque Todos
+{DETAILS}DETALHES
+{Disabled}Desativado
+{Discount}Desconto
+{Discounted Price}Preço Descontado
+{Discounted Total}Total descontado
+{Disk Write Interval (sec):}Intervalo De Gravação De Disco (sec):
+{Display Prices}Exibir Preços
+{Download}Baixar
+{Drive}Unidade
+{DRIVE MISMATCH}INCOMPATIBILIDADE DE UNIDADE
+{Drive:}Unidade:
+{E-mail}E-mail
+{E-mail is changed.}O e-mail é alterado.
+{E-mail not accepted!}E-mail não aceito!
+{Edit}Editar
+{Edit License}Editar licença
+{Edit License...}Editar Licença ...
+{Edit Password}Editar Senha
+{Elapsed Time:}Tempo decorrido:
+{Email Address}Endereço de e-mail
+{Enable}Ativar
+{Enabled}Ativado
+{End-User License Agreement}Fim de Contrato de Licença de Usuário
+{End:}Fim:
+{Enter License Key}Insira chave da licença
+{Error}Erro
+{ERROR}ERRO
+{Error No:}Erro no:
+{ESC key:}Chave ESC:
+{EULA}EULA
+{Exit}Saída
+{Exit Application?}Aplicativo de Saída?
+{Exit...}Saída ...
+{EXITING...}EXITANDO ...
+{Export}Exportação
+{Export to File...}Exportar para Arquivo ...
+{Failed}Falha
+{Failure}Falha
+{Feedback}Comentários
+{feedback}comentários
+{File}Arquivo
+{File already exists!}Arquivo já existe!
+{File does NOT exist:}Arquivo não existe:
+{File inaccessible!}Arquivo inacessível!
+{File List}Lista de Arquivos
+{File Location}Local do Arquivo
+{File Location:}Local do Arquivo:
+{File lock error!}Erro de bloqueio de arquivo!
+{File Mask}Máscara De Arquivo
+{File not found!}Arquivo não encontrado!
+{Filename:}Nome do Filename:
+{Files & Folders}Arquivos e pastas
+{Folder}Pasta
+{Folder does NOT exist:}Pasta não existe:
+{Folder Size:}Tamanho da Pasta:
+{Folder:}Pasta:
+{For 1}Para 1
+{For 10}Para 10
+{For 100}Para 100
+{For 20}Para 20
+{For 200}Para 200
+{For 5}Para 5
+{For 50}Para 50
+{Forgot Password?}Esqueceu a senha?
+{FREE}LIVRE
+{Free Edit}Edição Livre
+{Free to try}Livre para tentar
+{FREEWARE}FREEWARE
+{Freeware}Freeware
+{Freeware Utilities}Utilitários de Freeware
+{Full Screen}Tela Cheia
+{Get Server Time}Obter Tempo do Servidor
+{GRAND TOTAL:}GRANDE TOTAL:
+{Header}Cabeçalho
+{Headers}Cabeçalhos
+{Height:}Altura:
+{Help}Socorro
+{Hidden}Oculto
+{Hide Details}Ocultar Detalhes
+{Home}Home
+{Hotkey:}Hotkey:
+{How to uninstall...}Como desinstalar ...
+{I dislike it!}Eu não gosto disso!
+{I like it!}Eu gosto disso!
+{Idle Time:}Tempo de Ile:
+{If no keyboard or mouse events occur for "Idle Time", "Work Time" resets.}"Tempo de trabalho" se reconfigura se nenhum evento de teclado ou mouse ocorrer para "Idle Time".
+{If you like the software, please buy a license to make this software fully functional and remove this window.}Se você gosta do software, por favor, compre uma licença para tornar este software totalmente funcional e remover esta janela.
+{Ignore}Ignorar
+{Ignore Drive Mismatch While Unlocking}Ignorar incompatibilidade da unidade ao desbloquear
+{Ignore Failed Files While Unlocking}Ignorar arquivos com falha durante o desbloqueio
+{Import}Importação
+{IMPORTANT}IMPORTANTE
+{Include my e-mail:}Incluir meu e-mail:
+{Indicates status of keys}Indica status das chaves
+{Info}Informações
+{Information}Em formação
+{Insufficient stock!}Estoque insuficiente!
+{Invalid E-mail!}E-mail inválido!
+{Invalid Entry!}Entrada inválida!
+{Keyboard Shortcuts}Atalhos De Teclado
+{Language}Língua
+{Language:}Idioma:
+{Language...}Linguagem ...
+{License key is invalid!}A chave de licença é inválida!
+{License:}Licença:
+{License...}Licença...
+{Licensed}Licenciado
+{Licensed to:}Licenciado para:
+{Lifetime free updates}Atualizações livres vitalícia
+{List}Lista
+{Load}Carga
+{Load And Run Operation Files...}Carregar E Executar Arquivos De Operação ...
+{Load Operation File...}Carregar Operação Arquivo ...
+{Load source list from file...}Carregar lista de origem do arquivo ...
+{Load target list from file...}Carregar lista de destino a partir de arquivo ...
+{Load vCards from VCF file...}Carregar vCards do arquivo VCF ...
+{Load...}Carregar ...
+{Loading}Carregamento
+{Loading...}Carregando ...
+{Lock}Bloqueio
+{Lock and Unlock processes may take some time.}Os processos de bloqueio e desbloqueio podem levar algum tempo.
+{Lock Selected}Bloquear Selecionado
+{LOCKED}BLOQUEADO
+{Login (Full Access)}Login (Acesso Completo)
+{Logout}Logout
+{MAIN MENU}MENU PRINCIPAL
+{Minimal Mode}Modo mínimo
+{minutes}minutos
+{Mode}Modo
+{Move (Delete Source Files and Folders)}Mover (Excluir Arquivos de Origem e Pastas)
+{Move Info: Source files and folders were not deleted from disk because of copy error}Mover Info: Arquivos de origem e pastas não foram excluídos do disco por causa de erro de cópia
+{Next Rest:}Próximo Descanso:
+{No}Não
+{No Audio}Sem Áudio
+{No Item Selected!}Nenhum Item Selecionado!
+{No nag screen, no ads}Sem tela de nag, sem anúncios
+{No Sound}Sem Som
+{Not applicable!}Não aplicável!
+{Not Paid:}Não Pago:
+{Num Lock}Num Lock
+{Num Lock: OFF}Num Lock: OFF
+{Num Lock: ON}Num Lock: ON
+{Number of Files:}Número de Arquivos:
+{Offline Activation}Ativação offline
+{OK}Está bem
+{Online Help}Ajuda Online
+{Open File}Arquivo aberto
+{Open folder location...}Abrir localização da pasta ...
+{Open Folder Location...}Local Da Pasta Aberta ...
+{Operating Systems:}Sistemas de Operação:
+{Operation File}Arquivo de Operação
+{Operation STOPPED!}Operação PARADA!
+{Operations}Operações
+{Output:}Saída:
+{Overwrite Existing Files}Sobrescrever Arquivos Existentes
+{PAID}PAID
+{Paid}Pago
+{Paid:}Pago:
+{Password}Senha
+{Password is changed.}A senha é alterada.
+{Password is incorrect!}A senha está incorreta!
+{Password not accepted!}Senha não aceita!
+{Password Recovery E-mail:}E-mail de recuperação de senha:
+{Password:}Senha:
+{Passwords do not match!}As senhas não combinam!
+{Paste}Colar
+{Payments}Pagamentos
+{Play}Play
+{Play Sound Effect}Play Sound Effect
+{Please add source files!}Por favor, inclua arquivos de origem!
+{Please add target folders!}Por favor, inclua pastas de destino!
+{Please check your e-mail box.}Por favor, verifique sua caixa de e-mail.
+{Please check your internet connection!}Por favor, verifique sua conexão à internet!
+{Please enter barcode or product name!}Digite o código de barras ou o nome do produto!
+{Please enter discount ratio:}Por favor, insira proporção de desconto:
+{Please enter master password!}Por favor, digite a senha mestra!
+{Please enter password:}Digite a senha:
+{Please enter unit price:}Por favor, digite preço unitário:
+{Please enter your license key:}Por favor, digite sua chave de licença:
+{Please enter your license key!}Por favor, digite sua chave de licença!
+{Please keep it in a safe place. You need it to unlock your files and folders.}Por favor mantenha isto num local seguro. Você precisa desbloquear seus arquivos e pastas.
+{Please reinstall the software.}Por favor, reinstale o software.
+{Please reopen the software without administrator privileges.}Por favor, reabra o software sem privilégios de administrador.
+{Please try again later.}Por favor, tente novamente mais tarde.
+{Please try:}Por favor, tente:
+{Please type NEW password:}Digite NOVA senha:
+{Please type your CURRENT password:}Digite sua senha ATUAL:
+{Please type your NEW e-mail:}Digite seu novo e-mail:
+{Please type your NEW password:}Digite sua nova senha:
+{Please Wait For Backup Process!}Aguarde O Processo De Backup!
+{Price}Preço
+{PRICE:}PRICE:
+{Print Template}Modelo de impressão
+{Print?}Imprimir?
+{Printer not found!}Impressora não encontrada!
+{Privacy Policy}Política de privacidade
+{Process}Processo
+{Processing...}Processamento ...
+{Product}Produto
+{PRODUCT NAME:}NOME DO PRODUTO:
+{Product successfully activated.}A ativação é bem sucedida.
+{Product:}Produto:
+{PRODUCTS}PRODUTO
+{Products}Produtos
+{Purchase}Comprar
+{Quantity}Quantidade
+{Read Reviews}Reviews De Leitura
+{Recognize Environment Variables}Reconhecer Variáveis de Ambiente
+{Recognize Network Drives}Reconhecer Unidades de Rede
+{RECORD}REGISTRO
+{RECORD DATE:}DATA DE REGISTRO:
+{Recover Lost Files}Recuperar Arquivos Perdidos
+{Recover Password}Recuperar Senha
+{Refresh Device List}Atualizar Lista de Dispositivos
+{Refund Policy}Política de restituição
+{Region}Região
+{Related Software}Software relacionado
+{Release Date:}Data de Liberação:
+{Remember Settings}Lembrar Configurações
+{Remove}Remover
+{Remove All}Remover Todos
+{Remove Selected}Remover selecionados
+{Required files are missing}Os arquivos necessários estão ausentes
+{Reset}Reajuste
+{Reset to Defaults}Reajuste aos Defaulês
+{Reset Work Time}Tempo de Trabalho Redefinir
+{Restart Application?}Reinicie o aplicativo?
+{Restore from Backup...}Restaurar a partir do Backup ...
+{SALES}VENDAS
+{Save}Salvar
+{Save As...}Salvar Como ...
+{Save Operation File As...}Salvar Arquivo De Operação Como ...
+{Save Operation File...}Salvar Arquivo de Operação ...
+{Save source list to file...}Salvar lista de origem para arquivo ...
+{Save target list to file...}Salvar lista de destino para arquivo ...
+{ScreenSnap:}ScreenSnap:
+{Scroll Lock}Scroll Lock
+{Scroll Lock: OFF}Scroll Lock: OFF
+{Scroll Lock: ON}Scroll Lock: ON
+{Search:}Pesquisa:
+{Search...}Pesquisar ...
+{seconds}segundos
+{Secure your files and folders}Garanta seus arquivos e pastas
+{Select}Selecionar
+{Select All}Selecionar Todos
+{Select folder:}Selecione a pasta:
+{Select Product}Selecionar Produto
+{Select Region and Close}Selecionar Região e Fechar
+{SELL BY CASH}VENDA POR DINHEIRO
+{Sell by Cash}Venda por Cash
+{SELL BY CREDIT}VENDA POR CRÉDITO
+{Sell by Credit}Venda por Crédito
+{Send}Enviar
+{Send e-mail?}Enviar email?
+{Send Feedback}Enviar comentários
+{Send Feedback...}Enviar Feedback ...
+{Server Time:}Tempo do Servidor:
+{Server:}Servidor:
+{Settings}Configurações
+{Settings...}Configurações ...
+{Show}exposição
+{Show Details}Detalhes do Show
+{Show Idle Time:}Mostrar Tempo de Idle:
+{Show Letters and Numbers without Special Keys}Mostrar Letras e Números sem Chaves Especiais
+{Show when status changes}Mostrar quando o status muda
+{Show Window}Mostrar Janela
+{Sign up}Inscrever-se
+{Small Buttons}Botões Pequenos
+{Software}Software
+{Something went wrong. Your feedback could not be delivered.}Algo deu errado. Seu feedback não pôde ser entregue.
+{Sort}Classificação
+{Sound Effect}Efeito Sonoro
+{Sound:}Som:
+{Source (Files, Folders, URLs)}Fonte (Arquivos, Pastas, URLs)
+{Space key:}Chave de espaço:
+{Start}InÃ­cio
+{Status}Status
+{Stay on Top}Fique no Top
+{Stock}Estoque
+{STOCK BALANCE:}SALDO DE ESTOQUE:
+{Stock Inventory Count Sheet}Folha Contagem de Estoque de Ações
+{Stock Inventory Count Sheet...}Folha De Contagem De Estoques de Ações ...
+{STOP}STOP
+{Success}Sucesso
+{SUCCESS}SUCESSO
+{Support}Suporte
+{Sync Computer Time}Tempo de Computador de Syn
+{System Error.}Erro do Sistema.
+{Target Folders}Pastas De Destino
+{Test Alert}Alerta De Teste
+{Testimonials}Testemunhos
+{Text Color:}Cor Do Texto:
+{Thank you}Obrigado
+{Thank you!}Obrigado!
+{This software works best without administrator privileges.}Este software funciona melhor sem privilégios de administrador.
+{Total}Total
+{TOTAL:}TOTAL:
+{Total:}Total:
+{Translated by:}Traduzido por:
+{Tray Notifications:}Notificações De Bandeja:
+{Trial}Julgamento
+{TRIAL VERSION}VERSÃO DE TESTE
+{Try to run as Administrator.}Tente concorrer como Administrador.
+{Type}Tipo
+{UNLICENSED}SEM LICENÇA
+{Unlock}Desbloquear
+{UNLOCK ERROR}DESBLOQUEAR ERRO
+{Unlock Selected}Desbloquear selecionado
+{Unlocked}Desbloqueado
+{UPDATE}ATUALIZAÇÃO
+{UPDATE AVAILABLE}ATUALIZAÇÃO DISPONÍVEL
+{Update Notifications}Atualizar notificações
+{User Interface Language:}Idioma da interface do usuário:
+{Version History}Histórico da Versão
+{Video file error!}Erro de arquivo de vídeo!
+{Vovsoft Newsletter}Newsletter de vovsoft
+{Warning}Atenção
+{WARNING}AVISO
+{We would really appreciate your feedback.}Nós realmente apreciamos o seu feedback.
+{Welcome to %s}Bem-vindo ao %s
+{Welcome to Our Shop}Bem-vindo ao Nosso Shop
+{What did you like or dislike?}O que você gostou ou não gostou?
+{Which Customer?}Qual Cliente?
+{Width:}Largura:
+{Work Time:}Tempo de Trabalho:
+{Wrong Admin Password!}Senha Admin errada!
+{Wrong password!}Senha incorreta!
+{X:}X:
+{Y:}Y:
+{Yes}Sim
+{You are not logged as admin!}Você não está logado como admin!
+{You cannot use this feature in unlicensed edition.}Não é possível utilizar este recurso em edição não licenciada.
+{Your feedback is received.}Seu feedback é recebido.
+{Your master password is successfully set.}Sua senha mestra está definida com sucesso.
+{12 hour}
+{24 hour}
+{Aborted}
+{About %s}
+{Active}
+{Add context menu item}
+{Add Dictionary...}
+{Add Files in Folders...}
+{Add files to the list}
+{Add M3U8}
+{Add Thousand Separator to Numbers}
+{Add Word To Dictionary}
+{Advanced Mode}
+{All files must be unlocked before changing private key!}
+{All files must be unlocked before enabling or disabling content encryption!}
+{Alphabet}
+{Alphabetical}
+{Also delete entered text}
+{Always on Top}
+{Analyze URL...}
+{Analyze...}
+{Anchor Text}
+{Anchors}
+{Annually}
+{Annually:}
+{Any File (*.*)}
+{Arrange Stickers}
+{ASCII Art...}
+{Audio File}
+{Audit Messages...}
+{Auto Copy Highlighted Text to Clipboard}
+{Auto Paste When Clipboard Changes}
+{Auto Refresh File}
+{Auto Run at Startup}
+{Auto-Close Main Window}
+{Auto-Refresh Drive List}
+{Automatic}
+{Automatically Restart Download}
+{Automatically restarted!}
+{Automatically Synchronize}
+{Backup Stickers}
+{Beginning of Each Line...}
+{Calculate}
+{Calculating all possibilities...}
+{Calculation Results:}
+{Capitalize (First Letters Only)}
+{Caps Lock}
+{Cascade}
+{Categories}
+{Category}
+{Change Auto-Close Time}
+{Change Auto-Close Time...}
+{Change Background Color}
+{Change Background Color...}
+{Change Destination Folder}
+{Change Font...}
+{Change Keyboard Key}
+{Change Keyboard Key...}
+{Change Line Spacing}
+{Change Line Spacing...}
+{Change Menu Font...}
+{Change Private Key...}
+{Change Text Font}
+{Change Theme}
+{Change Theme...}
+{Check Multiple Websites}
+{Check Multiple Websites...}
+{Check Status Codes}
+{Checking Status Codes...}
+{Choose File...}
+{Classic}
+{Clear}
+{Clear File History}
+{Click "New Sticker"}
+{Clip Lines...}
+{Clipboard}
+{Code Folding}
+{Combine Lines...}
+{Comma}
+{Comma-Separated Values File (CSV)...}
+{Compare Two Texts...}
+{Completed}
+{Computer will press keys}
+{Confirm Before Deletion}
+{Connection Timeout (ms):}
+{Content Encryption (SLOW)}
+{Content encryption is enabled.}
+{Convert}
+{CONVERT}
+{Convert Non-Breaking Spaces to Regular Spaces}
+{Convert Non-English Chars to English Chars}
+{Convert Numbers to Text}
+{Copy Anchor Text}
+{Copy URL}
+{Copying...}
+{Create Sample CSV for Advanced Mode...}
+{Create Sample CSV for Simple Mode...}
+{CSV File (*.csv)}
+{CSV Separator}
+{CSV Separator:}
+{Currency Symbol}
+{Cut}
+{Daily}
+{Daily:}
+{Dark}
+{Database Location}
+{Date and Time}
+{Day}
+{Decode...}
+{Decrease Font Size}
+{Default}
+{Default Alphabet}
+{Default CSV Format}
+{Delete}
+{Delete After}
+{Delete All}
+{Delete all characters after:}
+{Delete all characters before:}
+{Delete All Spaces}
+{Delete Alphabetic [a-z] [A-Z]}
+{Delete Alphanumeric [a-z] [A-Z] [0-9]}
+{Delete Before}
+{Delete Beginning or Ending Strings...}
+{Delete Chars}
+{Delete Extra Spaces}
+{Delete Non-Alphabetic}
+{Delete Non-Alphanumeric}
+{Delete Numbers [0-9]}
+{Delete Reminder}
+{Delete Unnecessary Lines}
+{Delete?}
+{Deleted}
+{Description}
+{Descriptions}
+{Destination:}
+{Diagnose}
+{Diagonal}
+{Directory is not writable!}
+{Directory not found!}
+{Directory:}
+{Dismiss}
+{Display Duration:}
+{Display Load Time}
+{Display Special Chars}
+{Display Unfinished Results}
+{Do you really want to delete ALL stickers?}
+{Do you really want to delete the reminder?}
+{Do you really want to delete the sticker?}
+{Do you want to delete all stickers, reminders, settings and restart application?}
+{Do you want to replace the sticker with the image?}
+{Do you want to save the current file before exit?}
+{Do you want to save the current file?}
+{Do you want to save this file before exit?}
+{Do you want to save this file?}
+{Domain Name}
+{Don't show this again}
+{Downloading...}
+{Drag Drop Filenames}
+{Draw mouse pointer}
+{Duplicate Lines}
+{E-mail not found!}
+{E-mail Processor}
+{Edit M3U8}
+{Edit...}
+{Empty}
+{Empty Lines (can include spaces and tabs)}
+{Encode...}
+{Encoding}
+{Encoding:}
+{Encryption}
+{End of Each Line...}
+{English}
+{Entire Document}
+{Even Numbered Lines}
+{Excel 2007 File (*.xlsx)}
+{Excel CSV Format}
+{Excel File (*.xls)}
+{Excel File (XLS)...}
+{Explore Dictionaries...}
+{Export Anchor List...}
+{Export Backlinks...}
+{Export Descriptions...}
+{Export H1 Tags...}
+{Export H2 Tags...}
+{Export H3 Tags...}
+{Export H4 Tags...}
+{Export Internal URLs...}
+{Export Lines to Files}
+{Export Lines to Files...}
+{Export Links...}
+{Export Report to PDF...}
+{Export Sitemap...}
+{Export Titles...}
+{Export To File}
+{Export to HTML...}
+{Export to PDF...}
+{Export to VCF...}
+{Exported Entries:}
+{External}
+{Extra Line Spacing:}
+{Extract Image...}
+{Extract Text...}
+{Extras}
+{Fade-out Animation}
+{File Mask:}
+{File or Folder:}
+{Filename: %s}
+{Filter Lines}
+{Find}
+{Find Erroneous E-mails}
+{Find Lines}
+{Find Lines...}
+{Find Next}
+{Find Next Misspelling}
+{Fix Broken UTF-8 Encoding}
+{Fixed-Pitch Fonts Only}
+{Folders}
+{Follow}
+{Follow Redirects}
+{Format:}
+{Generate}
+{Generate Barcode Image...}
+{Generate Domain Name List}
+{Generate E-mail List}
+{Generate Hostname List}
+{Generate URL List}
+{Generate Word List}
+{Go}
+{Go to URL}
+{Go to...}
+{Google CSV Format}
+{H1 Tag}
+{H1 Tags}
+{H2 Tag}
+{H2 Tags}
+{H3 Tag}
+{H3 Tags}
+{H4 Tag}
+{H4 Tags}
+{Hardware encoding}
+{Height}
+{Hide}
+{Hide All Stickers}
+{Highlight Active Line}
+{Highlight Even Lines}
+{Highlight mouse pointer}
+{Highlight Odd Lines}
+{HINT}
+{Hourly}
+{Hourly:}
+{How to create new sticky note:}
+{HTML File (*.html)}
+{ID}
+{ID Transformer...}
+{Ignore Extensions:}
+{Ignore URLs:}
+{Import from File...}
+{Include Subdirectories?}
+{Increase Font Size}
+{Increment:}
+{Initializing...}
+{Insert}
+{Insert Empty Lines}
+{Insert Numbers}
+{Insert Same Text Multiple Times}
+{Insert Same Text Multiple Times...}
+{Internal}
+{Internal URL Limit:}
+{Internal URL:}
+{Internal URLs}
+{Interval (sec):}
+{Invert Selection}
+{KeyPress Simulator}
+{LED Color (OFF):}
+{LED Color (ON):}
+{Left}
+{Left click to show Stickers on top.}
+{Length}
+{Light}
+{Line}
+{Line Length}
+{Line Numbers}
+{Line Order}
+{Link}
+{Links}
+{LIST ALL}
+{List of Containers:}
+{List of Loads:}
+{List...}
+{Load Limit}
+{Load Project...}
+{Load Time (sec)}
+{Loading: %s}
+{Locking}
+{Logged in as administrator.}
+{lowercase}
+{Lowercase}
+{Mark as Complete}
+{Maximum:}
+{Memory}
+{Menu Hotkeys}
+{Merge all files with root of target folder}
+{MERGE MULTIPLE FOLDERS INTO ONE}
+{Merge Type:}
+{Method:}
+{milliseconds}
+{Minimize when recording starts}
+{Minimum:}
+{Minute}
+{Mirror}
+{Mirror (Reset Target Folders)}
+{Miscellaneous}
+{Modified}
+{Monitor}
+{Monitor External File Modification}
+{Month}
+{Monthly}
+{Monthly:}
+{Move}
+{Move Down}
+{Move Up}
+{Moved}
+{Moving...}
+{Multiple Files...}
+{Name}
+{Name of Container}
+{Name of Load}
+{Net Encoding}
+{New}
+{New Project}
+{New Reminder}
+{New Reminder...}
+{New Sticker}
+{New Window}
+{Next Receipt Number:}
+{No data found!}
+{No erroneous e-mail found.}
+{No issues have been found.}
+{No item selected!}
+{No lines were affected!}
+{No mouse pointer}
+{No replacements made.}
+{No sticky notes left on the desktop!}
+{No text selected!}
+{Non-English}
+{None}
+{Note}
+{Note Window Margin:}
+{Notes Manager}
+{Notes Manager...}
+{Number of affected lines: %s}
+{Number of deleted lines: %s}
+{Number of Times:}
+{Numbers}
+{Numbers:}
+{Occurrence}
+{Odd Numbered Lines}
+{Offset}
+{Only %s entries exported using unlicensed version.}
+{Only Once}
+{Only Once:}
+{Open...}
+{Options}
+{Options:}
+{Options...}
+{Ordinal Values of Characters}
+{Original Size}
+{Other}
+{Outlook CSV Format}
+{Output}
+{Overwrite Read-Only Files}
+{PDF File (*.pdf)}
+{Permanently Delete}
+{Permanently Delete All}
+{Phone Number}
+{Play Sound Effects}
+{Please add containers!}
+{Please add folders!}
+{Please add loads!}
+{Please enter new currency symbol:}
+{Please obtain a license key to activate the software.}
+{Please try again later!}
+{Please type your NEW private key:}
+{Preserve folder structure}
+{Preview Sticker}
+{Print}
+{Print Setup}
+{Print...}
+{Private Key}
+{Private key changed.}
+{Process completed!}
+{Product List}
+{Product List...}
+{Properties}
+{Random Number Generator}
+{Random Number Generator...}
+{Random Text Generator}
+{Random Text Generator...}
+{Randomize Line Contents}
+{Randomize Line Order}
+{Ready}
+{Receipts}
+{Recording...}
+{Redo}
+{Refresh Hardware Encodings}
+{Regular Expression}
+{Regular Expression...}
+{Reminder}
+{Reminders}
+{Remove Anchor Links}
+{Remove Query String Links}
+{Reopen}
+{Replace}
+{Replace by Space}
+{Reports}
+{Reset Registry...}
+{Response Timeout (ms):}
+{Restore}
+{Restore when recording is complete}
+{Reverse}
+{Reverse Line Contents}
+{Reverse Line Sequence}
+{Right click to add new Stickers or Reminders.}
+{Right-click tray icon}
+{Run With}
+{Sample Text}
+{Sample Values}
+{Save Project As...}
+{Save Results}
+{Scheduled Task}
+{Scheduled Task...}
+{Screen capture failed!}
+{Screen capture interrupted!}
+{ScreenSnap}
+{Search}
+{Search Every Line with Google}
+{Select Language}
+{Select your favourite theme}
+{Selected}
+{Semicolon}
+{Send to Recycle Bin}
+{SEO Audit}
+{Separate by Char}
+{Separate by String}
+{Separate Long Lines (Break Words)}
+{Separate Long Lines (Keep Words)}
+{Set as Default Encoding}
+{Show aboutbox}
+{Show All Stickers}
+{Show Date Time}
+{Show feedback window}
+{Show Links...}
+{Show Notifications}
+{Show Options}
+{Simple Mode}
+{Simulate Keypress:}
+{Software encoding}
+{Sort Lines}
+{Source URL}
+{Space}
+{Spell Check}
+{Spell Checker}
+{Spell Checker:}
+{Split Lines}
+{Start download}
+{Start Working}
+{Start:}
+{Status Bar}
+{Status Code}
+{Stickers}
+{Stop download}
+{Stop:}
+{Strip HTML Markup}
+{Subdomain Name}
+{Suggested Corrections}
+{Syntax}
+{System Audio}
+{System Tray Menu}
+{Tab}
+{Tab Indent}
+{Tab Options}
+{Tab Options...}
+{Tab Size:}
+{Target Folder}
+{Target folder is not defined!}
+{Target Folder:}
+{Text}
+{Text Engine}
+{Text File}
+{Text File (*.txt)}
+{Text File (TXT)...}
+{Text not found!}
+{Text:}
+{The file could not be created!}
+{The file is empty!}
+{The file is very large. Do you still want to try to open it?}
+{The server returned an invalid response.}
+{The specified region is not valid!}
+{The text contains no lines!}
+{Theme}
+{This action cannot be undone!}
+{This is an example note.}
+{This is required for importing in Gmail and Outlook.}
+{This is your first sticker!}
+{Time}
+{Time Remaining:}
+{Timestamp}
+{Title}
+{Titles}
+{To Existing Lines}
+{To New Lines...}
+{Tool Bar}
+{Tools}
+{Top}
+{Top Selling Products}
+{Top Selling Products...}
+{Total URLs: %s}
+{Transparency:}
+{TRIAL LIMIT REACHED!}
+{Trim All}
+{Trim Both}
+{Trim Left}
+{Trim Lines}
+{Trim Right}
+{Truly Empty Lines}
+{Turn Off}
+{Turn On}
+{Undo}
+{Unicode Detector}
+{Unit}
+{Unlocking}
+{Unnamed}
+{UPPERCASE}
+{Uppercase and Lowercase}
+{URL}
+{URL Highlighter (No Spell Check)}
+{URL Length}
+{URL not found!}
+{URL Processor}
+{URL:}
+{USE AT YOUR OWN RISK!}
+{User will press keys}
+{User-Agent String:}
+{using Characters}
+{using File}
+{using Text}
+{using Text Length}
+{VCF Files (*.vcf)}
+{Verify that the file has not been corrupted and that the file extension matches the format of the file.}
+{View}
+{View Source...}
+{Volume}
+{Volume Limit}
+{Volume of Container}
+{Volume of Load}
+{Weekdays}
+{What numbers will be added?}
+{Width}
+{Word Wrap}
+{Yahoo CSV Format}
+{You are here:}
+{You can preview the font and color settings here.}
+{You can't go further than:}
+{You want to go to:}
